@@ -1,0 +1,44 @@
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX EN-IN\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin-top:0cm;\RD-PUNC mso-para-margin-right:0cm;\N-NN mso-para-margin-bottom:8.0pt;\N-NN mso-para-margin-left:0cm;\N-NN line-height:107%;\N-NN mso-pagination:widow-orphan;\N-NN font-size:11.0pt;\N-NN font-family:"Calibri",sans-serif;\N-NN mso-ascii-font-family:Calibri;\N-NN mso-ascii-theme-font:minor-latin;\N-NN mso-hansi-font-family:Calibri;\N-NN mso-hansi-theme-font:minor-latin;\N-NN mso-fareast-language:EN-US;}\V-VM दृश्य-4(मेयर,\RD-PUNC बोबचिन्स्की,\V-VM दोबचिन्स्की\N-NN आउ\CC-CCD पुलिस\N-NN के\PSP सिपाही)मेयर\N-NN -\RD-PUNC की,\PSP द्रोश्की\N-NN तैयार\N-NN हइ\V-VM ?\RD-PUNC 
+सिपाही\N-NN -\RD-PUNC जी,\V-VM तैयार\N-NN हइ\V-VM ।\RD-PUNC 
+मेयर\N-NN -\RD-PUNC चल,\V-VM रोड\N-NN पर\PSP .\V-VM 
+चाहे\N-NN नयँ,\PSP ठहर\V-VM !\V-VAUX 
+चल,\V-VM लेके\V-VM आव\V-VAUX .\V-VM 
+लेकिन\CC-CCD आउ\CC-CCD दोसर\QT-QTO लोग\N-NN काहाँ\PR-PRQ हइ\V-VM ?\RD-PUNC 
+की\PR-PRQ वास्तव\N-NN में\PSP तूँ\PR-PRP अकेल्ले\N-NN हकँऽ\V-VM ?\V-VAUX 
+हम\PR-PRP तो\PR-PRL औडर\N-NN देलियो\V-VM हल,\V-VAUX कि\CC-CCS प्रोख़ोरोव\N-NN के\PSP हियाँ\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+प्रोख़ोरोव\N-NN काहाँ\PSP हइ\V-VM ?\RD-PUNC 
+सिपाही\N-NN -\RD-PUNC प्रोख़ोरोव\N-NN थाना\N-NN में\PSP हइ,\V-VM लेकिन\CC-CCD ओकरा\PR-PRP अभी\RB कोय\PR-PRI काम\N-NN में\PSP नयँ\N-NN लगावल\V-VM जा\V-VAUX सकऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+मेयर\N-NN -\RD-PUNC अइसन\RP-RPD काहे\CC-CCS ?\CC-CCS 
+सिपाही\N-NN -\RD-PUNC ऊ\PR-PRP अइसे,\RB कि\CC-CCS ओकरा\PR-PRP सुबहे\N-NN नीसा\N-NN में\PSP मरल\N-NN नियन\RP-RPD लावल\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+ओकरा\PR-PRP पर\PSP दू\QT-QTC बालटी\N-NN पानी\N-NN उझलल\V-VM जा\V-VAUX चुकले\V-VAUX ह,\V-VAUX लेकिन\CC-CCD अभी\N-NN तक\RP-RPD ओकर\PR-PRP नीसा\N-NN नयँ\PSP उतरले\V-VM ह\V-VAUX ।\RD-PUNC 
+मेयर\N-NN -\RD-PUNC (अपन\PR-PRP सिर\N-NN दबोचते)\V-VM आह,\V-VAUX हे\V-VAUX भगमान,\RD-PUNC हे\V-VAUX भगमान\N-NN !\PSP 
+चल,\JJ तेजी\RB से\PSP रोड\N-NN पर,\PSP चाहे\N-NN नयँ\N-NN -\RD-PUNC दौड़के\N-NN पहिले\N-NN कमरा\N-NN में\PSP जो,\V-VM सुन\V-VM !\V-VAUX 
+आउ\CC-CCD हुआँ\N-NN से\PSP तलवार\N-NN आउ\CC-CCD नयका\N-NN टोप\N-NN लेके\V-VM आव\V-VAUX ।\RD-PUNC 
+अच्छऽ,\RP-RPD प्योत्र\N-NN इवानोविच,\PSP चल्लल\V-VM जाय\V-VAUX !\RD-PUNC 
+बोबचिन्स्की\N-NN -\RD-PUNC हमहूँ,\PR-PRP हमहूँ\PR-PRP .\V-VM 
+हमरो\PR-PRP आवे\V-VM के\PSP अनुमति\N-NN देथिन,\V-VM अन्तोन\N-NN अन्तोनोविच\N-NN !\V-VM 
+मेयर\N-NN -\RD-PUNC नयँ,\N-NN नयँ,\V-VM प्योत्र\N-NN इवानोविच,\RD-PUNC असंभव,\PR-PRP असंभव\N-NN !\V-VM 
+असुविधाजनक\N-NN हइ,\V-VM आउ\CC-CCD एकरा\DM-DMD अलावे\V-VM द्रोश्की\N-NN में\PSP अँटवो\N-NN नयँ\N-NN करते\V-VM जइबइ\V-VAUX ।\RD-PUNC 
+बोबचिन्स्की\N-NN -\RD-PUNC कोय\PR-PRI बात\N-NN नयँ,\RB कोय\PR-PRI बात\N-NN नयँ,\PSP हम\PR-PRP अइसीं\N-NN -\RD-PUNC पैदले,\N-NN पैदले\N-NN द्रोश्की\N-NN के\PSP पीछू-पीछू\N-NN दौड़ल\V-VM अइबइ\V-VAUX ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL खाली\QT-QTF दरवजवा\N-NN के\PSP फाँक\V-VM (chink)\V-VAUX से\PSP जरी\QT-QTF सुन\V-VM देखबइ,\V-VAUX कि\CC-CCS ओकर\PR-PRP व्यवहार\N-NN कइसन\PR-PRQ हइ\V-VM .\V-VM 
+मेयर\N-NN -\RD-PUNC (तलवार\N-NN लेते,\V-VM सिपाही\N-NN के)\PSP अभिए\RB दौड़के\V-VM जो\V-VAUX आउ\CC-CCD देस्यात्स्की\N-NN [8]\N-NN लोग\N-NN के\PSP एकत्र\N-NN करके,\V-VM ओकन्हीं\V-VAUX में\PSP से\PSP हरेक\V-VM के\PSP एक-एक\N-NN लेवे\V-VM देहीं\V-VAUX .\V-VM 
+ए,\QT-QTC ई\DM-DMI तलवार\N-NN में\PSP केतना\QT-QTF खरोंच\V-VM पड़ल\V-VAUX हइ\V-VM !\RD-PUNC 
+अभिशप्त\N-NN घटिया\N-NN व्यापारी\N-NN अब्दुलिन\N-NN -\RD-PUNC देखऽ\V-VM हइ,\V-VAUX कि\CC-CCS मेयर\N-NN के\PSP तलवार\N-NN पुराना\N-NN हइ,\V-VM तइयो\CC-CCS नयका\N-NN नयँ\N-NN भेजलकइ\V-VM ।\RD-PUNC 
+ओह,\CC-CCD धूर्त\N-NN लोग\N-NN !\V-VM 
+आउ\CC-CCD हमरा\PR-PRP लगऽ\V-VM हइ,\CC-CCS धोखेबाज\N-NN लोग\N-NN हमरा\PR-PRP विरुद्ध\N-NN चोरी-छिपे\N-NN अपन-अपन\PR-PRP जेभी\N-NN में\PSP याचिका\V-VM (शिकायत)\V-VAUX तैयार\N-NN रखले\V-VM हइ\V-VAUX ।\RD-PUNC 
+हरेक\V-VM कोय\PR-PRI अपन\PR-PRP जिम्मे\N-NN एक-एक\N-NN रोड\N-NN लेइ\V-VM .\V-VAUX 
+धत्तेरी\N-NN के,\PSP रोड\N-NN नयँ,\PSP एक-एक\N-NN झाड़ू\N-NN !\V-VM 
+आउ\CC-CCD ऊ\PR-PRP पूरा\N-NN रोड\N-NN साफ\N-NN करइ,\V-VM जे\PR-PRL सराय\N-NN तक\RP-RPD जा\V-VM हइ,\V-VAUX आउ\CC-CCD पूरा\N-NN साफ-सुथरा\N-NN होवइ\V-VM .\V-VM 
+सुनलहीं\N-NN !\V-VM 
+आउ\CC-CCD देख\V-VM -\RD-PUNC तूँ\PR-PRP !\PSP 
+तूँ\PR-PRP !\PSP 
+हम\PR-PRP तोरा\PR-PRP जानऽ\V-VM हिअउ\V-VAUX -\RD-PUNC तूँ\PR-PRP हुआँ\N-NN जे\PR-PRL लोग\N-NN के\PSP बात\N-NN में\PSP फँसाके\V-VM चानी\N-NN के\PSP चम्मच\N-NN अपन\PR-PRP जुत्ता\N-NN में\PSP सरका\N-NN लेहीं\V-VM -\RD-PUNC देख,\V-VM हमर\PR-PRP कान\N-NN तेज\JJ हउ\V-VM !\RD-PUNC 
+तूँ\PR-PRP व्यापारी\N-NN चेर्न्यायेव\N-NN के\PSP साथ\PSP की\PSP कइलहीं\N-NN -\RD-PUNC ऐं\N-NN ?\V-VM 
+ऊ\PR-PRP तोरा\PR-PRP वरदी\N-NN लगी\V-VM दू\QT-QTC अर्शीन\N-NN (1\N-NN अर्शीन\N-NN =\N-NN 28\PSP इंच)\N-NN कपड़ा\N-NN देलकउ,\V-VM आउ\CC-CCD तूँ\PR-PRP पूरा\N-NN थान\N-NN पार\N-NN कर\V-VM लेलहीं\V-VAUX ।\RD-PUNC 
+देख\V-VM !\CC-CCS 
+अपन\PR-PRP रैंक\N-NN से\PSP जादे\V-VM नयँ\N-NN लीहँऽ\V-VM !\V-VAUX 
+जो,\RB भाग\V-VM !\V-VAUX 
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX EN-IN\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin-top:0cm;\RD-PUNC mso-para-margin-right:0cm;\N-NN mso-para-margin-bottom:8.0pt;\N-NN mso-para-margin-left:0cm;\N-NN line-height:107%;\N-NN mso-pagination:widow-orphan;\N-NN font-size:11.0pt;\N-NN font-family:"Calibri",sans-serif;\N-NN mso-ascii-font-family:Calibri;\N-NN mso-ascii-theme-font:minor-latin;\N-NN mso-hansi-font-family:Calibri;\N-NN mso-hansi-theme-font:minor-latin;\N-NN mso-fareast-language:EN-US;}\N-NN सूची\N-NN पिछला\N-NN अगला\N-NN Normal\PSP 0\N-NN false\V-VM false\V-VAUX false\V-VAUX EN-IN\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin-top:0cm;\RD-PUNC mso-para-margin-right:0cm;\N-NN mso-para-margin-bottom:8.0pt;\N-NN mso-para-margin-left:0cm;\N-NN line-height:107%;\N-NN mso-pagination:widow-orphan;\N-NN font-size:11.0pt;\N-NN font-family:"Calibri",sans-serif;\N-NN mso-ascii-font-family:Calibri;\N-NN mso-ascii-theme-font:minor-latin;\N-NN mso-hansi-font-family:Calibri;\N-NN mso-hansi-theme-font:minor-latin;\V-VM mso-fareast-language:EN-US;}\V-VAUX ।\RD-PUNC 

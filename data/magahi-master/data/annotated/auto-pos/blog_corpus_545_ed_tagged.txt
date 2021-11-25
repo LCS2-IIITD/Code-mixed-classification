@@ -1,0 +1,16 @@
+[\N-NN कहताहर\N-NN -\RD-PUNC द्वारिका\N-NNP प्रसाद\N-NNP सिंह,\N-NNP ग्राम\N-NN -\RD-PUNC जईबिगहा,\N-NNP पो॰\N-NN -\RD-PUNC मखदुमपुर,\N-NN जिला\N-NN -\RD-PUNC जहानाबाद]एगो\QT-QTC गाँव\N-NN में\PSP साँचू\N-NN आउ\CC-CCD पाँचू\QT-QTC नाम\N-NN के\PSP दूगो\QT-QTC भाई\N-NN हलन\V-VM ।\RD-PUNC 
+साँचू\N-NN बड़\N-NN आउ\CC-CCD पाँचू\N-NN छोट\V-VM हल\V-VAUX ।\RD-PUNC 
+साँचू\N-NN लइकाइये\N-NN से\PSP पढ़े\N-NN में\PSP मेहनती\N-NN आउ\CC-CCD काम\N-NN में\PSP ध्यान\N-NN दे\V-VM हल\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD पाँचू\N-NN छोटही\JJ से\PSP खेलाड़ी\V-VM आउ\CC-CCD पढ़े\N-NN में\PSP ध्यान\N-NN न\RP-NEG दे\V-VM हल,\V-VAUX जेकरा\PR-PRL से\PSP ऊ\PR-PRP बेकूफ\N-NN रह\V-VM गेल\V-VAUX बाकि\CC-CCD खेती\N-NN के\PSP काम\N-NN में\PSP खूब\QT-QTF मन\N-NN लगावऽ\N-NN हल\V-VM ।\RD-PUNC 
+सेयान\N-NN होयला\N-NN पर\PSP पाँचू\N-NN खेती\N-NN के\PSP काम\N-NN करे\V-VM लगल\V-VAUX आउ\CC-CCD साँचू\N-NN बाहर\N-NN के\PSP अकिलगर\N-NN काम\N-NN करे\V-VM लगल\V-VAUX ।\RD-PUNC 
+साँचू\N-NN बाहर\N-NN काम\N-NN से\PSP जाय\V-VM तो\PR-PRL धोती,\V-VM कुर्ता,\PSP टोपी\N-NN पेन्ह\V-VM ले\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP सबेरे\N-NN भोजन\N-NN कर\V-VM ले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+पाँू\N-NN खेत\N-NN के\PSP काम\N-NN में\PSP लगल\V-VM रहे\V-VAUX तो\PR-PRL ओकर\PR-PRP सतुओ\N-NN पर\PSP गुजारा\N-NN करे\V-VM पड़े\V-VAUX ।\RD-PUNC 
+साँचू\N-NN केर\N-NN धोती,\V-VM कुर्ता\N-NN आउ\CC-CCD गमछी\N-NN बहुत\N-NN रहे\V-VM ।\RD-PUNC 
+ई\DM-DMI सब\QT-QTF देख\V-VM के\PSP पाँचू\N-NN के\PSP अउरत\N-NN बड़ी\V-VM कुढ़े\N-NN ।\RD-PUNC 
+सोचे\V-VM कि\CC-CCS हमर\PR-PRP मरदनवाँ\N-NN दिन\N-NN भर\N-NN हाड़\N-NN तोड़\V-VM के\PSP कमा\V-VM हे,\V-VAUX आउ\CC-CCD खाहु\N-NN के\PSP ठेकाना\N-NN नऽ\RP-NEG रहे\V-VM हे\V-VAUX ।\RD-PUNC 
+बड़का\JJ भाई\N-NN दिन\N-NN भर\N-NN एन्ने-ओन्ने\N-NN रहऽ\V-VM हे\V-VAUX तइयो\CC-CCS बढ़िया-बढ़िया\N-NN पेन्हऽ\V-VM हे\V-VAUX आउ\CC-CCD खा\V-VM हे\V-VAUX ।\RD-PUNC 
+पाँचू\N-NN के\PSP मेहरारू\N-NN पाँचू\N-NN के\PSP खूब\QT-QTF बहकौलक\V-VM -\RD-PUNC "तूहीं\V-VM काहे\CC-CCS नऽ\RP-NEG बाहर\N-NN के\PSP काम\N-NN करऽ\V-VM हऽ\V-VAUX ?\RD-PUNC 
+तोहरे\PR-PRP का\PR-PRQ सब\QT-QTF काम\N-NN करे\V-VM के\PSP ठीका\N-NN हवऽ\V-VM ?\RD-PUNC 
+"\N-NN पाँचू\N-NN के\PSP भी\RP-RPD ई\DM-DMI बात\N-NN ठीक\N-NN बुझायल\V-VM ।\RD-PUNC 
+************\N-NN Entry\N-NN Incomplete\V-VM ************\V-VAUX ।\RD-PUNC 

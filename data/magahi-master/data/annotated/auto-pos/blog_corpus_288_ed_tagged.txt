@@ -1,0 +1,29 @@
+लघुकथाकार\N-NN -\RD-PUNC डॉ॰\N-NN सी॰\N-NN रा॰\N-NN प्रसादस्कूटर\N-NN पर\PSP सवार\N-NN एगो\QT-QTC पति-पत्नी\N-NN जाइत\V-VM हलन\V-VAUX ।\RD-PUNC 
+पीछे\N-NST से\PSP एगो\QT-QTC कार\N-NN वाला\N-NN रगड़ते\N-NN पार\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+दुन्नो\QT-QTC फेंका\V-VM गेलन\V-VAUX ।\RD-PUNC 
+स्कूटर\N-NN डैमेज\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+पति\N-NN के\PSP ठेहुना\N-NN फूटल,\V-VM शर्ट-पैंट\N-NN रगड़ा\V-VM के\PSP फट\V-VM गेल\V-VAUX ।\RD-PUNC 
+पत्नी\N-NN के\PSP सलवार-समीज\N-NN फट\V-VM गेल\V-VAUX ।\RD-PUNC 
+कमर-पीठ\N-NN में\PSP चोट\V-VM लगल\V-VAUX ।\RD-PUNC 
+खून\N-NN भी\RP-RPD बहइत\V-VM हल\V-VAUX ।\RD-PUNC 
+दू\QT-QTC गो\RP-CL राहगीर\N-NN मिल\V-VM के\PSP रोड\N-NN पर\PSP फेंकायल\V-VM जोड़ी\N-NN के\PSP उठा\V-VM के\V-VAUX सामने\V-VAUX वला\N-NN मंदिर\N-NN के\PSP सीढ़ी\N-NN पर\PSP बइठा\V-VM देलन\V-VAUX ।\RD-PUNC 
+दुन्नो\QT-QTC दरद\N-NN से\PSP कराह\N-NN रहलन\V-VM हल\V-VAUX ।\RD-PUNC 
+एही\DM-DMD बीच\N-NN उनकर\PR-PRP मोबाइल\N-NN पर\PSP फोन\V-VM आयल\V-VAUX ।\RD-PUNC 
+पति\N-NN कराहइत\V-VM फोन\V-VAUX रिसीव\N-NN कैलन\V-VM -\RD-PUNC 'हलो\V-VM !\V-VAUX 
+''जमीन\N-NN खरीदे\V-VM ला\PSP बात\N-NN करे\V-VM खातिर\PSP आज\N-NN चलबऽ\V-VM ?\RD-PUNC 
+''न\N-NN हो\V-VM पंकज\V-VAUX ।\RD-PUNC 
+आज\N-NN स्कूटर\N-NN पर\PSP हम्मर\PR-PRP एक्सीडेंट\N-NN हो\V-VM गेलक\V-VAUX ।\RD-PUNC 
+''जादे\N-NN चोट\N-NN हवऽ\V-VM का\PR-PRQ ?\V-VM 
+आ\V-VM जइयो\V-VAUX ?\RD-PUNC 
+''न\N-NN हो\V-VM !\V-VAUX 
+अइसे\N-NN नाक-थोथुन\N-NN टूट\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD आवे\V-VM के\PSP जरूरत\N-NN न\RP-NEG हई\V-VM ।\RD-PUNC 
+''एही\DM-DMD से\PSP न\RP-NEG कहऽ\V-VM हिवऽ\V-VAUX कि\CC-CCS कार\N-NN खरीद\V-VM लऽ\V-VAUX !\RD-PUNC 
+जाड़ा-गरमी-बरसात,\CC-CCD हर\N-NN मौसम\N-NN में\PSP अराम\N-NN रहतवऽ\V-VM ।\RD-PUNC 
+दुपहिया\N-NN में\PSP बैलेंस\N-NN मिलऽ\V-VM हई\V-VAUX ?\RD-PUNC 
+ठोकर\N-NN लगते\V-VM फेंका\N-NN जयबऽ\V-VM ।\RD-PUNC 
+'घायल\N-NN पति\N-NN फोन\N-NN काट\V-VM के\PSP जेभी\N-NN में\PSP रख\V-VM लेलक\V-VAUX ।\RD-PUNC 
+फोन\N-NN पर\PSP मिलल\V-VM सलाह\N-NN जरल\V-VM पर\PSP नीमक\N-NN जइसन\RP-RPD परपराय\V-VM लगल\V-VAUX ।\RD-PUNC 
+कातो\CC-CCD एम॰बी॰ए॰\N-NN पास\N-NN नौजवान\N-NN साठ\QT-QTC हजार\N-NN के\PSP महीना\N-NN कमा\V-VM हे\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD कब,\V-VM कहाँ,\V-VAUX का\PR-PRQ बोले\V-VM के\V-VAUX चाही,\V-VAUX ई\DM-DMI पढ़ाई\N-NN कब\V-VM होयत\V-VAUX ?\RD-PUNC 
+[मगही\N-NN मासिक\JJ पत्रिका\N-NN "अलका\V-VM मागधी",\RD-PUNC बरिस-१५,\RD-PUNC अंक-११,\RD-PUNC नवम्बर\N-NN २००९,\PSP पृ॰१२\N-NN से\PSP साभार]\N-NN ।\RD-PUNC 

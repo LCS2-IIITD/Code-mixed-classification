@@ -1,0 +1,5 @@
+[\N-NN कहताहर\N-NN -\RD-PUNC राजीव\N-NN कुमार\N-NNP 'राज',\RD-PUNC साहित्य\N-NN सदन,\PSP टेकारी\N-NN रोड,\V-VM पटना\N-NN ]महाकवि\N-NN भारवि\N-NN बाल्यकाल\N-NN से\PSP ही\RP-RPD सुन्नर\N-NN काव्य\N-NN रचे\V-VM लगलन\V-VAUX हल,\V-VAUX जेकर\PR-PRL चारों\QT-QTC ओर\N-NN धूम\N-NN मचल\V-VM हल\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD महाकवि\N-NN भारवि\N-NN के\PSP बाबू\N-NN जी,\N-NN जे\PR-PRL अपने\PR-PRP भारी\JJ पंडित\N-NN हलन\V-VM आउ\CC-CCD कविताई\N-NN भी\RP-RPD करऽ\V-VM हलन,\V-VAUX ऊ\PR-PRP अप्पन\PR-PRP पूत\N-NN के\PSP कभीयो\N-NN बड़ाई\N-NN न\RP-NEG करऽ\V-VM हलन\V-VAUX ।\RD-PUNC 
+एह\N-NN बात\N-NN से\PSP महाकवि\N-NN भारवि\N-NN के\PSP मन\N-NN बड़ी\N-NN उदास\N-NN रहऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+अन्त\N-NN में\PSP अप्पन\PR-PRP बाबू\N-NN जी\N-NN पर\PSP एतना\QT-QTF खीझ\N-NN गेलन\V-VAUX कि\CC-CCS उनकर\PR-PRP हत्या\N-NN के\PSP विचार\N-NN कयलन\V-VM ।\RD-PUNC 
+************\N-NN Entry\N-NN Incomplete\V-VM ************\V-VAUX ।\RD-PUNC 

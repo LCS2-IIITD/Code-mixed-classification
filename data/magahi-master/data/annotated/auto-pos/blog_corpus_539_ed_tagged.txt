@@ -1,0 +1,43 @@
+[\N-NN कहताहर\N-NN -\RD-PUNC अयोध्या\PR-PRP सिंह,\PSP मो॰-पो॰\N-NN -\RD-PUNC बेलखरा,\N-NNP जिला\N-NN -\RD-PUNC जहानाबाद]दही\N-NNP के\PSP दलदल,\N-NN मक्खन\N-NN के\PSP पहाड़\N-NN ।\RD-PUNC 
+मच्छड़\N-NN ने\RP-NEG मारी\N-NN लात,\N-NN टूट\V-VM गया\V-VAUX सहर\N-NN गुजरात\N-NN ।\RD-PUNC 
+बात\N-NN है\V-VAUX सो\N-NN मीठी,\PSP कथा\N-NN है\V-VAUX सो\N-NN झूठी\N-NN ।\RD-PUNC 
+कहनेवाला\N-NN झूठा,\N-NN सुननेवाला\N-NN सच्चा\N-NN ।\RD-PUNC 
+एक\QT-QTC गाँव\N-NN में\PSP चार\QT-QTC गो\RP-CL इयार\N-NN हलन\V-VM ।\RD-PUNC 
+चारो\QT-QTC इयार\N-NN नोकरी\N-NN करे\V-VM चललन\V-VM ।\RD-PUNC 
+जाइत-जाइत\V-VM कुछ\QT-QTF दूर\N-NN गेलन\V-VM तऽ\CC-CCS एगो\QT-QTC कुआँ\N-NN मिलल\V-VM ।\RD-PUNC 
+ओहईं\DM-DMD पर\PSP एगो\QT-QTC पेड़\N-NN हल\V-VM ।\RD-PUNC 
+ओकरे\PR-PRP तर\PSP चारो\QT-QTC इयार\N-NN जाके\V-VM बइठलन\V-VAUX ।\RD-PUNC 
+ओहे\DM-DMD कुआँ\N-NN पर\PSP एगो\QT-QTC पनिहारिन\N-NN पानी\N-NN भरे\V-VM आयल\V-VM हल\V-VAUX तो\PR-PRL एगो\QT-QTC इयार\N-NN उठ\V-VM के\V-VAUX कुआँ\N-NN पर\PSP गेलन\V-VM आउ\CC-CCD कहलन\V-VM क\V-VAUX "ए\V-VM बहिन,\RD-PUNC हमरा\PR-PRP पानी\N-NN पिया\V-VM दऽ\V-VAUX ।\RD-PUNC 
+"\N-NN पनिहारिन\N-NN पूछलक\V-VM कि\CC-CCS "तूँ\RB कउन\PR-PRQ हऽ\V-VM ?\RD-PUNC 
+"\N-NN तऽ\CC-CCS ऊ\PR-PRP बतवलन\V-VM कि\CC-CCS "हम\PR-PRP पहलवान\N-NN ही\V-VM ।\RD-PUNC 
+"\DM-DMD पनिहारिन\N-NN कहलक\V-VM कि\CC-CCS "तूँ\PR-PRP कउन\PR-PRQ पहलवान\N-NN हऽ\V-VM ?\RD-PUNC 
+"\N-NN दुनियाँ\N-NN में\PSP दूए\QT-QTC गो\RP-CL पहलवान\N-NN हे\V-VM -\RD-PUNC एकर\PR-PRP मरम\N-NN बताय\V-VM दऽ\V-VAUX तो\PR-PRL हम\PR-PRP पानी\N-NN पिलायम\V-VM ।\RD-PUNC 
+"\N-NN तऽ\CC-CCS ऊ\PR-PRP कहलक\V-VM कि\CC-CCS एकर\PR-PRP मरम\N-NN हम\PR-PRP जानवे\V-VM नऽ\RP-NEG करऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+तऽ\CC-CCS कुआँ\N-NN पर\PSP से\PSP ऊ\PR-PRP पिआसे\N-NN चल\V-VM अयलन\V-VAUX ।\RD-PUNC 
+तीनो\QT-QTC इयार\N-NN पूछलन\V-VM कि\CC-CCS काहे\CC-CCS बिना\PSP पानी\N-NN पीले\V-VM घूम\N-NN गेलऽ\V-VM ।\RD-PUNC 
+तऽ\CC-CCS ऊ\PR-PRP उहाँ\DM-DMD के\PSP सब\QT-QTF बात\N-NN कह\V-VM सुनौलन\V-VM ।\RD-PUNC 
+तऽ\CC-CCS दोसर\QT-QTO इयार\N-NN कुआँ\N-NN पर\PSP गेलन\V-VM ।\RD-PUNC 
+ऊ\PR-PRP पानी\N-NN पीये\V-VM ला\PSP पनिहारिन\N-NN से\PSP माँगलन\V-VM तो\PR-PRL ऊ\PR-PRP कहलकइ\V-VM कि\CC-CCS तूँ\PR-PRP कउन\PR-PRQ हऽ\V-VM ?\RD-PUNC 
+ऊ\PR-PRP कहलन\V-VM कि\CC-CCS हम\PR-PRP रहगीर\N-NN ही\V-VM ।\RD-PUNC 
+पनिहारिन\N-NN कहलक\V-VM कि\CC-CCS "दुनियाँ\N-NN में\PSP दूए\QT-QTC गो\RP-CL रहगीर\N-NN हे\V-VM ।\RD-PUNC 
+तू\PR-PRP ओकरा\PR-PRP में\PSP कउन\PR-PRQ हऽ\V-VM ?\RD-PUNC 
+एकर\DM-DMD मरम\N-NN बतइवऽ\V-VM तो\PR-PRL पानी\N-NN पिलायम\V-VM नऽ\RP-NEG तो\PR-PRL नऽ\RP-NEG पिलायम\V-VM ।\RD-PUNC 
+"\N-NN ऊ\PR-PRP कहलक\V-VM कि\CC-CCS एकर\PR-PRP मरम\N-NN हम\PR-PRP जानवे\V-VM नऽ\RP-NEG करऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+ओहू\PR-PRP कुआँ\N-NN पर\PSP से\PSP इयारन\N-NN के\PSP पास\N-NST आन\V-VM के\PSP सब\QT-QTF कथा\N-NN सुनौलन\V-VM ।\RD-PUNC 
+तब\PR-PRL तेसरका\QT-QTO इयार\N-NN कहलन\V-VM कि\CC-CCS "हटऽ-हटऽ,\N-NN तोहनी\PR-PRP सब\QT-QTF नऽ\RP-NEG बतलयलें,\V-VM तो\PR-PRL हम\PR-PRP जाके\V-VM बता\V-VM देम\V-VAUX ।\RD-PUNC 
+"\N-NN ऊ\PR-PRP भी\RP-RPD कुआँ\N-NN पर\PSP गेलन\V-VM आउ\CC-CCD पानी\N-NN पीये\V-VM ला\PSP माँगलन\V-VM ।\RD-PUNC 
+पनिहारिन\N-NN कहलक\V-VM कि\CC-CCS "तूँ\RB कउन\PR-PRQ हऽ\V-VM कि\CC-CCS तोरा\PR-PRP पानी\N-NN पिला\V-VM दियो\V-VAUX ?\PSP 
+"\N-NN ऊ\PR-PRP कहलक\V-VM कि\CC-CCS "हम\PR-PRP गरीब\N-NN ही\V-VM ।\RD-PUNC 
+"\DM-DMD पनिहारिन\N-NN कहलक\V-VM कि\CC-CCS "दुनियाँ\N-NN में\PSP दूए\QT-QTC गो\RP-CL गरीब\N-NN हे\V-VM ।\RD-PUNC 
+तूँ\PR-PRP ओकरा\PR-PRP में\PSP से\PSP कउन\PR-PRQ गरीब\N-NN हऽ\V-VM ?\RD-PUNC 
+बता\V-VM दऽ\V-VAUX तो\PR-PRL पानी\N-NN पिला\N-NN देबवऽ\V-VM नऽ\RP-NEG तो\PR-PRL नऽ\RP-NEG ।\RD-PUNC 
+"\N-NN ओहू\PR-PRP हुआँ\N-NN से\PSP पिआसे\V-VM चल\V-VM आयल\V-VAUX ।\RD-PUNC 
+तब\PR-PRL चउथा\QT-QTO इयार\N-NN भी\RP-RPD कुआँ\N-NN पर\PSP गेल\V-VM ।\RD-PUNC 
+ओकरो\PR-PRP से\PSP पनिहारिन\N-NN पूछलक\V-VM कि\CC-CCS तूँ\PR-PRP कउन\PR-PRQ हऽ\V-VM ?\RD-PUNC 
+ऊ\PR-PRP कहलक\V-VM कि\CC-CCS "हम\N-NN बुरबक\V-VM ही\V-VAUX ।\RD-PUNC 
+"\DM-DMD पनिहारिन\N-NN कहलक\V-VM कि\CC-CCS "दुनियाँ\N-NN में\PSP दूए\QT-QTC गो\RP-CL बुरबक\N-NN हे\V-VM ।\RD-PUNC 
+तूँ\PR-PRP ओकरा\PR-PRP में\PSP कउन\PR-PRQ बुरबक\V-VM हऽ\V-VAUX ?\RD-PUNC 
+एकर\DM-DMD मरम\N-NN बतावऽ\V-VM तो\PR-PRL पानी\N-NN पिलबवऽ\V-VM नऽ\RP-NEG तो\PR-PRL नऽ\RP-NEG ।\RD-PUNC 
+"\N-NN ओहू\N-NN कहलक\V-VM कि\CC-CCS हम\PR-PRP एकर\PR-PRP मरम\V-VM न\RP-NEG जानऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+पनिहारिन\N-NN पानी\N-NN भर\RP-RPD के\PSP अपन\PR-PRP घरे\N-NN चल\V-VM गेल\V-VAUX ।\RD-PUNC 
+************\N-NN Entry\N-NN Incomplete\V-VM ************\V-VAUX ।\RD-PUNC 

@@ -1,0 +1,21 @@
+---------------------------------------------------------------\V-VM ।\RD-PUNC 
+x\N-NN १\QT-QTC से\PSP लेके\V-VM ।\RD-PUNC 
+x\N-NN १०\N-NN तक\RP-RPD (0.75\V-VM x\V-VAUX 1\N-NN से\PSP लेके\V-VM 0.75\V-VAUX x\V-VAUX 10\V-VAUX तक)---------------------------------------------------------------\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+एक\QT-QTC पौने\N-NN पौने\N-NN एक\QT-QTC 0.75\N-NN x\N-NN 1\V-VM 0.75\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM १\V-VAUX ।\RD-PUNC 
+दू\QT-QTC पौने\N-NN डेढ़\V-VM 0.75\V-VAUX x\N-NN 2\V-VM 1.50\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM २\V-VAUX ।\RD-PUNC 
+तीन\QT-QTC पौने\N-NN सावा\N-NN दू\QT-QTC 0.75\N-NN x\V-VM 3\V-VAUX 2.25\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ३\V-VAUX चार\QT-QTC पौने\N-NN तीन\QT-QTC 0.75\N-NN x\N-NN 4\V-VM 3.00\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ३\V-VAUX ।\RD-PUNC 
+पाँच\QT-QTC पौने\N-NN पौने\V-VM चार\QT-QTC 0.75\N-NN x\N-NN 5\V-VM 3.75\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ४\V-VAUX ।\RD-PUNC 
+छो\JJ (पौने)\N-NN साढ़े\PSP चार\QT-QTC 0.75\N-NN x\N-NN 6\V-VM 4.50\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ५\V-VAUX ।\RD-PUNC 
+सात\QT-QTC पौने\N-NN सावा\N-NN पाँच\QT-QTC 0.75\N-NN x\N-NN 7\V-VM 5.25\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ६\CC-CCD आठ\QT-QTC पौने\N-NN छो\V-VM 0.75\V-VAUX x\V-VAUX 8\V-VAUX 6.00\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ६\V-VAUX ।\RD-PUNC 
+नो\CC-CCD पौने\N-NN पौने\N-NN सात\QT-QTC 0.75\N-NN x\N-NN 9\V-VM 6.75\V-VAUX ।\RD-PUNC 
+x\N-NN १०\N-NN ७\V-VM ।\RD-PUNC 
+दस\QT-QTC (पौने)\N-NN साढ़े\N-NN सात\QT-QTC 0.75\N-NN x\N-NN 10\V-VM 7.50\V-VAUX ।\RD-PUNC 

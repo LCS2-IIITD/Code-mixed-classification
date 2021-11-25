@@ -1,0 +1,76 @@
+----------------------------------------------------------1\CC-CCD x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 10\V-VAUX x\V-VAUX 1.25\V-VAUX तक----------------------------------------------------------\RD-PUNC 1.25\N-NN १\QT-QTC ।\RD-PUNC 
+एक\QT-QTC सावा\N-NN सवैया\N-NN 2.50\V-VM २\V-VAUX ।\RD-PUNC 
+दू\QT-QTC सवा\QT-QTF अढ़ैया\N-NN 3.75\N-NN ३\V-VM ।\RD-PUNC 
+तीन\QT-QTC सावा\N-NN पौने\V-VM चार\QT-QTC 5.00\N-NN ५\V-VM चार\QT-QTC सवा\QT-QTO पाँच\QT-QTC 6.25\N-NN ६\V-VM ।\RD-PUNC 
+पाँच\QT-QTC सावा\N-NN सावा\N-NN छो\V-VM 7.50\V-VAUX ७\V-VAUX ।\RD-PUNC 
+छो\JJ साढ़े\N-NN सात\QT-QTC 8.75\N-NN ८\N-NN ।\RD-PUNC 
+सात\QT-QTC से\PSP पुनो\QT-QTC 10.00\N-NN १०\N-NN आठ\QT-QTC समैयें\N-NN दस\QT-QTC 11.25\N-NN ११\QT-QTC ।\RD-PUNC 
+नो\CC-CCD सवा\QT-QTO सव\QT-QTF एगारऽ\V-VM 12.50\V-VAUX १२\V-VAUX ।\RD-PUNC 
+दस\QT-QTC साढ़े\N-NN बारऽ\V-VM ----------------------------------------------------------11\RD-PUNC x\V-VM 1.25\V-VAUX से\PSP ले\V-VM के\V-VAUX 20\V-VAUX x\V-VAUX 1.25\RD-PUNC तक----------------------------------------------------------13.75\N-NN १३\V-VM ।\RD-PUNC 
+एगारऽ\DM-DMD से\PSP पुन\N-NN चौदऽ\V-VM 15.00\V-VAUX १५\V-VAUX बारऽ\CC-CCD समैयें\N-NN पनरऽ\V-VM 16.25\V-VAUX १६\V-VAUX ।\RD-PUNC 
+तेरऽ\PR-PRL सावा\N-NN सावा\N-NN सोल्लऽ\V-VM 17.50\V-VAUX १७\V-VAUX ।\RD-PUNC 
+चौदऽ\V-VM साढ़े\N-NN सतरऽ\V-VM 18.75\V-VAUX १८\V-VAUX ।\RD-PUNC 
+पनरऽ\N-NN से\PSP पुनय\N-NN 20.00\N-NN २०\N-NN सोलऽ\V-VM समैयें\N-NN बी\N-NN 21.25\V-VM २१\V-VAUX ।\RD-PUNC 
+सतरऽ\V-VM सावा\N-NN सवा\QT-QTO एकय\N-NN 22.50\N-NN २२\V-VM ।\RD-PUNC 
+अठारऽ\V-VM साढ़े\N-NN बाय\N-NN 23.75\V-VM २३\V-VAUX ।\RD-PUNC 
+उनय\N-NN से\PSP पुन\N-NN चोबी\N-NN 25.00\N-NN २५\V-VM बी\N-NN सवा\QT-QTF पची\N-NN ----------------------------------------------------------21\RD-PUNC x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 30\V-VAUX x\V-VAUX 1.25\RD-PUNC तक----------------------------------------------------------26.25\N-NN २६\V-VM ।\RD-PUNC 
+एकय\N-NN समैयें\N-NN सावा\N-NN छब्बी\N-NN 27.50\V-VM २७\V-VAUX ।\RD-PUNC 
+बै\V-VM सढ़े\N-NN सताय\N-NN 28.75\V-VM २८\V-VAUX ।\RD-PUNC 
+तेय\N-NN से\PSP पुन\N-NN उनती\N-NN 30.00\N-NN ३०\N-NN चोबी\N-NN समैयें\N-NN ती\N-NN 31.25\V-VM ३१\V-VAUX ।\RD-PUNC 
+पची\N-NN सवा\N-NN सव\QT-QTF एकती\N-NN 32.50\V-VM ३२\V-VAUX ।\RD-PUNC 
+छब्बी\N-NN साढ़े\N-NN बत्ती\N-NN 33.75\V-VM ३३\V-VAUX ।\RD-PUNC 
+सताय\N-NN से\PSP पुन\N-NN चउती\N-NN 35.00\PSP ३५\N-NN अठय\N-NN समैयें\N-NN पैंती\N-NN 36.25\V-VM ३६\V-VAUX ।\RD-PUNC 
+उनती\N-NN सावा\N-NN सावा\N-NN छत्ती\N-NN 37.50\V-VM ३७\V-VAUX ।\RD-PUNC 
+तीस\QT-QTC साढ़े\N-NN सैंती\N-NN ----------------------------------------------------------31\RD-PUNC x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 40\V-VAUX x\V-VAUX 1.25\RD-PUNC तक----------------------------------------------------------38.75\N-NN ३८\V-VM ।\RD-PUNC 
+एकती\N-NN से\PSP पुन\N-NN चाली\N-NN 40.00\N-NN ४०\N-NN बत्ती\N-NN समैयें\N-NN चाली\N-NN 41.25\V-VM ४१\V-VAUX ।\RD-PUNC 
+तेती\N-NN सावा\N-NN सवा\QT-QTF एकताली\N-NN 42.50\N-NN ४२\V-VM ।\RD-PUNC 
+चौंती\N-NNP साढ़े\N-NN बियाली\N-NN 43.75\V-VM ४३\V-VAUX ।\RD-PUNC 
+पैंती\N-NN से\PSP पुन\N-NN चौआली\N-NN 45.00\N-NN ४५\V-VM छत्ती\N-NN सवा\QT-QTO पैंताली\N-NN 46.25\N-NN ४६\V-VM ।\RD-PUNC 
+सैंती\N-NN सावा\N-NN सवा\QT-QTF छियाली\N-NN 47.50\N-NN ४७\V-VM ।\RD-PUNC 
+अड़ती\N-NN साढ़े\N-NN सनताली\N-NN 48.75\V-VM ४८\V-VAUX ।\RD-PUNC 
+उनचाली\N-NN से\PSP पुन\N-NN चास\N-NN 50.00\N-NN ५०\V-VM चाली\N-NN सवा\QT-QTF पचास\N-NN ----------------------------------------------------------41\RD-PUNC x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 50\V-VAUX x\V-VAUX 1.25\RD-PUNC तक----------------------------------------------------------51.25\N-NN ५१\V-VM ।\RD-PUNC 
+एकताली\N-NN सवा\N-NN सव\QT-QTF एकामना\N-NN 52.50\V-VM ५२\V-VAUX ।\RD-PUNC 
+बियाली\N-NN साढ़े\N-NN बामना\N-NN 53.75\V-VM ५३\V-VAUX ।\RD-PUNC 
+तेताली\N-NN से\PSP पुन\N-NN चौवन\N-NN 55.00\V-VM ५५\V-VAUX चौआली\N-NN समैयें\N-NN पचपन\V-VM 56.25\V-VAUX ५६\V-VAUX ।\RD-PUNC 
+पैंताली\N-NN सावा\N-NN सावा\N-NN छप्पन\QT-QTC 57.50\N-NN ५७\V-VM ।\RD-PUNC 
+छियाली\N-NN साढ़े\N-NN सनतामन\N-NN 58.75\V-VM ५८\V-VAUX ।\RD-PUNC 
+सनताली\N-NN से\PSP पुन\N-NN उनसठ\N-NN 60.00\N-NN ६०\N-NN अड़ताली\N-NN समैयें\PSP साठ\QT-QTC 61.25\N-NN ६१\V-VM ।\RD-PUNC 
+उनचास\N-NN सवा\N-NN सव\QT-QTF एकसठ\N-NN 62.50\V-VM ६२\V-VAUX ।\RD-PUNC 
+पचास\N-NN साढ़े\N-NN बासठ\N-NN ----------------------------------------------------------51\RD-PUNC x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 60\V-VAUX x\V-VAUX 1.25\RD-PUNC तक----------------------------------------------------------63.75\N-NN ६३\V-VM ।\RD-PUNC 
+एकामन\N-NN से\PSP पुन\N-NN चौंसठ\N-NN 65.00\V-VM ६५\V-VAUX बामन\N-NN समैयें\N-NN पैंसठ\N-NN 66.25\V-VM ६६\V-VAUX ।\RD-PUNC 
+तिरपन\PR-PRP सावा\N-NN सवा\QT-QTF छियासठ\N-NN 67.50\N-NN ६७\V-VM ।\RD-PUNC 
+चौवन\N-NN साढ़े\PSP सड़सठ\N-NN 68.75\V-VM ६८\V-VAUX ।\RD-PUNC 
+पचपन\PR-PRP से\PSP पुनत्तर\N-NN 70.00\V-VM ७०\N-NN छप्पन\QT-QTC समैयें\N-NN सत्तर\N-NN 71.25\V-VM ७१\V-VAUX ।\RD-PUNC 
+सनतामन\N-NN सावा\N-NN सवा\QT-QTF एकत्तर\N-NN 72.50\N-NN ७२\V-VM ।\RD-PUNC 
+अनठामन\N-NN साढ़े\N-NN बहत्तर\N-NN 73.75\V-VM ७३\V-VAUX ।\RD-PUNC 
+उनसठ\N-NN से\PSP पुन\N-NN चहुत्तर\V-VM 75.00\RD-PUNC ७५\V-VM साठ\QT-QTC सवा\QT-QTO पचत्तर\N-NN ----------------------------------------------------------61\PSP x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 70\V-VAUX x\V-VAUX 1.25\RD-PUNC तक----------------------------------------------------------76.25\N-NN ७६\V-VM ।\RD-PUNC 
+एकसठ\QT-QTC सावा\N-NN सवा\QT-QTF छियत्तर\N-NN 77.50\N-NN ७७\V-VM ।\RD-PUNC 
+बासठ\N-NN साढ़े\PSP सतत्तर\N-NN 78.75\V-VM ७८\V-VAUX ।\RD-PUNC 
+तिरसठ\N-NN से\PSP पुनासी\N-NN 80.00\N-NN ८०\N-NN चौंसठ\N-NN समैयें\N-NN अस्सी\QT-QTC 81.25\N-NN ८१\V-VM ।\RD-PUNC 
+पैंसठ\N-NN सावा\N-NN सवा\QT-QTF एकासी\N-NN 82.50\N-NN ८२\V-VM ।\RD-PUNC 
+छियासठ\N-NN साढ़े\N-NN बेरासी\N-NN 83.75\V-VM ८३\V-VAUX ।\RD-PUNC 
+सड़सठ\N-NN से\PSP पुन\N-NN चौरासी\N-NN 85.00\N-NN ८५\V-VM अड़सठ\N-NN सवा\QT-QTO पचासी\N-NN 86.25\N-NN ८६\V-VM ।\RD-PUNC 
+उनत्तर\PR-PRP सावा\N-NN सवा\QT-QTF छियासी\N-NN 87.50\N-NN ८७\V-VM ।\RD-PUNC 
+सत्तर\N-NN साढ़े\N-NN सतासी\N-NN ----------------------------------------------------------71\RD-PUNC x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 80\V-VAUX x\V-VAUX 1.25\RD-PUNC तक----------------------------------------------------------88.75\N-NN ८८\V-VM ।\RD-PUNC 
+एकत्तर\N-NN से\PSP पुन\N-NN नबासी\N-NN 90.00\N-NN ९०\N-NN बहत्तर\N-NN समैयें\N-NN नब्बे\V-VM 91.25\V-VAUX ९१\V-VAUX ।\RD-PUNC 
+तेहत्तर\N-NN सावा\N-NN सवा\QT-QTO एकानबे\V-VM 92.50\N-NN ९२\V-VM ।\RD-PUNC 
+चहुत्तर\N-NN साढ़े\N-NN बानबे\V-VM 93.75\V-VAUX ९३\V-VAUX ।\RD-PUNC 
+पचत्तर\N-NN से\PSP पुन\N-NN चौरानबे\V-VM 95.00\V-VAUX ९५\RD-PUNC छियत्तर\N-NN सवा\QT-QTO पनचानबे\V-VM 96.25\N-NN ९६\V-VM ।\RD-PUNC 
+सतत्तर\N-NN सावा\N-NN सवा\QT-QTO छियानबे\V-VM 97.50\N-NN ९७\V-VM ।\RD-PUNC 
+अठत्तर\N-NN साढ़े\N-NN सनतानबे\V-VM 98.75\V-VAUX ९८\V-VAUX ।\RD-PUNC 
+उनासी\N-NN से\PSP पुन\N-NN निनानबे\V-VM 100.00\V-VAUX १००\N-NN अस्सी\QT-QTC समैयें\N-NN सौ----------------------------------------------------------81\N-NN x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 90\V-VAUX x\V-VAUX 1.25\V-VAUX तक----------------------------------------------------------\RD-PUNC 101.25\V-VM १०१\V-VAUX ।\RD-PUNC 
+एकासी\N-NN सवा\N-NN सव\QT-QTF एकोतल\N-NN से\PSP 102.50\V-VM १०२\V-VAUX ।\RD-PUNC 
+बेरासी\N-NN साढ़े\N-NN दोतल\N-NN से\PSP 103.75\V-VM १०३\V-VAUX ।\RD-PUNC 
+तेरासी\N-NN से\PSP पुन\N-NN चलोतल\V-VM से\PSP 105.00\N-NN १०५\V-VM चौरासी\N-NN सवा\QT-QTF पचोतल\N-NN से\PSP 106.25\V-VM १०६\V-VAUX ।\RD-PUNC 
+पचासी\N-NN सवा\N-NN सव\QT-QTF छियोतल\N-NN से\PSP 107.50\V-VM १०७\V-VAUX ।\RD-PUNC 
+छियासी\N-NN साढ़े\N-NN सतोतल\N-NN से\PSP 108.75\V-VM १०८\V-VAUX ।\RD-PUNC 
+सतासी\N-NN से\PSP पुन\N-NN निहोतल\V-VM से\PSP 110.00\N-NN ११०\N-NN अठासी\N-NN समैयें\N-NN दहोतल\V-VM से\PSP 111.25\V-VM १११\V-VAUX ।\RD-PUNC 
+नबासी\N-NN सवा\N-NN सव\QT-QTF एगरहाँ\DM-DMD से\PSP 112.50\N-NN ११२\V-VM ।\RD-PUNC 
+नब्बे\DM-DMD साढ़े\N-NN बरहाँ\N-NN से----------------------------------------------------------91\PSP x\N-NN 1.25\N-NN से\PSP ले\V-VM के\V-VAUX 100\V-VAUX x\V-VAUX 1.25\V-VAUX तक----------------------------------------------------------\RD-PUNC 113.75\V-VM ११३\V-VAUX ।\RD-PUNC 
+एकानबे\DM-DMD से\PSP पुन\N-NN चौदहाँ\N-NN से\PSP 115.00\N-NN ११५\V-VM बानबे\RD-PUNC सवा\QT-QTO पनराहाँ\N-NN से\PSP 116.25\V-VM ११६\V-VAUX ।\RD-PUNC 
+तिरानबे\N-NN सवा\N-NN सव\QT-QTF सोलहाँ\N-NN से\PSP 117.50\V-VM ११७\V-VAUX ।\RD-PUNC 
+चौरानबे\N-NN साढ़े\N-NN सतराहाँ\N-NN से\PSP 118.75\V-VM ११८\V-VAUX ।\RD-PUNC 
+पनचानबे\N-NN से\PSP पुनइसा\N-NN से\PSP 120.00\N-NN १२०\N-NN छियानबे\V-VM समैयें\N-NN बीसा\N-NN से\PSP 121.25\V-VM १२१\V-VAUX ।\RD-PUNC 
+सनतानबे\N-NN सवा\N-NN सव\QT-QTF एकैसवा\N-NN से\PSP 122.50\V-VM १२२\V-VAUX ।\RD-PUNC 
+अनठानबे\N-NN साढ़े\N-NN बैसवा\N-NN से\PSP 123.75\V-VM १२३\V-VAUX ।\RD-PUNC 
+निनानबे\DM-DMD से\PSP पुन\N-NN चोबीसवा\N-NN से\PSP 125.00\N-NN १२५\V-VM सौ\QT-QTC सवा\QT-QTO पचीसवा\N-NN से\PSP ।\RD-PUNC 

@@ -1,0 +1,58 @@
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX EN-IN\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin-top:0cm;\RD-PUNC mso-para-margin-right:0cm;\N-NN mso-para-margin-bottom:8.0pt;\N-NN mso-para-margin-left:0cm;\N-NN line-height:107%;\N-NN mso-pagination:widow-orphan;\N-NN font-size:11.0pt;\N-NN font-family:"Calibri",sans-serif;\N-NN mso-ascii-font-family:Calibri;\N-NN mso-ascii-theme-font:minor-latin;\N-NN mso-hansi-font-family:Calibri;\N-NN mso-hansi-theme-font:minor-latin;\N-NN mso-fareast-language:EN-US;}\N-NN दृश्य-2(ओहे\N-NN सब\QT-QTF आउ\CC-CCD पोस्टमास्टर\N-NN ।\RD-PUNC 
+)पोस्टमास्टर\N-NN -\RD-PUNC बताथिन,\V-VM भद्रजन,\PR-PRP की\PR-PRQ कोय\PR-PRI सरकारी\N-NN अफसर\N-NN आवे\V-VM वला\N-NN हइ\V-VM ?\RD-PUNC 
+मेयर\N-NN -\RD-PUNC आउ\CC-CCD की\PR-PRQ अपने\PR-PRP वास्तव\N-NN में\PSP नयँ\N-NN सुनलथिन\V-VM ?\V-VAUX 
+पोस्टमास्टर\N-NN -\RD-PUNC प्योत्र\N-NN इवानोविच\N-NN बोबचिन्स्की\N-NN से\PSP सुनलिअइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP अभी-अभी\N-NN हमरा\PR-PRP हीं\V-VM पोस्ट\N-NN ऑफिस\N-NN में\PSP अइले\V-VM हल\V-VAUX ।\RD-PUNC 
+मेयर\N-NN -\RD-PUNC अच्छऽ,\RP-RPD तो\PR-PRL ?\JJ 
+अपने\PR-PRP एकरा\DM-DMD बारे\N-NN की\V-VAUX सोचऽ\V-VM हथिन\V-VAUX ?\RD-PUNC 
+पोस्टमास्टर\N-NN -\RD-PUNC हम\PR-PRP की\PR-PRQ सोचऽ\V-VM हिअइ\V-VAUX ?\RD-PUNC 
+तुर्क\N-NN लोग\N-NN के\PSP साथ\PSP युद्ध\N-NN होतइ\V-VM ।\RD-PUNC 
+जज\N-NN -\RD-PUNC सही\N-NN बात\N-NN !\V-VM 
+हमहूँ\PR-PRP खुद\N-NN ओहे\N-NN सोचब\N-NN करऽ\V-VM हलिअइ\V-VAUX ।\RD-PUNC 
+मेयर\N-NN -\RD-PUNC हूँ,\N-NN दुन्नु\QT-QTC आकाश\N-NN में\PSP बात\N-NN करते\V-VM जा\V-VAUX हथिन\V-VAUX ।\RD-PUNC 
+पोस्टमास्टर\N-NN -\RD-PUNC सचमुच,\N-NN तुर्क\N-NN के\PSP साथ\PSP युद्ध\N-NN ।\RD-PUNC 
+ई\DM-DMI सब\QT-QTF कुछ\QT-QTF फ्रेंच\N-NN लोग\N-NN के\PSP अफवाह\N-NN फैलावल\V-VM हइ\V-VAUX ।\RD-PUNC 
+[4]मेयर\N-NN -\RD-PUNC तुर्क\N-NN के\PSP साथ\PSP कइसन\PR-PRQ युद्ध\N-NN !\V-VM 
+एकरा\DM-DMD से\PSP तो\PR-PRL खाली\QT-QTF हमन्हीं\V-VM लगी\V-VAUX खराब\N-NN होतइ,\V-VM तुर्क\N-NN लगी\V-VM नयँ\RD-PUNC ।\RD-PUNC 
+ई\DM-DMI मालूम\N-NN हो\V-VM चुकले\V-VAUX ह\V-VAUX -\RD-PUNC हमरा\PR-PRP पास\N-NST चिट्ठी\N-NN हइ\V-VM ।\RD-PUNC 
+पोस्टमास्टर\N-NN -\RD-PUNC आउ\CC-CCD अगर\CC-CCS अइसन\RP-RPD बात\N-NN हइ,\V-VM त\N-NN तुर्क\N-NN के\PSP साथ\PSP युद्ध\N-NN नयँ\N-NN होतइ\V-VM ।\RD-PUNC 
+मेयर\N-NN -\RD-PUNC अच्छऽ\RP-RPD अपने,\PR-PRP अपने\PR-PRP की\PR-PRQ सोचऽ\V-VM हथिन,\V-VAUX इवान\N-NN कुज़मिच\N-NN ?\V-VM 
+पोस्टमास्टर\N-NN -\RD-PUNC हम\PR-PRP ?\N-NNP 
+अपने\PR-PRP की\PSP सोचऽ\V-VM हथिन,\V-VAUX अन्तोन\N-NN अन्तोनोविच\N-NN ?\V-VM 
+मेयर\N-NN -\RD-PUNC अच्छऽ,\RP-RPD हम\PR-PRP की\PR-PRQ सोचऽ\V-VM हिअइ\V-VAUX ?\RD-PUNC 
+डर\N-NN तो\PR-PRL नयँ\N-NN हइ,\V-VM लेकिन\CC-CCD अइसीं,\PR-PRP जरी-मनी\N-NN .\V-VM 
+व्यापारी\N-NN आउ\CC-CCD शहर\N-NN के\PSP लोग\N-NN के\PSP चिंता\N-NN हइ\V-VM ।\RD-PUNC 
+ओकन्हीं\N-NN के\PSP कहना\V-VM हइ,\V-VAUX कि\CC-CCS हम\PR-PRP ओकन्हीं\N-NN साथ\PSP सख्ती\N-NN से\PSP पेश\N-NN अइलिअइ,\V-VM लेकिन,\V-VAUX भगमान\N-NN कसम,\PSP हम\PR-PRP केकरो\PR-PRI से\PSP लेलिअइ,\V-VM त\N-NN वास्तव\N-NN में,\PSP बिन\N-NN कोय\PR-PRI दुर्भाव\N-NN के\PSP ।\RD-PUNC 
+हमरा\PR-PRP लगवो\N-NN करऽ\V-VM हइ\V-VAUX (ओकरा\PR-PRP हाथ\N-NN से\PSP पकड़के\V-VM बगल\N-NN में\PSP ले\V-VM जा\V-VAUX हका),\V-VAUX हमरा\PR-PRP लगवो\N-NN करऽ\V-VM हइ,\V-VAUX कि\CC-CCS कहीं\DM-DMD हमरा\PR-PRP विरुद्ध\N-NN कोय\PR-PRI रिपोर्ट\N-NN तो\PR-PRL नयँ\N-NN कइल\N-NN गेलइ\V-VM ।\RD-PUNC 
+वस्तुतः\N-NN काहे\CC-CCS लगी\V-VM हमन्हीं\V-VAUX हीं\V-VAUX इंस्पेक्टर\N-NN अइतइ\N-NN ?\V-VM 
+सुनथिन,\V-VM इवान\N-NN कुज़मिच,\PSP सामान्य\N-NN रूप\N-NN से\PSP हमन्हीं\PR-PRP दुन्नु\N-NN के\PSP भलाय\N-NN खातिर,\PSP हरेक\N-NN आवे\V-VM आउ\CC-CCD जाय\V-VM वला\N-NN ऊ\PR-PRP चिट्ठी,\N-NN जे\PR-PRL पोस्ट\N-NN ऑफिस\N-NN में\PSP अपने\PR-PRP के\PSP पास\N-NN आवइ,\V-VM समझऽ\V-VM हथिन,\V-VAUX जरी\QT-QTF सुनी\N-NN खोलके\V-VM पढ़\V-VM नयँ\V-VAUX ले\V-VAUX सकऽ\V-VAUX हथिन,\V-VAUX कि\CC-CCS एकरा\DM-DMD में\PSP कइसनो\JJ शिकायत\V-VM हइ\V-VAUX कि\CC-CCS खाली\QT-QTF मामूली\N-NN पत्राचार\N-NN ?\V-VM 
+अगर\CC-CCS कोय\PR-PRI शिकायत\N-NN नयँ\PSP रहइ,\N-NN त\N-NN एकरा\DM-DMD फेर\N-NN से\PSP सील\N-NN कर\V-VM दे\V-VAUX सकऽ\V-VAUX हथिन;\V-VAUX लेकिन\CC-CCD चिठिया\N-NN के\PSP अइसीं\N-NN खुल्ले\V-VM भी\RP-RPD दे\V-VM दे\V-VAUX सकऽ\V-VAUX हथिन\V-VAUX ।\RD-PUNC 
+पोस्टमास्टर\N-NN -\RD-PUNC जानऽ\V-VM हिअइ,\V-VAUX जानऽ\V-VM हिअइ\V-VAUX .\V-VM 
+एकरा\DM-DMD बारे\N-NN मत\RP-NEG सिखाथिन,\PSP अइसन\RP-RPD काम\N-NN हम\PR-PRP ओतना\PR-PRL सुरक्षा\N-NN के\PSP खियाल\V-VM से\PSP नयँ\N-NN करऽ\V-VM हिअइ,\V-VAUX जेतना\PR-PRL कि\CC-CCS उत्सुकतावश\N-NN -\RD-PUNC हमरा\PR-PRP ई\DM-DMI जाने\N-NN के\PSP बहुत\N-NN मन\N-NN करऽ\V-VM हइ,\V-VAUX कि\CC-CCS दुनियाँ\N-NN में\PSP की-की\N-NN हो\V-VM रहले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+हम\PR-PRP अपने\PR-PRP के\PSP बतावऽ\N-NN हिअइ,\V-VM कि\CC-CCS अइसन\RP-RPD पढ़ना\N-NN बहुत\N-NN दिलचस्प\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF पत्र\N-NN तो\PR-PRL पढ़े\V-VM में\PSP आनंद\N-NN आवऽ\V-VM हइ\V-VAUX -\RD-PUNC अइसन-अइसन\RP-RPD तरह\RP-RPD के\PSP वर्णन\N-NN मिल्लऽ\V-VM हइ\V-VAUX .\V-VM 
+आउ\CC-CCD केतना\QT-QTF शिक्षाप्रद\N-NN रहऽ\V-VM हइ\V-VAUX .\RD-PUNC 
+"मास्को\QT-QTC गज़ट"\N-NN से\PSP भी\RP-RPD बेहतर\N-NN !\V-VM 
+मेयर\N-NN -\RD-PUNC त\N-NN फेर,\V-VM बताथिन,\JJ पितिरबुर्ग\N-NN से\PSP कोय\PR-PRI सरकारी\N-NN अफसर\N-NN के\PSP बारे\N-NN पढ़लथिन\V-VM हल\V-VAUX ?\RD-PUNC 
+पोस्टमास्टर\N-NN -\RD-PUNC नयँ,\N-NN पितिरबुर्ग\N-NN से\PSP कुछ\QT-QTF नयँ,\V-VM लेकिन\CC-CCD कोस्त्रोमा\N-NN आउ\CC-CCD सरातोव\N-NN से\PSP बहुत\N-NN कुछ\QT-QTF कहल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+लेकिन,\V-VM खेद\N-NN हइ,\V-VM कि\CC-CCS अपने\PR-PRP चिट्ठी\N-NN नयँ\V-VM पढ़ऽ\V-VAUX हथिन\V-VAUX -\RD-PUNC बहुत\RP-INTF सुंदर-सुंदर\N-NN अंश\PR-PRP (passages)\N-NN रहऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+अइकी\N-NN हाल\N-NN में\PSP एगो\QT-QTC लेफ्टेनेंट\N-NN अपन\PR-PRP दोस्त\N-NN के\PSP लिखलके\V-VM हल\V-VAUX आउ\CC-CCD अत्यंत\N-NN विनोदपूर्ण\N-NN ढंग\N-NN से\PSP बॉल\N-NN नृत्य\N-NN के\PSP वर्णन\N-NN कइलके\V-VM हल\V-VAUX .\RD-PUNC 
+बहुत,\N-NN बहुत\N-NN सुंदर\N-NN -\RD-PUNC "हमर\N-NN जिनगी,\V-VM हमर\PR-PRP दोस्त,\N-NN एम्पीरिया\N-NN में\PSP गुजरऽ\N-NN हइ\V-VM -\RD-PUNC ढेर\QT-QTF सारी\N-NN नवयुवती,\V-VM संगीत\N-NN बज्जऽ\V-VM हइ,\V-VAUX झंडा\N-NN लहरा\V-VM हइ\V-VAUX .\V-VM 
+"\N-NN -\RD-PUNC बड़गो,\RD-PUNC बड़गो\QT-QTC भावना\N-NN के\PSP साथ\PSP वर्णन\N-NN कइलके\V-VM ह\V-VAUX ।\RD-PUNC 
+हम\PR-PRP जान-बूझके\V-VM ओकरा\PR-PRP अपने\PR-PRP लगी\N-NN रखलिए\V-VM ह\V-VAUX ।\RD-PUNC 
+की\PR-PRQ पढ़के\V-VM सुनइअइ\N-NN ?\QT-QTF 
+मेयर\N-NN -\RD-PUNC नयँ,\N-NN अभी\N-NN ओकर\PR-PRP जरूरत\N-NN नयँ\V-VM ।\RD-PUNC 
+एक\QT-QTC मेहरबानी\N-NN करथिन,\V-VM इवान\N-NN कुज़मिच\N-NN -\RD-PUNC अगर\CC-CCS कोय\PR-PRI शिकायत\V-VM चाहे\N-NN रिपोर्ट\N-NN अपने\PR-PRP के\PSP हाथ\N-NN लगइ,\V-VM त\N-NN बिन\N-NN कोय\PR-PRI हिचक\N-NN के\PSP एकरा\DM-DMD रोक\V-VM रखथिन\V-VAUX ।\RD-PUNC 
+पोस्टमास्टर\N-NN -\RD-PUNC बड़ी\JJ खुशी\N-NN से\PSP ।\RD-PUNC 
+जज\N-NN -\RD-PUNC जरी\QT-QTF सवधान\N-NN रहथिन,\V-VM एकरा\DM-DMD लगी\N-NN अपने\PR-PRP के\PSP कभी\N-NN फटकार\N-NN सुन्ने\N-NN पड़\V-VM सकऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+पोस्टमास्टर\N-NN -\RD-PUNC हे\V-VAUX भगमान\N-NN !\PSP 
+मेयर\N-NN -\RD-PUNC कोय\PR-PRI बात\N-NN नयँ,\RB कोय\PR-PRI बात\N-NN नयँ\V-VM ।\RD-PUNC 
+ई\DM-DMI दोसर\QT-QTO बात\N-NN होतइ,\V-VM अगर\CC-CCS अपने\PR-PRP एकरा\DM-DMD में\PSP से\PSP कुछ\QT-QTF सार्वजनिक\N-NN करथिन,\V-VM लेकिन\CC-CCD ई\DM-DMI पारिवारिक\N-NN मामला\V-VM हइ\V-VAUX ।\RD-PUNC 
+जज\N-NN -\RD-PUNC हाँ,\N-NN मामला\N-NN तो\PR-PRL गड़बड़\N-NN हइ\V-VM !\RD-PUNC 
+आउ\CC-CCD हम,\PR-PRP स्वीकार\N-NN करऽ\V-VM हिअइ,\V-VAUX अपने\PR-PRP हीं\N-NN आहीं\V-VM वला\V-VAUX हलिअइ,\V-VAUX अन्तोन\N-NN अन्तोनोविच,\N-NN एगो\QT-QTC पिल्ला\N-NN भेंट\V-VM करे\V-VAUX लगी\V-VAUX ।\RD-PUNC 
+ओहे\DM-DMD कुतवा\N-NN के\PSP सहोदर\N-NN बहिन,\V-VM जेकरा\PR-PRL अपने\PR-PRP जानऽ\V-VM हथिन\V-VAUX ।\RD-PUNC 
+वस्तुतः\N-NN अपने\PR-PRP सुनलथिन\V-VM होत,\V-VAUX कि\CC-CCS चेपतोविच\N-NN आउ\CC-CCD वरख़ोविन्स्की\N-NN एक\QT-QTC दोसरा\N-NN पर\PSP मोकदमा\N-NN करते\V-VM गेले\V-VAUX ह,\V-VAUX आउ\CC-CCD अभी\N-NN हमरा\PR-PRP लगी\N-NN निम्मन\N-NN हइ\V-VM -\RD-PUNC हम\PR-PRP दुन्नु\N-NN के\PSP जमीन\N-NN पर\PSP खरगोश\V-VM के\V-VAUX शिकार\N-NN करऽ\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+मेयर\N-NN -\RD-PUNC बाबू\N-NN साहेब,\N-NN हमरा\PR-PRP अभी\N-NN अपने\PR-PRP के\PSP खरगोश\N-NN प्रिय\N-NN नयँ\N-NN हइ\V-VM -\RD-PUNC हमर\PR-PRP सिर\N-NN पर\PSP तो\PR-PRL छद्मवेष\N-NN में\PSP ऊ\PR-PRP अभिशप्त\N-NN बैठल\V-VM हइ\V-VAUX ।\RD-PUNC 
+अइसीं\N-NN सकसकइते\V-VM रहऽ,\V-VAUX कि\CC-CCS दरवाजा\N-NN अब\N-NN खुलतो,\V-VM कि\CC-CCS तब\PR-PRL खुलतो\V-VM आउ\CC-CCD -\RD-PUNC अचानक\N-NN .\V-VM 
+सूची\N-NN पिछला\N-NN अगला\N-NN ।\RD-PUNC 

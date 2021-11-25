@@ -1,0 +1,17 @@
+http://in\N-NN .\V-VM 
+jagran\N-NN .\V-VM 
+yahoo\N-NN .\V-VM 
+com/news/local/bihar/4\4\7298682\1\N-NN .\V-VM 
+html09\N-NN Feb\N-NN 2011,\V-VM 08:08\V-VAUX pmगया,\RD-PUNC जागरण\N-NN प्रतिनिधि:\N-NN जिलाधिकारी\N-NN आवास\V-VM ।\RD-PUNC 
+समय-\N-NN दोपहर\N-NN 12:30\V-VM ।\RD-PUNC 
+जनगणना\N-NN के\PSP लिए\N-NN डीएम\N-NN आवास\N-NN पर\PSP पहुंचे\V-VM कई\QT-QTF अधिकारी\N-NN व\N-NN प्रगणक\N-NN रूबी\N-NN कुमारी\N-NNP ।\RD-PUNC 
+जिलाधिकारी\N-NN संजय\N-NN कुमार\N-NNP सिंह\N-NNP से\PSP कई\QT-QTF सवाल\N-NN प्रगणक\N-NN रूबी\N-NN कुमारी\N-NNP ने\RP-NEG पूछा\V-VM ।\RD-PUNC 
+डीएम\N-NN श्री\N-NNP सिंह\N-NNP ने\RP-NEG एक-एक\N-NN कर\V-VM सभ\N-NN सवालों\PSP का\PR-PRQ जवाब\N-NN दिया\N-NN ।\RD-PUNC 
+डीएम\N-NN श्री\N-NNP सिंह\N-NNP ने\RP-NEG अपने\PR-PRP परिवार\N-NN के\PSP सभी\N-NN सदस्यों\N-NN के\PSP बारे\N-NN में\PSP जानकारी\N-NN दी\N-NN ।\RD-PUNC 
+जैसे\N-NN पत्‍‌नी\N-NN अल्पना\N-NN सिंह\N-NNP की\PR-PRQ शैक्षणिक\N-NN योग्यता\N-NN एमए\V-VM (एलएसडब्ल्यू)\V-VAUX ।\RD-PUNC 
+पुत्र\N-NN का\PR-PRQ नाम\N-NN उत्कर्ष\V-VM चंद्रा\N-NN ।\RD-PUNC 
+पुत्री\N-NN का\PR-PRQ नाम\N-NN लावन्या\V-VM है\V-VAUX ।\RD-PUNC 
+अर्थशास्त्र\N-NN से\PSP स्नातकोत्तर\N-NN की\PSP शिक्षा\N-NN प्राप्त\N-NN कर\V-VM चुके\V-VAUX जिलाधिकारी\N-NN श्री\N-NN सिंह\N-NNP की\PR-PRQ मातृभाषा\N-NN मगही\V-VM है\V-VAUX ।\RD-PUNC 
+वहीं\N-NN पत्‍‌नी\N-NN और\CC-CCD बच्चे\N-NN घर\N-NN में\PSP हिन्दी\N-NN में\PSP बात\N-NN करते\V-VM हैं\V-VAUX ।\RD-PUNC 
+जिलाधिकारी\N-NN श्री\N-NN सिंह\N-NNP अंग्रेजी\N-NN और\CC-CCD उड़िया\N-NN भाषा\N-NN के\PSP न\RP-NEG केवल\V-VM जानकार\N-NN हैं\V-VM बल्कि\CC-CCD दोनों\N-NN भाषाओं\N-NN में\PSP बात\N-NN भी\RP-RPD करते\V-VM हैं\V-VAUX ।\RD-PUNC 
+जबकि\PR-PRL पत्‍‌नी\N-NN और\CC-CCD बच्चे\N-NN हिन्दी\N-NN के\PSP साथ-साथ\N-NN अंग्रेजी\N-NN के\PSP जानकार\N-NN हैं\V-VM ।\RD-PUNC 

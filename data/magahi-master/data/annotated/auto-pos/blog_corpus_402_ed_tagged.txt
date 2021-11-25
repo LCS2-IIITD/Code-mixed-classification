@@ -1,0 +1,131 @@
+मगही\N-NN कविता\N-NN संकलन001\N-NN .\V-VM 
+सत्य\N-NN शतक\N-NN -\RD-PUNC जॉन\N-NN क्रिश्चियन002\N-NN .\V-VM 
+वदना\N-NN -\RD-PUNC श्याम\N-NNP प्यारी\N-NNP कुँअर003\N-NN .\V-VM 
+गीता-गीत\N-NN (बिरहा)\V-VM -\RD-PUNC राम\N-NN प्रसाद\N-NNP सिंह\N-NNP पुण्डरीक004\N-NN .\V-VM 
+गीता-गीत\N-NN (सोहर)\V-VM -\RD-PUNC राम\N-NN प्रसाद\N-NNP सिंह\N-NNP पुण्डरीक005\N-NN .\V-VM 
+जगरना\N-NN -\RD-PUNC राम\N-NN सिंहासन\N-NN सिंह\N-NNP 'विद्यार्थी'006\N-NN .\V-VM 
+इंजोर\N-NN -\RD-PUNC योगेश्वर\N-NN प्रसाद\N-NNP सिंह\N-NNP 'योगेश'007\N-NN .\V-VM 
+तुलसीदास\N-NN -\RD-PUNC योगेश्वर\N-NN प्रसाद\N-NNP सिंह\N-NNP 'योगेश'008\N-NN .\V-VM 
+मगही\N-NN सनेस\N-NN -\RD-PUNC कपिलदेव\N-NNP त्रिवेदी009\N-NN .\V-VM 
+मगही\N-NN मुकुट\N-NN -\RD-PUNC कपिलदेव\N-NNP त्रिवेदी010\N-NN .\V-VM 
+मगही\N-NN लोकगीत\N-NN सेंगरन\N-NN -\RD-PUNC सं०\N-NN डॉ०\N-NN श्रीकान्त\N-NN शास्त्री\N-NN एवं\N-NN डॉ०\N-NN रामनन्दन011\N-NN .\V-VM 
+मगही\N-NN बाल\N-NN गीत\N-NN -\RD-PUNC सं०\N-NN मथुरा\N-NN प्रसाद\N-NNP सिंह\N-NNP 'सरस'\N-NN आउ\CC-CCD रामेश्वर\N-NN महतो012\N-NN .\V-VM 
+लोहचुट्टी\N-NN -\RD-PUNC योगेश्वर\N-NN प्रसाद\N-NNP सिंह\N-NNP 'योगेश'013\N-NN .\V-VM 
+भरथरी\N-NN शतक\N-NN -\RD-PUNC महादेव\N-NNP साहू\N-NN स्वर्णकार014\N-NN .\V-VM 
+शृंगार\N-NN शतक\N-NN -\RD-PUNC महादेव\N-NNP साहू\N-NN स्वर्णकार015\N-NN .\V-VM 
+नीति\N-NN शतक\N-NN -\RD-PUNC महादेव\N-NNP साहू\N-NN स्वर्णकार016\N-NN .\V-VM 
+वैराग्य\N-NN शतक\N-NN -\RD-PUNC महादेव\N-NNP साहू\N-NN स्वर्णकार017\N-NN .\V-VM 
+मगही\N-NN कुंडलियाँ\N-NN -\RD-PUNC राहुल\N-NN सांकृत्यायन018\N-NN .\V-VM 
+दोहा\N-NN कोश\N-NN -\RD-PUNC सं०\N-NN राहुल\N-NN सांकृत्यायन019\N-NN .\V-VM 
+बासन्ती\N-NN -\RD-PUNC राम\N-NN विलास\N-NN 'रजकण'020\N-NN .\V-VM 
+रजनीगंधा\N-NN -\RD-PUNC राम\N-NN विलास\N-NN 'रजकण'021\N-NN .\V-VM 
+पनसोखा\N-NN -\RD-PUNC राम\N-NN विलास\N-NN 'रजकण'022\N-NN .\V-VM 
+मगही\N-NN संस्कार\N-NN गीत\N-NN -\RD-PUNC सं०\N-NN विश्वनाथ\N-NN प्रसाद023\N-NN .\V-VM 
+लहरा\V-VM -\RD-PUNC बाबूलाल\N-NN मधुकर024\N-NN .\V-VM 
+अंगुरी\N-NN के\PSP दाग\N-NN -\RD-PUNC बाबूलाल\N-NN मधुकर025\N-NN .\V-VM 
+तरस\N-NN उठल\V-VM जियरा\N-NN -\RD-PUNC महेन्द्र\N-NNP प्रसाद\N-NNP सुधांशु026\N-NN .\V-VM 
+संझउती\N-NN -\RD-PUNC गोविन्द\N-NN 'प्यासा'027\N-NN .\V-VM 
+मगही\N-NN बिहारी\N-NN सतसई\N-NN -\RD-PUNC जनकनन्दन\N-NN सिंह\N-NNP 'जनक'028\N-NN .\V-VM 
+मगही\N-NN कुंडलियाँ\N-NN -\RD-PUNC महावीर\N-NN दूबे029\N-NN .\V-VM 
+भोर\N-NN -\RD-PUNC सं०\N-NN संत\N-NNP राम\N-NN नगीना\N-NN सिंह\N-NNP 'मगहिया'030\N-NN .\V-VM 
+हलफा\N-NN -\RD-PUNC संत\N-NNP राम\N-NN नगीना\N-NN सिंह\N-NNP 'मगहिया'031\N-NN .\V-VM 
+मगहिया\N-NN गीत\N-NN -\RD-PUNC संत\N-NNP राम\N-NN नगीना\N-NN सिंह\N-NNP 'मगहिया'032\N-NN .\V-VM 
+धरती\N-NN फट\V-VM गेलइ\V-VAUX हे\V-VAUX -\RD-PUNC स्वर्ण\N-NN किरण033\N-NN .\V-VM 
+धरती\N-NN के\PSP पाती\N-NN तथागत\N-NN के\PSP नाम\N-NN -\RD-PUNC स्वर्ण\N-NN किरण034\N-NN .\V-VM 
+मुआर\N-NN -\RD-PUNC स्वर्ण\N-NN किरण035\N-NN .\V-VM 
+झरोखा\N-NN -\RD-PUNC सं०\N-NN राम\N-NN प्रसाद\N-NNP सिंह036\N-NNP .\V-VM 
+परस\N-NN पल्लव\N-NN -\RD-PUNC डॉ०\N-NN राम\N-NN प्रसाद\N-NNP सिंह037\N-NNP .\V-VM 
+मुस्कान\N-NN -\RD-PUNC राम\N-NN प्रसाद\N-NNP सिंह,\PSP राम\N-NN नरेश\N-NN प्रसाद\N-NNP वर्मा\N-NN आउ\CC-CCD त्रिवेणी\N-NN शर्मा\N-NN 'सुधाकर'038\V-VM .\V-VAUX 
+अप्पन\PR-PRP गीत\N-NN -\RD-PUNC श्रीनन्दन\N-NN शास्त्री039\N-NN .\V-VM 
+हिलकोरा\N-NN -\RD-PUNC सतीश\N-NN कुमार\N-NNP मिश्र040\N-NN .\V-VM 
+फटल\JJ बाँस\N-NN -\RD-PUNC सतीश\N-NN कुमार\N-NNP मिश्र041\N-NN .\V-VM 
+टुसा\N-NN -\RD-PUNC सतीश\N-NN कुमार\N-NNP मिश्र042\N-NN .\V-VM 
+गीत\N-NN अदमी\N-NN के\PSP -\RD-PUNC रामदास\N-NN आर्य\N-NN उर्फ\N-NN घमंडी\N-NN राम043\N-NN .\V-VM 
+धरती\N-NN के\PSP गीत\N-NN -\RD-PUNC रामदास\N-NN आर्य\N-NN उर्फ\N-NN घमंडी\N-NN राम044\N-NN .\V-VM 
+तीत\N-NN मीठ\N-NN गजल\N-NN -\RD-PUNC दीनबन्धु045\N-NN .\V-VM 
+इंगोरा\N-NN -\RD-PUNC अनिल\N-NN कुमार\N-NNP विभाकर046\N-NN .\V-VM 
+लुत्ती\N-NN -\RD-PUNC राजकुमार\N-NN प्रसाद047\N-NN .\V-VM 
+मगही\N-NN तरंग\N-NN -\RD-PUNC त्रिवेणी\N-NN शर्मा\N-NN 'सुधाकर'048\N-NN .\V-VM 
+मगही\N-NN लहर\N-NN -\RD-PUNC त्रिवेणी\N-NN शर्मा\N-NN 'सुधाकर'049\N-NN .\V-VM 
+मगही\N-NN भरथरी\N-NN तिनसइया\N-NN -\RD-PUNC रामाधार\N-NN सिंह\N-NNP 'आधार'050\N-NN .\V-VM 
+मगही\N-NN कवितावली\N-NN -\RD-PUNC त्रिवेणी\N-NN शर्मा\N-NN 'सुधाकर'051\N-NN .\V-VM 
+ढरकित\JJ लोर\N-NN -\RD-PUNC रजन\N-NN कुमार\N-NNP मिश्र052\N-NN .\V-VM 
+मगही\N-NN संदेश\N-NN -\RD-PUNC सत्यनारायण\N-NN दास053\N-NN .\V-VM 
+मगही\N-NN गीतांजलि\N-NN -\RD-PUNC चन्द्रशेखर\N-NN प्रसाद\N-NNP सिन्हा054\N-NN .\V-VM 
+हाथ\N-NN में\PSP लेके\V-VM रुमाल\N-NN -\RD-PUNC चन्द्रशेखर\N-NN प्रसाद\N-NNP सिन्हा055\N-NN .\V-VM 
+ढिबरी\N-NN -\RD-PUNC राजेन्द्र\N-NN पाण्डेय056\N-NN .\V-VM 
+दमाही\N-NN में\PSP जोतल\N-NN अदमी\N-NN -\RD-PUNC हरीन्द्र\N-NN विद्यार्थी057\N-NN .\V-VM 
+भुरुकवा\N-NN उग\V-VM गेल\V-VAUX -\RD-PUNC रास\N-NN बिहारी\N-NN पाण्डेय058\N-NN .\V-VM 
+निहोरा\N-NN -\RD-PUNC सुरेश\N-NN दूबे\V-VM 'सरस'059\V-VAUX .\V-VM 
+बेलपत्तर\N-NN -\RD-PUNC रामकृष्ण\N-NN मिश्र060\N-NN .\V-VM 
+बघवा\N-NN में\PSP भेलइ\V-VM बिहान\N-NN -\RD-PUNC राम\N-NN विनय\N-NN शर्मा\N-NN 'विनय'061\N-NN .\V-VM 
+मोतिया\N-NN के\PSP माला\N-NN -\RD-PUNC मृदुल062\N-NN .\V-VM 
+लुआठी\N-NN -\RD-PUNC राजेन्द्र\N-NN सिंह063\N-NN .\V-VM 
+बड़हिया\N-NN गोलीकांड\N-NN -\RD-PUNC मथुरा\N-NN प्रसाद\N-NNP 'नवीन'064\N-NNP .\V-VM 
+उगेन\N-NN -\RD-PUNC सुरेश\N-NN दत्त\N-NN मिश्र065\N-NN .\V-VM 
+सुलगइत\V-VM साँस\N-NN -\RD-PUNC जयराम\N-NN देवसपुरी066\V-VM .\V-VAUX 
+जिनकर\N-NN चरनिया\N-NN से\PSP भेलइ\V-VM इंजोर\N-NN -\RD-PUNC महेन्द्र\N-NNP प्रसाद067\N-NN .\V-VM 
+गजल\N-NN हे\V-VM नाम\N-NN -\RD-PUNC मृत्युंजय\N-NN मिश्र\V-VM करुणेश068\V-VAUX .\V-VM 
+पनघट\N-NN -\RD-PUNC जयनाथ\N-NNP कवि069\N-NN .\V-VM 
+मगही\N-NN महक\N-NN –\N-NN दीनबन्धु070\N-NN .\V-VM 
+पपिहरा\N-NN -\RD-PUNC महेन्द्र\N-NNP प्रसाद\N-NNP देहाती071\N-NN .\V-VM 
+बाँचि\N-NN ले\V-VM मोर\N-NN पतिया\N-NN -\RD-PUNC कृष्णदेव\N-NN प्रसाद072\N-NN .\V-VM 
+अधरतिया\N-NN के\PSP बँसुरी\N-NN -\RD-PUNC कुमारी\N-NNP राधा073\N-NN .\V-VM 
+दुम्भी\N-NN -\RD-PUNC शिव\N-NNP प्रसाद\N-NNP लोहानी074\N-NN .\V-VM 
+झांझ\N-NN -\RD-PUNC अनिल\N-NN विभाकर075\N-NN .\V-VM 
+भक्ति\N-NN रसामृत\N-NN -\RD-PUNC दशई\N-NN सिंह076\N-NN .\V-VM 
+कविता\N-NN कली\N-NN -\RD-PUNC अलखदेव\N-NNP प्रसाद\N-NNP 'अचल'077\N-NNP .\V-VM 
+देश\N-NN के\PSP नाम\N-NN एगो\QT-QTC चिट्ठी\N-NN -\RD-PUNC स्वर्ण\N-NN किरण078\N-NN .\V-VM 
+असगनी\N-NN -\RD-PUNC कृष्ण\N-NN मोहन\N-NN प्यारे079\V-VM .\V-VAUX 
+गौतम\N-NN के\PSP गीत\N-NN -\RD-PUNC अरुण\N-NN कुमार\N-NNP गौतम080\N-NNP .\V-VM 
+उकटा-पुराण\N-NN -\RD-PUNC अवधेश\N-NN कुमार\N-NNP सिन्हा081\N-NN .\V-VM 
+साठी\N-NN -\RD-PUNC सं०\N-NN दिलीप\N-NN कुमार\N-NNP आउ\CC-CCD सुखित\V-VM वर्मा082\N-NN .\V-VM 
+चोट\N-NN -\RD-PUNC गौरी\N-NNP शंकर\N-NN सिंह083\N-NN .\V-VM 
+घनचोट\N-NN -\RD-PUNC राम\N-NN गोपाल\N-NN पाण्डेय084\N-NN .\V-VM 
+भँवर\N-NN -\RD-PUNC विनीत\N-NN कुमार\N-NNP मिश्र\N-NN 'अकेला'085\V-VM .\V-VAUX 
+मत\RP-NEG जा\V-VM तू\PR-PRP परदेस\N-NN -\RD-PUNC सुभाष\N-NN चन्द्र\N-NN 'किंकर'086\N-NN .\V-VM 
+भौंरा\N-NN गीत\N-NN -\RD-PUNC जयनाथ\N-NNP कवि087\N-NN .\V-VM 
+अभिनन्दन\N-NN दल\N-NN -\RD-PUNC सं०\N-NN दिलीप\N-NN कुमार088\PSP .\V-VM 
+मगही\N-NN माधुरी\N-NN -\RD-PUNC रामवृक्ष\N-NN महाराज089\N-NN .\V-VM 
+मोरहर\N-NN के\PSP पार\N-NN -\RD-PUNC हरीन्द्र\N-NNP विद्यार्थी090\N-NN .\V-VM 
+फुटहा\N-NN -\RD-PUNC नन्दकिशोर\N-NN सिंह\N-NNP 'विद्यार्थी'091\N-NN .\V-VM 
+मुँह\N-NN देखाई\V-VM -\RD-PUNC अमर\N-NN अलंकृत092\N-NN .\V-VM 
+फुहार\N-NN -\RD-PUNC सं०\N-NN राजदेव\N-NNP प्रसाद093\N-NNP .\V-VM 
+मिलिन्द\N-NN गीत\N-NN -\RD-PUNC चतुरानन्द\N-NN मिश्र\N-NN 'चतुरा'094\N-NN .\V-VM 
+दुम्भी\N-NN -\RD-PUNC सतीश\N-NN कुमार\N-NNP मिश्र095\N-NN .\V-VM 
+पँचबरती\N-NN -\RD-PUNC परमेश्वरी096\N-NN .\V-VM 
+मगही\N-NN शतक\V-VM –\N-NN परमेश्वरी097\N-NN .\V-VM 
+मगह\N-NN के\PSP फूल\N-NN -\RD-PUNC शिव\N-NNP प्रसाद\N-NNP लोहानी098\N-NN .\V-VM 
+लोहानी\N-NN सतसई\N-NN -\RD-PUNC शिव\N-NNP प्रसाद\N-NNP लोहानी099\N-NN .\V-VM 
+बाँसुरी\N-NN बजते\N-NN रहल\V-VM -\RD-PUNC अरुण\N-NN कुमार\N-NNP सिन्हा100\N-NN .\V-VM 
+मगही\N-NN लोकगीत\N-NN के\PSP बृहत्\N-NN संग्रह\N-NN -\RD-PUNC सं०\N-NN राम\N-NN प्रसाद\N-NNP सिंह\N-NNP आउ\CC-CCD लालमनी\N-NNP कुमारी101\N-NNP .\V-VM 
+दिल\N-NN के\PSP घाव\N-NN -\RD-PUNC घमंडी\N-NN राम102\N-NN .\V-VM 
+दूज\N-NN के\PSP चान\V-VM -\RD-PUNC राम\N-NN विलास\N-NN 'रजकण'103\N-NN .\V-VM 
+मगही\N-NN गीत\N-NN कुंज\N-NN -\RD-PUNC राम\N-NN विलास\N-NN शर्मा\N-NN 'अथर्व'104\N-NN .\V-VM 
+मगध\N-NN गुर्रा\N-NN रहल\V-VM -\RD-PUNC हरीन्द्र\V-VM विद्यार्थी105\N-NN .\V-VM 
+फल्गु\N-NN से\PSP गंगा\N-NN -\RD-PUNC हरीन्द्र\N-NNP विद्यार्थी106\N-NN .\V-VM 
+असरा\N-NN के\PSP डोर\N-NN -\RD-PUNC सुमन्त107\N-NN .\V-VM 
+बहुरुपिया\N-NN -\RD-PUNC परमेश्वरी108\N-NN .\V-VM 
+तितकी\N-NN -\RD-PUNC सं०\N-NN राजीव109\N-NN .\V-VM 
+परान\N-NN के\PSP फोंफी\N-NN -\RD-PUNC वीरेन्द्र\N-NNP कुमार\N-NNP भारद्वाज110\N-NN .\V-VM 
+सोनभदर\N-NN के\PSP तीर\N-NN -\RD-PUNC सुभाष\N-NN चन्द्र\N-NN 'किंकर'111\N-NN .\V-VM 
+धरती\N-NN के\PSP बोल\V-VM -\RD-PUNC सं०\N-NN मणिशंकर\N-NN प्रसाद112\N-NN .\V-VM 
+माथा\N-NN घूमऽ\V-VM हे\V-VAUX -\RD-PUNC स्वर्ण\N-NN किरण113\N-NN .\V-VM 
+कहवाँ\PR-PRQ भेल\V-VM अबेर\N-NN -\RD-PUNC स्वर्ण\N-NN किरण114\N-NN .\V-VM 
+जमाना\N-NN बेदरद\N-NN हे\V-VM -\RD-PUNC स्वर्ण\N-NN किरण115\N-NN .\V-VM 
+अतीत\N-NN गाथा\N-NN -\RD-PUNC सं०\N-NN बृजमोहन\N-NN पाण्डेय\N-NN 'नलिन'\V-VM आउ\CC-CCD राम\N-NN नरेश\N-NN प्रसाद\N-NNP वर्मा116\N-NN .\V-VM 
+घिचपिच\V-VM -\RD-PUNC अछूत\V-VM भानु117\V-VAUX .\V-VM 
+स्मृति\N-NN संचय\N-NN (राम\N-NN नरेश\N-NN पाठक)\N-NN -\RD-PUNC सं०\N-NN कृष्ण\N-NN मोहन\N-NN प्यारे118\V-VM .\V-VAUX 
+मुग्धांजलि\N-NN -\RD-PUNC अमर\N-NN अलंकृत119\N-NN .\V-VM 
+तीरथाटन\N-NN -\RD-PUNC अमर\N-NN अलंकृत120\N-NN .\V-VM 
+बुढ़ारी\N-NN आउ\CC-CCD दुख\N-NN -\RD-PUNC अमर\N-NN अलंकृत121\N-NN .\V-VM 
+हे\V-VM मानव\N-NN तू\PR-PRP सावधान\N-NN -\RD-PUNC अमर\N-NN अलंकृत122\N-NN .\V-VM 
+सौगात\N-NN -\RD-PUNC श्रवण\N-NNP कुमार\N-NNP 'मधुर'123\V-VM .\V-VM 
+लड़ाई\N-NN जारी\N-NN हे\V-VM -\RD-PUNC स्वर्ण\N-NN किरण124\N-NN .\V-VM 
+मकई\N-NN के\PSP लावा\N-NN -\RD-PUNC कृष्ण\N-NN प्रकाश\N-NN 'सुधांशु'[स्रोतः\N-NN 'अलका\N-NN मागधी',\V-VM सितम्बर\N-NN २००६,\V-VM अंक-९,\RD-PUNC पृ०\V-VM १५-१६];;;;मृत्युंजय\V-VAUX कुमार\N-NNP जी,\V-VM आपने\V-VAUX इस\N-NN मगही\N-NN जालस्थान\N-NN पर\PSP भेंट\V-VM देकर\N-NN अपना\PR-PRF सुझाव\N-NN दिया,\N-NN इसके\N-NN लिए\N-NN धन्यवाद\N-NN ।\RD-PUNC 
+किताबों\N-NN को\PSP जालस्थान\N-NN पर\PSP डालने\N-NN के\PSP पहले\N-NN कॉपीराइट\N-NN का\PR-PRQ भी\RP-RPD ध्यान\N-NN रखना\V-VM पड़ता\V-VAUX है\V-VAUX ।\RD-PUNC 
+ऐसे\DM-DMD डॉ॰\PSP राम\N-NN प्रसाद\N-NNP सिंह\N-NNP जी\N-NN ने\RP-NEG अपने\PR-PRP सभी\N-NN प्रकाशनों\N-NN को\PSP जाल\V-VM पर\PSP डालने\V-VM की\V-VAUX अनुमति\N-NN दे\V-VM रखी\V-VAUX है\V-VAUX ।\RD-PUNC 
+दूसरी\N-NN बात\N-NN यह\V-VM है\V-VAUX कि\CC-CCS यह\DM-DMD सब\QT-QTF काम\N-NN मैं\N-NN अकेला\N-NN ही\RP-RPD कर\V-VM रहा\V-VAUX हूँ\V-VAUX ।\RD-PUNC 
+जब\PR-PRL भी\RP-RPD फुरसत\N-NN मिलती\N-NN है,\PSP यथासाध्य\N-NN कुछ\QT-QTF इस\N-NN पर\PSP डाल\V-VM देता\V-VAUX हूँ\V-VAUX ।\RD-PUNC 
+---\CC-CCD नारायण\N-NN प्रसाद;;;;narayan\N-NN jee,Aap\N-NN Accha\V-VM kamkar\V-VAUX rahe\RD-PUNC hain\V-VAUX .\V-VM 
+kucch\N-NN kitabo\N-NN ko\N-NN bhi\V-VM blog\V-VAUX par\RD-PUNC dale\V-VAUX to\V-VAUX accha\RD-PUNC rahega\V-VAUX .\V-VM 

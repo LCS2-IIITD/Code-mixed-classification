@@ -1,0 +1,272 @@
+लेखक\N-NN -\RD-PUNC नारायण\N-NN प्रसादमुद्रिका\N-NN सिंह\N-NNP जी\N-NN अप्पन\PR-PRP लेख\N-NN "मगही\N-NN के\PSP सरल\N-NN आउ\CC-CCD सुबोध\N-NN बनावल\V-VM जाय"\V-VAUX में\PSP लिखलथिन\V-VM ह\V-VAUX -\RD-PUNC "मगही\N-NN के\PSP एगो\QT-QTC आउ\CC-CCD खास\N-NN बात\N-NN ई\DM-DMI हे\V-VM कि\CC-CCS एकरा\DM-DMD में\PSP अलगे\N-NN से\PSP 'भी'\N-NN के\PSP जरूरत\N-NN न\RP-NEG पड़े\V-VM ।\RD-PUNC 
+जइसे\PR-PRL -\RD-PUNC ओहू\N-NN गेलन,\V-VM हमहूँ\PR-PRP खइली,\RP-RPD रामो\N-NN साथ\PSP हलन,\V-VM तोहूँ\PR-PRP देख\V-VM लऽ\V-VAUX ।\RD-PUNC 
+"\N-NN ('अलका\N-NN मागधी',\V-VM जनवरी\N-NN 2005,\V-VM पृ॰7,\RD-PUNC कॉलम\V-VM 1,\V-VAUX पैरा\N-NN 1)\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD ऊ\PR-PRP 'भी'\N-NN के\PSP साथे-साथ\PSP 'ही'\N-NN के\PSP जोड़े\N-NN लगि\N-NN भूल\N-NN गेला\V-VM ।\RD-PUNC 
+उनका\PR-PRP एहो\N-NN लिखे\V-VM के\PSP चाही\V-VM हल\V-VAUX कि\CC-CCS "मगही\N-NN के\PSP एगो\QT-QTC आउ\CC-CCD खास\N-NN बात\N-NN ई\DM-DMI हे\V-VM कि\CC-CCS एकरा\DM-DMD में\PSP अलगे\N-NN से\PSP 'ही'\N-NN के\PSP जरूरत\N-NN न\RP-NEG पड़े\V-VM ।\RD-PUNC 
+जइसे\PR-PRL -\RD-PUNC ओहे\N-NN गेलन,\V-VM हमहीं\N-NN खइली,\RP-RPD रामे\N-NN साथ\PSP हलन,\V-VM तोहीं\PR-PRL देख\V-VM लऽ\V-VAUX ।\RD-PUNC 
+"\N-NN मगही\N-NN में\PSP हिन्दी\N-NN के\PSP 'ही'\N-NN आउ\CC-CCD 'भी'\N-NN के\PSP स्वतन्त्र\N-NN प्रयोग\N-NN बिलकुल\N-NN नयँ\N-NN होवऽ\V-VM हइ\V-VAUX जइसन\RP-RPD कि\CC-CCS साधारणतः\N-NN मगही\N-NN लेखक\N-NN सब\QT-QTF के\PSP रचना\N-NN में\PSP देखल\V-VM जा\V-VAUX हइ\V-VM ।\RD-PUNC 
+हिन्दी\N-NN के\PSP 'ही'\V-VM आउ\CC-CCD 'भी'\V-VM के\PSP बदले\N-NN क्रमशः\V-VM '-ए'\V-VAUX आउ\CC-CCD '-ओ'\N-NN के\PSP प्रयोग\N-NN कइल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF उदाहरण\N-NN देखल\V-VM जाय\V-VAUX -ऊ\RD-PUNC कितब्बे\PSP पढ़लकइ\V-VM -\RD-PUNC उसने\N-NN किताब\N-NN ही\RP-RPD पढ़ी\V-VM ।\RD-PUNC 
+ऊ\PR-PRP कितब्बो\N-NN पढ़लकइ\V-VM -\RD-PUNC उसने\N-NN किताब\N-NN भी\RP-RPD पढ़ी\V-VM ।\RD-PUNC 
+नन्दुए\N-NN के\PSP पूछहो\V-VM न\RP-NEG -\RD-PUNC नन्दू\RP-INJ को\PSP ही\RP-RPD पूछिए\V-VM न\RP-NEG ।\RD-PUNC 
+नन्दुओ\N-NN के\PSP पूछहो\V-VM न\RP-NEG -\RD-PUNC नन्दू\N-NN को\PSP भी\RP-RPD पूछिए\V-VM न\RP-NEG ।\RD-PUNC 
+ओकरे\PR-PRP पूछहो\V-VM न\RP-NEG -\RD-PUNC उसी\V-VM को\PSP पूछिए\V-VM न\RP-NEG ।\RD-PUNC 
+ओकरो\PR-PRP पूछहो\V-VM न\RP-NEG -\RD-PUNC उसको\V-VM भी\RP-RPD पूछिए\V-VM न\RP-NEG ।\RD-PUNC 
+ऊ\PR-PRP तो\PR-PRL पढ़बे\N-NN करऽ\V-VM हइ\V-VAUX =\N-NN वह\N-NN तो\PR-PRL पढ़ता\N-NN ही\RP-RPD है\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP तो\PR-PRL पढ़बो\N-NN करऽ\V-VM हइ\V-VAUX =\N-NN वह\N-NN तो\PR-PRL पढ़ता\N-NN भी\RP-RPD है\V-VAUX ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL जइबे\V-VM करम,\V-VAUX लेकिन\CC-CCD तूँ\PR-PRP जइबऽ\V-VM कि\CC-CCS नयँ\N-NN ?\PSP 
+=\N-NN मैं\N-NN तो\PR-PRL जाऊँगा\V-VM ही,\V-VAUX लेकिन\CC-CCD आप\PR-PRP जाएँगे\V-VM या\CC-CCD नहीं\N-NN ?\V-VM 
+हम\PR-PRP जइबो\V-VM करम\V-VM त\PR-PRL काम\N-NN नयँ\N-NN होत\V-VM =\CC-CCS मैं\N-NN जाऊँगा\V-VM भी\RP-RPD तो\PR-PRL काम\N-NN नहीं\N-NN होगा\V-VM ।\RD-PUNC 
+ऊ\PR-PRP तो\PR-PRL आझे\N-NN चल\V-VM गेलइ\V-VAUX =\V-VAUX वह\V-VAUX तो\PR-PRL आज\N-NN ही\RP-RPD चला\V-VM गया\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP आझो\N-NN नयँ\N-NN अइतइ\N-NN =\V-VM वह\N-NN आज\N-NN भी\RP-RPD नहीं\N-NN आएगा\V-VM ।\RD-PUNC 
+साधारणतः\N-NN सर्वनाम\N-NN और\CC-CCD क्रिया\N-NN के\PSP साथ\PSP '-हीं'\N-NN आउ\CC-CCD '-हूँ'\N-NN प्रत्यय\N-NN के\PSP प्रयोग\N-NN कइल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD कोय-कोय\N-NN शब्द\N-NN के\PSP साथ\PSP दूनहूँ\DM-DMD तरह\RP-RPD के\PSP प्रयोग\N-NN देखल\V-VM जा\V-VAUX हइ\V-VM ।\RD-PUNC 
+जइसे\PR-PRL -हमहीं\N-NN जइबो\V-VM -\RD-PUNC मैं\N-NN ही\RP-RPD जाऊँगा\V-VM ।\RD-PUNC 
+हमहूँ\PR-PRP जइबो\N-NN -\RD-PUNC मैं\N-NN भी\RP-RPD जाऊँगा\V-VM ।\RD-PUNC 
+घरवा\N-NN अइतहीं\V-VM ऊ\PR-PRP चिल्लाय\N-NN लगलइ\V-VM -\RD-PUNC घर\N-NN आते\N-NN ही\RP-RPD वह\N-NN चिल्लाने\N-NN लगा\V-VM ।\RD-PUNC 
+घरवा\N-NN अइतहूँ\N-NN ऊ\PR-PRP चिल्लाय\N-NN लगलइ\V-VM -\RD-PUNC घर\N-NN आते\N-NN भी\RP-RPD वह\N-NN चिल्लाने\N-NN लगा\V-VM ।\RD-PUNC 
+ऊ\PR-PRP खाइए\N-NN के\PSP गेलइ\V-VM (ऊ\N-NN खाहीं\V-VM के\PSP गेलइ)\V-VM -\RD-PUNC वह\N-NN खाके\V-VM ही\V-VAUX गया\N-NNP ।\RD-PUNC 
+ऊ\PR-PRP खाइयो\V-VM के\PSP गेलइ\V-VM (ऊ\N-NN खाहूँ\V-VM के\PSP गेलइ)\V-VM -\RD-PUNC वह\N-NN खाकर\N-NN भी\RP-RPD गया\N-NNP ।\RD-PUNC 
+हूआँ\N-NN गेले\V-VM पर\PSP पता\N-NN चलतो\V-VM (हूआँ\V-VAUX गेलहीं\V-VAUX पर\PSP पता\N-NN चलतो\V-VM )\RD-SYM -\RD-PUNC वहाँ\N-NN जाने\N-NN पर\PSP ही\RP-RPD पता\N-NN चलेगा\V-VM ।\RD-PUNC 
+हूआँ\N-NN गेलो\V-VM पर\PSP पता\N-NN चलतो\V-VM (हूआँ\CC-CCS गेलहूँ\DM-DMD पर\PSP पता\N-NN चलतो\V-VM )\RD-SYM -\RD-PUNC वहाँ\N-NN जाने\N-NN पर\PSP भी\RP-RPD पता\N-NN चलेगा\V-VM ।\RD-PUNC 
+देखल\V-VM (देखा\N-NN हुआ)\V-VM -\RD-PUNC 'देखले',\V-VM या\CC-CCD 'देखलऽहीं'\RP-RPD (देखा\N-NN हुआ\DM-DMD ही),\N-NN 'देखलो'\V-VM या\CC-CCD 'देखलऽहूँ'\RP-RPD (देखा\N-NN हुआ\DM-DMD भी)\V-VM ।\RD-PUNC 
+ई\DM-DMI जगहिया\N-NN तो\PR-PRL हम्मर\PR-PRP देखले\V-VM हइ\V-VAUX ।\RD-PUNC 
+(या,\PR-PRP 'ई\N-NN जगहिया\N-NN तो\PR-PRL हम्मर\PR-PRP देखलऽहीं\V-VM हइ\V-VAUX ।\RD-PUNC 
+')ई\N-NN जगहिया\N-NN तोर\PR-PRP देखलो\V-VM हकउ\V-VAUX तइयो\CC-CCS एक\QT-QTC तुरी\N-NN आउ\CC-CCD देख\V-VM ले\V-VAUX ।\RD-PUNC 
+(या,\QT-QTC 'ई\N-NN जगहिया\N-NN तोर\PR-PRP देखलऽहूँ\V-VM हकउ\V-VAUX तइयो\CC-CCS एक\QT-QTC तुरी\N-NN आउ\CC-CCD देख\V-VM ले\V-VAUX ।\RD-PUNC 
+')अचरज\N-NN के\PSP बात\N-NN ई\DM-DMI हइ\V-VM कि\CC-CCS कन्नड\N-NN भाषो\N-NN में\PSP कुछ\QT-QTF अइसने,\RP-RPD अर्थात्\N-NN '-ए'\V-VM आउ\CC-CCD '-ऊ',\V-VM के\PSP प्रयोग\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+जैसे\N-NN -\RD-PUNC नानु\N-NN (मैं)\N-NN के\PSP लिए\N-NN -नाने\N-NN होग्तीनि\N-NN -\RD-PUNC मैं\N-NN ही\RP-RPD जाता\V-VM हूँ\V-VAUX ।\RD-PUNC 
+नानू\N-NN होग्तीनि\N-NN -\RD-PUNC मैं\N-NN भी\RP-RPD जाता\N-NN हूँ\V-VM ।\RD-PUNC 
+मैथिली\N-NN भाषो\N-NN में\PSP बहुत-कुछ\QT-QTF मगहिए\N-NN नियन\RP-RPD प्रत्यय\N-NN के\PSP प्रयोग\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+पं॰\N-NN दीनबन्धु\N-NN झा\N-NN के\PSP "मिथिलाभाषा\N-NN विद्योतन"\N-NN (1946)\N-NN में\PSP "एव-अपि-प्रकरण",\N-NN पृ॰150-156,\V-VM पर\PSP मैथिली\N-NN में\PSP हिन्दी\N-NN के\PSP 'ही'\N-NN आउ\CC-CCD 'भी'\N-NN (संस्कृत\N-NN के\PSP 'एव'\N-NN आउ\CC-CCD 'अपि')\N-NN के\PSP संगत\N-NN (corresponding)\N-NN प्रयोग\N-NN पर\PSP विस्तृत\N-NN विवेचन\N-NN कइल\V-VM गेले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+मैथिली\N-NN के\PSP ई\DM-DMI व्याकरण\N-NN मैथिली\N-NN भाषे\N-NN में\PSP सूत्र\N-NN रूप\N-NN में\PSP हइ\V-VM जेकरा\PR-PRL में\PSP मैथिली\N-NN में\PSP उदाहरण\N-NN सहित\PSP व्याख्या\N-NN देल\V-VM गेले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD में\PSP धातुपाठो\N-NN हकइ\V-VM जेकरा\PR-PRL में\PSP कुल\N-NN 1125\PSP धातु\N-NN हइ\V-VM ।\RD-PUNC 
+सब\QT-QTF धातु\N-NN के\PSP मैथिली\N-NN भाषा\N-NN में\PSP अर्थ\N-NN के\PSP साथ-साथ\N-NN ओकर\PR-PRP वाक्य\N-NN में\PSP प्रयोग\N-NN करके\V-VM देखावल\V-VM गेले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+ई\DM-DMI धातुपाठ\N-NN सन्\V-VM 1950\N-NN में\PSP पहले\N-NN तुरी\N-NN छपले\N-NN हल\V-VM ।\RD-PUNC 
+बाद\N-NN में\PSP सूत्रपाठ\V-VM आउ\CC-CCD धातुपाठ\N-NN दुनहूँ\N-NN के\PSP एक्के\QT-QTC पुस्तक\N-NN में\PSP सन्\N-NN 1993\N-NN में\PSP प्रकाशित\N-NN कइल\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+क्रिया\N-NN के\PSP मूल\N-NN रूप\N-NN के\PSP धातु\N-NN कहल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+जैसे\N-NN -\RD-PUNC "ढुकना"\N-NN क्रिया\N-NN में\PSP से\PSP "-ना"\N-NN अंश\N-NN हटा\N-NN देवे\V-VM से\PSP "ढुक"\N-NN रह\V-VM जा\V-VAUX हइ\V-VM जेकरा\PR-PRL धातु\N-NN कहल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+मैथिली\N-NN धातुपाठ\N-NN में\PSP धातु\N-NN सब\QT-QTF के\PSP वर्णक्रमानुसार\N-NN रक्खल\V-VM गेले\V-VAUX ह,\V-VAUX लेकिन\CC-CCD आदि\N-NN वर्ण\N-NN के\PSP अनुसार\N-NN नयँ,\V-VM बल्कि\CC-CCD उलटा\N-NN क्रम\N-NN में\PSP (reverse\V-VM order)\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL पहिला\QT-QTO तेरह\N-NN धातु\N-NN ई\DM-DMI प्रकार\N-NN हइ\V-VM -\RD-PUNC छक,\V-VM ठक,\V-VAUX डक,\RD-PUNC ढक,\RD-PUNC बक,\V-VM मक,\RD-PUNC सक,\V-VM छिक,\V-VAUX ठिक,\RD-PUNC डिक,\V-VAUX ढुक,\RD-PUNC फुक,\V-VM बुक\V-VAUX ।\RD-PUNC 
+धातु\N-NN के\PSP क्रम\N-NN ठीक\N-NN हइ\V-VM कि\CC-CCS नयँ,\PR-PRP ई\DM-DMI समझे\V-VM लगी\V-VAUX ई\DM-DMI सब\QT-QTF धातु\N-NN के\PSP उलटा\N-NN क्रम\N-NN में\PSP रखके\N-NN फेन\V-VM आदि\N-NN वर्ण\N-NN के\PSP क्रमानुसार\N-NN रख\V-VM देला\V-VAUX से\PSP काम\N-NN बन\V-VM जइतइ\V-VAUX ।\RD-PUNC 
+ऊपर\N-NN के\PSP सब्भे\V-VM तेरह\N-NN धातु\N-NN के\PSP उलटा\N-NN क्रम\N-NN में\PSP लिखला\V-VM पर\PSP बनतइ\N-NN -\RD-PUNC कछ,\N-NN कठ,\V-VM कड,\V-VAUX कढ,\RD-PUNC कब,\V-VM कम,\V-VAUX कस,\RD-PUNC कछि,\N-NN कठि,\V-VM कडि,\V-VAUX कढु,\RD-PUNC कफु,\V-VAUX कबु\N-NN ।\RD-PUNC 
+ई\DM-DMI ध्यान\N-NN देवे\V-VM के\V-VAUX बात\N-NN हइ\V-VM कि\CC-CCS उलटला\N-NN के\PSP बाद\N-NN पहिले\N-NST सब\QT-QTF अकारान्त\N-NN के\PSP रक्खल\V-VM गेले\V-VAUX ह,\RD-PUNC ओक्कर\PR-PRP बाद\PSP क्रमशः\N-NN इकारान्त,\PSP उकारान्त\N-NN के\PSP ।\RD-PUNC 
+धातुपाठ\N-NN में\PSP धातु\N-NN के\PSP ई\DM-DMI क्रम\N-NN से\PSP रक्खे\N-NN से\PSP सबसे\N-NN बड़गो\JJ फयदा\N-NN कवि\N-NN सब\QT-QTF के\PSP होतइ\V-VM जिनका\N-NN कविता\N-NN में\PSP अन्तिम\N-NN वर्ण\N-NN के\PSP समान\N-NN शब्द\N-NN चुन्ने\N-NN पड़ऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+मगही\N-NN में\PSP हलाँकि\V-VM व्याकरण\N-NN के\PSP प्रकाशन\N-NN कइल\V-VM गेले\V-VAUX ह,\V-VAUX मगर\N-NN अभी\N-NN तक\RP-RPD मगही\N-NN धातुपाठ\N-NN के\PSP नयँ\N-NN ।\RD-PUNC 
+मैथिली\N-NN आउ\CC-CCD मगही\N-NN के\PSP धातु\N-NN में\PSP 95%\N-NN से\PSP जादहीं\N-NN समानता\N-NN होतइ,\PSP अइसन\RP-RPD हम\PR-PRP आशा\N-NN करऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+अब\N-NN "मिथिलाभाषा\N-NN विद्योतन"\N-NN से\PSP मगही\N-NN लगी\V-VM उपयोगी\N-NN अंश\N-NN लेके\V-VM आउ\CC-CCD बहुत-कुछ\QT-QTF अपना\PR-PRF तरफ\N-NN से\PSP जोड़के\N-NN व्याकरण\N-NN सम्बन्धी\N-NN नियम\V-VM के\PSP चर्चा\N-NN कइल\V-VM जा\V-VAUX रहले\V-VM ह\V-VAUX ।\RD-PUNC 
+(1)\N-NN आकारान्त,\V-VM एकारान्त\V-VAUX मगही\N-NN शब्द\N-NN के\PSP अन्तिम\N-NN आकार,\V-VM एकार\N-NN के\PSP स्थान\N-NN पर\PSP खाली\QT-QTF अकार\N-NN रह\V-VM जा\V-VAUX हइ,\RD-PUNC '-ए',\RD-PUNC '-ओ'\N-NN प्रत्यय\N-NN (अथवा\N-NN एक्कर\V-VM स्थान\N-NN में\PSP आवल\V-VM दोसर\QT-QTO प्रत्यय\N-NN '-हीं',\PSP '-हूँ'\N-NN आदि)\N-NN लगावे\V-VM पर\PSP ।\RD-PUNC 
+जइसे\PR-PRL -दादा\N-NN -\RD-PUNC दादे,\N-NN दादो\N-NN ।\RD-PUNC 
+गंगा\N-NN -\RD-PUNC गंगे,\V-VM गंगो\V-VAUX ।\RD-PUNC 
+जहिया\N-NN -\RD-PUNC जहिये,\V-VM जहियो\V-VAUX ।\RD-PUNC 
+अपना\PR-PRF (स्वयं\PSP का)\N-NN -\RD-PUNC अपने\PR-PRP (खुद्दे,\PSP स्वयं\N-NN ही;\V-VM स्वयं\N-NN का\PR-PRQ ही);\V-VM अपनो\V-VAUX (खुद\N-NN का\PR-PRQ भी)मुचकुन\CC-CCS बोल\V-VM पड़ल\V-VAUX -'ए॰डी॰एम॰\V-VAUX बाबू\N-NN के\PSP गाड़ी\N-NN हे\V-VM ?\RD-PUNC 
+कहाँ\PR-PRQ हथ\V-VM अपने\PR-PRP ऊ\PR-PRP ?\V-VM 
+’\N-NN (कहानी\N-NN "जिनगी\N-NN के\PSP पन्ना"\N-NN से)अपने\PSP (आप,\V-VM स्वयं)\N-NN -\RD-PUNC अपनहीं,\PR-PRP अपनहूँ\DM-DMD ।\RD-PUNC 
+सबेरे\N-NN -\RD-PUNC सबेरहीं,\V-VM सबेरहूँ\QT-QTF ।\RD-PUNC 
+पहिले\N-NST -\RD-PUNC पहिलऽहीं,\N-NST पहिलऽहूँ\V-VM ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL पहिलऽहीं\N-NN कह\V-VM देलियो\V-VAUX हल\V-VAUX कि\CC-CCS हमरा\PR-PRP से\PSP ई\DM-DMI काम\N-NN नयँ\N-NN होतो\V-VM =\V-VAUX मैंने\N-NN तो\PR-PRL पहले\N-NN ही\RP-RPD कह\V-VM दिया\N-NN था\V-VM कि\CC-CCS मुझसे\N-NN यह\N-NN काम\N-NN नहीं\N-NN होगा\V-VM ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL पहिलऽहूँ\N-NN कह\V-VM देलियो\V-VAUX हल\V-VAUX कि\CC-CCS हमरा\PR-PRP से\PSP ई\DM-DMI काम\N-NN नयँ\N-NN होतो\V-VM =\V-VAUX मैंने\N-NN तो\PR-PRL पहले\N-NN भी\RP-RPD कह\V-VM दिया\N-NN था\V-VM कि\CC-CCS मुझसे\N-NN यह\N-NN काम\N-NN नहीं\N-NN होगा\V-VM ।\RD-PUNC 
+अकेल्ले\N-NN -\RD-PUNC अकेलहीं,\N-NN अकेलहूँ\N-NN ।\RD-PUNC 
+कल्हे\N-NN -\RD-PUNC कलहीं,\V-VM कलहूँ\V-VAUX ।\RD-PUNC 
+घरे\N-NN (=\N-NN घर\N-NN पर)\N-NN -\RD-PUNC घरहीं,\N-NN घरहूँ\N-NN ।\RD-PUNC 
+(‘घरवे\N-NN पर’,\PSP ‘घरवो\N-NN पर’\N-NN -\RD-PUNC अइसनो\N-NN रूप\N-NN के\PSP प्रयोग\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+)ऊ\PR-PRP घरे\N-NN हइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP घरहीं\N-NN हको\V-VM ।\RD-PUNC 
+बोलइयो\V-VM ?\RD-PUNC 
+ऊ\PR-PRP घरहूँ\RB कोय\PR-PRI काम\N-NN नयँ\RP-NEG करऽ\V-VM हको\V-VAUX ।\RD-PUNC 
+पर्हे\N-NN (=\N-NN परसाल\N-NN के\PSP अर्थ\N-NN में\PSP जेकरा\PR-PRL में\PSP 'साल'\N-NN शब्द\N-NN के\PSP साधारणतः\N-NN अनुक्त\N-NN उपस्थिति\N-NN रहऽ\V-VM हइ)\V-VAUX -\RD-PUNC परहीं\N-NN साल,\PSP परहूँ\N-NN साल\N-NN ।\RD-PUNC 
+ध्यान\N-NN देवल\V-VM जाय\V-VAUX कि\CC-CCS प्रत्यय\N-NN लगइला\V-VM पर\PSP 'साल'\N-NN शब्द\N-NN के\PSP साधारणतः\N-NN प्रयोग\N-NN देखे\V-VM में\PSP आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+नोट\N-NN -\RD-PUNC पर्हे\N-NN में\PSP र्ह\N-NN एक\QT-QTC वर्ण\N-NN के\PSP रूप\N-NN में,\PSP जइसे\DM-DMR कि\CC-CCS ढ़\V-VM एगो\QT-QTC अलगे\N-NN वर्ण\N-NN होवऽ\V-VM हइ\V-VAUX ओइसहीं,\PR-PRL प्रयोग\N-NN होवऽ\V-VM हइ,\V-VAUX रेफ\V-VAUX आउ\CC-CCD हकार\N-NN दुन्नू\N-NN के\PSP संयुक्त\N-NN रूप\N-NN (र्+ह)में\PSP नयँ\N-NN ।\RD-PUNC 
+लेकिन\CC-CCD देवनागरी\N-NN में\PSP एकरा\DM-DMD लगी\V-VM कोय\PR-PRI वर्णचिह्न\N-NN नयँ\PSP रहला\N-NN से\PSP हीआँ\N-NN र्ह\N-NN के\PSP प्रयोग\N-NN कइल\V-VM गेले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+जइसे\DM-DMR हिन्दी\N-NN में\PSP घोष\N-NN वर्ण\N-NN ड़\N-NN के\PSP संगत\N-NN महाप्राण\N-NN घोष\N-NN वर्ण\N-NN ढ़\V-VM होवऽ\V-VAUX हइ,\V-VAUX ओइसहीं\PR-PRL र\N-NN के\PSP संगत\N-NN महाप्राण\N-NN एगो\QT-QTC स्वतन्त्र\N-NN वर्ण\N-NN र्ह\N-NN के\PSP बारे\N-NN अनुमान\N-NN लगावल\V-VM जा\V-VAUX सकऽ\V-VAUX हइ\V-VAUX जेकरा\PR-PRL लगि\N-NN एगो\QT-QTC पृथक्\N-NN चिह्न\N-NN के\PSP आवश्यकता\V-VM हकइ\V-VAUX ।\RD-PUNC 
+भाषाविद्\N-NN लोग\N-NN के\PSP ई\DM-DMI तरफ\N-NN ध्यान\N-NN नयँ\PSP गेले\V-VM ह\V-VAUX ।\RD-PUNC 
+डॉ॰\N-NN सरयू\N-NN प्रसाद\N-NNP के\PSP "\N-NN Magahi\V-VM Phonology:\RD-PUNC A\V-VM Descriptive\V-VAUX Study"\RD-PUNC (2008)\N-NNP नाम\N-NN के\PSP वैज्ञानिक\N-NN पुस्तक\N-NN में\PSP एकरा\DM-DMD बारे\N-NN कुछ\QT-QTF विवरण\N-NN के\PSP आशा\N-NN हलइ\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD ओकरो\PR-PRP में\PSP एक्कर\V-VM कुछ\QT-QTF उल्लेख\N-NN नयँ\N-NN हइ\V-VM ।\RD-PUNC 
+धातु\N-NN के\PSP उदाहरण\N-NN -पढ़\V-VM –\N-NN पढ़ते\V-VM -\RD-PUNC पढ़तहीं,\V-VM पढ़तहूँ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP हमेसे\PR-PRP पढ़ते\N-NN रहऽ\V-VM हइ\V-VAUX =\RD-PUNC वह\N-NN हमेशा\PR-PRP पढ़ते\V-VM रहता\V-VAUX है\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP हमेसे\PR-PRP पढ़तहीं\N-NN रहऽ\V-VM हइ\V-VAUX =\RD-PUNC वह\N-NN हमेशा\V-VM पढ़ते\N-NN ही\RP-RPD रहता\V-VM है\V-VAUX ।\RD-PUNC 
+पढ़तहूँ\DM-DMD बखत\N-NN ऊ\PR-PRP ओकरे\PR-PRP बारे\N-NN सोचते\V-VM रहऽ\V-VAUX हइ\V-VM =\RD-PUNC पढ़ते\V-VM बखत\N-NN भी\RP-RPD वह\N-NN उसी\N-NN के\PSP बारे\N-NN में\PSP सोचता\N-NN रहता\V-VM है\V-VAUX ।\RD-PUNC 
+(2)\N-NN 'दू'\N-NN संख्या\N-NN में\PSP आउ\CC-CCD धातु\N-NN में\PSP '-ए',\V-VM '-ओ'\V-VAUX प्रत्यय\N-NN लगइला\V-VM पर\PSP प्रत्यय\N-NN के\PSP पहले\N-NN 'इ'\N-NN (या\N-NN 'इय्)\N-NN आगम\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL –दू\N-NN -\RD-PUNC दुइए\N-NN गो/\N-NN ठो,\V-VM दुइओ\V-VAUX गो/\N-NN ठो\V-VM ।\RD-PUNC 
+नहा\N-NN -\RD-PUNC नहाइए\N-NN (नहाइये)\N-NN के\PSP अइलइ\V-VM ।\RD-PUNC 
+नहाइओ\N-NN (नहाइयो)\N-NN के\PSP अइलइ\V-VM ।\RD-PUNC 
+लिख\V-VM -\RD-PUNC लिखिए\V-VM (लिखिये)\N-NN के\PSP गेलइ\V-VM ।\RD-PUNC 
+लिखिओ\PR-PRL (लिखियो)\N-NN के\PSP गेलइ\V-VM ।\RD-PUNC 
+लिखा\V-VM -\RD-PUNC लिखाइए\V-VM (लिखाइये)\N-NN के\PSP गेलइ\V-VM ।\RD-PUNC 
+लिखाइओ\PR-PRL (लिखाइयो)\N-NN के\PSP गेलइ\V-VM ।\RD-PUNC 
+धो\V-VM -\RD-PUNC धोइए,\V-VM धोइओ\V-VAUX ।\RD-PUNC 
+धोइये,\N-NN धोइयो\V-VM ।\RD-PUNC 
+(3)\N-NN सातत्यबोधक\N-NN '-ते'\N-NN प्रत्ययान्त\N-NN आकारान्त\N-NN धातु\N-NN में\PSP '-हीं',\V-VM '-हूँ'\V-VAUX प्रत्यय\N-NN लगावे\V-VM पर\PSP धातु\N-NN के\PSP ‘आ’\N-NN बदल\V-VM के\PSP ‘अइ’\N-NN हो\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL –\N-NN जा\V-VM –\N-NN जइते\V-VM -\RD-PUNC जइतहीं,\V-VM जइतहूँ\V-VAUX ।\RD-PUNC 
+आ\V-VM –\N-NN अइते\V-VM -\RD-PUNC अइतहीं,\V-VM अइतहूँ\V-VAUX ।\RD-PUNC 
+खा\V-VM –\N-NN खइते\V-VM -\RD-PUNC खइतहीं,\V-VM खइतहूँ\V-VAUX ।\RD-PUNC 
+नहा\N-NN –\N-NN नहइते\V-VM -\RD-PUNC नहइतहीं,\V-VM नहइतहूँ\DM-DMD ।\RD-PUNC 
+सुन\V-VM -\RD-PUNC सुनते\V-VM -\RD-PUNC सुनतऽहीं\V-VM (सुनते\V-VAUX ही),\RD-PUNC सुनतऽहूँ\N-NN (सुनते\V-VM हुए\N-NN भी)\V-VM ।\RD-PUNC 
+लेकिन,\V-VM सुना\V-VM -\RD-PUNC सुनइते\V-VM -\RD-PUNC सुनइतहीं\V-VM (सुनाते\V-VAUX ही),\RD-PUNC सुनइतहूँ\V-VM (सुनाते\V-VAUX हुए\N-NN भी)\V-VM ।\RD-PUNC 
+लिख\V-VM -\RD-PUNC लिखते\V-VM -\RD-PUNC लिखतऽहीं\V-VM (लिखते\V-VAUX ही),\RD-PUNC लिखतऽहूँ\PR-PRP (लिखते\V-VM हुए\N-NN भी)\V-VM ।\RD-PUNC 
+लेकिन,\V-VM लिखा\V-VM -\RD-PUNC लिखइते\V-VM -\RD-PUNC लिखइतहीं\V-VM (लिखाते\V-VAUX ही),\RD-PUNC लिखइतहूँ\PR-PRP (लिखाते\N-NN हुए\N-NN भी)\V-VM ।\RD-PUNC 
+(4)\N-NN दीर्घ\N-NN स्वरान्त\N-NN शब्द\N-NN में\PSP '-ए',\V-VM '-ओ'\V-VAUX प्रत्यय\N-NN लगइला\V-VM पर\PSP दीर्घ\N-NN स्वर\N-NN के\PSP ह्रस्व\N-NN हो\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL -नदी\N-NN -\RD-PUNC नदिए,\N-NN नदिओ\N-NN (या\N-NN यकार\N-NN आगम\N-NN सहित\PSP -\RD-PUNC नदिये,\N-NN नदियो)\N-NN ।\RD-PUNC 
+नन्दू\N-NN -\RD-PUNC नन्दुए,\N-NN नन्दुओ\V-VM ।\RD-PUNC 
+माली\N-NN -\RD-PUNC मलिए,\N-NN मलिओभालू\N-NN -\RD-PUNC भलुए,\N-NN भलुओनोट\V-VM -\RD-PUNC ई\DM-DMI ह्रस्व\N-NN होवे\V-VM वला\V-VAUX नियम\N-NN मगही\N-NN में\PSP सामान्य\N-NN रूप\N-NN से\PSP लागू\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL दू\QT-QTC से\PSP अधिक\N-NN अक्षर\N-NN वला\N-NN हिन्दी\N-NN शब्द\N-NN बाजार,\N-NN आवाज,\V-VM आधार,\RD-PUNC सामान\N-NN आदि\N-NN में\PSP आवल\V-VM दू-दू\QT-QTC गो\RP-CL लगातार\N-NN दीर्घ\N-NN स्वर\N-NN के\PSP स्थान\N-NN पर\PSP मगही\N-NN में\PSP क्रमशः\N-NN पूर्व\N-NN स्वर\N-NN के\PSP ह्रस्व\N-NN करके\V-VM बजार,\RD-PUNC अवाज,\V-VM अधार,\PR-PRP समान\N-NN आदि\N-NN के\PSP प्रयोग\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+(5)\N-NN समापिका\N-NN क्रिया\N-NN (finite\N-NN verb)\N-NN में\PSP प्रत्यय\N-NN लगावे\V-VM के\V-VAUX पहिले\N-NST ओक्कर\N-NN धातु\N-NN में\PSP '-बे',\V-VM '-बो'\V-VAUX (या\N-NN '-वे','-वो')\N-NN के\PSP साथ\PSP करना\V-VM के\PSP समापिका\N-NN क्रिया\N-NN के\PSP रूप\N-NN में\PSP रक्खल\N-NN जा\V-VM हइ\V-VAUX (जउन\N-NN क्रिया\N-NN के\PSP रूप\N-NN में\PSP पुरुष,\N-NN काल\V-VM आदि\N-NN के\PSP अनुसार\N-NN बदलाव\N-NN होवऽ\V-VM हइ\V-VAUX ओकरा\PR-PRP समापिका\N-NN क्रिया\N-NN कहल\V-VM जा\V-VAUX हइ\V-VM )\RD-SYM ।\RD-PUNC 
+आकारान्त\N-NN धातु\N-NN में\PSP '-त',\V-VM '-ते',\V-VAUX '-ए',\RD-PUNC '-ओ',\RD-PUNC '-बे',\RD-PUNC '-बो'\N-NN (या\N-NN '-वे','-वो'),\V-VM '-हीं',\RD-PUNC '-हूँ'\V-VM प्रत्यय\N-NN लगावे\V-VM पर\PSP धातु\N-NN के\PSP ‘आ’\N-NN बदल\V-VM के\PSP ‘अइ’\N-NN हो\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL -ऊ\N-NN गेलइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP गेवे\V-VM कइलइ\N-NN (वह\N-NN गया\N-NNP ही)\N-NN ।\RD-PUNC 
+ऊ\PR-PRP गेवो\N-NN कइलइ\N-NN (वह\N-NN गया\N-NNP भी)\N-NN ।\RD-PUNC 
+ऊ\PR-PRP जा\V-VM हइ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP जइबे\N-NN करऽ\V-VM हइ\V-VAUX (वह\N-NN जाता\N-NN ही\RP-RPD है\V-VAUX )\RD-SYM ।\RD-PUNC 
+ऊ\PR-PRP जइबो\N-NN करऽ\V-VM हइ\V-VAUX (वह\N-NN जाता\N-NN भी\RP-RPD है\V-VM )\RD-SYM ।\RD-PUNC 
+ऊ\PR-PRP जइतइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP जइवे\V-VM करतइ\V-VAUX (वह\N-NN जाएगा\V-VM ही)\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP जइवो\N-NN करतइ\V-VM (वह\N-NN जाएगा\V-VM भी)\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP करऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP करवे\N-NN करऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP करवो\N-NN करऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+कइसन\PR-PRQ हे\V-VAUX हम्मर\PR-PRP बेटी\N-NN देवमुन\V-VM नियर\N-NN ।\RD-PUNC 
+केउ\PR-PRP कहबे\V-VM न\RP-NEG करऽ\V-VM हे\V-VAUX कि\CC-CCS इ\N-NN चमइन\N-NN के\PSP बेटी\N-NN हे\V-VM ।\RD-PUNC 
+मिलबे\V-VM न\RP-NEG करऽ\V-VAUX हे\V-VAUX कुल\N-NN खूँट\N-NN में\PSP ।\RD-PUNC 
+(गो॰3:19.2,\QT-QTC 3)तिनडिड़िया\N-NN उगे\V-VM के\V-VAUX बेरा\N-NN हो\V-VM गेल\V-VAUX आउर\CC-CCD इ\N-NN निगोड़ी\N-NN के\PSP आँख\N-NN मुनयबे\V-VM न\RP-NEG करे\V-VM ।\RD-PUNC 
+(गो॰4:20.16-17)लेकिन\CC-CCD निम्नलिखत\N-NN वाक्य\N-NN में\PSP ऊपर\N-NN वला\N-NN नियम\N-NN लागू\PSP नयँ\N-NN होवऽ\V-VM हइ,\V-VAUX काहे\CC-CCS कि\CC-CCS ‘जाना’\N-NN क्रिया\N-NN के\PSP समापिका\N-NN रूप\N-NN में\PSP प्रयोग\N-NN नयँ\N-NN कइल\V-VM गेले\V-VAUX ह\V-VAUX -ओकरा\RD-PUNC जाय\V-VAUX में\PSP दिक्कत\N-NN होलइ\V-VM (उसे\PSP जाने\N-NN में\PSP दिक्कत\N-NN हुई)\V-VM ।\RD-PUNC 
+ओकरा\PR-PRP जाहीं\N-NN में\PSP दिक्कत\N-NN होलइ\V-VM ।\RD-PUNC 
+ओकरा\PR-PRP जाहूँ\N-NN में\PSP दिक्कत\N-NN होलइ\V-VM ।\RD-PUNC 
+(6)\N-NN संयुक्त\N-NN क्रिया\N-NN में\PSP से\PSP मुख्य\N-NN क्रिया\N-NN में\PSP '-ए',\V-VM '-ओ'\V-VAUX प्रत्यय\N-NN लगावल\V-VM जा\V-VAUX हइ\V-VAUX (इय्,\RD-PUNC उय्\N-NN आगम\N-NN के\PSP साथ)\N-NN आउ\CC-CCD आना,\V-VM जाना,\V-VAUX देना\V-VAUX आदि\CC-CCD सहयोगी\N-NN क्रिया\N-NN के\PSP समापिका\N-NN रूप\N-NN में\PSP रक्खल\N-NN जा\V-VM हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL –चल\V-VM जाना\V-VAUX (चला\N-NN जाना)\V-VM -\RD-PUNC चलिये\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+चलियो\V-VM जा\V-VM हइ\V-VAUX ।\RD-PUNC 
+दुनियाँ\N-NN में\PSP आझ\N-NN ला\PSP कोई\PR-PRI अइसन\RP-RPD सराब\N-NN इया\CC-CCD दवाई\N-NN न\RP-NEG बनल\V-VM जे\PR-PRL उ\PR-PRP इयादगारी\N-NN के\PSP मेटा\N-NN सके\V-VM ।\RD-PUNC 
+उ\PR-PRP तो\PR-PRL बखत-बखत\N-NN पर\PSP वात\N-NN रोग\N-NN के\PSP दरद\N-NN नियर\N-NN पुरवइया\N-NN के\PSP चले\V-VM पर\PSP उभरिये\V-VM आवऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+(गो॰3:16.5)सात-गो\N-NN बेटा\N-NN खायत\V-VM आउ\CC-CCD एगो\QT-QTC बेटी\N-NN ला\PSP लोग\N-NN टोकियो\V-VM देथ,\V-VAUX उठाइयो\V-VM देथ\V-VAUX ।\RD-PUNC 
+(गो॰3:16.32)(7)\N-NN नयँ\N-NN (या\N-NN नञ)\N-NN में\PSP प्रत्यय\N-NN लगावे\V-VM के\V-VAUX पहिले\N-NST एक्कर\V-VM हिन्दी\N-NN के\PSP मूल\N-NN सम्पूर्ण\N-NN रूप\N-NN 'नहीं'\N-NN के\PSP प्रयोग\N-NN कइल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+प्रत्ययो\N-NN अनुनासिक\N-NN हो\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+नयँ\N-NN -\RD-PUNC नहिंएँ,\RP-NEG नहिंओं\V-VM ।\RD-PUNC 
+ऊ\PR-PRP नहिंए\N-NN जइतइ\V-VM त\N-NN की\PR-PRQ हो\V-VM जइतइ\V-VAUX ?\RD-PUNC 
+ऊ\PR-PRP नहिंओं\N-NN जइतइ\V-VM त\N-NN ई\DM-DMI काम\N-NN में\PSP कोय\PR-PRI दिक्कत\N-NN नयँ\PSP होतइ\V-VM ।\RD-PUNC 
+(8)\N-NN संज्ञा\N-NN के\PSP दू\QT-QTC या\N-NN तीन\QT-QTC अक्षर\N-NN के\PSP रहला\N-NN पर\PSP प्रत्यय\N-NN लगावे\V-VM के\V-VAUX पहिले\N-NST वकार\N-NN आगमो\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL -\RD-PUNC गेंद\N-NN -\RD-PUNC गेंदे,\N-NN गेंदो;\N-NN गेंदवे,\N-NN गेंदवो\N-NN खेल\V-VM -\RD-PUNC खेले,\V-VM खेलो;\V-VAUX खेलवे,\RD-PUNC खेलवो\PR-PRL समय\N-NN -\RD-PUNC समइये,\N-NN समइयो;\V-VM समयवे,\RD-PUNC समयवो\V-VM रामचन्दर\N-NN -\RD-PUNC रमचन्दरे,\N-NN रमचन्दरो\N-NN (हीआँ\N-NN वकार\N-NN आगम\N-NN नयँ)(9)\N-NN यदि\N-NN दू\QT-QTC या\N-NN तीन\QT-QTC अक्षर\N-NN वला\N-NN संज्ञा\N-NN पंचमाक्षर\N-NN से\PSP अन्त\N-NN होवे\V-VM त\N-NN मकार\N-NN आगम\N-NN आउ\CC-CCD मकारान्त\N-NN शब्द\N-NN के\PSP म्म\N-NN हो\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL -अरुण\N-NN -\RD-PUNC अरुणमे,\N-NN अरुणमोनाम\N-NN -\RD-PUNC नम्मे,\RD-PUNC नम्मोगाम\N-NN -\RD-PUNC गम्मे,\N-NN गम्मो(10)\N-NN ई\DM-DMI आउ\CC-CCD ऊ\PR-PRP सर्वनाम\N-NN के\PSP बाद\N-NN '-ए',\RD-PUNC '-ओ'\N-NN प्रत्यय\N-NN लगइला\V-VM पर\PSP दुन्नू\N-NN सर्वनाम\N-NN के\PSP गुण\N-NN (\RD-SYM ई\DM-DMI -->;\V-VM ए;\V-VAUX ऊ\PR-PRP -->;ओ\N-NN )\RD-SYM हो\V-VM जा\V-VAUX हइ\V-VAUX आउ\CC-CCD अन्त\N-NN में\PSP हकार\N-NN के\PSP भी\RP-RPD आगम\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI -\RD-PUNC एहे,\V-VM एहो\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP -\RD-PUNC ओहे,\PR-PRP ओहो\DM-DMD ।\RD-PUNC 
+(11)\N-NN उपाधियुक्त\N-NN संज्ञा\N-NN से\PSP उपाधि\N-NN से\PSP परे\V-VM या\CC-CCD संज्ञा\N-NN से\PSP परे\V-VM '-ए',\V-VAUX '-ओ'\N-NN प्रत्यय\N-NN लगऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL -देवनाथ\PSP ठाकुरे\N-NN या\CC-CCD देवनाथे\N-NN ठाकुर\N-NN ।\RD-PUNC 
+देवनाथ\N-NN ठाकुरो\V-VM या\CC-CCD देवनाथो\V-VM ठाकुर\N-NN ।\RD-PUNC 
+(12)\N-NN पुर,\PSP नगर\N-NN में\PSP विशेषण\N-NN से\PSP या\CC-CCD विशेष्य\N-NN से\PSP परे\V-VM ।\RD-PUNC 
+जइसे\PR-PRL -रामेपुर\N-NN (या\N-NN रामपुरे)\N-NN जइबइ\V-VM ।\RD-PUNC 
+रामोपुर\N-NN (या\N-NN रामपुरो)\N-NN जइबइ\V-VM ।\RD-PUNC 
+राजेनगर,\N-NN राजनगरे\N-NN ।\RD-PUNC 
+राजोनगर,\N-NN राजनगरो\N-NN ।\RD-PUNC 
+(13)\N-NN पर\PSP (पुर\N-NN अर्थ\N-NN में\PSP प्रयुक्त),\V-VM बिगहा\N-NN (बीघा)\N-NN आदि\N-NN उत्तरपदान्त\N-NN ग्रामवाची\N-NN शब्द\N-NN से\PSP पूर्व\N-NN पद\N-NN से\PSP ।\RD-PUNC 
+जइसे\PR-PRL -हम्मर\RD-PUNC समधियाना\N-NN अँकुरिए\N-NN पर\PSP न\RP-NEG हे\V-VAUX ।\RD-PUNC 
+(गो॰5:27.9)\N-NN ["अँकुरी\N-NN पर"\N-NN (गो॰5:25.14)\N-NN एगो\QT-QTC गाँव\N-NN के\PSP नाम\N-NN हइ\V-VM ।\RD-PUNC 
+]तोहरो\PR-PRP घरवा\N-NN भागने\N-NN बिगहा\N-NN हको\V-VM ?\CC-CCD 
+[भागनबिगहा\N-NN एगो\QT-QTC गाँव\N-NN के\PSP नाम\N-NN हइ\V-VM ।\RD-PUNC 
+](14)\N-NN द्वन्द्व\N-NN समास\N-NN में\PSP पूर्व\N-NN पद\N-NN से\PSP ।\RD-PUNC 
+जइसे\PR-PRL -सागे-पात,\V-VM सागो-पात\N-NN ।\RD-PUNC 
+भूखे-पियास,\N-NN भूखो-पियास\N-NN ।\RD-PUNC 
+हाले-चाल,\N-NN हालो-चाल\N-NN ।\RD-PUNC 
+उ\PR-PRP ओकर\PR-PRP हालो-चाल\N-NN न\RP-NEG पुछलन\V-VM ।\RD-PUNC 
+(गो॰1:4.10)किसइनियाँ\N-NN डाँटलक\V-VM -\RD-PUNC माय\N-NN मरल\V-VM जा\V-VAUX रहल\V-VM हे\V-VAUX आउ\CC-CCD इनखा\N-NN लाजे-गरान\N-NN सुज्झऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+(गो॰6:27.32)कम-से-कम\N-NN बियाह\N-NN वाला\N-NN रिन\N-NN से\PSP तो\PR-PRL छुट्टी\N-NN मिल\V-VM जायत,\V-VAUX कुछ\QT-QTF जाड़ा\N-NN के\PSP कपड़ो-लत्ता\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+(गो॰6:27.22)मजूर\N-NN के\PSP जिनगी\N-NN सुअरो-कुत्ता\N-NN से\PSP बत्तर\V-VM ।\RD-PUNC 
+(गो॰1:8.15)एकाध\V-VM बार\N-NN तो\PR-PRL एकरा\DM-DMD लागी\PSP तो\PR-PRL बाबू\N-NN लोग\N-NN मारो-धार\N-NN कयलन\V-VM हल\V-VAUX ।\RD-PUNC 
+(गो॰3:16.24)कभी\N-NN कदाक\N-NN राजनीतिक\N-NN पहलवान\N-NN से\PSP भेंटो-घाँट\N-NN कर\V-VM ले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+(गो॰9:41.1)बड़का\N-NN बाबू\N-NN के\PSP मलकिनी\N-NN एक\QT-QTC दिन\N-NN लानतो\V-VM मलामत\N-NN कयलन\V-VM ।\RD-PUNC 
+(गो॰3:20.3)रघुवर\N-NN महतो\N-NN के\PSP तो\PR-PRL दस-पाँच\QT-QTC जरो-जमीन\N-NN हे\V-VM ।\RD-PUNC 
+(गो॰4:21.30)सुदरसन\N-NN आउ\CC-CCD पैंचकौड़ियो\N-NN तो\PR-PRL बरहामने-रजपूत\N-NN हे\V-VM ।\RD-PUNC 
+(कहानी\N-NN "जिनगी\N-NN के\PSP पन्ना"\N-NN से)तखनी\N-NN तो\PR-PRL सब्भे\QT-QTF बुतरू\N-NN पहिले-दुसरा\N-NN किलास\N-NN में\PSP पढ़ऽ\RB हल,\V-VM फिर\CC-CCD भी\RP-RPD अंग्रेजी\RP-RPD के\PSP दु-तीन\QT-QTC गो\RP-CL सबद\N-NN सिरिफ\N-NN बोलवे\V-VM नैं\N-NN करऽ\V-VM हल,\V-VAUX ओकर\PR-PRP अरथो\N-NN समझऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+(कहानी\N-NN "जिनगी\N-NN के\PSP पन्ना"\N-NN से)(15)\PSP समस्त\N-NN शब्द\N-NN क्रियाविशेषण\N-NN के\PSP तरह\RP-RPD प्रयोग\N-NN कैला\N-NN पर\PSP दूनहूँ\N-NN पद\N-NN में\PSP ।\RD-PUNC 
+जइसे\PR-PRL -भुखले-पियासले\V-VM ।\RD-PUNC 
+कमाय\N-NN में\PSP बज्जड़\N-NN आउ\CC-CCD खाय\V-VM में\PSP जे\PR-PRL मिल\V-VM गेल\V-VAUX खेसाड़ी\N-NN के\PSP भुसड़ी\N-NN सत्तुओ\N-NN तो\PR-PRL कोई\PR-PRI परवाह\N-NN न\RP-NEG ।\RD-PUNC 
+ओह\N-NN ।\RD-PUNC 
+दुन्नू\N-NN के\PSP आधा\N-NN दिन\N-NN तो\PR-PRL भुखले-पियासले\N-NN सुखले\N-NN संख\N-NN एकादसिये\N-NN में\PSP बीतऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+(गो॰1:8.30)(16)\RB कोय\PR-PRI शब्द\N-NN के\PSP द्वित्व\N-NN होला\V-VM पर\PSP ओकर\PR-PRP पहिला\QT-QTO अंश\N-NN से\PSP ।\RD-PUNC 
+जइसे\PR-PRL -सिस्टर\N-NN आज्झ\N-NN कारावास\N-NN के\PSP बन्दी\N-NN नियर\N-NN छटपटाय\V-VM लगल\V-VAUX जेकरा\PR-PRL चारो\QT-QTC ओर\N-NN घेरे-घेरा\V-VM हल\V-VAUX और\CC-CCD इकसे\N-NN के\PSP एक्को\QT-QTC छेद\N-NN न\RP-NEG हल\V-VM ।\RD-PUNC 
+(गो॰1:11.7)एही\N-NN तीन\QT-QTC घर\N-NN चमरटोली\N-NN छोड़\V-VM के\PSP सौंसे\N-NN महरो\N-NN गोरइया\N-NN पक्के-पक्का\N-NN हल,\V-VM कच्चा\N-NN हल\V-VM तो\PR-PRL खाली\QT-QTF चमरटोली\N-NN ।\RD-PUNC 
+(गो॰4:21.16)एक\QT-QTC दिन\N-NN बुढ़िया\N-NN नर्स\N-NN बाते-बात\N-NN में\PSP पूछ\V-VM बइठल\V-VAUX (गो॰11:46.21)सिंचाई\N-NN विभाग\N-NN के\PSP नोकरी\N-NN में\PSP तो\PR-PRL अराम\N-NN आउ\CC-CCD छुट्टिये-छुट्टी\N-NN रहऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+(अमा॰173:19:1.15)\N-NN फयदे-फयदा\N-NN हे\V-VM ।\RD-PUNC 
+अब\N-NN अरुण\N-NN कुमार\N-NNP सिन्हा\N-NN जी\N-NN के\PSP कहानी\N-NN "जिनगी\N-NN के\PSP पन्ना"\N-NN (अलका\N-NN मागधी,\V-VM फरवरी\N-NN २०१०,\PSP पृ॰१३-१५)\N-NN में\PSP से\PSP कुछ\QT-QTF उदाहरण\N-NN प्रस्तुत\N-NN कइल\V-VM जा\V-VAUX रहले\V-VM ह\V-VAUX ।\RD-PUNC 
+जिनका\PR-PRP पास\N-NN अलका\N-NN मागधी\N-NN के\PSP ई\DM-DMI प्रति\N-NN नयँ\V-VM हइ,\V-VAUX लेकिन\CC-CCD अंतरजाल\N-NN (इंटरनेट)\N-NN के\PSP सुविधा\N-NN हइ,\V-VM ऊ\PR-PRP निम्नलिखित\N-NN जालस्थल\N-NN पर\PSP एकरा\DM-DMD देख\V-VM सकऽ\V-VAUX हथिन\V-VAUX -http://magahi-sahitya\RD-PUNC .\V-VM 
+blogspot\N-NN .\V-VM 
+com/2010/07/17\N-NN .\V-VM 
+html\N-NN ई\DM-DMI तो\PR-PRL बरहमदेउए\N-NN नियन\RP-RPD लोग\N-NN जानऽ\V-VM हे\V-VAUX कि\CC-CCS ई\DM-DMI इसकूल\N-NN के\PSP ईंटा-ईंटा\N-NN में\PSP नन्दू\N-NN बाबू\N-NN के\PSP नाम\N-NN लिखल\V-VM हे\V-VAUX ।\RD-PUNC 
+(बरहमदेउए\N-NN नियन\RP-RPD लोग\N-NN =\N-NN ब्रह्मदेव\V-VM के\PSP समान\N-NN लोग\N-NN ही)गरीब\N-NN के\PSP बुतरू\N-NN के\PSP तो\PR-PRL ऊ\PR-PRP सुबह-शाम\N-NN मुफ्ते\N-NN में\PSP पढ़ा\V-VM दे\V-VAUX हलन\V-VAUX ।\RD-PUNC 
+(मुफ्ते\N-NN में\PSP =\N-NN मुफ्त\N-NN में\PSP ही)दोसर-दोसर\V-VM बड़जतियन\N-NN के\PSP देखऽ,\V-VM हमन्हीं\V-VAUX तो\PR-PRL फुटलो\N-NN आँख\N-NN नैं\PSP सोहा\V-VM ही\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD नन्दू\PR-PRP बाबू\N-NN के\PSP तो\PR-PRL बाते\N-NN जुदा\N-NN हे\V-VM ।\RD-PUNC 
+(फुटलो\N-NN आँख\N-NN नैं\PSP =\N-NN फुटल\V-VM आँख\N-NN भी\RP-RPD नहीं;\RP-NEG बाते\N-NN =\N-NN बात\N-NN ही)सोआरथे\V-VM के\PSP संसार\N-NN हे\V-VM ई\DM-DMI ।\RD-PUNC 
+सुदरसन\N-NN आउ\CC-CCD पैंचकौड़ियो\N-NN तो\PR-PRL बरहामने-रजपूत\N-NN हे\V-VM ।\RD-PUNC 
+दुन्हूँ\DM-DMD चपरासी\N-NN अभियो\N-NN हमन्हीं\V-VM के\PSP सलामी\N-NN दागऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+हमरा\PR-PRP रिटायरो\N-NN कइला\N-NN पर\PSP ओकन्हीं\N-NN के\PSP बेवहार\N-NN में\PSP कोई\PR-PRI फरक\N-NN नैं\PSP आयल\V-VM हे\V-VAUX ।\RD-PUNC 
+नन्दू\N-NN बाबू\N-NN तो\PR-PRL भगमाने\N-NN हलन\V-VM ।\RD-PUNC 
+साथ\PSP में\PSP ओकर\PR-PRP टोला\N-NN के\PSP सिवसंकर\N-NN आउ\CC-CCD रामजतनो\N-NN हलन\V-VM ।\RD-PUNC 
+जाड़ो\N-NN के\PSP कँपकँपी\N-NN में\PSP लरिकन\N-NN मुँहझप्पे\N-NN सुत-उठके\V-VM घर\N-NN से\PSP इँकस\N-NN जाहे\V-VM खेले\V-VM ला\PSP ।\RD-PUNC 
+ओमें\N-NN फुलेसर\N-NN हल,\V-VM दुन्हू\V-VAUX भाई\N-NN सुरेसो-नरेसो\N-NN हल,\V-VM दुन्हू\V-VAUX भाई\N-NN बिरजुओ-राजो\N-NN हल,\V-VM सिधुओ\N-NN हल,\V-VM दुहूँ\N-NN मामू-भगिना\N-NN रमासामी\N-NN आउ\CC-CCD अरुणो\N-NN हल\V-VM ।\RD-PUNC 
+तखनी\N-NN तो\PR-PRL सब्भे\QT-QTF बुतरू\N-NN पहिले-दुसरा\N-NN किलास\N-NN में\PSP पढ़ऽ\RB हल,\V-VM फिर\CC-CCD भी\RP-RPD अंग्रेजी\RP-RPD के\PSP दु-तीन\QT-QTC गो\RP-CL सबद\N-NN सिरिफ\N-NN बोलवे\V-VM नैं\N-NN करऽ\V-VM हल,\V-VAUX ओकर\PR-PRP अरथो\N-NN समझऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+एकरे\N-NN तो\PR-PRL लोग\N-NN संस्कार\N-NN कहऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+(हीयाँ\DM-DMD "फिर\N-NN भी"\V-VM के\PSP बदले\N-NN "तइयो"\N-NN के\PSP प्रयोग\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+;\N-NN पहिले-दुसरा\N-NN किलास\N-NN में\PSP =\N-NN पहिला-दूसरा\N-NN क्लास\N-NN में\PSP ही\RP-RPD )जहाँ\PR-PRL पहिले\N-NST एक्के-दुक्के\QT-QTC अदमी\N-NN के\PSP रेडियो\N-NN सुने\V-VM ला\PSP नसीब\N-NN होवऽ\V-VM हल,\V-VAUX हुएँ\RD-PUNC आझ\N-NN टी॰वी॰,\V-VM रेडियो,\V-VAUX वीडियो,\RD-PUNC सब्भे\PSP देखऽ-सुनऽ\V-VM हे,\V-VAUX सहरे\N-NN नैं,\PSP देहातो\N-NN में\PSP ।\RD-PUNC 
+तखनी\N-NN तो\PR-PRL एगो\QT-QTC मुकुंदिये\N-NN पाँड़े\N-NN के\PSP पराती\N-NN सुने\V-VM ला\PSP मिलऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+(मुकुंदिये\N-NN पाँड़े\N-NN के\PSP =\N-NN मुकुन्दी\N-NN पाँड़े\N-NN के\PSP ही)हमरा\PR-PRP कहियो\N-NN समझे\V-VM में\PSP नैं\N-NN आयल\V-VM ।\RD-PUNC 
+(कहियो\V-VM =\N-NN कभी\N-NN भी)अपना\N-NN सोचे\V-VM से\PSP कुच्छो\QT-QTF होवे\V-VM के\PSP नैं\N-NN हे,\PSP लोग-बाग\N-NN के\PSP अप्पन\PR-PRP करम\N-NN करे\V-VM के\PSP चाही\V-VAUX ।\RD-PUNC 
+चोर\N-NN चोरी\N-NN से\PSP गेल\V-VM कि\CC-CCS तुम्माफेरियो\N-NN से\PSP ।\RD-PUNC 
+साफे\N-NN कह\V-VM देलक\V-VAUX हल\V-VAUX -\RD-PUNC 'ई\N-NN चमरन\N-NN के\PSP बुतरू\N-NN हियाँ\N-NN कहाँ\PR-PRQ से\PSP टपक\V-VM गेल\V-VAUX !\RD-PUNC 
+'\N-NN (साफे\PSP =\N-NN साफ\N-NN ही)मुचकुन\V-VM पाँड़े\N-NN तखनी\RP-RPD नन्दुओ\N-NN बाबू\N-NN पर\PSP बोल\V-VM उठलन\V-VM हल\V-VAUX ।\RD-PUNC 
+ह\V-VM तो\PR-PRL 'लिख\N-NN लोढ़ा\N-NN पढ़\V-VM पत्थर'\V-VAUX आउ\CC-CCD चाहऽ\V-VM ह\V-VAUX कि\CC-CCS सब्भे\V-VM हम्मर\PR-PRP गोड़े\N-NN छुए\V-VM ।\RD-PUNC 
+कुल-खनदान\N-NN तारे\V-VM ला\PSP कुछ\QT-QTF पढ़बो-लिखबो\V-VM तो\PR-PRL करऽ\V-VM ।\RD-PUNC 
+(गोड़े\N-NN =\N-NN गोड़\N-NN ही)एकरे\V-VM मइया\N-NN न\RP-NEG तोरा\PR-PRP जलम\V-VM देलको\V-VAUX हे\V-VAUX ।\RD-PUNC 
+बिना\N-NN ओकरा\PR-PRP अइले\V-VM तोरा\PR-PRP जलमो\V-VM नैं\N-NN होतो\V-VM हल\V-VAUX ।\RD-PUNC 
+तोहर\PR-PRP ई\DM-DMI सब\QT-QTF कहे\V-VM के\PSP हमरा\PR-PRP पर\PSP कउनो\N-NN असर\N-NN होवेओला\N-NN नैं\N-NN हे\V-VAUX पाँड़े\N-NN ।\RD-PUNC 
+अभी\N-NN तो\PR-PRL इसकूल\N-NN हमरे\PR-PRP दलान\N-NN पर\PSP चलत,\V-VM जइसे\V-VAUX चल\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+बरहमदेव\N-NN एही\DM-DMD सोचिए\N-NN रहल\V-VM हल\V-VAUX कि\CC-CCS मुचकुन\N-NN पाँड़े\N-NN ड्राइवर\N-NN भिजुन\PSP पहुँच\V-VM गेल\V-VAUX ।\RD-PUNC 
+मुचकुन\N-NN के\PSP देख\V-VM के\PSP बरहमदेव\N-NN मुँह\N-NN घुमा\N-NN के\PSP ठड़ी\N-NN हो\V-VM गेल,\V-VAUX लेकिन\CC-CCD कान\N-NN इधरे\N-NN पारले\V-VM रहल,\V-VAUX ई\DM-DMI जाने\V-VM ला\V-VAUX कि\CC-CCS ड्राइवर\N-NN से\PSP मुचकुन\V-VM की\V-VAUX बतिआ\V-VM हे\V-VAUX ।\RD-PUNC 
+मुचकुन\CC-CCS बोल\V-VM पड़ल\V-VAUX -'ए॰डी॰एम॰\V-VAUX बाबू\N-NN के\PSP गाड़ी\N-NN हे\V-VM ?\RD-PUNC 
+कहाँ\PR-PRQ हथ\V-VM अपने\PR-PRP ऊ\PR-PRP ?\V-VM 
+’अब\N-NN तो\PR-PRL ऊ\PR-PRP पहचानो\V-VM में\PSP नैं\N-NN आयत\V-VM ।\RD-PUNC 
+नाँव\N-NN बतावे\V-VM से\PSP हमरा\PR-PRP ऊ\PR-PRP जरूरे\N-NN पहचान\V-VM लेत\V-VAUX ।\RD-PUNC 
+मुचकुन\N-NN के\PSP बात\N-NN सुनइते\V-VM बरहमदेव\N-NN के\PSP दिल\N-NN पसीज\N-NN गेल\V-VM ।\RD-PUNC 
+[सुनइते\V-VM =\N-NN सुनते\V-VM ही;\V-VAUX लेकिन\CC-CCD नालन्दा\N-NN के\PSP मगही\N-NN में\PSP सुनइते\V-VM के\PSP अर्थ\N-NN सुनते\V-VM नयँ,\RD-PUNC बल्कि\CC-CCD सुनाते\N-NN अर्थ\N-NN होवऽ\V-VM हइ\V-VAUX -\RD-PUNC नियम\N-NN (3)\N-NN के\PSP अंतर्गत\N-NN उदाहरण\N-NN देखल\V-VM जाय\V-VAUX ।\RD-PUNC 
+]मुचकुन\N-NN पाँड़े\N-NN आखिर\N-NN हे\V-VM तो\PR-PRL हम्मर\PR-PRP पड़ोसिये\V-VM ।\RD-PUNC 
+अब\N-NN तो\PR-PRL ओकर\PR-PRP सुभाउओ\N-NN में\PSP काफी\N-NN बदलाव\N-NN आ\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पहिले\N-NST नियन\RP-RPD अखनी\N-NN ओकर\PR-PRP तेवरो\N-NN नैं\V-VM हे\V-VAUX ।\RD-PUNC 
+बरहमदेव\N-NN के\PSP मेहरारुओ\N-NN तड़ाक\N-NN से\PSP घूँघट\N-NN काढ़\V-VM के\V-VAUX मुचकुन\N-NN पाँड़े\N-NN के\PSP पाँव\N-NN छुए\V-VM लगल\V-VAUX ।\RD-PUNC 
+बड़\N-NN सुन्नर\JJ गावऽ\N-NN हथ,\V-VM मुकुंदिये\N-NN जी\N-NN नियन\RP-RPD ।\RD-PUNC 
+अढ़ाई\N-NN बरिस\QT-QTC तो\PR-PRL नन्दुओ\N-NN बाबू\N-NN के\PSP मरला\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+एगो\QT-QTC भाइयो\N-NN तो\PR-PRL हल\V-VM उनकर\PR-PRP रमासामी\N-NN ।\RD-PUNC 
+उनकर\PR-PRP भगिना\N-NN अरुण\N-NN तो\PR-PRL मामुए\N-NN नियन\RP-RPD मास्टरी\N-NN लैन\N-NN में\PSP हे\V-VM ।\RD-PUNC 
+ऊ\PR-PRP मास्टरो\N-NN के\PSP पढ़ावऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD हँ,\V-VM उनकर\PR-PRP भाय\N-NN रमासामी,\V-VM ऊ\PR-PRP तो\PR-PRL बाढ़े\N-NN में\PSP नामी\N-NN ओकील\N-NN हो\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+नन्दू\PR-PRP बाबू\N-NN के\PSP सीधा\N-NN होवे\V-VM के\PSP ही\RP-RPD ई\DM-DMI नतीजा\N-NN हे\V-VM कि\CC-CCS उनकर\PR-PRP बेटा\N-NN नवल,\PSP जे\PR-PRL लखपति\N-NN बनल\V-VM रहत\V-VAUX हल,\V-VAUX से\PSP आज\N-NN बिलट\N-NN गेल\V-VM हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD में\PSP किस्मते\N-NN के\PSP कोसल\V-VM जा\V-VAUX सकऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+(सीधा\N-NN होवे\V-VM के\PSP ही\RP-RPD ई\DM-DMI नतीजा\N-NN हे\V-VM =\N-NN सीधहीं\N-NN होवे\V-VM के\PSP ई\DM-DMI नतीजा\N-NN हे)ई\V-VM तो\PR-PRL मुचकुने\N-NN हल\V-VM कि\CC-CCS बरहमदेव\N-NN के\PSP भर\RP-RPD पाँजा\N-NN पकड़\V-VM के\V-VAUX गिरे\V-VM से\PSP बचा\N-NN लेलक\V-VM ।\RD-PUNC 
+********************************************************डॉ॰\N-NN श्रीकान्त\N-NN शास्त्री\N-NN जी\N-NN के\PSP उपन्यास\N-NN गोदना\N-NN से\PSP कुछ\QT-QTF उदाहरण\N-NN देखल\V-VM जाय\V-VAUX –कहिनो\CC-CCD बखत\N-NN आइए\N-NN जायत\V-VM -\RD-PUNC धीरज\N-NN धरे\N-NN से\PSP उतरे\V-VM पारा\N-NN ।\RD-PUNC 
+(गो॰4:23.20)हाँ\N-NN तो\PR-PRL मँगरा\N-NN अप्पन\PR-PRP सीला\N-NN बेटी\N-NN के\PSP निबाहिए\N-NN देलक\V-VM दुखम-सुखम\V-VAUX ।\RD-PUNC 
+(गो॰4:23.23)दोसालो\N-NN से\PSP जाड़ा\V-VM कट्टऽ\V-VAUX हे\V-VAUX आउर\CC-CCD गेंदरो\N-NN से;\N-NN जाड़ा\V-VM बरोबरे\N-NN गिरऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+(गो॰3:17.20-21)धमधमी\N-NN तेल\N-NN न\RP-NEG तो\PR-PRL तीसिये\N-NN के\PSP तेल\N-NN पोरऽ\N-NN हे,\V-VM न\RP-NEG तो\PR-PRL न\RP-NEG ।\RD-PUNC 
+(गो॰3:18.5)हम\N-NN सिलवा\N-NN के\PSP जल्दीए\N-NN रोकसद्दी\N-NN करे\V-VM के\PSP फेर\N-NN में\PSP ही\V-VM बाकि\CC-CCD हाथ\N-NN पर\PSP पइसे\N-NN न\RP-NEG हे\V-VM ।\RD-PUNC 
+केउ\PR-PRP काड़ो\N-NN सुद\N-NN पर\PSP पइसा\N-NN देवे\V-VM ला\PSP तइयारो\N-NN न\RP-NEG हे\V-VM ।\RD-PUNC 
+(गो॰6:32.25-26)कन्यादाने\N-NN से\PSP जाँघ\N-NN पवित्तर\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+(गो॰6:32.26)गाँव\N-NN के\PSP दमाद\N-NN होवे\V-VM के\V-VAUX नाते\N-NN कोई\PR-PRI सारिये\N-NN हल\V-VM तो\PR-PRL कोई\PR-PRI सरहजे\N-NN ।\RD-PUNC 
+(गो॰4:22.16)सबसे\N-NN जादे\N-NN रोवल\N-NN छोटका\JJ भाई\N-NN ।\RD-PUNC 
+बाकि\CC-CCD तीनो\QT-QTC नाया\N-NN आवल\V-VM भौजाई\N-NN के\PSP आँख\N-NN से\PSP पसेवो\N-NN न\RP-NEG चलल\V-VM ।\RD-PUNC 
+(गो॰5:24.9)छोटका\JJ भाई\N-NN जब\PR-PRL बहुत\N-NN रोवल-कानल\V-VM तो\PR-PRL ओकरो\PR-PRP जाय\V-VM देवल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+एगो\QT-QTC के\PSP पुछार\N-NN जाहीं\N-NN देवे\V-VM के\PSP चाही\V-VAUX ।\RD-PUNC 
+(गो॰5:24.16)उ\PR-PRP अप्पन\PR-PRP बाप-भाई\N-NN के\PSP कंटोर\N-NN में\PSP रहऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF जो\RP-RPD बाप-भाई\N-NN सुनई\V-VM तो\PR-PRL मारहीं\N-NN के\PSP फेंक\V-VM देई\V-VAUX ।\RD-PUNC 
+(गो॰5:24.27)सिलवा\N-NN सुने,\V-VM सुन-सुन\N-NN के\PSP कखनियों\N-NN कुरचे,\PSP कखनियों\N-NN संकुचे,\PSP कखनियों-कखनियों\N-NN अप्पन\PR-PRP सीपी\N-NN नियर\N-NN आँख\N-NN में\PSP मोतियो\N-NN भर\N-NN ले\V-VM बिला\N-NN सोआतिये\V-VM के\V-VAUX ।\RD-PUNC 
+(गो॰5:25.27)ऊ\N-NN अपन\PR-PRP पहाड़\N-NN पर\PSP के\PSP घर\N-NN छोड़े\V-VM ला\PSP रवेदारे\N-NN न\RP-NEG होल\V-VM ।\RD-PUNC 
+(अआवि॰58:20)कबहियों-कबहियों\N-NN रसोइयो\N-NN बना\V-VM दे\V-VAUX हल\V-VAUX आउर\CC-CCD रात\N-NN के\PSP सूते\N-NN बखत\N-NN देहो\V-VM दबा\V-VM दे\V-VAUX हल\V-VAUX ।\RD-PUNC 
+(गो॰9:40.13-14)रूप\N-NN रंग\N-NN बेस\N-NN न\RP-NEG तो\PR-PRL बेजायो\N-NN न\RP-NEG हल\V-VM ।\RD-PUNC 
+(गो॰9:42.25)खाय\N-NN के\PSP मनो\N-NN न\RP-NEG करऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+(गो॰10:44.10)दुन्नू\N-NN आपस\PR-PRC में\PSP कुछ\QT-QTF फुसुर-फुसुर\N-NN बतिअयलन\V-VM आउ\CC-CCD फिन\CC-CCD डेरा\N-NN दने\N-NN चल\V-VM पड़लन\V-VAUX ।\RD-PUNC 
+सिलवो\N-NN टघरल\V-VM ।\RD-PUNC 
+(गो॰10:44.34)अइसन\RP-RPD बद-बउरहिया\N-NN बेटी\N-NN होवऽ\V-VM हे\V-VAUX जेकरा\PR-PRL एक्को\QT-QTC लूरे\N-NN न\RP-NEG ।\RD-PUNC 
+(गो॰1:10.19-20)********************************************************नियम\N-NN (13)\N-NN के\PSP कुछ\QT-QTF उदाहरण\N-NN देखल\V-VM जाय\V-VAUX –मजूर\N-NN के\PSP जिनगी\N-NN सुअरो-कुत्ता\N-NN से\PSP बत्तर\V-VM ।\RD-PUNC 
+(गो॰1:8.15)एकाध\V-VM बार\N-NN तो\PR-PRL एकरा\DM-DMD लागी\PSP तो\PR-PRL बाबू\N-NN लोग\N-NN मारो-धार\N-NN कयलन\V-VM हल\V-VAUX ।\RD-PUNC 
+(गो॰3:16.24)कभी\N-NN कदाक\N-NN राजनीतिक\N-NN पहलवान\N-NN से\PSP भेंटो-घाँट\N-NN कर\V-VM ले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+(गो॰9:41.1)डेयोढ़ियो\N-NN सवाई\N-NN में\PSP दत्ती\N-NN लगऽ\V-VM हइन\V-VAUX ।\RD-PUNC 
+(गो॰3:17.30)बड़का\N-NN बाबू\N-NN के\PSP मलकिनी\N-NN एक\QT-QTC दिन\N-NN लानतो\V-VM मलामत\N-NN कयलन\V-VM ।\RD-PUNC 
+(गो॰3:20.3)रघुवर\N-NN महतो\N-NN के\PSP तो\PR-PRL दस-पाँच\QT-QTC जरो-जमीन\N-NN हे\V-VM ।\RD-PUNC 
+(गो॰4:21.30)कम-से-कम\N-NN बियाह\N-NN वाला\N-NN रिन\N-NN से\PSP तो\PR-PRL छुट्टी\N-NN मिल\V-VM जायत,\V-VAUX कुछ\QT-QTF जाड़ा\N-NN के\PSP कपड़ो-लत्ता\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+(गो॰6:27.22)सिस्टर\N-NN आज्झ\N-NN कारावास\N-NN के\PSP बन्दी\N-NN नियर\N-NN छटपटाय\V-VM लगल\V-VAUX जेकरा\PR-PRL चारो\QT-QTC ओर\N-NN घेरे-घेरा\V-VM हल\V-VAUX और\CC-CCD इकसे\N-NN के\PSP एक्को\QT-QTC छेद\N-NN न\RP-NEG हल\V-VM ।\RD-PUNC 
+(गो॰1:11.7)एही\N-NN तीन\QT-QTC घर\N-NN चमरटोली\N-NN छोड़\V-VM के\PSP सौंसे\N-NN महरो\N-NN गोरइया\N-NN पक्के-पक्का\N-NN हल,\V-VM कच्चा\N-NN हल\V-VM तो\PR-PRL खाली\QT-QTF चमरटोली\N-NN ।\RD-PUNC 
+(गो॰4:21.16)********************************************************'लऽ,\PR-PRP ईऽ\V-VM गनौरी\N-NN महतो\N-NN के\PSP अभी\N-NN तक\RP-RPD पते\V-VM न\RP-NEG हे\V-VM कि\CC-CCS गाँव\N-NN जेवार\N-NN कउन\PR-PRQ बात\N-NN पर\PSP गरमा\V-VM रहल\V-VAUX हेऽ\V-VAUX ।\RD-PUNC 
+'\N-NN (बअछो॰1:9.20)\V-VM ।\RD-PUNC 

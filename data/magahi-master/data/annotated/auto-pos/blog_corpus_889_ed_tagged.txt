@@ -1,0 +1,166 @@
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX EN-US\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin-top:-\RD-PUNC .\V-VM 
+05pt;\N-NN mso-para-margin-right:0cm;\N-NN mso-para-margin-bottom:-\RD-PUNC .\V-VM 
+05pt;\N-NN mso-para-margin-left:0cm;\N-NN mso-line-height-alt:0pt;\N-NN mso-pagination:widow-orphan;\N-NN font-size:12.0pt;\N-NN font-family:"Times\N-NN New\V-VM Roman","serif";\V-VAUX mso-bidi-font-family:Calibri;\RD-PUNC mso-fareast-language:EN-US;}\N-NN मगही[08]\N-NN दूरा-दलान\N-NN दिन\N-NN पर\PSP दिन\N-NN काहे\CC-CCS खतम\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX -\RD-PUNC मगहिया\N-NN माटी\N-NN के\PSP महकसुमंत\N-NN (मगही\V-VM लेखक)अप्पन\V-VAUX देश\N-NN भारत\N-NN गाँव\N-NN के\PSP देश\N-NN हलक,\V-VM जहाँ\PR-PRL भारतमाता\N-NN के\PSP जान-प्राण\N-NN रचऽ-बसऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+आझो\CC-CCD बेसी\RB करके\V-VM अदमी-जन\N-NN गाँवे\N-NN में\PSP रहऽ\V-VM हथन,\V-VAUX बाकी\CC-CCS इ\DM-DMD बात\N-NN सही\N-NN हे\V-VM कि\CC-CCS आज\N-NN कमोबेस\N-NN सभे\QT-QTF कोई\PR-PRI मौका\N-NN देखइते\V-VM शहर\N-NN के\PSP दउड़\V-VM लगावल\V-VAUX चाहऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+मगहिया\N-NN माटी\N-NN एकरा\DM-DMD से\PSP अछूत\N-NN नऽ\RP-NEG हे\V-VM ।\RD-PUNC 
+खेती-बारी\N-NN के\PSP हालत\N-NN दिन\N-NN पर\PSP दिन\N-NN खराब\N-NN होते\V-VM जा\V-VAUX रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अब\N-NN एकर\PR-PRP बजह\N-NN चाहे,\V-VM जउन\PR-PRL होवे,\V-VM बाकी\CC-CCS इ\N-NN बात\N-NN सच\N-NN हे\V-VM ।\RD-PUNC 
+आबादी\N-NN भी\RP-RPD एतने\N-NN नऽ\RP-NEG तेजी\RB से\PSP बढ़ल\N-NN हे\V-VM कि\CC-CCS गाँव\N-NN के\PSP अदमी\N-NN के\PSP खाली\QT-QTF खेती\N-NN करला\V-VM से\PSP पेट\N-NN न\RP-NEG भरेवाला\V-VM हे\V-VAUX ।\RD-PUNC 
+इ\DM-DMD चलते\V-VM काम\N-NN के\PSP खोज\N-NN में\PSP गाँव\N-NN के\PSP नौजवान\N-NN दोसर\QT-QTO शहर\N-NN के\PSP दउड़\V-VM लगा\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अब\N-NN अप्पन\PR-PRP देश\N-NN के\PSP कउन-कउन\N-NN शहर\N-NN के\PSP नाम\N-NN गिनती\N-NN करवावी,\V-VM जहाँ\PR-PRL मगहिया\N-NN अदमी\N-NN रह\V-VM के\PSP काम\N-NN न\RP-NEG करऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+दिल्ली,\N-NNP कोलकता,\PSP हरियाणा,\N-NN पंजाब,\N-NN सूरत,\V-VM अहमदाबाद,\V-VAUX मुम्बई,\RD-PUNC गोवा,\PR-PRL होवे\V-VM कि\CC-CCS दक्षिण\N-NN आउ\CC-CCD पूरब\N-NN भारत\N-NN औरो\N-NN शहर,\V-VM जहाँ\PR-PRL मगध\N-NN के\PSP रहबईया\N-NN मगहिया\N-NN भाई-बहिन\N-NN नऽ\RP-NEG भेंटा\N-NN जैतन\V-VM ।\RD-PUNC 
+ढेर\QT-QTF तो\PR-PRL अइसनो\RP-RPD हथन,\N-NN जे\PR-PRL अप्पन\PR-PRP जगह-जमीन\N-NN लेके\V-VM जहाँ\PR-PRL काम\N-NN करऽ\V-VM हथन,\V-VAUX ओहईं\DM-DMD बस\N-NN भी\RP-RPD गेलन\V-VM ।\RD-PUNC 
+ममला\N-NN उलट\N-NN गेल\V-VM ।\RD-PUNC 
+अब\N-NN उनकरा\PR-PRP लेल,\V-VM उनकर\PR-PRP बाप-दादा\N-NN के\PSP गाँव\N-NN परदेश\N-NN हो\V-VM गेल,\V-VAUX जहाँ\PR-PRL कभी-कभार\N-NN बिआह-शादी\N-NN इया\CC-CCD फिन\CC-CCD परब-त्योहार\N-NN पर\PSP सप्पर\N-NN के\PSP आवऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+जउन\PR-PRL मगध\N-NN के\PSP माटी\N-NN नेपाल\V-VM के\PSP राजकुमार\N-NN के\PSP भगवान\N-NN बुद्ध\N-NN बना\V-VM देलक,\V-VAUX आज\N-NN केकर\PR-PRQ नजर-गोजर\N-NN लग\V-VM गेल,\V-VAUX जे\PR-PRL ई\DM-DMI हालत\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+एतने\N-NN बात\N-NN नऽ\RP-NEG हे\V-VM ।\RD-PUNC 
+गाँव\N-NN के\PSP जउन\PR-PRL मरद\N-NN इया\N-NN मेहरारू\N-NN छोटहनो\QT-QTC नौकरी\N-NN करे\V-VM लगलन,\V-VAUX बाल-बच्चा\N-NN लेके\V-VM शहर\N-NN सोझ\N-NN हो\V-VM गेलन\V-VAUX ।\RD-PUNC 
+इ\N-NN चलते\V-VM आज\N-NN गाँव\N-NN के\PSP केतने\N-NN घर\N-NN में\PSP ताला\N-NN झूल\N-NN रहल\V-VM हे\V-VAUX ।\RD-PUNC 
+अब\N-NN इ\N-NN विकास\N-NN हेऽ\V-VM कि\CC-CCS गाँव\N-NN के\PSP विनाश,\N-NN बात\N-NN पूरा-पूरी\N-NN भेजा\V-VM में\PSP नऽ\RP-NEG घुसऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+माटी\N-NN के\PSP सोंध\N-NN महक\N-NN गाँव\N-NN में\PSP बसऽ\V-VM हे,\V-VAUX न\RP-NEG कि\CC-CCS शहर\N-NN में\PSP ।\RD-PUNC 
+शहर\N-NN एकदम\N-NN से\PSP बनावटी\V-VM हे\V-VAUX ?\RD-PUNC 
+कंक्रिट\N-NN से\PSP बनल\V-VM घर-गली-नली\N-NN सब\QT-QTF बनावटी\V-VM ।\RD-PUNC 
+इहाँ\DM-DMD न\RP-NEG तो\PR-PRL सावन\N-NN के\PSP फुहार\N-NN हे\V-VM आउ\CC-CCD न\RP-NEG वसंत\N-NNP के\PSP बहार\N-NN ।\RD-PUNC 
+बस\CC-CCD भाग-दउड़\N-NN भरल\V-VM जिनगी\N-NN ।\RD-PUNC 
+केकरो\PR-PRI भीर\PSP बइठ\V-VM के\V-VAUX गलबात\N-NN करे\V-VM के\PSP फुर्सत\N-NN कहाँ\PR-PRQ हे\V-VM ?\RD-PUNC 
+कुछ\QT-QTF खलिया\JJ समय\N-NN भेंटाएल\N-NN भी\RP-RPD तऽ\CC-CCS टी०वी०\N-NN देखला\V-VM से\PSP मन\N-NN भरे\V-VM तब\PR-PRL तो\PR-PRL ।\RD-PUNC 
+जउन\PR-PRL घर\N-NN में\PSP इन्टरनेट\N-NN हे,\V-VM तब\PR-PRL तो\PR-PRL ओकरे\PR-PRP में\PSP जखनी\N-NN समय\N-NN भेंटायल,\V-VM बस\CC-CCD फूल\N-NN पर\PSP मकरंद\N-NN चूसईत\N-NN भौरवा\N-NN नियन\RP-RPD लपटाएल\V-VM रहऽ\V-VAUX ।\RD-PUNC 
+सभे\QT-QTF कुछ\QT-QTF हे\V-VM -\RD-PUNC उहाँ\DM-DMD आउ\CC-CCD कुछ\QT-QTF नऽ\RP-NEG हे\V-VM तऽ\CC-CCS उ\PR-PRP हे\V-VM माटी\N-NN के\PSP महक\N-NN ।\RD-PUNC 
+अब\RB धीरे-धीरे\RB ई\DM-DMI बेमारी\N-NN गाँव\N-NN के\PSP भी\RP-RPD धरले\V-VM जा\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+गाँव\N-NN के\PSP बगईचा,\N-NN बूढ़वा\N-NN बर-पीपर,\RD-PUNC सरकारी\N-NN कुइंया,\N-NN महतो\N-NN जी\N-NN के\PSP दलान\N-NN .\V-VM 
+खोजले\V-VM कहूँ\V-VM में\PSP भेंटा\N-NN हे\V-VM ।\RD-PUNC 
+शहर\N-NN से\PSP तो\PR-PRL इ\N-NN सभे\QT-QTF कुछ\QT-QTF गदहवा\N-NN के\PSP सिंघ\N-NN लेखा\V-VM शुरूमे\V-VAUX से\PSP गायव\V-VM हे\V-VAUX ।\RD-PUNC 
+समाज,\N-NN परिवार,\PSP रिश्ता-नाता\N-NN तेजी\RB से\PSP दरक\N-NN रहल\V-VM हे\V-VAUX ।\RD-PUNC 
+न\RP-NEG कोई\PR-PRI सुख\N-NN के\PSP साथी\N-NN आउ\CC-CCD न\N-NN कोई\PR-PRI दुख\N-NN के\PSP हरता\N-NN ।\RD-PUNC 
+सब\QT-QTF के\PSP सब\QT-QTF अपने\PR-PRP में\PSP मगन\V-VM ।\RD-PUNC 
+सूरूज\N-NN ढलते\V-VM केमाड़ी\N-NN भीड़क\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आगे\N-NN पर\PSP आउ\CC-CCD कइसन\PR-PRQ दिन\N-NN आवे\V-VM वाला\N-NN हे,\RD-PUNC कहना\V-VM मोस्किल\N-NN हे\V-VAUX ।\RD-PUNC 
+सुन\V-VM तो\PR-PRL इहाँ\DM-DMD तक\RP-RPD रहली\V-VM हे\V-VAUX कि\CC-CCS अब\N-NN लोग\N-NN अप्पन\PR-PRP टिकस\N-NN अंतरिक्ष\N-NN आउ\CC-CCD चाँद\N-NN पर\PSP रहे\V-VM लेल\V-VAUX बुकिंग\N-NN करवा\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+सोंचला\N-NN पर\PSP कपार\N-NN घिरनी\N-NN लेखा\N-NN घुमे\V-VM लगऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD बेर-बेर\N-NN घुमा-फिरा\N-NN क\PSP मन\N-NN में\PSP एक्के\QT-QTC बात\N-NN आवऽ\V-VM हे\V-VAUX कि\CC-CCS दिन\N-NN पर\PSP दिन\N-NN काहे\CC-CCS खतम\N-NN हो\V-VM रहल\V-VAUX हे-मगहिया\N-NN माटी\N-NN के\PSP महक\N-NN ।\RD-PUNC 
+प्रकाशित,\N-NN प्रभात\N-NN खबर-01-09-2015\N-NN मगही\N-NN [09]\N-NN दूरा-दलान\N-NN उज्जर\N-NN फूल\N-NN गंगा\N-NN मइया\N-NN के\PSP लहरा\N-NN नियन\RP-RPD लहरा\V-VM मार\V-VM रहल\V-VAUX हेसुमंत\N-NN (मगही\N-NN लेखक)अप्पन\PR-PRP देश\N-NN भारत\N-NN शुरूमे\N-NN से\PSP कृषि\N-NN प्रधान\N-NN देश\N-NN रहल\V-VM हे,\V-VAUX जहां\DM-DMD आझो\N-NN बेसी\RB करके\V-VM रहबइया\N-NN खेती-बारी\N-NN करके\V-VM अपना\PR-PRF साथे\PSP -साथे\N-NN अप्पन\PR-PRP पूरा\N-NN परिवार\N-NN के\PSP पेट\N-NN पाल\N-NN रहलन\V-VM हे\V-VAUX ।\RD-PUNC 
+अप्पन\PR-PRP राज्य\N-NN बिहार\N-NN के\PSP भी\RP-RPD अप्पन\PR-PRP देशेवाला\N-NN हाल\N-NN हे\V-VM ।\RD-PUNC 
+इ\DM-DMD बात\N-NN जान\N-NN सुन\V-VM के\V-VAUX हमरा\PR-PRP अजगुत\N-NN लगऽ\V-VM हे\V-VAUX कि\CC-CCS बिहार\N-NN से\PSP बाहरे\N-NN काम\N-NN के\PSP खोज\V-VM में\PSP जाएवाला\N-NN ढेरे\N-NN लोग\N-NN उहां\DM-DMD भी\RP-RPD खेती\N-NN के\PSP काम\N-NN करऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+जउन\PR-PRL हिसाब\N-NN से\PSP दिन\N-NN पर\PSP दिन\N-NN विज्ञान\N-NN तरक्की\N-NN करलक\V-VM हे,\V-VAUX सच\N-NN पूछऽ\V-VM तऽ\CC-CCS उ\PR-PRP हिसाब\N-NN से\PSP खेती-बारी\N-NN आझो\N-NN पछूआएल\N-NN के\PSP पछूआएले\V-VM हे\V-VAUX ।\RD-PUNC 
+नौवां-दसवां\N-NN में\PSP भूगोल\N-NN के\PSP किताब\N-NN में\PSP पढ़ऽ\V-VM हली\V-VAUX कि\CC-CCS भारत\N-NN के\PSP कृषि\N-NN पिछड़ेपन\V-VM के\PSP बड़कन\JJ कारण\N-NN में\PSP एगो\QT-QTC बड़का\JJ कारण\N-NN ई\DM-DMI भी\RP-RPD हे\V-VM कि\CC-CCS भारतीय\N-NN किसान\N-NN मौनसून\N-NN के\PSP साथे\PSP जुआ\N-NN खेलऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+उ\PR-PRP घड़ी\N-NN बात\N-NN पूरी-पूरी\N-NN समझ\N-NN में\PSP नऽ\RP-NEG आवऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+आझो\N-NN जहां\DM-DMD तक\PSP हमरा\PR-PRP बुझा\N-NN हे-भारतीय\N-NN किसान\N-NN बेसी\RB करके\V-VM मौनसून\N-NN पर\PSP निर्भर\N-NN करऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+जिनकरा\N-NN भीर\PSP पटवन\N-NN के\PSP साधन\N-NN नऽ\RP-NEG हे,\V-VM उनकर\PR-PRP तो\PR-PRL मजबूरी\N-NN हे,\V-VM बाकि\CC-CCD जिनकरा\N-NN भीर\PSP साधन\N-NN हेऽ\V-VM भी\RP-RPD ओहू\PR-PRP मौनसून\N-NN के\PSP इंतजार\N-NN करऽ\V-VM हथन,\V-VAUX जेकर\PR-PRL परिणाम\N-NN इ\N-NN होवऽ\V-VM हे\V-VAUX कि\CC-CCS समय\N-NN पर\PSP खेती\N-NN के\PSP काम\N-NN नऽ\RP-NEG होवे\V-VM से\PSP पूँजी-पगहा\N-NN लगलौला\V-VM के\PSP बादो\N-NN अनाज\N-NN के\PSP पैदा\N-NN कम\N-NN जा\V-VM हे\V-VAUX ।\RD-PUNC 
+निमन\N-NN पैदावार\N-NN लेल\V-VM इ\N-NN बड़\N-NN जरूरी\N-NN बात\N-NN हे\V-VM कि\CC-CCS समय\N-NN से\PSP पहिले\N-NN चेत\N-NN किसान\N-NN ।\RD-PUNC 
+जउन\PR-PRL किसान\N-NN समय\N-NN से\PSP पहिले\N-NST सोंच-विचार\N-NN के\PSP काम\N-NN नऽ\RP-NEG करऽ\V-VM हथन,\V-VAUX उनकर\PR-PRP खेती\N-NN निमन\N-NN नऽ\RP-NEG होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+अप्पन\PR-PRP राज्य\N-NN बिहार\N-NN के\PSP मुख्य\N-NN फसल\V-VM खरीफ\N-NN हे,\V-VM जेकरा\PR-PRL में\PSP धान\N-NN आउ\CC-CCD मकई\N-NN के\PSP खेती\N-NN सग्गर\N-NN प्रमुखता\N-NN से\PSP करल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+इ\N-NN बच्छर\N-NN मजगर\N-NN बरसात\N-NN नऽ\RP-NEG होवे\V-VM से\PSP किसान\N-NN सभे\V-VM के\V-VAUX परेशानी\N-NN अब\N-NN बढ़ेवाला\N-NN हे\V-VM ।\RD-PUNC 
+मकई\N-NN लगावे\V-VM के\PSP समय\N-NN में\PSP बेसी\RB पानी\N-NN होवे\V-VM से\PSP मकई\N-NN के\PSP नुकसान\N-NN पहुंचल\V-VM से\PSP पहुंचल\V-VM अब\N-NN दोसरा\N-NN तरफ\N-NN भर\RP-RPD सावन\N-NN रिमझिम\N-NN फुहार\N-NN न\RP-NEG बरसे\N-NN से\PSP खेत\N-NN में\PSP रोपाएल\N-NN धान\N-NN में\PSP उ\PR-PRP हरिअरी\N-NN न\RP-NEG आ\V-VM सकल,\V-VAUX जे\PR-PRL आवे\V-VM के\PSP चाहऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI बेर\N-NN पानी\N-NN कम\N-NN बरसे\N-NN से\PSP अहरा-पोखरा,\N-NN नाहर-पईन\N-NN सब\QT-QTF धोखा\N-NN दे\V-VM देलन\V-VAUX ।\RD-PUNC 
+ढेर\QT-QTF जगह\N-NN पर\PSP तो\PR-PRL इ\N-NN भादो\N-NN के\PSP महीना\N-NN में\PSP धान\N-NN के\PSP खेत\N-NN डंराट\N-NN खुल\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD धान\N-NN अइसन\RP-RPD फसिल\N-NN हे\V-VAUX जेकरा\PR-PRL खूब\QT-QTF पानी\N-NN चाही\V-VM ।\RD-PUNC 
+एगो\QT-QTC मगहिया\N-NN कहउत\V-VM बड़\N-NN प्रचलित\N-NN हे\V-VAUX ।\RD-PUNC 
+उ\PR-PRP ई\DM-DMI कि\CC-CCS धान-पान\N-NN रोजे\N-NN नेहान\V-VM ।\RD-PUNC 
+अब\N-NN जउन\PR-PRL मौनसूने\N-NN दगा\N-NN दे\V-VM देलक\V-VAUX तब\PR-PRL बेचारे\N-NN किसान\N-NN का\PR-PRQ करथन\V-VM ।\RD-PUNC 
+बेसी\RB दिन\N-NN ऊपरे\N-NN के\PSP पानी\N-NN न\RP-NEG बरसे\V-VM से\PSP डिजल-मोटर\N-NN के\PSP पानी\N-NN खेत\N-NN में\PSP टीक\N-NN कहां\PR-PRQ पावऽ\V-VM हे\V-VAUX ?\RD-PUNC 
+अब\N-NN तो\PR-PRL टाड़-टिकर\N-NN पर\PSP कासी\N-NN के\PSP उज्जर\N-NN फूल\N-NN भी\RP-RPD गंगा\N-NN मईया\N-NN के\PSP लहरा\V-VM नियन\RP-RPD लहरा\V-VM मार\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अइसन\RP-RPD में\PSP बरसात\N-NN बूढाए\N-NN के\PSP लक्षण\N-NN साफ\N-NN देखाय\V-VM लगल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+काहे\CC-CCS से\PSP कि\CC-CCS रामचरितमानस\N-NN में\PSP भी\RP-RPD बाबा\N-NN तुलसीदास\N-NN भी\RP-RPD भगवान\N-NN श्रीराम\N-NN के\PSP मुंह\N-NN से\PSP कहवौलन\V-VM हे\V-VAUX -\RD-PUNC फूले\N-NN कास\N-NN सकल\V-VM महि\N-NN छाई\N-NN ।\RD-PUNC 
+जनु\N-NN बरषा\N-NN कृत\V-VM प्रगट\N-NN बुढाई\N-NN ।\RD-PUNC 
+अब\N-NN खेत\N-NN में\PSP लहलहाइत\V-VM धान\N-NN पानी\N-NN नऽ\RP-NEG बरसे\N-NN से\PSP मुआर\N-NN बन\V-VM जाए,\V-VAUX तब\PR-PRL किसान\N-NN के\PSP लगल\V-VM पूंजी-पगहा\V-VAUX खत्म\N-NN हो\V-VM जाएत\V-VAUX ।\RD-PUNC 
+निमन-निमन\N-NN गांव\N-NN में\PSP आझो\N-NN अंगुरी\N-NN पर\PSP गिनल-गोथल\N-NN दू-चारे\N-NN किसान\N-NN हथन,\V-VM जिनकरा\N-NN पास\N-NN पटवन\N-NN के\PSP निमन\N-NN साधन\N-NN मौजूद\N-NN हे\V-VM आउ\CC-CCD उ\PR-PRP मौनसून\N-NN के\PSP साथे\PSP जुआ\N-NN नऽ\RP-NEG खेलऽ\V-VM हथन,\V-VAUX बाकी\CC-CCS बेसी\RB करके\V-VM किसान\N-NN आझो\N-NN खेल\V-VM रहलन\V-VAUX हे\V-VAUX -\RD-PUNC मौनसून\N-NN के\PSP साथे\PSP जुआ\N-NN ।\RD-PUNC 
+प्रकाशित,\N-NN प्रभात\N-NN खबर-08-09-2015मगही\N-NN [10]\N-NN दूरा-दलान\N-NN अप्पन\PR-PRP स्वार्थ\N-NN में\PSP अदमी\N-NN का-का\N-NN करतूत\V-VM नऽ\RP-NEG कर\V-VM रहलन\V-VAUX हेसुमंत\V-VAUX (मगही\RD-PUNC लेखक)घोर\N-NN कलयुग\N-NN चल\V-VM रहल\V-VAUX हे\V-VAUX आउ\CC-CCD इ\N-NN कलयुग\N-NN में\PSP बड़ी\JJ कुछ\QT-QTF अइसन\RP-RPD हो\V-VM रहल\V-VAUX हे,\V-VAUX जेकरा\PR-PRL देख-सुन\V-VM के\PSP इहे\DM-DMD लगऽ\V-VM हे\V-VAUX कि\CC-CCS अब\N-NN दुनिया\N-NN बेसी\RB दिन\N-NN नऽ\RP-NEG रहत\V-VM ।\RD-PUNC 
+ढेरे\N-NN कुछ\QT-QTF उल्टा-पल्टा\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+बाबा\N-NN तुलसीदास\N-NN कवितावली\N-NN में\PSP कलिकाल\V-VM के\PSP वर्णन\N-NN करईत\N-NN लिखलन\V-VM हे\V-VAUX -\RD-PUNC खेती\N-NN न\RP-NEG किसान\N-NN को,\V-VM भिखारी\N-NN को\PSP न\RP-NEG भीख\N-NN बलि,\V-VM बनिक\N-NN को\PSP बनिज,\V-VM न\RP-NEG चाकर\N-NN को\PSP चाकरी\N-NN ।\RD-PUNC 
+एकदम\N-NN से\PSP सच\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आज\N-NN के\PSP किसान\N-NN खेती\N-NN के\PSP काम\N-NN छोड़\V-VM के\PSP दोसर\QT-QTO धंधा\N-NN करे\V-VM लेल\V-VAUX बेहाल\N-NN हथ\V-VM ।\RD-PUNC 
+पाँच\QT-QTC हजार\N-NN के\PSP नौकरी\N-NN भेंटा\N-NN जाए,\V-VM उ\PR-PRP भल,\V-VM बाकि\CC-CCD पाँच\QT-QTC बिघा\N-NN जमीन\N-NN पर\PSP खेती\N-NN करना\V-VM पहाड़\N-NN बुझा\V-VM हे\V-VAUX ।\RD-PUNC 
+गांव-देहात\N-NN के\PSP खेत\N-NN में\PSP काम\N-NN करेवाला\V-VM मजूर\N-NN बड़ी\JJ मोस्किल\N-NN से\PSP मिलऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+बेसी\RB करके\V-VM मजूर\N-NN परदेस\N-NN कमा\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+भले\N-NN उ\PR-PRP उहां\DM-DMR ईंटा\N-NN भट्ठा\N-NN पर\PSP काहे\CC-CCS न\RP-NEG रहथन\N-NN ।\RD-PUNC 
+नगदा-नगदी\N-NN भेंटा\N-NN तो\PR-PRL जा\V-VM हे\V-VAUX ।\RD-PUNC 
+मजूर\N-NN के\PSP टाना-टानी\N-NN हे,\V-VM से\PSP तो\PR-PRL हईए\V-VM हे\V-VAUX ।\RD-PUNC 
+दिन\N-NN पर\PSP दिन\N-NN बरसात\N-NN के\PSP हालत\N-NN भी\RP-RPD खराब\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पुरान\N-NN कहउत\V-VM हल-सावन\V-VAUX से\PSP दुब्बर\N-NN भादो\V-VM ।\RD-PUNC 
+माने\N-NN जउन\PR-PRL बच्छर\N-NN भर\N-NN सावन\N-NN झमाझम\N-NN बदरी\N-NN बरसऽ\N-NN हल\V-VM बुझऽ\N-NN भर\N-NN भादो\V-VM खेत\N-NN से\PSP लेके\V-VM गल्ला-गल्ली\N-NN कादो\N-NN में\PSP सनाएल\N-NN रहऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD तो\PR-PRL आउ\CC-CCD हथिया\N-NN नक्षत्र\N-NN में\PSP अइसन\RP-RPD झंकसी\N-NN लगावऽ\V-VM हल\V-VAUX कि\CC-CCS अदमी\N-NN मारे\N-NN डर\N-NN के\PSP खाय-पीए\V-VM के\PSP समान\N-NN के\PSP साथे\PSP जारन-झूरी,\V-VM गोइठा-अमारी\V-VAUX पहिलहीं\N-NN से\PSP जामा\N-NN करके\V-VM रख\V-VAUX ले\V-VAUX हलन\V-VAUX ।\RD-PUNC 
+का\PR-PRQ पता\N-NN केतना\QT-QTF दिन\N-NN पानी\N-NN न\RP-NEG खुले\V-VM ?\RD-PUNC 
+आजकल\N-NN इ\N-NN बात\N-NN खिस्सा-कहानी\N-NN से\PSP बेसी\RB कुछो\PR-PRI न\RP-NEG लगऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+अब\N-NN तो\PR-PRL हथिया\N-NN का\PR-PRQ -\RD-PUNC कभीओ\N-NN एतना\QT-QTF नऽ\RP-NEG पानी\N-NN बरस\N-NN जा\V-VM हे\V-VAUX कि\CC-CCS तुरते\RB में\PSP बाढ\N-NN आ\V-VM जाहे\V-VAUX ।\RD-PUNC 
+दुनिया\N-NN के\PSP केतना\PR-PRQ देश\N-NN में\PSP इ\N-NN हो\V-VM चुकल\N-NN हे\V-VAUX ।\RD-PUNC 
+अपनो\QT-QTC हिंआ\N-NN इ\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आझो\N-NN उ\PR-PRP पुरान\N-NN कहउत\V-VM सामने\N-NN हेऽ,\V-VM बाकि\CC-CCD माने\N-NN मतलब\N-NN एकदम\N-NN से\PSP उलट\N-NN गेलक\V-VM हे\V-VAUX ।\RD-PUNC 
+जउन\PR-PRL तरह\RP-RPD से\PSP इ\N-NN बेर\N-NN सावन\N-NN महीना\N-NN किसान\N-NN सभे\QT-QTF के\PSP धोखा\N-NN देलक,\V-VAUX ओहि\N-NN हाल\N-NN भादो\V-VM के\PSP भी\RP-RPD अब\N-NN ले\V-VAUX लग\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अइसन\RP-RPD रउदा\N-NN उगऽ\V-VM हे\V-VAUX कि\CC-CCS किसान\N-NN आसमान\N-NN दन्ने\N-NN टकटकी\N-NN भी\RP-RPD का\PR-PRQ लगौथन\V-VM ।\RD-PUNC 
+दू-चारो\QT-QTC कतरा\N-NN बदरी\N-NN आसमान\N-NN में\PSP रहे,\V-VM तब\PR-PRL तो\PR-PRL ?\V-VM 
+ई\DM-DMI कलयुग\N-NN के\PSP प्रभाव\N-NN हे\V-VM कि\CC-CCS हमनी\PR-PRP के\PSP करनी\N-NN के\PSP फल\N-NN इहे\DM-DMD बात\N-NN गौर\N-NN करे\V-VM जुकुत\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अप्पन\PR-PRP स्वार्थ\N-NN में\PSP अदमी\N-NN का-का\N-NN करतूत\V-VM नऽ\RP-NEG कर\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+जंगल\N-NN के\PSP पेड़\N-NN काटलन\V-VM से\PSP काटलन,\V-VM गांव-घर\N-NN के\PSP के\PSP पीपर,\V-VM बर,\RD-PUNC नीम\N-NN .\V-VM 
+उजाड़\N-NN के\PSP रख\V-VM देलन\V-VAUX ।\RD-PUNC 
+नदी\N-NN के\PSP बालू\N-NN राते-दिने\N-NN खाली\QT-QTF ट्रक-ट्रैक्टर\N-NN से\PSP नऽ\RP-NEG डम्फर\N-NN से\PSP ढोवा\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पहाड़\N-NN तक\RP-RPD के\PSP अदमी\N-NN काट\V-VM के\V-VAUX तलाब\N-NN बना\V-VM देलन\V-VAUX ।\RD-PUNC 
+एतना\QT-QTF पर\PSP भी\RP-RPD संतोख\N-NN न\RP-NEG हे\V-VM ।\RD-PUNC 
+अदमी\N-NN राते-दिने\N-NN प्रकृति\N-NN के\PSP अस्मत\N-NN लूटे\N-NN पर\PSP पड़ल\V-VM हथन\V-VAUX ।\RD-PUNC 
+अइसन\RP-RPD में\PSP बेचारा\N-NN ई\DM-DMI कलयुग\N-NN के\PSP का\PR-PRQ दोष\N-NN ?\V-VM 
+जउन\PR-PRL जंगल-पहाड़े\N-NN पर\PSP आफत\N-NN आ\V-VM गेल\V-VAUX तऽ\CC-CCS समय\N-NN पर\PSP पानी\N-NN कइसे\PR-PRQ बरसत\N-NN ।\RD-PUNC 
+प्रकृति\N-NN से\PSP खेलवाड़\N-NN करे\V-VM के\PSP दण्ड\N-NN भोगे\V-VM लेल\V-VAUX हमनी\PR-PRP तैयार\N-NN रहऽ\V-VM ।\RD-PUNC 
+समय\N-NN पर\PSP पानी\N-NN नऽ\RP-NEG बरसला\N-NN से\PSP खाली\QT-QTF एकर\N-NN असर\N-NN खेतीए-बारी\N-NN पर\PSP नऽ\RP-NEG पड़त\V-VM ।\RD-PUNC 
+कल\N-NN होके\V-VM पीएवाला\N-NN पानी\N-NN पर\PSP भी\RP-RPD आफत\N-NN आवेवाला\V-VM हे\V-VAUX ।\RD-PUNC 
+अब\N-NN ढेर\QT-QTF लोग\N-NN इ\N-NN बात\N-NN खुल\V-VM के\PSP कहे\V-VM लगलन\V-VAUX हे\V-VAUX कि\CC-CCS तीसरका\QT-QTO विश्वयुद्व\N-NN अइसे\N-NN तो\PR-PRL होवे\V-VM न\RP-NEG करत,\V-VM बाकि\CC-CCD होएत\V-VM तऽ\CC-CCS पानी\N-NN के\PSP लेके,\V-VM ई\DM-DMI बात\N-NN पक्का\N-NN हे\V-VM ।\RD-PUNC 
+इ\N-NN लेल\V-VM खाली\QT-QTF सोंच-सोंच\V-VM के\PSP कान-कप्पार\N-NN पीटे\V-VM के\PSP जरूरत\N-NN न\RP-NEG हे\V-VM ।\RD-PUNC 
+आवऽ\V-VM हमनी\PR-PRP सभे\QT-QTF मिलजुल\V-VM के\PSP प्रकृति\N-NN के\PSP बचावऽ\V-VM ।\RD-PUNC 
+प्रकाशित,\N-NN प्रभात\N-NN खबर-15-09-2015\N-NN मगही\N-NN [11]\N-NN दूरा-दलान\N-NN पानी\N-NN के\PSP एक-एक\N-NN बूंद\N-NN नियन\RP-RPD होवऽ\V-VM हे\V-VAUX तोहर\PR-PRP एक-एक\N-NN वोटसुमंत\N-NN (मगही\N-NN लेखक)लोकतंत्र\N-NN के\PSP ताकत\N-NN हेऽ\V-VM वोट,\PR-PRL चुनाव\N-NN के\PSP दिन\N-NN अप्पन\PR-PRP वोट\N-NN जरूर\RB दीहऽ\V-VM ।\RD-PUNC 
+चुनावी\N-NN विण्डोवा\N-NN सग्गर\N-NN कस\RB के\PSP उठल\V-VM हे\V-VAUX ।\RD-PUNC 
+विधानसभा\N-NN के\PSP चुनाव\N-NN होवे\V-VM ला\PSP तो\PR-PRL खाली\QT-QTF अप्पन\PR-PRP बिहारे\N-NN में\PSP हे,\V-VM बाकि\CC-CCD समूले\N-NN देश\N-NN के\PSP नेता\N-NN सभे\QT-QTF के\PSP नजर\N-NN इ\N-NN चुनाव\N-NN पर\PSP हे\V-VM ।\RD-PUNC 
+चाहे\N-NN उ\PR-PRP देश\N-NN के\PSP प्रधानमंत्री\N-NN काहे\CC-CCS नऽ\RP-NEG रहथन\N-NN ?\V-VM 
+आज\N-NN के\PSP समय\N-NN में\PSP राजनीति\N-NN पर\PSP कुछो\PR-PRI बोलना\N-NN बड़\JJ मोस्किल\N-NN काम\N-NN हे,\V-VM बाकि\CC-CCD नऽ\RP-NEG बोलला\V-VM से\PSP पेट\N-NN में\PSP दरद\N-NN जे\PR-PRL होवे\V-VM लगऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+इ\N-NN चलते\V-VM इ\N-NN उठल\V-VM चुनावी\N-NN विण्डोवा\N-NN में\PSP सभे\QT-QTF कोई\PR-PRI कुछ\QT-QTF नऽ\RP-NEG कुछ\QT-QTF बोल\V-VM जरूर\N-NN रहलन\V-VM हे\V-VAUX ।\RD-PUNC 
+शहर\N-NN तो\PR-PRL शहर\N-NN गाँव\N-NN के\PSP दूरा-दलान\N-NN होवे\V-VM कि\CC-CCS सामूदायिक\N-NN भवन,\PSP गाँव\N-NN के\PSP बगइचा\N-NN होवे\V-VM कि\CC-CCS महादेथान\N-NN बस\CC-CCD दू-चार\N-NN अदमी\N-NN जोरिऐलन\V-VM कि\CC-CCS चुनाव\N-NN पर\PSP चर्चा\N-NN शुरू\N-NN हो\V-VM जाहे\V-VAUX आउ\CC-CCD देखइत-देखइत\V-VM गरमा-गरम\N-NN बहस\N-NN अइसन\RP-RPD शुरू\N-NN होवऽ\V-VM हे\V-VAUX कि\CC-CCS टी०वी०\N-NN चैनेल\N-NN पर\PSP होवेवाला\N-NN बहस\N-NN भी\RP-RPD फेल\V-VM समझऽ\V-VM ।\RD-PUNC 
+खुल\V-VM के\PSP बोलऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+काहे\CC-CCS से\CC-CCS कि\CC-CCS उहां\DM-DMD समय\N-NN के\PSP कउनो\N-NN पावंदी\N-NN तो\PR-PRL हेऽ\V-VM नऽ\RP-NEG ।\RD-PUNC 
+जबले\CC-CCS बोलते-बोलते\V-VM मुंह\N-NN न\RP-NEG पिरा\V-VM जा\V-VAUX हे,\V-VAUX बहस\N-NN जारी\N-NN रहऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+अब\N-NN तो\PR-PRL गाँव-घर\N-NN के\PSP मेहरारू\N-NN सभे\QT-QTF भी\RP-RPD दोहारी\N-NN के\PSP ओटा\N-NN पर\PSP मिल\V-VM बइठ\V-VAUX के\PSP खुल\V-VM के\PSP चुनावी\N-NN चर्चा\N-NN करे\V-VM लगलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+वोट\N-NN देवे\V-VM के\V-VAUX दिन\N-NN मरद\N-NN से\PSP मेहरारू\N-NN सभे\QT-QTF में\PSP उत्साह\N-NN बेसी\RB रहऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+नया\N-NN सड़िया\N-NN पेन्हले,\V-VM सिंगार-पटार\N-NN करके\V-VM गोदिलवा\N-NN लइका\N-NN के\PSP लेले\V-VM मतदान\N-NN केन्द्र\V-VM पर\PSP अइसे\N-NN जा\V-VM हथ,\CC-CCD जइसे\DM-DMR उ\PR-PRP अप्पन\PR-PRP नइहरा\N-NN जा\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+लाइन\N-NN में\PSP लग\V-VM के\V-VAUX अप्पन\PR-PRP वोट\N-NN देवे\V-VM के\PSP प्रतिक्षा\N-NN घंटो\N-NN करऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+अब\N-NN तो\PR-PRL चुनाव\N-NNP आयोग\N-NN के\PSP तरफ\N-NN से\PSP मतदान\N-NN केन्द्र\PSP पर\PSP मतदाता\N-NN सभे\QT-QTF लेल\V-VM आधारभूत\N-NN जरूरत\N-NN के\PSP सभे\QT-QTF चीज\N-NN रहऽ\V-VM हे-\V-VAUX पीए\N-NN लेल\V-VM पानी,\V-VAUX मरद-मेहरारू\N-NN लेल\V-VM अलगे-अलगे\V-VAUX शौचालय,\RD-PUNC छहूरी\N-NN में\PSP लाइन\N-NN लगे\V-VM लेल\V-VAUX शेड,\V-VAUX हावा\N-NN आउ\CC-CCD निमन\N-NN रोशनी\N-NN लेल\V-VM बिजुली,\V-VAUX निःशक्त\N-NN सभे\QT-QTF लेल\V-VM रैम्प\V-VAUX आउ\CC-CCD शान्ति\N-NN व्यवस्था\N-NN लेल\V-VM पुलिस\N-NN के\PSP जवान\N-NN भी\RP-RPD मुस्तैदी\N-NN से\PSP तैनात\V-VM रहऽ\V-VAUX हथन\V-VAUX ।\RD-PUNC 
+एतने\N-NN नऽ\RP-NEG अब\N-NN तो\PR-PRL घरा-घरी\N-NN मतदाता\N-NN पर्ची\N-NN भी\RP-RPD चुनाव\N-NN आयोग\V-VM हाथा-हाथी\N-NN चुनाव\N-NN से\PSP पहिले\N-NST बंटवा\N-NN देवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+एतना\QT-QTF सबकुछ\QT-QTF करला\V-VM पर\PSP भी\RP-RPD मतदान\N-NN के\PSP प्रतिशत\N-NN अपना\PR-PRF हिंआं\N-NN दोसरा\N-NN जगह\N-NN से\PSP कम\N-NN रहऽ\V-VM हे,\V-VAUX इ\N-NN लोकतंत्र\N-NN लेल\V-VM बड़\JJ दुख\N-NN के\PSP बात\N-NN हे,\V-VM जेकरा\PR-PRL पर\PSP सभे\QT-QTF के\PSP मिल-बइठ\V-VM के\PSP विचार\N-NN करल\V-VM जरूरी\N-NN हे\V-VAUX ।\RD-PUNC 
+काहे\CC-CCS से\PSP कि\CC-CCS लोकतंत्र\N-NN में\PSP मतदाता\N-NN सभे\QT-QTF लेल\V-VM सबला\PSP बड़का\JJ हथियार\N-NN उनकर\PR-PRP अप्पन\PR-PRP कीमती\N-NN मत\RP-NEG होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+भले\V-VM मतदाता\N-NN इ\N-NN बात\N-NN नऽ\RP-NEG समझथन,\V-VM बाकि\CC-CCD सच\N-NN हेऽ\V-VM कि\CC-CCS मतदाता\N-NN सभे\QT-QTF के\PSP एक-एक\QT-QTC वोट\N-NN लाख\N-NN टक्का\N-NN के\PSP होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+जे\PR-PRL कोई\PR-PRI वोट\N-NN के\PSP दिन\N-NN मन\N-NN में\PSP इ\N-NN सोंचऽ\V-VM हथन\N-NN कि\CC-CCS एगो\QT-QTC खाली\QT-QTF हमरा\PR-PRP वोट\N-NN न\RP-NEG देवे\V-VM से\PSP का\PR-PRQ होतई\V-VM ?\RD-PUNC 
+इ\N-NN उनकर\PR-PRP भारी\JJ भूल\N-NN हे\V-VAUX ।\RD-PUNC 
+तोहर\PR-PRP एक-एक\N-NN वोट\N-NN पानी\N-NN के\PSP एक-एक\N-NN बूंद\N-NN नियन\RP-RPD होवऽ\V-VM हे,\V-VAUX जेकरा\PR-PRL से\PSP समुन्दर\N-NN भरऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+वोट\N-NN तोहर\PR-PRP अधिकार\V-VM हे,\V-VAUX एकर\PR-PRP प्रयोग\N-NN हर\N-NN हालत\N-NN में\PSP करल\V-VM जरूरी\N-NN हे\V-VAUX ।\RD-PUNC 
+अब\N-NN अप्पन\PR-PRP वोट\N-NN केकरा\PR-PRQ देवल\V-VM जाए,\V-VAUX एकरा\DM-DMD लेल\V-VM अभी\N-NN सभे\QT-QTF मतदता\N-NN भीर\PSP समय\N-NN हे\V-VM ।\RD-PUNC 
+निमन\N-NN से\PSP सोंच-समझ\N-NN के\PSP अप्पन\PR-PRP वोट\N-NN ओकरा\PR-PRP दीहऽ\V-VM जे\PR-PRL चुनाव\N-NN जीतला\V-VM पर\PSP विकास\N-NN के\PSP काम\N-NN करथन\V-VM ।\RD-PUNC 
+समय-बेसमय\N-NN सुख-दुख\N-NN में\PSP तोहर\PR-PRP साथे\PSP रहथन\V-VM ।\RD-PUNC 
+जात-पात,\CC-CCD धरम-सम्प्रदाय\N-NN सब\QT-QTF झूठ\N-NN के\PSP देखावा\V-VM हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD से\PSP ऊपरे\N-NN उठ\V-VM के\V-VAUX इ\N-NN बेर\N-NN सभे\QT-QTF मगहिया\N-NN भाई-बहिन\N-NN अप्पन\PR-PRP वोट\N-NN एक-एक\N-NN कीमती\N-NN वोट\N-NN देथिन\V-VM हमरा\PR-PRP अपने\PR-PRP सभे\N-NN से\PSP इहे\DM-DMD निहोरा\N-NN हे\V-VAUX ।\RD-PUNC 
+प्रकाशित\N-NN प्रभात\N-NN खबर-22-09-15म्गही\N-NN [12]\N-NN दूरा-दलानपितरपख\N-NN मेला\N-NN गयाजी\N-NN के\PSP शान\N-NN हेसुमंत\N-NN (मगही\N-NN लेखक)गयाजी\N-NN अप्पन\PR-PRP बड़\JJ पुरान\N-NN धार्मिक\N-NN आउ\CC-CCD ऐतिहासिक\N-NN शहर\N-NN हे,\V-VM जेकर\PR-PRL चर्चा\N-NN रामायण-महाभारत\N-NN से\PSP लेके\V-VM आउरो\CC-CCD केतने\N-NN ग्रंथ\N-NN में\PSP भेंटा\N-NN हे\V-VM ।\RD-PUNC 
+आज\N-NN भले\N-NN दुनिया\N-NN के\PSP लोग\N-NN गयाजी\N-NN के\PSP बोधगया\N-NN के\PSP नाम\N-NN से\PSP बेसी\RB जान\N-NN रहलन\V-VM हे\V-VAUX ।\RD-PUNC 
+बोधगया\N-NN में\PSP भगवान\N-NN बुद्ध\N-NN के\PSP ज्ञान\N-NN भेंटाएल\V-VM हल\V-VAUX आउ\CC-CCD इहाँ\DM-DMD सलो\N-NN भर\N-NN विदेशी\N-NN पर्यटक\N-NN के\PSP आना-जाना\N-NN बनल\V-VM रहऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD सच\N-NN तो\PR-PRL इ\N-NN हे\V-VM कि\CC-CCS गयाजी\N-NN के\PSP आन-बान\N-NN आउ\CC-CCD शान\N-NN हे\V-VM -\RD-PUNC पितरपख\V-VM मेला\N-NN ।\RD-PUNC 
+जउन\PR-PRL दादा\N-NN राज\N-NN से\PSP लगते\N-NN आ\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+इ\N-NN मेला\N-NN कहिंआ\N-NN से\PSP लग\V-VM रहल\V-VAUX हे,\V-VAUX एकर\N-NN दिन\N-NN ठेकाना\N-NN न\RP-NEG तो\PR-PRL इतिहास\N-NN के\PSP पन्ना\N-NN में\PSP हे\V-VM आउ\CC-CCD न\RP-NEG कउनो\N-NN ग्रंथ\N-NN एकर\PR-PRP बखान\N-NN करऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+इ\N-NN अजगुत\N-NN के\PSP मेला\N-NN हे,\PSP जे\PR-PRL हरेक\V-VM साल\N-NN आसीन\N-NN महीना\N-NN के\PSP कृष्णपक्ष\N-NST में\PSP पन्द्रह\N-NN दिन\N-NN लगऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+इहे\DM-DMD पन्द्रह\N-NN दिन\N-NN पितरपख\N-NN के\PSP नाम\N-NN से\PSP जानल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+इ\N-NN घड़ी\N-NN पूरा\N-NN गयाजी\N-NN मीनी\N-NN भारत\N-NN बनल\V-VM रहऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अलगे-अलगे\N-NN वेश-भूषा\N-NN में\PSP सभे\QT-QTF प्रदेश\N-NN के\PSP मरद-मेहरारू\N-NN इहाँ\DM-DMD अप्पन\PR-PRP पितरन\N-NN के\PSP पिण्डदान\N-NN देवे\V-VM लेल\V-VAUX पहुंचऽ\V-VAUX हथन\V-VAUX ।\RD-PUNC 
+पड़ोसी\N-NN नेपाल\N-NN देश\N-NN से\PSP भी\RP-RPD ढेरे\N-NN पिण्डदानी\N-NN इहां\DM-DMD आवऽ\V-VM हथन\N-NN ।\RD-PUNC 
+विगत\N-NN कुछ\QT-QTF बच्छर\N-NN से\PSP प्रवासी\N-NN भारतीय\N-NN भी\RP-RPD दुनिया\N-NN के\PSP अलगे-अलगे\N-NN देश\N-NN से\PSP गयाजी\N-NN आ\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+मृत\N-NN आत्मा\N-NN के\PSP प्रति\N-NN अइसन\RP-RPD सम्मान\N-NN साईते\N-NN कउनो\N-NN दुनिया\N-NN के\PSP देश\N-NN में\PSP देवल\V-VM जाईत\V-VAUX होएत\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF लोग\N-NN एकरा\DM-DMD आस्था\N-NN आउ\CC-CCD विश्वास\N-NN के\PSP परब\N-NN कहऽ\V-VM हथन\N-NN तऽ\CC-CCS कुछ\QT-QTF एकरा\DM-DMD अंधविश्वास\N-NN से\PSP बेसी\RB कुछो\PR-PRI नऽ\RP-NEG मानऽ\V-VM हथन\N-NN ।\RD-PUNC 
+बाकि\CC-CCD गयाजी\N-NN में\PSP पितरपख\N-NN में\PSP उमड़\N-NN भीड़\N-NN देखला\V-VM पर\PSP अइसन\RP-RPD बुझा\V-VM हे\V-VAUX कि\CC-CCS इ\N-NN अंधविश्वास\N-NN नऽ,\PSP मृत\N-NN आत्मा\N-NN के\PSP प्रति\N-NN आस्था\N-NN आउ\CC-CCD विश्वास\N-NN के\PSP अइसन\RP-RPD परब\N-NN हे,\V-VM जेकरा\PR-PRL दन्ने\N-NN दिन\N-NN पर\PSP दिन\N-NN अदमी\N-NN के\PSP रूझान\N-NN बढ़ते\V-VM जा\V-VAUX रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अइसनो\N-NN बात\N-NN नऽ\RP-NEG हे\V-VM कि\CC-CCS गयाजी\N-NN आवेवाला\N-NN सभे\QT-QTF पिण्डदानी\N-NN अनपढ़-मूरख-गंवार\N-NN रहऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+इमें\N-NN ढेर\QT-QTF पढ़ल-लिखल-विद्वान\N-NN भी\RP-RPD रहऽ\V-VM हथन,\V-VAUX जउन\V-VAUX इहाँ\DM-DMD रह\V-VM के\V-VAUX पिण्डदान\N-NN आउ\CC-CCD तर्पण\N-NN करऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+भारतीय\N-NN धर्मशास्त्र\N-NN में\PSP भेंटा\N-NN हे\V-VM कि\CC-CCS अप्पन\PR-PRP पितर\N-NN के\PSP पिण्डदान\N-NN करेवालन\V-VM के\PSP लम्हर\N-NN उमर,\V-VM बेटा-बेटी,\RD-PUNC यश-बल,\RD-PUNC सुख-साधन,\N-NN धन-धान्य,\RD-PUNC स्वर्ग,\N-NN लक्ष्मी\N-NN भेंटा\N-NN हे\V-VM ।\RD-PUNC 
+एतने\N-NN नऽ\RP-NEG पितर\N-NN सभे\QT-QTF के\PSP कृपा\N-NN से\PSP सभे\QT-QTF तरह\RP-RPD के\PSP समृद्धि,\N-NN सौभाग्य,\PSP राज्य\N-NN आउ\CC-CCD मोक्ष\N-NN भेंटा\N-NN हे-आयुः\N-NN पुत्रान\N-NN यशः\N-NN स्वर्ग\N-NN कीर्ति\N-NN पुष्टिं\N-NN बलं\N-NN श्रियम्\V-VM ।\RD-PUNC 
+पशून्\N-NN सौख्यं\PSP धनं\N-NN धान्यं\N-NN प्राप्नुयात्\N-NN पितृपूजनम्\V-VM ।\RD-PUNC 
+पिण्डदान\N-NN करला\V-VM से\PSP मन\N-NN में\PSP जउन\PR-PRL संतोख\N-NN भेंटा\N-NN हे,\V-VM ओकर\PR-PRP बखान\N-NN कागज\N-NN के\PSP पन्ना\N-NN पर\PSP न\N-NN करल\V-VM जा\V-VAUX सकऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+दुनिया\N-NN के\PSP दोसरो\QT-QTC देश\N-NN में\PSP इ\N-NN तरह\RP-RPD के\PSP परम्परा\N-NN रहल\V-VM हे,\V-VAUX जेकर\PR-PRL गोवाही\N-NN आझो\N-NN मिस्र\N-NN के\PSP पिरामिड\N-NN दे\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+जउन\PR-PRL जगह\N-NN पर\PSP मरल\N-NN के\PSP साथे\PSP उनकर\PR-PRP प्रिय\N-NN वस्तु\N-NN के\PSP भी\RP-RPD रखल\V-VM जा\V-VAUX हल,\V-VAUX जेकर\PR-PRL अवशेष\N-NN आझो\N-NN भेंटा\N-NN हे\V-VM ।\RD-PUNC 
+ईसाई\N-NN आउ\CC-CCD इस्लाम\N-NN धरम\N-NN में\PSP इ\N-NN तरह\RP-RPD के\PSP प्रथा\N-NN के\PSP प्रचलन\V-VM आझो\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अप्पन\PR-PRP हिन्दू\N-NN धरम\N-NN में\PSP भी\RP-RPD साधु-सन्यासी\N-NN के\PSP अंतिम\N-NN संस्कार\N-NN इ\N-NN रीति\N-NN से\PSP करल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+माने\N-NN मृत\N-NN आत्मा\N-NN के\PSP शान्ति\N-NN लेल\V-VM इ\N-NN तरह\RP-RPD के\PSP कामना\N-NN करल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD गयाजी\N-NN के\PSP पितरपख\N-NN मेला\N-NN के\PSP बाते\N-NN कुछ\QT-QTF और\N-NN हे\V-VM ।\RD-PUNC 
+ढेर\QT-QTF तो\PR-PRL इहाँ\DM-DMD पूरे\N-NN सतरह\N-NN दिन\N-NN रह\V-VM के\V-VAUX पिण्डदान\N-NN के\PSP विधान\N-NN करऽ\V-VM हथन\V-VAUX ।\RD-PUNC 
+अभी\N-NN पितरपख\N-NN मेला\N-NN चल\V-VM रहल\V-VAUX हे,\V-VAUX कान\N-NN पर\PSP विश्वास\N-NN न\RP-NEG होवे\V-VM तऽ\CC-CCS एक\QT-QTC बेर\N-NN अपने\PR-PRP आके\V-VM देखथिन\V-VM ।\RD-PUNC 
+हम\PR-PRP अपना\PR-PRF तरफ\N-NN से\PSP नेओत\N-NN रहली\V-VM हे,\V-VAUX मन\N-NN होवे\V-VM तब\PR-PRL आथिन,\N-NN अपने\PR-PRP के\PSP गयाजी\N-NN में\PSP स्वागत\N-NN हे\V-VM ।\RD-PUNC 
+प्रकाशित,\N-NN प्रभात\N-NN खबर-29-09-2015\N-NN ।\RD-PUNC 

@@ -1,0 +1,1001 @@
+ID	Value
+msd1	वजीर\N_NN के\PSP लड़कवा\N_NN कहलकै\V_VM कि\CC_CCS हाँ\RP_RPD इयार\N_NN ,\RD_PUNC दूसतो\V_VM जरूर\N_NN ।\RD_PUNC
+msd10	जाइते\V_VM के\PSP साथ\N_NST रानी\N_NN कहलकई\V_VM कि\CC_CCS उठऽ\V_VM इयार\N_NN ,\RD_PUNC खाना\N_NN खा\V_VM लऽ\V_VAUX ,\RD_PUNC तो\PR_PRL दैत्य\N_NN उठके\V_VM खाना\N_NN खाय\V_VM लागलई\V_VM आउ\CC_CCD पुछलकै\V_VM कि\CC_CCS आज\N_NN तो\PR_PRL बड़ी\RP_INTF देर\N_NN होलो\V_VM ।\RD_PUNC
+msd100	सब\QT_QTF ईतजाम\N_NN भे\V_VM गेल\V_VAUX ।\RD_PUNC
+msd1000	लालपरी\N_NN एगो\QT_QTC चिट्ठी\N_NN लेके\V_VM जाइत\V_VM_VNF -\RD_PUNC जाइत\V_VM_VNF जा\V_VM पहुँचल\V_VAUX जहवाँ\DM_DMR लालपरी\N_NN के\PSP बहिन\N_NN रहऽ\V_VM हल\V_VAUX ।\RD_PUNC 
+msd101	लालपरी\N_NN मृतभुवन\N_NN मे\PSP आयल\V_VM आउ\CC_CCD वजीर\N_NN के\PSP लइका\N_NN के\PSP नीचे\N_NST मुड़ी\N_NN आओ\CC_CCD उपरे\N_NN चुतड़\N_NN कयले\V_VM देखके\V_VAUX एक\QT_QTC लाती\N_NN मारलक\V_VM ।\RD_PUNC
+msd102	वजीर\N_NN लोघड़ा\V_VM के\PSP उठल\V_VM तो\PR_PRL लालपरी\N_NN ओकरा\PR_PRP से\PSP पूछलक\V_VM कि\CC_CCS तू\PR_PRP कौन\PR_PRI हें\N_NN ।\RD_PUNC
+msd103	आउ\CC_CCD का\PR_PRQ करऽ\V_VM हें\V_VAUX ।\RD_PUNC
+msd104	वजीर\N_NN कहकई\V_VM कि\CC_CCS हम\PR_PRP राजा\N_NN के\PSP नोकर\N_NN ही\V_VM ।\RD_PUNC
+msd105	इहां\DM_DMD बाँसुवा\N_NN के\PSP नाच\N_NN हो\V_VM हे\V_VAUX ।\RD_PUNC
+msd106	ओकरे\PR_PRP अगोरी\V_VM करऽ\V_VAUX हियो\V_VAUX ।\RD_PUNC
+msd107	लालपरी\N_NN भी\RP_RPD बांसुवा\N_NN के\PSP नाच\N_NN देखे\V_VM ला\PSP पूछलक\V_VM ।\RD_PUNC
+msd108	वजीर\N_NN कहलक\V_VM कि\CC_CCS अब\RB आगे\JJ साल\N_NN बसाख\N_NN पुनिया\N_NN के\PSP नाच\N_NN होता\V_VM ।\RD_PUNC
+msd109	ई\DM_DMI साल\N_NN तो\PR_PRL खतम\N_NN हो\V_VM गेलो\V_VAUX ।\RD_PUNC
+msd11	की\PR_PRQ करऽ\V_VM हला\V_VAUX ।\RD_PUNC
+msd110	लालपरी\N_NN नाच\N_NN देखे\V_VM के\V_VAUX लोभ\N_NN से\PSP बिसुन\N_NNP भागवान\N_NN से\PSP फिनो\CC_CCD एक\QT_QTC बरिस\N_NN के\PSP टैम\N_NN मागँलक\N_NN ।\RD_PUNC
+msd111	एने\DM_DMD वजीर\N_NN के\PSP लड़का\N_NN के\PSP चिंता\N_NN भे\V_VM गेल\V_VAUX कि\CC_CCS बांसुवा\N_NN के\PSP नाच\N_NN काहां\DM_DMQ से\PSP लावल\V_VM जाय\V_VAUX ।\RD_PUNC
+msd112	एही\DM_DMR मन\N_NN में\PSP सोच\V_VM के\V_VAUX ऊ\PR_PRP राजा\N_NN के\PSP कह\V_VM के\V_VAUX चलल\V_VM ।\RD_PUNC
+msd113	जाइत-जाइत\V_VM कहाकोप\N_NN के\PSP जंगल\N_NN में\PSP पहुच\V_VM गेल\V_VAUX ।\RD_PUNC
+msd114	उहां\DM_DMD एगो\QT_QTC पेड़\N_NN के\PSP नीचे\N_NST ठहर\V_VM गेल\V_VAUX ।\RD_PUNC
+msd115	ऊ\DM_DMD पेड़\N_NN पर\PSP एगो\QT_QTC चिड़िया\N_NN रहऽ\V_VM हलै\V_VAUX जे\PR_PRL रोज\N_NN एगो\QT_QTC ।\RD_PUNC
+msd116	अंडाऽ\N_NN दे\V_VM हलई\V_VAUX बाकि\CC_CCD अंडवा\N_NN के\PSP एगो\QT_QTC सांप\N_NN खा\V_VM जा\V_VAUX हलै\V_VAUX ।\RD_PUNC
+msd117	आजो\N_NN अजगरवा\N_NN पेड़\N_NN तर\PSP पहुंचलै\V_VM तो\PR_PRL वजीर\N_NN के\PSP लड़का\N_NN झट\N_NN से\PSP तलवार\N_NN निकाल\V_VM के\V_VAUX ओकरा\PR_PRP तीन--चार\QT_QTC खुंडी\N_NN कर\V_VM देलकै\V_VAUX ।\RD_PUNC
+msd118	सुबह\N_NN के\PSP खुस\JJ हो\V_VM के\V_VAUX चिरिवा\N_NNP अपन\PR_PRP बचवा\N_NN के\PSP खिलावे\V_VM लगलै\V_VAUX तो\PR_PRL नञु\RP_NEG खलकै\V_VM आउ\CC_CCD कहकई\V_VM के\V_VAUX पहिले\N_NN नीचे\N_NST के\PSP अदमियाँ\N_NN खिलाव\V_VM ।\RD_PUNC
+msd119	ओही\DM_DMD हम्मर\PR_PRP जान\N_NN बचौलकै\V_VM हे\V_VAUX ।\RD_PUNC
+msd12	तब\PR_PRL रानी\N_NN अप्पन\PR_PRP मरद\N_NN के\PSP हाल\N_NN सुना\V_VM देलकई\V_VAUX ।\RD_PUNC
+msd120	एगो\QT_QTC राजा\N_NN के\PSP सात\QT_QTC बेटा\N_NN आउ\CC_CCD एक\QT_QTC बेटी\N_NN हल\V_VM ।\RD_PUNC
+msd121	सातो\QT_QTC बेटा\N_NN के\PSP पहिले\N_NST सादी\N_NN भे\V_VM गेल\V_VAUX ।\RD_PUNC
+msd122	बेटी\N_NN के\PSP भी\RP_RPD शादी\N_NN ठीक\JJ हो\V_VM गेल\V_VAUX बारात\N_NN आयल\V_VM आउ\CC_CCD सादी\N_NN भी\RP_RPD हो\V_VM गाल\V_VAUX ।\RD_PUNC
+msd123	कोहबर\N_NN में\PSP लोग\N_NN ओकरा\PR_PRP से\PSP नाम\N_NN पुछलन\V_VM ।\RD_PUNC
+msd124	ऊ\PR_PRP कहलक\V_VM कि\CC_CCS नाम\N_NN कहम\V_VM तब\PR_PRL हम\PR_PRP मर\V_VM जायम\V_VAUX ।\RD_PUNC
+msd125	लोग\N_NN नऽ\RP_NEG मानलन\V_VM कहलन\V_VM कि\CC_CCS नाम\N_NN तो\PR_PRL हम\PR_PRP बतावइत\V_VM ही\V_VAUX ।\RD_PUNC
+msd126	हम\PR_PRP मर\V_VM जायब\V_VAUX तब\PR_PRL हमरा\PR_PRP जारिहऽ\V_VM न\RP_NEG जंगल\N_NN में\PSP फेंक\V_VM दीहऽ\V_VAUX ।\RD_PUNC
+msd127	नाम\N_NN घरते\V_VM ऊ\PR_PRP मर\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd128	मरे\V_VM पर\PSP रोआ-रोहट\V_VM होवे\V_VAUX लगल\V_VAUX ।\RD_PUNC
+msd129	राजा\N_NN के\PSP बेटी\N_NN के\PSP नाम\N_NN ।\RD_PUNC
+msd13	बात-गलवात\N_NN करते\V_VM रात\N_NN खतम\N_NN भे\V_VM गेलई\V_VAUX तो\PR_PRL रानी\N_NN उठके\V_VM चललै\V_VAUX आउ\CC_CCD घरे\N_NN आन\N_NN के\PSP राजा\N_NN के\PSP खटिया\N_NN पर\PSP पड़\V_VM रहलै\V_VAUX ।\RD_PUNC
+msd130	करमजरीं\N_NN पड़\V_VM गेल\V_VAUX ।\RD_PUNC
+msd131	बरात\N_NN घुर\V_VM के\V_VAUX चल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd132	राजा\N_NN के\PSP बेटा\N_NN के\PSP जाके\V_VM लोग\N_NN जंगल\N_NN में\PSP फेक\V_VM देलन\V_VAUX ।\RD_PUNC
+msd133	सातो\QT_QTC भई\N_NN परदेश\N_NN जाय\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd134	अप्पन\PR_PRP मेहरारू\N_NN से\PSP सब\QT_QTC जाइत\V_VM_VNF खनी\N_NN पुछलन\V_VM कि\CC_CCS तोरा\PR_PRP ला\PSP का\PR_PRQ लबवऽ\V_VM ।\RD_PUNC
+msd135	﻿बिसेसरवा\N_NNP लइकिया\N_NN ।\RD_PUNC
+msd136	नऽ\RP_NEG विश्वास\N_NN हवऽ\V_VM तऽ\CC_CCS तनी\QT_QTF जाँघ\N_NN उघार\V_VM के\V_VAUX देख\V_VM लऽ\V_VAUX कि\CC_CCS याद\N_NN हवऽ\V_VM की\CC_CCS नऽ\RP_NEG ।\RD_PUNC
+msd137	तब\PR_PRL बिसेखरवा\N_NNP देखलक\V_VM तो\PR_PRL सच्चो\N_NN में\PSP घाव\N_NN हल\V_VM ।\RD_PUNC
+msd138	लाज\N_NN के\PSP मरि\N_NN ऊ\PR_PRP भाबी\N_NN से\PSP क्षमा\N_NN माँगलक\V_VM आउ\CC_CCD घोबिया\N_NN के\PSP लड़किया\N_NN के\PSP घरे\N_NN ले\V_VM आयल\V_VAUX ।\RD_PUNC
+msd139	घरे\N_NN आन\V_VM के\V_VAUX ऊ\PR_PRP ओकरा\PR_PRP घर\N_NN ही\RP_RPD पर\PSP छोड़\V_VM के\V_VAUX अपने\PR_PRF जंगल\N_NN में\PSP चल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd14	वजीर\N_NN के\PSP लड़का\N_NN भी\RP_RPD पहिल\N_NN ही\RP_RPD आन\V_VM के\V_VAUX सुत\V_VM रहलै\V_VAUX ।\RD_PUNC
+msd140	जंगल\N_NN में\PSP मारल-फिरल\V_VM आउ\CC_CCD अन्त\N_NN में\PSP एगो\QT_QTC बड़का\JJ बड़\N_NN के\PSP पेड़\N_NN तर\PSP रहे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd141	इहां\DM_DMD घर\N_NN पर\PSP सेहररुआ\N_NN के\PSP जइसे-जइसे\PR_PRL मासिक\N_NN घरम\N_NN होवे\V_VM तइसे-तइसे\PR_PRL जंगल\N_NN में\PSP बिसेसरवा\PR_PRP के\PSP देह\N_NN जले\V_VM लगल\V_VAUX ।\RD_PUNC
+msd142	ओकर\PR_PRP हालत\N_NN एकदम\RP_INTF खराब\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd143	ऊँ\PR_PRP उठे-बइठै\V_VM लायक\V_VAUX भी\RP_RPD नऽ\RP_NEG रहल\V_VM ।\RD_PUNC
+msd144	ऊ\PR_PRP बड़\N_NN के\PSP पेड़\N_NN पर\PSP दू\QT_QTC गो\RP_CL चिरई\N_NN रहऽ\V_VM हलन\V_VAUX ।\RD_PUNC
+msd145	एगो\QT_QTC हल\V_VM नर\N_NN आउ\CC_CCD एगो\QT_QTC हल\V_VM मादिन\N_NN ।\RD_PUNC
+msd146	दुनो\QT_QTC अपना\PR_PRF में\PSP बतिआइत\V_VM हलन\V_VAUX ।\RD_PUNC
+msd147	नरवा\N_NN कहलक\V_VM कि\CC_CCS अउरत\N_NN पर\PSP विस्वास\N_NN नऽ\RP_NEG हे\V_VM तऽ\CC_CCS मदिनिमा\N_NN कहलक\V_VM तऽ\CC_CCS मरदो\N_NN पर\PSP विस्वास\N_NN न\RP_NEG हे\V_VM ।\RD_PUNC
+msd148	अइसही\RB बतिआइत\N_NN दुनो\QT_QTC लड़े\V_VM लगलन\V_VAUX आउ\CC_CCD मरदवा\N_NN पुछलक\V_VM कि\CC_CCS कइसे\PR_PRQ मरद\N_NN पर\PSP विस्वास\N_NN नऽ\RP_NEG हे\V_VM ।\RD_PUNC
+msd149	तऽ\CC_CCS अउरतिया\N_NN कहकई\V_VM कि\CC_CCS देखऽ\V_VM ,\RD_PUNC ई\DM_DMI पेड़\N_NN के\PSP नीवे\N_NST एगो\QT_QTC अदमी\N_NN हे\V_VM ,\RD_PUNC जेकरा\PR_PRL अउरत\N_NN पर\PSP विस्वास\N_NN न\RP_NEG हे\V_VM ,\RD_PUNC जे\PR_PRL से\PSP ऊ\PR_PRP कइसन\PR_PRQ होयल\V_VM जाहत\V_VAUX है\V_VAUX ।\RD_PUNC
+msd15	दोसरा\QT_QTO दिना\N_NN राजा-वजीर\N_NN के\PSP लड़कावा\N_NN सबेरे\N_NN दिसा-मैदान\N_NN गेलई\V_VM तो\PR_PRL राजा\N_NN के\PSP लड़का\N_NN पुछलकै\V_VM कि\CC_CCS तु\PR_PRP उदास\JJ काहे\CC_CCS हऽ\V_VM इयार\N_NN ।\RD_PUNC
+msd150	ऊ\PR_PRP चल-फिर\V_VM नऽ\RP_NEG सकऽ\V_VM हे\V_VAUX ।\RD_PUNC
+msd151	तब\PR_PRL मरदवा\N_NN कहलक\V_VM कि\CC_CCS एकर\PR_PRP सरीर\N_NN कहसे\PR_PRQ ठीक\JJ होयत\V_VM ।\RD_PUNC
+msd152	अउरतिया\N_NN बोलल\V_VM कि\CC_CCS अगर\CC_CCS एकर\DM_DMD मेहररुआ\N_NN चलाक\JJ होयत\V_VM तब\PR_PRL फिन\CC_CCD से\PSP ई\DM_DMI पहिलही\N_NST नियन\RP_RPD ठीक\JJ हो\V_VM जयत\V_VAUX ।\RD_PUNC
+msd153	मरदवा\N_NN कहलक\V_VM कि\CC_CCS कहसे\PR_PRQ ।\RD_PUNC
+msd154	मदिनिया\N_NN बोलल\V_VM कि\CC_CCS अगर\CC_CCS मेहरारू\N_NN अपन\PR_PRF मासिक\JJ धरम\N_NN के\PSP कपड़ा\N_NN फींच\V_VM कर\V_VM_VNP के\PSP रखलेहोयत\N_NN आउ\CC_CCD ओकरा\PR_PRP जरा\V_VM के\V_VAUX एकर\PR_PRP सरीर\N_NN में\PSP लगावत\V_VM तऽ\CC_CCS ई\DM_DMI आराम\N_NN हो\V_VM जायत\V_VAUX ।\RD_PUNC
+msd155	तब\PR_PRL नरवा\N_NN कहलक\V_VM कि\CC_CCS कइसे\PR_PRQ एकरा\PR_PRP घरे\N_NN पहुँचावल\V_VM जायत\V_VAUX ।\RD_PUNC
+msd156	एकरा\DM_DMD पर\PSP मदिनिया\N_NN कहलक\V_VM कि\CC_CCS हमनी\PR_PRP दुनो\QT_QTC एकरा\DM_DMD अपन\PR_PRP पाँख\N_NN पर\PSP बइठा\N_NN के\PSP एकरा\DM_DMD घरे\N_NN पहुँचा\V_VM दऽ\V_VAUX ।\RD_PUNC
+msd157	आधी\JJ रात\N_NN के\PSP समय\N_NN में\PSP ओकरा\PR_PRP दुनो\QT_QTC मिलके\V_VM घरे\N_NN पहुँचा\V_VM देलन\V_VAUX ।\RD_PUNC
+msd158	बिसेसरवा\N_NNP चिरईयन\N_NN के\PSP बतिआइत\V_VM खनी\N_NN सब\QT_QTF बात\N_NN सुन\V_VM लेलक\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd159	से\CC_CCD घरे\N_NN आन\V_VM के\V_VAUX केवाड़ी\N_NN खोलवलक\V_VM आउ\CC_CCD अपन\PR_PRP मेहरारू\N_NN से\PSP माफी\N_NN माँगलक\V_VM आउ\CC_CCD पुछलक\V_VM कि\CC_CCS अपन\PR_PRP मासिक\JJ घरम\N_NN के\PSP कपड़ा\N_NN रखले\V_VM हऽ\V_VAUX कि\CC_CCS नऽ\RP_NEG ।\RD_PUNC
+msd16	इयार\N_NN राजा\N_NN के\PSP राते\N_NN के\PSP सब\QT_QTF हाल\N_NN कह\V_VM सुनौलका\V_VAUX आउ\CC_CCD कहलका\V_VM कि\CC_CCS इयार\N_NN के\PSP अब\DM_DMD जान\N_NN न\RP_NEG बचतई\V_VM सेई\DM_DMD से\PSP उदास\JJ हियो\V_VM ।\RD_PUNC
+msd160	तब\PR_PRL अउरतिया\N_NN कहलक\V_VM कि\CC_CCS हाँ\RP_RPD ,\RD_PUNC हम\PR_PRP सब\QT_QTF रखले\V_VM ही\V_VAUX ।\RD_PUNC
+msd161	बिसेसरबा\N_NNP बोलल\V_VM कि\CC_CCS अगर\CC_CCS तुँ\PR_PRP हमरा\PR_PRP फिर\CC_CCD से\PSP कँचन\N_NN बनावे\V_VM ला\PSP चाहइत\V_VM हऽ\V_VAUX तब\PR_PRL रोज\N_NN अपन\PR_PRP मासिक\JJ घरम\N_NN के\PSP फींचल\JJ कपड़ा\N_NN जरा\V_VM के\V_VAUX हमर\PR_PRP देहिया\N_NN मे\PSP लगावऽ\N_NN ।\RD_PUNC
+msd162	अउरतिया\N_NN रोज\N_NN -\RD_PUNC रोज\N_NN ओयसन\RP_RPD कपड़ा\N_NN जरा\V_VM के\V_VAUX लगावे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd163	ई\DM_DMI तरी\RD_UNK सब\QT_QTF कपड़ा\N_NN जरा\V_VM के\V_VAUX लगा\V_VM देलक\V_VM ।\RD_PUNC
+msd164	फिन\CC_CCD से\PSP बिसेसरवा\N_NNP के\PSP काया\N_NN कंचन\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd165	कुटनी\JJ बुढ़िया\N_NN कहताहर\N_NN -\RD_PUNC पनकुरी\N_NNP देवी\N_NNP ,\RD_PUNC ग्राम\N_NN बेलखरा\N_NNP ,\RD_PUNC जिला\N_NN -\RD_PUNC जाहानाबाद\N_NNP ।\RD_PUNC
+msd166	एगो\QT_QTC जंगल\N_NN मे\PSP एगो\QT_QTC कुटनी\JJ बुढ़िया\N_NN रहऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd167	उहाँ\DM_DMD पाँच\QT_QTC -\RD_PUNC छव\QT_QTC गो\RP_CL गाय\N_NN -\RD_PUNC भइँस\N_NN के\PSP चरवाहा\N_NN ढोर\N_NN चरावे\V_VM जा\V_VAUX हलन\V_VAUX ।\RD_PUNC
+msd168	एक\QT_QTC रोज\N_NN छवो\QT_QTC साथी\N_NN मिल\V_VM के\V_VAUX चुहा\N_NN पकड़लन\V_VM आउ\CC_CCD ओकरा\PR_PRP पका\V_VM के\V_VAUX खायला\V_VM आग\N_NN खोजे\V_VM चललन\V_VAUX ।\RD_PUNC
+msd169	ओहनी\PR_PRP ऊ\PR_PRP कुटनी\V_VAUX बुढ़िया\N_NN भिरू\PSP धुआँ\N_NN देखलन\V_VM ।\RD_PUNC
+msd17	राजा\N_NN के\PSP लड़कावा\N_NN कहकै\V_VM कि\CC_CCS तब\PR_PRL चलौ\V_VM हम\PR_PRP छोड़\V_VM के\V_VAUX चल\V_VM चलै\V_VAUX ।\RD_PUNC
+msd170	ओकरा\PR_PRP में\PSP से\PSP एगो\QT_QTC कुटनी\JJ भिरू\PSP जा\V_VM के\V_VAUX आग\N_NN माँगलक\N_NN ।\RD_PUNC
+msd171	तब\PR_PRL कुटनी\JJ बुढ़िया\N_NN कहलक\V_VM -\RD_PUNC नऽ\RP_NEG हमरा\PR_PRP हाथ\N_NN हे\V_VM ,\RD_PUNC नऽ\RP_NEG हमरा\PR_PRP ।\RD_PUNC
+msd172	﻿गोड़\N_NN हो\V_VM नऽ\RP_NEG हमरा\PR_PRP आंख\N_NN हे\V_VM ,\RD_PUNC नऽ\RP_NEG हमरा\PR_PRP कान\N_NN हे\V_VM ,\RD_PUNC से\PSP अपने\PR_PRP ले\V_VM लऽ\V_VAUX ।\RD_PUNC
+msd173	हम\PR_PRP खाली\QT_QTC तमाकुल\N_NN पीये\V_VM ला\PSP आग\N_NN रखले\V_VM रहऽ\V_VAUX ही\V_VAUX ।\RD_PUNC
+msd174	अपने\PR_PRP काढ़\V_VM के\V_VAUX लेलऽ\V_VM बाबू\N_NNP ।\RD_PUNC
+msd175	ऊ\PR_PRP लइका\N_NN आग\N_NN काढ़े\V_VM गेल\V_VAUX ।\RD_PUNC
+msd176	बस\N_NN ,\RD_PUNC कुटनी\JJ बुढ़िया\N_NN उठल\V_VM आउ\CC_CCD ओकरा\PR_PRP एके\QT_QTC कउर\N_NN मे\PSP निगल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd177	इहाँ\DM_DMD इयार\N_NN सब\QT_QTF सोचलन\V_VM कि\CC_CCS ऊ\PR_PRP कहां\PR_PRQ रह\V_VM गेल\V_VAUX ।\RD_PUNC
+msd178	तब\PR_PRL दुसर\QT_QTO इयार\N_NN के\PSP आग\N_NN ला\PSP भेजलन\V_VM ।\RD_PUNC
+msd179	कुटनी\JJ बुढ़िया\N_NN उनकरो\PR_PRP एके\QT_QTC कउर\N_NN में\PSP खा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd18	तऽ\CC_CCS ऊ\PR_PRP कहलकै\V_VM कि\CC_CCS नञु\RP_NEG ,\RD_PUNC कुछ\PR_PRI दिन\N_NN रह\V_VM के\V_VAUX रानी\N_NN के\PSP चाल-चलन\N_NN देख\V_VM लेवो\V_VAUX के\PSP चहियो\V_VM ।\RD_PUNC
+msd180	ओइसहीं\RP_RPD ऊ\PR_PRP बुढ़िया\N_NN पाँच\QT_QTC साथी\N_NN के\PSP खा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd181	छठा\QT_QTC साथी\N_NN बड़ी\JJ फेर\N_NN में\PSP परल\V_VM कि\CC_CCS ओहनी\PR_PRP सब\QT_QTF कहाँ\PR_PRQ चल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd182	ऊ\PR_PRP कुटनी\JJ बुढ़िया\N_NN भिरू\PSP गेल\V_VM आउ\CC_CCD जल्दी\RB से\PSP आग\N_NN माँगलक\V_VM आउ\CC_CCD बतौला\V_VM_VNF पर\PSP आग\N_NN काढ़े\V_VM लगल\V_VAUX ।\RD_PUNC
+msd183	बुढ़िया\N_NN जहसहीं\PR_PRL खाय\V_VM ला\PSP मुंह\N_NN खोललक\V_VM तइसहीं\PR_PRL मुँह\N_NN पर\PSP एक\QT_QTC थप्पड़\N_NN मारलक\V_VM तऽ\CC_CCS ओकर\PR_PRP एक\QT_QTC साथी\N_NN निकलल\V_VM ।\RD_PUNC
+msd184	ई\DM_DMI तरी\RD_UNK पाँच\QT_QTC थप्पड़\N_NN में\PSP पाँचो\QT_QTC साथी\N_NN निकल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd185	फिनो\CC_CCD सभे\QT_QTC मिलके\V_VM मौज\JJ से\PSP रहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd186	दूगो\QT_QTC राजकुमार\N_NN कहताहर\N_NN -\RD_PUNC पारसनाथ\N_NNP ग्राम\N_NN -\RD_PUNC तबकला,\N_NNP जिला\N_NN -\RD_PUNC जहानाबाद\N_NNP ।\RD_PUNC
+msd187	एगो\QT_QTC राजा\N_NN हलन\V_VM ।\RD_PUNC
+msd188	उनका\PR_PRP गाँव\N_NN मे\PSP एगो\QT_QTC बाजार\N_NN लगऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd189	ऊ\PR_PRP बजार\N_NN में\PSP जे\PR_PRL समान\N_NN न\RP_NEG बिके\V_VM ,\RD_PUNC साँझ\N_NN के\PSP राजा\N_NN आके\V_VM ओकरा\PR_PRP खरीद\V_VM ले\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd19	वजीर\N_NN के\PSP लड़का\N_NN ऊ\PR_PRP दिना\N_NN घुम-फिर\N_NN के\PSP दैत्य\N_NN के\PSP घर\N_NN के\PSP रस्ता\N_NN देख\V_VM लेलक\V_VAUX ।\RD_PUNC
+msd190	एक\QT_QTC दिन\N_NN साँझ\N_NN के\PSP राजा\N_NN उहाँ\DM_DMD खरीदे\V_VM गेल\V_VAUX तो\PR_PRL देखलक\V_VM कि\CC_CCS एगो\QT_QTC मुरगा\N_NN एक\QT_QTC आदमी\N_NN के\PSP नऽ\RP_NEG बिकल\V_VM हे\V_VAUX ।\RD_PUNC
+msd191	राजा\N_NN मुरगा\N_NN के\PSP दाम\N_NN पुछलन\V_VM तो\PR_PRL ओकर\PR_PRP मालिक\N_NN कहलक\V_VM कि\CC_CCS मुरगा\N_NN के\PSP दाम\N_NN मुरगे\N_NN से\PSP पुछऽ\V_VM ।\RD_PUNC
+msd192	मुरगा\N_NN से\PSP पुछला\V_VM पर\PSP ऊ\PR_PRP अप्पन\PR_PRP दाम\N_NN एक\QT_QTC लाख\QT_QTC बतौलक\V_VM ।\RD_PUNC
+msd193	राजा\N_NN अनहोनी\JJ मुरगा\N_NN समझ\N_NN के\V_VM ओकरा\PR_PRP एक\QT_QTC लाख\CC_CCD दाम\N_NN देके\V_VM ले\V_VM लेलक\V_VAUX ।\RD_PUNC
+msd194	घरे\N_NN जा\V_VM के\V_VAUX मुरगा\N_NN से\PSP राजा\N_NN पुछलन\V_VM कि\CC_CCS तोरा\PR_PRP में\PSP का\PR_PRQ गुण\N_NN हे\V_VM ।\RD_PUNC
+msd195	मुरगा\N_NN बोलल\V_VM कि\CC_CCS हमरा\PR_PRP मारके\V_VM जे\PR_PRL हमर\PR_PRP देह\N_NN खायत\V_VM ओकरा\PR_PRP रोवे\V_VM से\PSP ओकर\PR_PRP आँसु\N_NN मोती\N_NN बन\V_VM जायत\V_VAUX आउ\CC_CCD जे\PR_PRL हमर\PR_PRP मुँड़ी\N_NN खायत\V_VM तो\PR_PRL ओकरा\PR_PRP छीकें\N_NN से\PSP लाल\N_NN गिरत\V_VM ।\RD_PUNC
+msd196	राजा\N_NN ई\DM_DMI जान\N_NN के\V_VM खुश\JJ होयल\V_VM आउ\CC_CCD मुरगा\N_NN के\PSP मार\V_VM के\V_VAUX रानी\N_NN के\PSP कहलन\V_VM कि\CC_CCS एकरा\DM_DMD बना\V_VM के\V_VAUX रखिहंऽ\V_VM ।\RD_PUNC
+msd197	राजा\N_NN कह\V_VM के\PSP बाहर\N_NST चल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd198	रानी\N_NN मुरगा\N_NN के\PSP सिकार\N_NN बना\V_VM के\V_VAUX रखलन\V_VM ।\RD_PUNC
+msd199	एही\DM_DMD बीच\N_NN में\PSP दुनो\QT_QTC राजकुमार\N_NN पढ़\V_VM के\V_VAUX अयलन\V_VM आउ\CC_CCD खाय\V_VM ला\PSP माँगलन\V_VM ।\RD_PUNC
+msd2	लेकिन\CC_CCD तु\PR_PRP कहिहँऽ\V_VM कि\CC_CCS कउन\PR_PRQ नतु\N_NN जान\N_NN हई\V_VAUX कि\CC_CCS केकर\PR_PRQ माय-बहिन\N_NN के\PSP पास\N_NST की\PSP रहऽहौ\V_VM ।\RD_PUNC
+msd20	रात\N_NN में\PSP फिनो\CC_CCD दुनो\QT_QTC इयार\N_NN रनिवास\N_NN गेसई\V_VM आउ\CC_CCD राजा\N_NN तो\PR_PRL तेल-तेलबाई\N_NN के\PSP बाद\N_NST सुत\V_VM रहलई\V_VAUX ।\RD_PUNC
+msd200	रानी\N_NN भीर\PSP में\PSP हलन\V_VM से\CC_CCD कहलन\V_VM कि\CC_CCS जाके\V_VM खा\V_VM ले\V_VAUX ।\RD_PUNC
+msd201	बड़का\JJ बेटा\N_NN मुरगा\N_NN के\PSP देह\N_NN आउ\CC_CCD छोटका\JJ बेटा\N_NN मूँर्ड़ी\N_NN खा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd202	रानी\N_NN आन\V_VM के\V_VAUX देखलन\V_VM तो\PR_PRL बड़ी\JJ अफसोस\N_NN में\PSP पड़लन\V_VM कि\CC_CCS आज\N_NN राजा\N_NN हमरा\PR_PRP मार\V_VM देतन\V_VAUX ।\RD_PUNC
+msd203	राजकुमार\N_NN माय\N_NN से\PSP रोवे\V_VM के\V_VAUX कारन\N_NN पुछलन\V_VM तो\PR_PRL रानी\N_NN सब\QT_QTF हाल\N_NN बता\V_VM देलन\V_VAUX ।\RD_PUNC
+msd204	ई\DM_DMI सब\QT_QTF बात\N_NN सुन\V_VM के\V_VAUX दुनो\QT_QTC राजकुमार\N_NN घर\N_NN से\PSP निकल\V_VM गेलन\V_VAUX आउ\CC_CCD परदेस\N_NN चल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd205	राह\N_NN में\PSP जाइत\V_VM_VNF हलन\V_VM कि\CC_CCS जंगल\N_NN पार\V_VM करे\V_VAUX परल\V_VAUX ।\RD_PUNC
+msd206	जंगल\N_NN पार\V_VM कयला\V_VAUX पर\PSP दुनो\QT_QTC के\PSP बड़ी\RP_INTF भुख\V_VM लगल\V_VAUX ।\RD_PUNC
+msd207	बड़का\JJ भाई\N_NN के\PSP पास\N_NST कुछ\QT_QTF पइसा\N_NN हल\V_VM से\PSP ऊ\PR_PRP बजार\N_NN में\PSP खरीदे\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd208	उहां\DM_DMD के\PSP राजा\N_NN के\PSP राजकुमारी\N_NN झरोखा\N_NN पर\PSP से\PSP उनका\PR_PRP देखहत\V_VM हल\V_VAUX ।\RD_PUNC
+msd209	देख\V_VM के\V_VAUX इनकर\PR_PRP सुन्नरता\JJ पर\PSP ऊ\PR_PRP मोहा\N_NN गेल\V_VM आउ\CC_CCD बाप\N_NN से\PSP कहलक\V_VM कि\CC_CCS हम\PR_PRP एही\DM_DMD अदमी\N_NN से\PSP विआह\N_NN करम\V_VM ।\RD_PUNC
+msd21	बाकि\CC_CCD वजीर\N_NN पहिले\N_NN ही\RP_RPD देत्य\N_NN के\PSP घर\N_NN जाके\V_VM खटिया\N_NN के\PSP नीचे\N_NST सुत\V_VM रहलई\V_VAUX ।\RD_PUNC
+msd210	राजा\N_NN के\PSP मना\V_VM कयला\V_VAUX पर\PSP भी\RP_RPD राजकुमारी\N_NN न\RP_NEG मानल\V_VM आउ\CC_CCD अंत\N_NN में\PSP राजकुमारी\N_NN के\PSP सादी\N_NN ओही\DM_DMD राजकुमार\N_NN से\PSP कर\V_VM देवे\V_VAUX पड़ल\V_VAUX ।\RD_PUNC
+msd211	बड़का\JJ राजकुमार\N_NN ईं\DM_DMD राजकुमारी\N_NN के\PSP साथे\PSP रहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd212	होतउ\N_NN तब\PR_PRL ऊ\PR_PRP एगो\QT_QTC चलनी\N_NN से\PSP सात\QT_QTC गो\RP_CL घइला\N_NN भर\V_VM देतउ\V_VAUX ।\RD_PUNC
+msd213	बेटिया\N_NN कहलक\V_VM कि\CC_CCS ठीक\JJ हे\V_VM बाकि\CC_CCD चलनी\N_NN हमही\PR_PRP देवब\V_VM ।\RD_PUNC
+msd214	दैतबा\N_NN तैयार\V_VM हो\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd215	वेटिया\N_NN राजकुमार\N_NN से\PSP कहवा\V_VM देलक\V_VAUX कि\CC_CCS हम\PR_PRP एगो\QT_QTC चलनी\N_NN देव\V_VM आउ\CC_CCD तु\PR_PRP ओकरा\PR_PRP में\PSP पानी\N_NN ले\V_VM के\V_VAUX सात\QT_QTC गो\RP_CL बइला\N_NN के\PSP चारो\QT_QTC ओर\N_NN बुम\V_VM जइह\V_VAUX ।\RD_PUNC
+msd216	घइला\N_NN भर\V_VM जतव\V_VAUX आउ\CC_CCD हमनी\PR_PRP के\PSP सादी\N_NN हो\V_VM जायत\V_VAUX ।\RD_PUNC
+msd217	दोसर\QT_QTO दिन\N_NN अहसही\RP_RPD गेल\V_VM ।\RD_PUNC
+msd218	राजकुमार\N_NN आउ\CC_CCD राजकुमारी\N_NN के\PSP सादी\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd219	दुनो\QT_QTC उहई\DM_DMD रहे\V_VM लालन\V_VAUX ।\RD_PUNC
+msd22	जब\PR_PRL रानी\N_NN पहुंचल\N_NN तो\PR_PRL दत्य\N_NN के\PSP उठौलक\V_VM ।\RD_PUNC
+msd220	ऊ\PR_PRP दैतवा\N_NN के\PSP पास\N_NST छ\QT_QTC गो\RP_CL सुरदा\N_NN हल\V_VM ।\RD_PUNC
+msd221	एगो\QT_QTC एक\QT_QTC सौ\QT_QTC साठ\QT_QTC मन\N_NN के\PSP आउ\CC_CCD दोसर\QT_QTO दो\QT_QTC सौ\QT_QTC साठ\QT_QTC मनके\N_NN ।\RD_PUNC
+msd222	दैतवा\N_NN एक\QT_QTC सौ\QT_QTC साठ\QT_QTC मन\N_NN के\V_VAUX सुरदा\N_NN से\PSP एगो\QT_QTC कुआँ\N_NN के\V_VAUX तोपले\N_NN रह\N_NN हल\V_VAUX ।\RD_PUNC
+msd223	ओकरा\PR_PRP उघार\V_VM के\V_VAUX ऊ\PR_PRP पानी\N_NN पीअ\V_VM हल\V_VAUX ,\RD_PUNC फिनौ\CC_CCD ओके\PR_PRP तोप\V_VM दे\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd224	दो\QT_QTC सो\QT_QTC साठ\QT_QTC मन\N_NN के\PSP मुरदा\N_NN ओकरा\PR_PRP से\PSP अलगवे\V_VM न\RP_NEG कर\V_VM हल\V_VAUX ।\RD_PUNC
+msd225	बड़ी\QT_QTF मेहनत\N_NN के\PSP बाद\N_NST भी\RP_RPD ऊ\PR_PRP मुरदा\N_NN न\RP_NEG उठ\V_VM हल\V_VAUX ।\RD_PUNC
+msd226	एक\QT_QTC दिन\N_NN राजकुमार\N_NN देखलक\V_VM तो\PR_PRL ऊ\PR_PRP कुदा\N_NN के\PSP उठाके\V_VM माँजे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd227	एक\QT_QTC दिन\N_NN दैतवा\N_NN सिकार\N_NN करके\V_VM आयलतो\V_VM तो\PR_PRL राजकुमार\N_NN कुअवां\N_NN उघारे\V_VM ला\PSP कहलक\V_VM ।\RD_PUNC
+msd228	राजकुमार\N_NN एके\QT_QTC हाथ\N_NN से\PSP एक\QT_QTC सौ\QT_QTC साठ\QT_QTC मन\N_NN के\PSP मुरदा\N_NN के\PSP उठा\V_VM के\V_VAUX फेक\V_VM देलक\V_VAUX ।\RD_PUNC
+msd229	दैतवा\N_NN ई\DM_DMI देख\V_VM के\V_VAUX कहलक\V_VM कि\CC_CCS तूं\N_NN तो\PR_PRL बड़ा\JJ बलवान\N_NN ह\V_VM ।\RD_PUNC
+msd23	दैत्य\N_NN खाना\N_NN खाय\V_VM लगलई\V_VAUX आउ\CC_CCD रानी\N_NN के\PSP एगो\QT_QTC लालफल\N_NN देलक\V_VM आउ\CC_CCD कहलक\V_VM कि\CC_CCS जबतक\PR_PRL हम\PR_PRP खाना\N_NN खा\V_VM हियो\V_VAUX तब\PR_PRL तक\PSP तूहूँ\PR_PRP फल\N_NN के\PSP खा\V_VM लऽ\V_VAUX ।\RD_PUNC
+msd230	हम\PR_PRP तोरा\PR_PRP से\PSP लड़व\V_VM ।\RD_PUNC
+msd231	राजकुमार\N_NN लड़े\V_VM ला\PSP तइयार\JJ हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd232	दुनो\QT_QTC ससुर\N_NN दमाद\N_NN लड़े\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd233	दमदा-ससुर\N_NN के\PSP पटक\V_VM के\V_VAUX दू\QT_QTC सौ\QT_QTC साठ\QT_QTC मन\N_NN ओला\RP_RPD कुदा\N_NN ओकर\PR_PRP सुंड़ी\N_NN पर\PSP आउ\CC_CCD एक\QT_QTC सो\QT_QTC साठ\QT_QTC मन\N_NN ओला\RP_RPD मुरदा\N_NN पेट\N_NN पर\PSP रख\V_VM देलक\V_VAUX आउ\CC_CCD चल\V_VM देलक\V_VAUX ।\RD_PUNC
+msd234	दैतवा\N_NN तो\PR_PRL उहहैं\DM_DMD मर\V_VM गेल\V_VAUX ।\RD_PUNC
+msd235	कुटनी\JJ बुढ़िया\N_NN के\PSP मालुम\N_NN भेल\V_VM तो\PR_PRL ऊ\PR_PRP डर\N_NN गेल\V_VM कि\CC_CCS एक\QT_QTC दिन\N_NN हमरो\PR_PRP ऊ\PR_PRP मार\V_VM देत\N_NN ।\RD_PUNC
+msd236	कुटनी\N_NN राजा\N_NN भिरू\PSP गेल\V_VM आउ\CC_CCD चढ़ाई\N_NN करे\V_VM ला\PSP ओकरा\PR_PRP उकसौलक\V_VM ।\RD_PUNC
+msd237	राजा\N_NN भी\RP_RPD डर\N_NN गेल\V_VM ।\RD_PUNC
+msd238	बाकि\CC_CCD कुटनी\JJ बुढ़िया\N_NN अप्पन\PR_PRP झोला\N_NN के\PSP हाल\N_NN कहलक\V_VM तो\PR_PRL राजा\N_NN चढ़ाई\N_NN करे\V_VM ला\PSP तइयार\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd239	राजा\N_NN घोड़ा\N_NN पर\PSP चढ़\N_NN के\PSP सामने\N_NST पहुंचल\V_VM ।\RD_PUNC
+msd24	तब\PR_PRL रानो\N_NN पुछे\V_VM लगल\V_VAUX कि\CC_CCS ई\DM_DMI फल\N_NN के\PR_PRQ देलको\N_NN हे\N_NN आउ\CC_CCD एकरा\PR_PRP की\PR_PRQ नाम\N_NN हई\V_VAUX ।\RD_PUNC
+msd240	बड़का\JJ देख\V_VM के\V_VAUX चीन्हे\N_NN लगल\V_VM कि\CC_CCS लगइत\V_VM हे\V_VAUX कि\CC_CCS हमरे\PR_PRP भाई\N_NN हे\V_VM ।\RD_PUNC
+msd241	छोटका\JJ राजकुमार\N_NN अप्पन\PR_PRP बाप\N_NN के\PSP नाम\N_NN बतौलक\V_VM ।\RD_PUNC
+msd242	तब\PR_PRL बड़का\JJ कहलक\V_VM कि\CC_CCS हम\PR_PRP दूनो\QT_QTC तो\PR_PRL उनके\PR_PRP बेटा\N_NN ही\V_VM ।\RD_PUNC
+msd243	दुनो\QT_QTC भाई\N_NN मिल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd244	छोटका\JJ माई\N_NN कुटनी\JJ बुढ़िया\N_NN के\JJ हाल\N_NN कहलक\V_VM आउ\CC_CCD बतौलक\V_VM कि\CC_CCS ओही\DM_DMD हम्मर\PR_PRP झोला\N_NN सोटा\N_NN आउ\CC_CCD उड़नखटोला\N_NN छीन\V_VM लेलक\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd245	बड़का\JJ कुटनी\JJ बुढ़िया\N_NN के\PSP खादे-मुंसे\N_NN भरवा\V_VM देलक\V_VAUX ।\RD_PUNC
+msd246	ओकर\PR_PRP घर\N_NN में\PSP खोज\N_NN करल\V_VM गेल\V_VAUX तो\PR_PRL छोटका\JJ भाई\N_NN के\PSP सुरगा\N_NN के\PSP सुँड़ी\N_NN मिल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd247	ओकरा\PR_PRP ऊ\PR_PRP खा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd248	सब\QT_QTF लाल\N_NN भी\RP_RPD ले\V_VM लेलक\V_VAUX ।\RD_PUNC
+msd249	फिनो\CC_CCD उड़नखटोला\N_NN झोला\N_NN आउ\CC_CCD सोटा\N_NN भी\RP_RPD मिल\V_VM गेल\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd25	तब\PR_PRL हम\PR_PRP खइबो\V_VM ।\RD_PUNC
+msd250	सब\QT_QTF लेके\V_VM दुनो\QT_QTC माई\N_NN चल\V_VM अयल\V_VAUX ।\RD_PUNC
+msd251	एक\QT_QTC दिन\N_NN छोटका\JJ राजकुमार\N_NN बड़का\JJ भाई\N_NN से\PSP कहलन\V_VM कि\CC_CCS माय-बाप\N_NN आन्हर\JJ हो\V_VM गेलन\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd252	बेटा\N_NN के\PSP आयल\V_VM जान\N_NN के\PSP ओहनी\N_NN लपक\V_VM के\V_VAUX उठलन\V_VM आउ\CC_CCD मकड़े\V_VM ला\PSP चाहलन\V_VM कि\CC_CCS ओहनी\N_NN के\PSP आँख\N_NN हो\V_VM गेल\V_VAUX आउ\CC_CCD सव\QT_QTF लौके\V_VM लगल\V_VAUX ।\RD_PUNC
+msd253	सब\QT_QTF मिल\V_VM के\V_VAUX सुख\N_NN से\PSP रहे\V_VM लगलन\N_NN ।\RD_PUNC
+msd254	एक\QT_QTC दिन\N_NN दूनो\QT_QTC भाई\N_NN अपने\PR_PRP में\PSP वतियलन\V_VM कि\CC_CCS हमनी\PR_PRP के\PSP कइसे\PR_PRQ राज-पाट\N_NN चलावे\V_VM के\V_VAUX चाही\V_VM ।\RD_PUNC
+msd255	छोटका\JJ राजकुमार\N_NN कहलन\V_VM कि\CC_CCS तु\PR_PRP कहाँ\PR_PRQ राज\N_NN करब\V_VM ,\RD_PUNC बड़का\JJ राजकुमार\N_NN बौललन\V_VM कि\CC_CCS हम\PR_PRP उहां\DM_DMD जायम\V_VM ।\RD_PUNC
+msd256	से\CC_CCD ले\V_VM माई\N_NN उड़नखटोला\N_NN पर\PSP वइठ\V_VM के\V_VAUX जंग़ल\N_NN ओला\RP_RPD राज\N_NN में\PSP चल\V_VM गेलन\V_VAUX आउ\CC_CCD छोटका\JJ उहा\DM_DMD के\PSP परजा\N_NN से\PSP कहलक\V_VM कि\CC_CCS अब\DM_DMD इके\N_NN राज-पाट\N_NN की\PR_PRQ करधुन\V_VM ।\RD_PUNC
+msd257	कोई\PR_PRI तकलीफ\N_NN होतव\V_VM तो\PR_PRL हमरा\PR_PRP पास\N_NN आ\V_VM जइह\V_VAUX ।\RD_PUNC
+msd258	फिनो\CC_CCD राजकुमार\N_NN उड़नखटोला\N_NN पर\PSP बइठ\V_VM के\V_VAUX माम-बाप\N_NN के\PSP राजघानी\N_NN में\PSP आ\V_VM गेलन\V_VAUX आउ\CC_CCD राज-पाट\N_NN करे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd259	बेटा\N_NN होय\V_VM तो\PR_PRL छोटका\JJ राजकुमार\N_NN जइसन\RP_RPD ।\RD_PUNC
+msd26	तब\PR_PRL दैत्य\N_NN कहलक\V_VM कि\CC_CCS हम्मर\PR_PRP एगो\QT_QTC बहिन\N_NN लाल\JJ परी\N_NN विसुनलोक\N_NN में\PSP रहऽ\V_VM हई\V_VAUX ।\RD_PUNC
+msd260	﻿पड़िआइन\N_NN के\PSP पुतोह\N_NN कहताहर\N_NN -\RD_PUNC साधुशरण्\N_NNP ,\RD_PUNC ग्राम\N_NN -\RD_PUNC पो०\N_NN मखदुमपुर\N_NN ,\RD_PUNC जिला\N_NN -\RD_PUNC जहानाबाद\N_NN एगो\QT_QTC गाँव\N_NN में\PSP एगो\QT_QTC पाँड़े\N_NN आउ\CC_CCD पड़िआइन\N_NN रहऽ\V_VM हलन\V_VAUX ।\RD_PUNC
+msd261	उनका\PR_PRP खाली\QT_QTC एगो\QT_QTC बेटी\N_NN हल\V_VM ।\RD_PUNC
+msd262	बड़ी\N_NN दिन\N_NN तक\RP_RPD कोई\PR_PRI बेटा\N_NN न\RP_NEG भेल\V_VM ।\RD_PUNC
+msd263	पाँड़े\N_NN रोज\N_NN आलसी\JJ के\PSP तरह\RP_RPD सूतल\V_VM रहथ\V_VAUX ।\RD_PUNC
+msd264	ढेर\QT_QTF मानी\RP_CL दिन\N_NN उठ\V_VM जाय\V_VAUX तइयो\CC_CCS ऊ\PR_PRP न\RP_NEG उठथ\V_VM ।\RD_PUNC
+msd265	एक\QT_QTC दिन\N_NN पड़िआइन\N_NN कहलन\V_VM कि\CC_CCS तोरा\PR_PRP बेटा\N_NN का\PR_PRQ होतवऽ\V_VM ।\RD_PUNC
+msd266	सबेरे\N_NN उठऽ\V_VM हइये\V_VAUX नऽ\RP_NEG धूमऽ\V_VM फिरऽ\V_VAUX हइये\V_VM नऽ\RP_NEG ।\RD_PUNC
+msd267	से\CC_CCD एक\QT_QTC दिन\N_NN पाँड़े\N_NN जी\RP_RPD खूब\JJ तड़के\N_NN उठलन\V_VM आऊ\N_NN नेहा\V_VM -\RD_PUNC घोवा\V_VM के\V_VAUX चलल\V_VM आवइत\V_VAUX हलन\V_VAUX ।\RD_PUNC
+msd268	राह\N_NN में\PSP एगो\QT_QTC महात्मा\N_NN खड़ाऊँ\N_NN पर\PSP चढ़ल\V_VM जाइत\V_VAUX हलन\V_VAUX ।\RD_PUNC
+msd269	पाँड़े\N_NN के\PSP सबरे\N_NN देखलन\V_VM तो\PR_PRL पुछलन\N_NN कि\CC_CCS तूँ\PR_PRP ई\DM_DMI घड़ी\N_NN कहाँ\PR_PRQ जाइत\V_VM हें\N_NN ।\RD_PUNC
+msd27	ओकरे\PR_PRP विसुन\N_NN भगवान\N_NN इनाम\N_NN में\PSP ई\DM_DMI फल\N_NN देलका\V_VM हल\V_VAUX ओहो\PR_PRP हमरा\PR_PRP देलक\V_VM ।\RD_PUNC
+msd270	पाँड़े\N_NN जी\RP_RPD कहलन\V_VM कि\CC_CCS हमरा\PR_PRP कोई\PR_PRI बेटा\N_NN नऽ\RP_NEG हे\V_VM ।\RD_PUNC
+msd271	ओही\DM_DMD ला\PSP जाइत\V_VM ही\V_VAUX ।\RD_PUNC
+msd272	महात्मा\N_NN जी\RP_RPD कहलन\V_VM कि\CC_CCS ई\DM_DMI मट्टी\N_NN ले\V_VM जो\V_VAUX आउ\CC_CCD अप्पन\PR_PRP मेहरारू\N_NN के\PSP कान\N_NN में\PSP डाल\V_VM दे\V_VAUX ।\RD_PUNC
+msd273	पाड़े\N_NN अइसने\RP_RPD कयलन\DM_DMI आउ\CC_CCD उनकर\PR_PRP अउरत\N_NN के\PSP गरभ\N_NN रह\V_VM गेल\V_VAUX ।\RD_PUNC
+msd274	नौ\QT_QTC महीना\N_NN के\PSP बाद\N_NST उनका\PR_PRP एगो\QT_QTC बेटा\N_NN पैदा\V_VM लेलक\V_VAUX ।\RD_PUNC
+msd275	ऊ\PR_PRP लइका\N_NN रोज\N_NN एक\QT_QTC जौ\N_NN बढ़े\V_VM ।\RD_PUNC
+msd276	थोड़\N_NN ही\RP_RPD दिन\N_NN में\PSP सेयान\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd277	पड़िआइन\N_NN चाहलन\V_VM कि\CC_CCS अप्पन\PR_PRP तो\PR_PRL संतान\N_NN के\PSP एके\QT_QTC घर\N_NN में\PSP सादी\N_NN कर\V_VM दीहीं\V_VAUX ।\RD_PUNC
+msd278	बाकि\CC_CCD लड़कावा\N_NN सादी\N_NN करे\V_VM ला\PSP तइयारे\N_NN न\RP_NEG होवे\V_VM ।\RD_PUNC
+msd279	अंत\N_NN में\PSP माय\N_NN के\PSP जिद्द\JJ रोप\V_VM देला\V_VAUX पर\PSP बेटा\N_NN सादी\N_NN करे\V_VM ला\PSP तइयार\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd28	हम\PR_PRP सोचलु\V_VM कि\CC_CCS हम\PR_PRP की\DM_DMQ खाऊँ\V_VM से\PSP हमरा\PR_PRP एगो\QT_QTC रानी\N_NN हई\V_VM ओकरा\PR_PRP देबई\V_VM ।\RD_PUNC
+msd280	एके\QT_QTC घर\N_NN में\PSP सादी\N_NN ठीक\JJ हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd281	पहिले\N_NST पड़िआइन\N_NN के\PSP बेटी\N_NN के\PSP बराती\N_NN आयल\N_NN ।\RD_PUNC
+msd282	सादी-उदी\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd283	बेटा\N_NN के\PSP बराती\N_NN जाय\V_VM के\PSP तइयारी\N_NN भेल\V_VM तो\PR_PRL नहछूर\N_NN के\PSP पहिले\N_NST बेटवा\N_NN कहलक\V_VM कि\CC_CCS हमरा\PR_PRP बड़ी\JJ गरमी\N_NN लाइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd284	मना\N_NN कयला\V_VM पर\PSP भी\RP_RPD ऊ\PR_PRP न\RP_NEG मानल\V_VM आउ\CC_CCD लोटा-डोरी\N_NN ले\V_VM के\PSP बाहर\N_NST कुआँ\N_NN पर\PSP नेहाय\V_VM चल\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd285	उहाँ\DM_DMD जा\V_VM के\V_VAUX लोटा-डोरी\N_NN कुंआ\N_NN पर\PSP रख\V_VM देलक\V_VAUX आउ\CC_CCD अपने\PR_PRP ओकरा\PR_PRP में\PSP कुद\V_VM गेल\V_VAUX ।\RD_PUNC
+msd286	एने\DM_DMD बराती\N_NN के\PSP जाय\V_VM में\PSP कुबेर\N_NN होय\V_VM लगल\V_VAUX से\RP_RPD खोजाहट\V_VM भेल\V_VAUX ।\RD_PUNC
+msd287	लोग\N_NN कुआँ\N_NN पर\PSP गेलन\V_VM तो\PR_PRL देखइत\V_VM हथ\V_VAUX कि\CC_CCS ऊ\PR_PRP ऊभ-दुब\RB करइत\V_VM हथ\V_VAUX ।\RD_PUNC
+msd288	उनका\PR_PRP निकालल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd289	लोग\N_NN उनका\PR_PRP इनरडुब्बू\N_NN कहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd29	रानी\N_NN भी\RP_RPD फल\N_NN के\PSP खटिया\N_NN के\PSP नीचे\N_NST रख\N_NN देलई\N_NN जेकरा\PR_PRL वजीर\N_NN ले\V_VM लेलकई\N_NN आउ\CC_CCD ओघड़\N_NN के\PSP उहां\DM_DMD से\PSP दरवाजा\N_NN पर\PSP आके\V_VM सब\QT_QTF बात\N_NN सुने\V_VM लगलई\V_VAUX ।\RD_PUNC
+msd290	इनरडुब्बू\N_NNP के\PSP बराती\N_NN गेल\V_VM ।\RD_PUNC
+msd291	सादी-विआह\N_NN भे\V_VM गेल\V_VAUX ।\RD_PUNC
+msd292	बराती\N_NN लौटे\V_VM लगल\V_VAUX तो\PR_PRL इनरडुब्बू\N_NNP के\PSP सास-ससुर\N_NN कहलन\V_VM कि\CC_CCS दमाद\N_NN थोड़े\QT_QTF दिन\N_NN रह\V_VM जयतन\V_VAUX से\RP_RPD उनका\PR_PRP विदाई\N_NN न\RP_NEG भेल\V_VM ।\RD_PUNC
+msd293	रात\N_NN में\PSP इनरडुब्बू\N_NNP के\PSP कोहबर\N_NN मिलल\V_VM ।\RD_PUNC
+msd294	उहाँ\DM_DMD सुतल\V_VM हलन\V_VAUX तो\PR_PRL उनकर\PR_PRP कनेयाँ\N_NN आन\V_VM के\V_VAUX अइसन\RP_RPD मरलन\V_VM कि\CC_CCS मर\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd295	अन्हारे\N_NN घर\N_NN में\PSP सोर\N_NN मचल\V_VM ।\RD_PUNC
+msd296	लोग\N_NN सोचलन\V_VM कि\CC_CCS मर\N_NN गेल\V_VAUX तो\PR_PRL अब\N_NN चुपचाप\N_NN सतगत\N_NN कर\V_VM देवे\V_VAUX के\PSP चाहीं\V_VM ।\RD_PUNC
+msd297	से\CC_CCD बिना\PSP हल्ला\N_NN -\RD_PUNC हुसरत\N_NN के\PSP इनरडुब्बू\N_NNP के\PSP चिरारी\N_NN पर\PSP ले\V_VM जाके\V_VAUX जला\V_VM देल\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd298	जब\PR_PRL कुछ\QT_QTF दिन\N_NN भेल\V_VM तो\PR_PRL इनरडुब्बू\N_NNP के\PSP मतारी\N_NN इहाँ\DM_DMD सोंच\N_NN में\PSP पड़ल\V_VM ।\RD_PUNC
+msd299	पाँड़े\N_NN के\PSP खाना\N_NN देके\V_VM भेजलन\V_VAUX ।\RD_PUNC
+msd3	लेकिन\CC_CCD परदा\N_NN से\PSP छिपल\V_VM हौ\V_VAUX ।\RD_PUNC
+msd30	अन्हारे\N_NN जब\PR_PRL रानी\N_NN उही\DM_DMD से\PSP चललई\V_VM तो\PR_PRL ऊ\PR_PRP पहिले\N_NN ही\RP_RPD आन\V_VM के\V_VAUX अप्पन\PR_PRP खटिया\N_NN पर\PSP सुत\V_VM गलई\V_VAUX ।\RD_PUNC
+msd300	पाड़े\N_NN समघिआना\N_NN पहुँचलन\V_VM तो\PR_PRL पहिले\N_NST लोग\N_NN आना-कानी\N_NN कयलन\V_VM बाकि\CC_CCD फिनों\CC_CCD बता\V_VM देलन\V_VAUX ।\RD_PUNC
+msd301	बेटा\N_NN के\PSP मरे\V_VM के\PSP हाल\N_NN सुन\V_VM के\V_VAUX पाँड़े\N_NN छाती\N_NN में\PSP मुक्का\N_NN मार\V_VM के\V_VAUX गिर\N_NN गेलन\V_VAUX ।\RD_PUNC
+msd302	कइसहूँ\RB होस\N_NN में\PSP लावल\V_VM गेलन\V_VAUX तो\PR_PRL कहलन\V_VM कि\CC_CCS जल्दी\RB हम्मर\PR_PRP बाबूके\N_NN चिता\N_NN देखावऽ\V_VM ।\RD_PUNC
+msd303	समघी\N_NN उनका\PR_PRP ले\V_VM जाके\V_VAUX चिता\N_NN देखवलन\V_VM ।\RD_PUNC
+msd304	उहाँ\DM_DMD भी\RP_RPD ऊ\PR_PRP छाती\N_NN में\PSP मुक्का\N_NN मार\V_VM के\V_VAUX बेहोस\N_NN हो\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd305	लोग\N_NN होस\N_NN करके\V_VM लावे\V_VM लगलन\V_VAUX तइयो\RP_RPD घूर\N_NN -\RD_PUNC घूर\V_VM के\V_VAUX ताकइत\V_VM जाय\V_VAUX ।\RD_PUNC
+msd306	जब\PR_PRL सब\QT_QTF लोग\N_NN आगे\RB बढ़\V_VM गेलन\V_VAUX तो\PR_PRL फिनों\CC_CCD ऊ\PR_PRP घूम\V_VM के\V_VAUX चिता\N_NN दने\PSP देखलन\V_VM तऽ\CC_CCS देखइत\V_VM हथ\V_VAUX कि\CC_CCS उनकर\PR_PRP इनरडुब्बू\N_NNP बेटा\N_NN चिता\N_NN से\PSP उठ\V_VM के\V_VAUX खड़ा\N_NN होयलन\V_VM हे\V_VAUX ।\RD_PUNC
+msd307	पाड़ेँ\N_NN दउग\V_VM के\V_VAUX छाती\N_NN से\PSP लगा\V_VM के\JJ कहलन\V_VM कि\CC_CCS तुँ\PR_PRP जल्दी\RB दउग\V_VM के\V_VAUX माय\N_NN भिजुन\PSP चल\V_VM जा\V_VAUX ।\RD_PUNC
+msd308	बेटा\N_NN माय\N_NN भिचुन\PSP अप्पन\PR_PRP घरे\N_NN आ\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd309	पाँड़े\N_NN समघी\N_NN से\PSP कहलन\V_VM कि\CC_CCS अब\N_NN तो\PR_PRL जे\PR_PRL होवे\V_VM ला\PSP हल\V_VM ।\RD_PUNC
+msd31	रानी\N_NN भी\RP_RPD आन\V_VM के\V_VAUX राजा\N_NN के\PSP खाट\N_NN पर\PSP सुत\V_VM गेल\V_VAUX ।\RD_PUNC
+msd310	﻿से\RP_RPD होइये\V_VM गेल\V_VAUX बाकि\CC_CCD रोसगद्दी\N_NN हो\V_VM जाय\V_VAUX के\PSP चाहीं\V_VM ।\RD_PUNC
+msd311	समधी\N_NN तइयार\N_NN हो\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd312	बेटी\N_NN के\PSP रोसगद्दी\N_NN करा\V_VM देलन\V_VAUX ।\RD_PUNC
+msd313	पाँड़े\N_NN पुतोह\N_NN के\PSP लेके\V_VM घरे\N_NN आ\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd314	इहाँ\DM_DMD पड़िआइन\N_NN पहिले\N_NST बेटा\N_NN के\PSP आउ\CC_CCD फिन\CC_CCD पुतोह\N_NN देख\V_VM के\V_VAUX खुश\JJ भे\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd315	कहलन\V_VM कि\CC_CCS आज\N_NN हम\PR_PRP पुतोह\N_NN के\PSP बनावल\V_VM खाना\N_NN खायब\V_VM से\RP_RPD पुतोह\N_NN के\PSP रसोई\N_NN बनावे\V_VM ला\PSP कहल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd316	पुतोह\N_NN खाना\N_NN बनावे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd317	जोर\N_NN से\PSP पेसाब\N_NN लगल\V_VM तो\PR_PRL चुल्हा\N_NN में\PSP मुत\N_NN देलन\V_VM ।\RD_PUNC
+msd318	आग\N_NN बुत\V_VM गेल\V_VAUX ।\RD_PUNC
+msd319	पखाना\N_NN भी\RP_RPD लग\V_VM गेल\V_VAUX तो\PR_PRL छीपा\N_NN में\PSP पखाना\N_NN कर\V_VM के\V_VAUX कोठी\N_NN तर\PSP फेंक\V_VM देलन\V_VAUX ।\RD_PUNC
+msd32	दोसर\QT_QTO दिन\N_NN दुनु\QT_QTC इयार\N_NN मेदान\N_NN गेलन\V_VM तो\PR_PRL वजीर\N_NN रात\N_NN के\PSP बात\N_NN राजा\N_NN के\PSP सुना\V_VM देलकई\V_VAUX आउ\CC_CCD कहलका\V_VM कि\CC_CCS आज\N_NN तू\PR_PRP बाहर\N_NN कुर्सी\N_NN निकाल\V_VM के\V_VAUX कहिहँऽ\V_VM कि\CC_CCS हमरा\PR_PRP राते\N_NN लाल\JJ पड़ी\N_NN आन\V_VM के\V_VAUX लालफल\N_NN देलका\V_VM हे\V_VAUX से\PSP ला\PSP ओकरा\PR_PRP ई\DM_DMI घड़ी\N_NN देखई\N_NN आउ\CC_CCD खाई\V_VM ।\RD_PUNC
+msd320	हांड़ी\N_NN में\PSP जुठा\N_NN लगल\V_VM हल\V_VAUX ।\RD_PUNC
+msd321	सितुहा\N_NN नऽ\RP_NEG मिलल\V_VM तो\PR_PRL दांत\N_NN से\PSP खखोरलन\V_VM आउ\CC_CCD चुपचाप\RB बइठल\V_VM हलन\V_VAUX ।\RD_PUNC
+msd322	सास\N_NN अलथिन\V_VM तो\PR_PRL पुछलन\V_VM कि\CC_CCS बइठल\V_VM काहे\PR_PRQ हे\V_VM ।\RD_PUNC
+msd323	तऽ\CC_CCS ऊ\PR_PRP बतौलन\V_VM कि\CC_CCS जोर\N_NN से\PSP पेशाब\N_NN लागल\V_VM से\PSP चूल्हवे\N_NN में\PSP मुत\N_NN देलिअइ\V_VM तो\PR_PRL अगिये\N_NN बुता\N_NN गेलइ\V_VM हे\V_VAUX ।\RD_PUNC
+msd324	सास\N_NN कपार\N_NN ठोक\V_VM के\V_VAUX फिनो\CC_CCD सब\QT_QTF इन्तजाम\N_NN कयलन\V_VM ।\RD_PUNC
+msd325	खाय\V_VM ला\PSP बनल\V_VM आउ\CC_CCD सास\N_NN के\PSP परोसा\N_NN के\PSP खाय\V_VM ला\PSP मिलल\N_NN ।\RD_PUNC
+msd326	सास\N_NN देखलन\V_VM कि\CC_CCS छीपा\N_NN में\PSP मसाला\N_NN नियन\N_NN पीयर\N_NN कउची\PR_PRQ तो\PR_PRL लगल\V_VM हे\V_VAUX ।\RD_PUNC
+msd327	पुछलन\V_VM तो\PR_PRL पुतोह\N_NN बोललन\V_VM कि\CC_CCS पेसाब\N_NN के\PSP बाद\N_NN जोर\N_NN से\PSP दीसा\N_NN लगल\V_VM हल\V_VAUX ।\RD_PUNC
+msd328	हग\N_NN के\PSP छिपवे\N_NN में\PSP कोठी\N_NN तर\PSP फेंक\N_NN देली\N_NN हल\V_VAUX ।\RD_PUNC
+msd329	बुझाइत\V_VM हे\V_VAUX कि\CC_CCS ओही\DM_DMD छिपवा\N_NN में\PSP खइया\N_NN कढ़ा\V_VM गेल\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd33	दुनु\QT_QTC बतिया\N_NN के\PSP घरे\N_NN अयलन\V_VM आउ\CC_CCD रानी\N_NN के\PSP सुना\V_VM के\V_VAUX ओसही\RB कहलक\V_VM ।\RD_PUNC
+msd330	सास\N_NN ई\DM_DMI सब\QT_QTF करतुत\N_NN देख\V_VM -\RD_PUNC सुन\V_VM के\PSP कुपुत\N_NN हो\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd331	बेटा\N_NN से\PSP सब\QT_QTF हाल\N_NN कहलन\V_VM ।\RD_PUNC
+msd332	बेटा\N_NN सुन\V_VM के\V_VAUX कहलकथिन\V_VM कि\CC_CCS पुतोह\N_NN के\PSP हाथ\N_NN के\PSP खा\V_VM के\V_VAUX तिरपित\V_VAUX हो\V_VM गेले\N_NN नऽ\RP_NEG ।\RD_PUNC
+msd333	अब\N_NN ई\DM_DMI कहऽ\V_VM कि\CC_CCS तूँ\PR_PRP बेटा\N_NN चाहइत\V_VM हें\V_VAUX कि\CC_CCS पुतोह\N_NN ।\RD_PUNC
+msd334	माय\N_NN कहलन\V_VM कि\CC_CCS बेटा\N_NN ।\RD_PUNC
+msd335	इनरडुब्बू\N_NNP एगो\QT_QTC तेज\JJ तलवार\N_NN से\PSP मेहरारू\N_NN के\PSP सात\QT_QTC दुकडी\N_NN कर\V_VM देलक\V_VAUX आउ\CC_CCD सात\QT_QTC गो\RP_CL महर\N_NN में\PSP बंद\N_NN करके\V_VM सात\QT_QTC गो\RP_CL अदमी\N_NN पर\PSP अप्पन\PR_PRP समुरारी\N_NN भेज\V_VM देलन\V_VAUX ।\RD_PUNC
+msd336	ससुरारी\N_NN में\PSP सातो\QT_QTC बेगार\N_NN आन\V_VM के\V_VAUX महर\N_NN रख\V_VM देलन\V_VAUX आउ\CC_CCD तुरते\RB भाग\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd337	इहाँ\DM_DMD महर\N_NN खोल\V_VM के\V_VAUX देखल\V_VM गेल\V_VAUX तो\PR_PRL बेटी\N_NN के\PSP सात\QT_QTC टुकड़ी\N_NN करके\V_VM सब\QT_QTF महर\N_NN में\PSP भरल\N_NN हे\V_VM ।\RD_PUNC
+msd338	इहां\N_NN बदला\N_NN लेबे\N_NN के\PSP राय\N_NN से\PSP समघी\N_NN इनरडुब्बू\N_NNP के\PSP इहां\N_NN उनकर\PR_PRP बहिन\N_NN के\PSP रोसगदी\N_NN ला\PSP गेलन\V_VAUX बाकि\CC_CCD पाँड़े\N_NN दिन\N_NN नऽ\RP_NEG घयलन\V_VM ।\RD_PUNC
+msd339	इनरडुब्बू\N_NNP कहलन\V_VM कि\CC_CCS हमनी\PR_PRP दूगो\QT_QTC भाई\N_NN -\RD_PUNC बहिन\N_NN ही\V_VM ।\RD_PUNC
+msd34	रानी\N_NN ई\DM_DMI हाल\N_NN सुनके\V_VM सोचलक\N_NN कि\CC_CCS हम\PR_PRP अदमी\N_NN हो\N_NN के\PSP दैत्य\N_NN से\PSP दोस्ती\N_NN कयले\N_NN ही\RP_RPD आउ\CC_CCD हम्मर\PR_PRP पति\N_NN से\PSP लाल\JJ परी\N_NN दोस्ती\N_NN कयले\N_NN हे\N_NN ,\RD_PUNC से\PSP आज\N_NN हम\PR_PRP दैत्य\N_NN से\PSP कह\V_VM देवो\V_VAUX कि\CC_CCS हम\PR_PRP तोरा\PR_PRP से\PSP दोस्ती\N_NN न\RP_NEG रखबो\V_VM ।\RD_PUNC
+msd340	नऽ\RP_NEG हम\PR_PRP अब\N_NN सादी\N_NN करम\V_VM नऽ\RP_NEG अप्पन\PR_PRP बहिन\N_NN के\PSP रोसगद्दी\N_NN करम\V_VM ।\RD_PUNC
+msd341	आज\N_NN से\PSP हमनी\PR_PRP दुनो\QT_QTC भाई\N_NN -\RD_PUNC बहिन\N_NN बिना\PSP विआहे\N_NN के\PSP रहम\V_VM आउ\CC_CCD माय\N_NN बाप\N_NN के\PSP सेवा\N_NN करम\V_VM ।\RD_PUNC
+msd342	राजा\N_NN के\PSP बहादुरी\N_NN कहताहर\N_NN -\RD_PUNC मुद्रिका\N_NNP ग्राम\N_NN ,\RD_PUNC सुमेरा\N_NNP ,\RD_PUNC जिला\N_NN -\RD_PUNC जहानाबाद\N_NNP एगो\QT_QTC हलन\V_VM राजा\N_NN जी\RP_RPD ।\RD_PUNC
+msd343	उनका\PR_PRP एक्के\QT_QTC गो\RP_CL लइके\N_NN हलइन\V_VM ।\RD_PUNC
+msd344	खाय\V_VM -\RD_PUNC पीये\V_VM के\PSP तो\PR_PRL कुछ\QT_QTF कमिए\N_NN नऽ\RP_NEG हलइन\V_VM ।\RD_PUNC
+msd345	उनकर\PR_PRP बेटा\N_NN बड़ी\JJ पहलवान\N_NN निकललइन\V_VM ।\RD_PUNC
+msd346	एक\QT_QTC दिन\N_NN एगो\QT_QTC बड़ी\RP_INTF मतवाला\N_NN हाथी\N_NN सब\QT_QTF अदमी\N_NN के\PSP खदेरइत\V_VM हल\V_VAUX ।\RD_PUNC
+msd347	जब\PR_PRL ई\DM_DMI राजा\N_NN जी\RP_RPD ओकरा\PR_PRP देखलन\V_VM ,\RD_PUNC तब\PR_PRL अइसन\RP_RPD तबड़ाक\N_NN मारलन\V_VM कि\CC_CCS हायी\N_NN सौ\QT_QTC कोस\QT_QTC पर\PSP जा\V_VM के\V_VAUX गिरल\V_VM आउ\CC_CCD अलअला\PSP के\PSP मर\N_NN गेल\V_VM ।\RD_PUNC
+msd348	राजा\N_NN जी\RP_RPD के\PSP बड़ी\RP_INTF सुन्नर\JJ बगइचा\N_NN हले\V_VM ।\RD_PUNC
+msd349	ऊ\PR_PRP ओकर\PR_PRP अप्पन\PR_PRP जानो\N_NN से\PSP बढ़\V_VM के\V_VAUX जानऽ\V_VM हलन\V_VAUX ।\RD_PUNC
+msd35	रात\N_NN होल\V_VM तो\PR_PRL रानी\N_NN एगो\QT_QTC झहआ\N_NN लेके\V_VM दैत्य\N_NN के\PSP महल\N_NN में\PSP पहुंचलै\V_VM ।\RD_PUNC
+msd350	राजा\N_NN जी\RP_RPD रोज\N_NN ओहजे\DM_DMD सुतऽ\V_VM हलन\V_VAUX ।\RD_PUNC
+msd351	एक\QT_QTC दिन\N_NN एगो\QT_QTC गड़ेरिया\N_NN उनकर\PR_PRP बाग\N_NN में\PSP आयल\V_VM आउ\CC_CCD सब\QT_QTF भेंड़ी\N_NN के\PSP घुसा\V_VM देलक\V_VAUX ।\RD_PUNC
+msd352	राजा\N_NN केतनो\QT_QTF कहलन\V_VM कि\CC_CCS अप्पन\PR_PRP भेंड़ी\N_NN के\PSP निकाल\V_VM नऽ\RP_NEG तऽ\CC_CCS मार\V_VM देबउ\V_VAUX ।\RD_PUNC
+msd353	ऊ\PR_PRP नऽ\RP_NEG मानलक\V_VM आउ\CC_CCD कहलक\V_VM कि\CC_CCS देखऽ\V_VM हिवऽ\V_VAUX तूँ\PR_PRP का\PR_PRQ कर\V_VM हऽ\V_VAUX ।\RD_PUNC
+msd354	तब\PR_PRL राजा\N_NN घरे\N_NN गेलन\V_VM आउ\CC_CCD अप्पन\PR_PRP सोंटा\N_NN ले\V_VM अयलन\V_VAUX ।\RD_PUNC
+msd355	अइसन\RP_RPD ऊ\PR_PRP सोंटा\N_NN हल\V_VM कि\CC_CCS राजा\N_NN जेतना\PR_PRL अदमी\N_NN के\PSP मारे\V_VM ला\PSP चाहऽ\V_VM हलन\V_VAUX ओतना\PR_PRL अदमी\N_NN मर\N_NN जा\V_VM हल\V_VAUX ।\RD_PUNC
+msd356	बागइचा\N_NN में\PSP जाके\V_VM राजा\N_NN जी\RP_RPD अप्पन\PR_PRP सोंटा\N_NN चलबलन\V_VM ।\RD_PUNC
+msd357	ओकरा\PR_PRP से\PSP जेतना\QT_QTF भेंड़ी\N_NN हल\V_VM आउ\CC_CCD जेतना\QT_QTF भेंड़ी\N_NN के\PSP ।\RD_PUNC
+msd358	﻿औघड़दानी\JJ शिव\N_NN -\RD_PUNC पार्वती\N_NN चरवाहा\N_NN हल\V_VM ,\RD_PUNC सब\QT_QTF के\PSP मुँड़ी\N_NN कट\V_VM गेल\V_VAUX ।\RD_PUNC
+msd359	तब\PR_PRL उनखनी\PR_PRP सब\QT_QTF चरवहन\N_NN के\PSP सम्बन्धी\N_NN सब\QT_QTF राजा\N_NN जी\RP_RPD के\PSP मारे\V_VM ला\PSP सोचलन\V_VM ।\RD_PUNC
+msd36	वजीर\N_NN वाहरे\N_NN रुकलै\V_VM कि\CC_CCS हो\V_VM सकऽ\V_VAUX हे\V_VAUX कि\CC_CCS आज\N_NN दुनु\QT_QTC में\PSP लड़ाई\N_NN होथ\V_VM ।\RD_PUNC
+msd360	गड़ेरिया\N_NN सब\QT_QTF ओही\DM_DMD रात\N_NN के\PSP सात\QT_QTC सौ\QT_QTC दैत्य\N_NN के\PSP नेवत\N_NN देलक\V_VM ।\RD_PUNC
+msd361	उनकर\PR_PRP मेहरारू\N_NN के\PSP ई\DM_DMI मालूम\N_NN भेल\V_VM कि\CC_CCS आज\N_NN राजा\N_NN जी\RP_RPD नऽ\RP_NEG बचतन\V_VM ।\RD_PUNC
+msd362	तब\PR_PRL रानी\N_NN राजा\N_NN जी\RP_RPD के\PSP खुब\RP_INTF मना\N_NN कयलन\V_VM कि\CC_CCS आज\N_NN मत\RP_NEG जा\V_VM ।\RD_PUNC
+msd363	तब\PR_PRL राजा\N_NN कहलन\V_VM कि\CC_CCS हम\PR_PRP तुरत\RB आ\V_VM जाम\V_VAUX ।\RD_PUNC
+msd364	एतना\N_NN कह\V_VM के\V_VAUX राजा\N_NN बगइचा\N_NN में\PSP चल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd365	बगइचा\N_NN में\PSP ऊ\PR_PRP जहाँ\PR_PRL सुतल\V_VM हलन\V_VAUX उहाँ\DM_DMD एगो\QT_QTC पेटारी\N_NN रख\V_VM देलन\V_VAUX आउ\CC_CCD ओकरा\PR_PRP चद्दर-उद्दर\N_NN ओढ़ा\V_VM के\V_VAUX अइसन\RP_RPD रख\V_VM देलन\V_VAUX कि\CC_CCS लगे\V_VM ,\RD_PUNC राजा\N_NN जी\RP_RPD सूतल\V_VM हय\V_VAUX ।\RD_PUNC
+msd366	अपने\PR_PRP जा\V_VM के\V_VAUX एगो\QT_QTC आम\N_NN के\PSP पेड़\N_NN पर\PSP चढ़\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd367	जब\PR_PRL रात\N_NN के\PSP सब\QT_QTF दैत्य\N_NN आयल\V_VM तब\PR_PRL कहलक\V_VM कि\CC_CCS अच्छे\RP_RPD ।\RD_PUNC
+msd368	आज\N_NN तो\PR_PRL रजवा\N_NN के\PSP खयवे\V_VM करबइ\V_VAUX ।\RD_PUNC
+msd369	ओकरा\PR_PRP में\PSP एगो\QT_QTC दैतवा\N_NN कहलकइ\V_VM कि\CC_CCS आज\N_NN तो\PR_PRL इनका\DM_DMD खयबे\V_VM करबहीं\V_VAUX बाकि\CC_CCD पाँच\QT_QTC फेरा\N_NN घूम\V_VM के\V_VAUX खाही\V_VM ,\RD_PUNC तब\PR_PRL ठीक\JJ होतई\V_VM ।\RD_PUNC
+msd37	दैत्य\N_NN के\PSP पास\N_NST जाके\V_VM ।\RD_PUNC
+msd370	सब\QT_QTF दैत्य\N_NN पाँच\QT_QTC फेरा\N_NN घूम\V_VM के\V_VAUX राजा\N_NN के\PSP खाय\V_VM ला\PSP ओढ़ावल\V_VM कपड़ा\N_NN उठवलक\V_VM तो\PR_PRL देखइत\V_VM हे\V_VAUX कि\CC_CCS एगो\QT_QTC खाली\QT_QTF पेटारी\N_NN रखल\V_VM हे\V_VAUX ।\RD_PUNC
+msd371	तब\PR_PRL सब\QT_QTF दैतवा\N_NN मिल\V_VM के\V_VAUX ऊ\PR_PRP सब\QT_QTF कपड़े\N_NN नोचे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd372	तब\PR_PRL राजा\N_NN ऊपरे\N_NST से\PSP अइसन\RP_RPD सोटा\N_NN झारलन\V_VM कि\CC_CCS सब\QT_QTF दैत्य\N_NN के\PSP मुँड़ी\N_NN कट\V_VM गेल\V_VAUX ।\RD_PUNC
+msd373	राजा\N_NN पेड़\N_NN पर\PSP से\PSP उतर\V_VM के\V_VAUX सीघे\N_NST घरे\N_NN चल\V_VM अयलन\V_VAUX ।\RD_PUNC
+msd374	तब\PR_PRL सब\QT_QTF गड़ेरियन\N_NN भोरे\N_NN सुनलन\V_VM राजा\N_NN सब\QT_QTF दैतवन\N_NN के\PSP मार\V_VM देलन\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd375	तब\PR_PRL ऊ\PR_PRP सब\QT_QTF सोचलन\V_VM कि\CC_CCS ई\DM_DMI राजा\N_NN के\PSP कइसहु\RB मारे\V_VM के\V_VAUX चाहीं\V_VM ।\RD_PUNC
+msd376	तब\PR_PRL सब\QT_QTF जा\V_VM के\V_VAUX जांगल\N_NN में\PSP सब\QT_QTF बाघ\N_NN के\PSP नेवत\N_NN देलन\V_VM ,\RD_PUNC फिनू\CC_CCD राजा\N_NN जी\RP_RPD के\PSP इयार\N_NN उनकर\PR_PRP मेहरारू\N_NN से\PSP कहलन\V_VM कि\CC_CCS आज\N_NN उनका\PR_PRP ला\PSP बड़ी\JJ मानी\RP_CL बाघ\N_NN नेवतलवऽ\V_VM हे\V_VAUX ।\RD_PUNC
+msd377	तब\PR_PRL राजा\N_NN रात\N_NN के\PSP अप्पन\PR_PRP बगइचा\N_NN में\PSP जाय\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd378	तब\PR_PRL रानी\N_NN कहलन\V_VM कि\CC_CCS आज\N_NN हम\PR_PRP तोरा\PR_PRP कोई\PR_PRI हालत\N_NN में\PSP नऽ\RP_NEG जाय\N_NN देबवऽ\N_NN ।\RD_PUNC
+msd379	कहसहुँ\RB राजा\N_NN जी\RP_RPD बगइचा\N_NN में\PSP चल\V_VM अयलन\V_VAUX ।\RD_PUNC
+msd38	﻿बाँसुवे\N_NN का\PSP नाच\N_NN रानी\N_NN झदुआ\N_NN से\PSP मार\V_VM के\V_VAUX उठलकै\V_VM आउ\CC_CCD कहलकै\V_VM कि\CC_CCS हम\PR_PRP तोरा\PR_PRP साथ\PSP नञु\RP_NEG रहल\V_VM चहियो\V_VAUX ।\RD_PUNC
+msd380	ओहसहीं\RP_RPD बाना\N_NN बनाके\V_VM ऊ\PR_PRP पेड़\N_NN पर\PSP चढ़\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd381	राजा\N_NN सोंटा\N_NN से\PSP सब\QT_QTF बघवन\N_NN के\PSP मार\V_VM देलन\V_VAUX ।\RD_PUNC
+msd382	राजा\N_NN जी\RP_RPD नहिए\RP_NEG मरलन\V_VM ।\RD_PUNC
+msd383	गड़ेरियन\N_NN के\PSP सब\QT_QTF उपाय\N_NN निष्फल\N_NN भेल\V_VM ।\RD_PUNC
+msd384	औघड़दानी\N_NN शिव\N_NNP -\RD_PUNC पार्वती\N_NNP कहताहर\N_NN -\RD_PUNC मुद्रिका\N_NNP ,\RD_PUNC ग्राम\N_NN सुमेरा\N_NNP ,\RD_PUNC जिला\N_NN जहानाबाद\N_NNP ।\RD_PUNC
+msd385	एगो\QT_QTC हले\V_VM राजा\N_NN ।\RD_PUNC
+msd386	ऊ\PR_PRP बड़ी\JJ राजा\N_NN हले\V_VM ।\RD_PUNC
+msd387	ओकरा\PR_PRP ही\RP_RPD खायओला\V_VM कोई\PR_PRI नऽ\RP_NEG हले\V_VM ।\RD_PUNC
+msd388	अनाज\N_NN से\PSP सब\QT_QTF कोठी\N_NN भर\V_VM गेल\V_VAUX हले\V_VAUX ।\RD_PUNC
+msd389	से\RP_RPD ऊ\PR_PRP एक\QT_QTC दिन\N_NN अप्पन\PR_PRP कोठी\N_NN में\PSP आग\N_NN लगा\V_VM देलक\V_VAUX ।\RD_PUNC
+msd39	काहे\CC_CCS कि\CC_CCS तोर\PR_PRP बहिन\N_NN समान\RP_RPD लायक\N_NN आउ\CC_CCD हमरा\PR_PRP समान\RP_RPD नालायक\N_NN कोई\PR_PRI नञु\RP_NEG हई\V_VM ।\RD_PUNC
+msd390	ओकर\PR_PRP घुआँ\N_NN अकास\N_NN में\PSP उड़ल\V_VM आउ\CC_CCD इनरासन\N_NN भी\RP_RPD ओकरा\PR_PRP से\PSP डोल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd391	उहाँ\DM_DMD इनर\N_NN भगवान\N_NN समझलन\V_VM कि\CC_CCS कोई\PR_PRI यज्ञ\N_NN कयलक\V_VM हे\V_VAUX ।\RD_PUNC
+msd392	ऊ\PR_PRP आन\V_VM के\V_VAUX पूछलन\V_VM कि\CC_CCS ओ\RP_INJ बच्चा\N_NN ,\RD_PUNC केंवाड़ी\N_NN खोल\V_VM ।\RD_PUNC
+msd393	तुँ\PR_PRP काहे\CC_CCS ला\PSP एतना\QT_QTF घन\N_NN जरवलऽ\V_VM हे\V_VAUX ।\RD_PUNC
+msd394	का\PR_PRQ सोच\N_NN के\PSP अइसन\RP_RPD काम\N_NN कयलऽ\V_VM हे\V_VAUX ।\RD_PUNC
+msd395	``\RD_PUNC राजा\N_NN कहलन\V_VM कि\CC_CCS ``\RD_PUNC हमरा\PR_PRP बड़ी\JJ मानी\RP_CL घन\N_NN हले\V_VM बाकि\CC_CCD कोई\PR_PRI खनिहारे\N_NN नऽ\RP_NEG हले\V_VM ।\RD_PUNC
+msd396	``\RD_PUNC भगवान\N_NN कहलन\V_VM कि\CC_CCS तोरा\PR_PRP एगो\QT_QTC बेटा\N_NN होतवऽ\V_VM ।\RD_PUNC
+msd397	तूँ\PR_PRP जहाँ\PR_PRL बारह\QT_QTC आम\N_NN के\PSP एगो\QT_QTC घउद\N_NN के\PSP देखिहँऽ\V_VM तऽ\CC_CCS बायाँ\N_NN हाथे\N_NN मारिहँऽ\V_VM आउ\CC_CCD दहिना\N_NN हाथे\N_NN लोकिहँऽ\V_VM ।\RD_PUNC
+msd398	आन\N_NN के\PSP अप्पन\PR_PRP रानी\N_NN के\PSP खिआ\V_VM दीहँऽ\V_VAUX ।\RD_PUNC
+msd399	नौ\QT_QTC महीना\N_NN के\PSP बाद\N_NST एगो\QT_QTC लइका\N_NN जनम\N_NN लेतवऽ\V_VM बाकि\CC_CCD ऊ\PR_PRP लइकवा\N_NN बारहे\QT_QTF बरस\QT_QTC जितवऽ\V_VM ,\RD_PUNC फिरो\CC_CCS मर\V_VM जतवऽ\V_VAUX ।\RD_PUNC
+msd4	रनिवास\N_NN के\PSP बीजे\N_NN अलई\V_VM तो\PR_PRL दूनु\QT_QTC इयार\N_NN रनिवास\N_NN में\PSP चल\V_VM गेल\V_VAUX आउ\CC_CCD एके\QT_QTC घर\N_NN में\PSP परदा\N_NN लगा\V_VM के\PSP दुनो\QT_QTC इयार\N_NN अलगे-अलगे\RB सुत\V_VM गेलई\V_VAUX ।\RD_PUNC
+msd40	तोर\PR_PRP बहिन\N_NN ई\DM_DMI लोक\N_NN मे\PSP हम्मर\PR_PRP पति\N_NN से\PSP दोस्ती\N_NN कयले\V_VM हई\V_VAUX आउ\CC_CCD हम\PR_PRP तोरा\PR_PRP जैसन\RP_RPD दैत्य\N_NN से\PSP ।\RD_PUNC
+msd400	राजा\N_NN बारह\QT_QTC आमओला\N_NN घउद\N_NN आने\V_VM के\V_VAUX खिया\V_VM देलन\V_VAUX ।\RD_PUNC
+msd401	रानी\N_NN के\PSP नौ\QT_QTC महीना\N_NN के\PSP बाद\N_NST एगो\QT_QTC लइका\N_NN जनम\N_NN लेलक\V_VM ।\RD_PUNC
+msd402	राजा\N_NN ओकरा\PR_PRP ,\RD_PUNC खुब\RP_INTF बढ़िया\JJ से\PSP पोसलन\V_VM आउ\CC_CCD पढ़ा-लिखा\V_VM के\V_VAUX बड़ा\JJ कयलन\V_VM ।\RD_PUNC
+msd403	जब\PR_PRL बारह\QT_QTC बरिस\QT_QTC हो\V_VM गेल\V_VAUX आउ\CC_CCD मरे\V_VM के\V_VAUX बेरा\N_NN भेल\V_VM तो\PR_PRL लहकवा\N_NN अप्पन\PR_PRP माँय\N_NN -\RD_PUNC बाप\N_NN से\PSP कहलक\V_VM कि\CC_CCS अब\DM_DMD हम\PR_PRP बाहर\N_NN जबवऽ\V_VM ।\RD_PUNC
+msd404	राजा\N_NN के\PSP लइका\N_NN बाहर\N_NN जंगल\N_NN में\PSP चल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd405	एने\DM_DMD राजा\N_NN आउ\CC_CCD रानी\N_NN ।\RD_PUNC
+msd406	कथा\N_NN का\PSP वूसरा\N_NN रूप\N_NN
+msd407	एगो\QT_QTC सहर\N_NN में\PSP बड़का\JJ राजा\N_NN हलन\V_VM ।\RD_PUNC
+msd408	उनका\PR_PRP धन-सम्पत\N_NN कोई\PR_PRI चीज\N_NN के\PSP कमी\N_NN नऽ\RP_NEG हल\V_VM बाकि\CC_CCD उनका\PR_PRP कोई\PR_PRI बेटा\N_NN न\RP_NEG हल\V_VM ।\RD_PUNC
+msd409	राजा\N_NN दिन-रात\N_NN फिकिर\N_NN में\PSP रहऽ\V_VM हलन\V_VAUX कि\CC_CCS उनका\PR_PRP कइसे\PR_PRQ बेटा\N_NN होयत\V_VM ।\RD_PUNC
+msd41	तव\N_NN दैत्य\N_NN गुस्सा\N_NN में\PSP हो\N_NN कहलकै\N_NN कि\CC_CCS कन्ह\N_NN तू\N_NN हमरा\PR_PRP साथे\PSP विसुनलोक\N_NN मै\PSP चलिहैं\V_VM आउ\CC_CCD देखिहैं\V_VM कि\CC_CCS अप्पन\PR_PRP इनाम\N_NN केकरा\PR_PRQ दे\V_VM हई\V_VAUX ।\RD_PUNC
+msd410	राजा\N_NN के\PSP बड़का\JJ किला\N_NN हल\V_VM ।\RD_PUNC
+msd411	किला\N_NN में\PSP एगो\QT_QTC सरप\N_NN रहऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd412	सरप\N_NN के\PSP एक\QT_QTC रोज\N_NN अगाह\N_NN भेल\V_VM कि\CC_CCS किला\N_NN के\PSP एगो\QT_QTC देवाल\N_NN गिर\V_VM जायत\V_VAUX आउ\CC_CCD ऊ\PR_PRP चिपा\V_VM जायत\V_VAUX ।\RD_PUNC
+msd413	से\CC_CCS ऊ\PR_PRP उहां\DM_DMD से\PSP भागे\V_VM ला\PSP चाहलक\V_VM तइसहीं\PR_PRL देवाल\N_NN गिर\V_VM गेल\V_VAUX आउ\CC_CCD साँप\N_NN चपा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd414	देवाल\N_NN गिरे\V_VM के\V_VAUX अवाज\N_NN सुन\V_VM के\V_VAUX नोकर-चाकर\N_NN दउड़लन\V_VM तो\PR_PRL देखऽ\V_VM हथ\V_VAUX कि\CC_CCS एगो\QT_QTC सांप\N_NN आधा\N_NN चंपल\N_NN हे\N_NN आउ\CC_CCD ओकर\PR_PRP मुंह\N_NN से\PSP ई\DM_DMI दीप\N_NN न\RP_NEG ऊ\PR_PRP दीप\N_NN के\PSP एगो\QT_QTC बालक\N_NN निकलल\V_VM हे\V_VAUX ।\RD_PUNC
+msd415	लौड़ी\N_NN आन\V_VM के\V_VAUX राजा\N_NN से\PSP सब\QT_QTF हाल\N_NN कहलक\V_VM तो\PR_PRL राजा\N_NN ऊ\PR_PRP बच्चा\N_NN के\PSP खूब\QT_QTF दुलार\N_NN से\PSP पालेपोसे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd416	एक\QT_QTC रोज\N_NN राजा\N_NN बराहमन\N_NN के\PSP बोल\V_VM के\V_VAUX बच्चा\N_NN के\PSP नाम\N_NN घरे\V_VM कहलन\V_VAUX ।\RD_PUNC
+msd417	बावा\N_NN जी\RP_RPD कहलन\V_VM कि\CC_CCS लइका\N_NN बड़\RP_INTF भागसाली\N_NN हे\V_VAUX बाकि\CC_CCD लइका\N_NN मुंह\N_NN से\PSP जनम\N_NN लेलक\V_VM हे\JJ ।\RD_PUNC
+msd418	से\CC_CCS अप्पन\PR_PRP मुंह\N_NN से\PSP जे\PR_PRL घड़ी\N_NN अप्पन\PR_PRP नाम\N_NN कहत\V_VM ओही\DM_DMD घड़ी\N_NN ई\DM_DMI मनुस\N_NN सरीर\N_NN छोड़\V_VM देत\V_VAUX आउ\CC_CCD सरप\N_NN हो\V_VM जायत\V_VAUX ।\RD_PUNC
+msd419	लइका\N_NN के\PSP नाम\N_NN लालसहजादा\N_NNP धरा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd42	रात\N_NN खतम\N_NN होला\V_VM पर\PSP रानी\N_NN घरे\N_NN आ\V_VM गेल\V_VAUX आउ\CC_CCD वजीर\N_NN पहिल\N_NN ही\RP_RPD आन\V_VM के\V_VAUX सुत\V_VM गेल\V_VAUX ।\RD_PUNC
+msd420	कुछ\QT_QTF दिन\N_NN बीतल\V_VM आउ\CC_CCD लइका\N_NN बिआह\N_NN लायक\RP_RPD भेल\V_VM तब\PR_PRL राजा\N_NN ओकर\PR_PRP कनेया\N_NN खोजे\V_VM ला\PSP नउवा\N_NN -\RD_PUNC बाह्मण\N_NN के\PSP भेजलन\V_VM ।\RD_PUNC
+msd421	चारो\QT_QTC बगल\RP_RPD खोजइत\V_VM -\RD_PUNC खोजइत\V_VM ओहनी\PR_PRP नदी\N_NN पास\N_NN पहुंच\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd422	एगो\QT_QTC दुसर\QT_QTO राजा\N_NN के\PSP बड़ी\RP_INTF सुन्नर\JJ लइकी\N_NN हल\V_VM जेकरो\N_NN नाम\N_NN लालसहजादीं\N_NNP हल\V_VM आउ\CC_CCD ओहू\PR_PRP लालसहजादे\N_NN नियन\RP_RPD लइका\N_NN से\PSP सादी\N_NN करे\V_VM ला\PSP चाहऽ\N_NN हल\V_VAUX ।\RD_PUNC
+msd423	से\CC_CCS ऐहू\N_NN राजा\N_NN के\PSP नउवा\N_NN -\RD_PUNC बाह्मण\N_NN लइका\N_NN खोजइत-खोजइत\V_VM परेसान\N_NN हलन\V_VM ।\RD_PUNC
+msd424	ऐहनी\N_NN भी\RP_RPD ओही\DM_DMD नदी\N_NN के\PSP दोसर\QT_QTO किनार\N_NN पर\PSP डेरा\N_NN डाल\V_VM देलन\V_VAUX ।\RD_PUNC
+msd425	जव\DM_DMD दुनो\QT_QTC राजा\N_NN के\PSP नउवा\N_NN -\RD_PUNC बाह्मण\N_NN नदी\N_NN के\PSP दुनो\QT_QTC किनारे\N_NN पर\PSP खा\V_VM -\RD_PUNC खा\V_VM के\V_VAUX दोना\N_NN नदी\N_NN में\PSP फेंक\V_VM देलन\V_VAUX तऽ\CC_CCS दुनो\QT_QTC के\PSP दोना\N_NN दहा\V_VM क\V_VAUX एक\QT_QTC -\RD_PUNC दुसर\QT_QTO से\PSP लड़\V_VM गेल\V_VAUX ।\RD_PUNC
+msd426	ई\DM_DMI देख\V_VM के\V_VAUX दुनो\QT_QTC दने\N_NN के\PSP नउवा\N_NN -\RD_PUNC बाह्मण\N_NN अपने\PR_PRP में\PSP पुछापुछी\V_VM करे\V_VAUX लगलन\V_VAUX ।\RD_PUNC
+msd427	जब\PR_PRL सब\QT_QTF हालचाल\N_NN मालुम\N_NN होयल\V_VM तो\PR_PRL ओही\DM_DMD ठइयाँ\N_NN बर\N_NN -\RD_PUNC कनेआ\N_NN के\PSP ।\RD_PUNC
+msd428	﻿सोना\N_NN के\PSP अँगूठी\N_NN ,\RD_PUNC कहताहर\N_NN -\RD_PUNC मूयदैब\N_NNP सिह\N_NNP ,\RD_PUNC ग्राम\N_NN -\RD_PUNC दशरुब\N_NNP ,\RD_PUNC जिला\N_NN -\RD_PUNC औरेगाबाद\N_NNP ।\RD_PUNC
+msd429	एगो\QT_QTC राज\N_NN में\PSP राजा\N_NN आउ\CC_CCD वजीर\N_NN के\PSP लइका\N_NN में\PSP बड़ी\JJ दोस्ती\N_NN हल\V_VM ।\RD_PUNC
+msd43	फिनो\CC_CCD बिहान\N_NN होला\V_VM पर\PSP राजा-वजीर\N_NN मेदान\N_NN नदी\N_NN किछारे\N_NN गेलन\V_VM तो\PR_PRL वजीर\N_NN सब\QT_QTF हाल\N_NN रातके\N_NN कह\V_VM सुनौलका\V_VAUX आउ\CC_CCD कहलका\V_VM कि\CC_CCS आज\N_NN रात\N_NN के\PSP हम\PR_PRP विसुनलोक\N_NN जयबो\V_VM -\RD_PUNC एगो\QT_QTC टिकिया\N_NN आउ\CC_CCD सलाई\N_NN के\PSP ईतजाम\N_NN कर\V_VM दिहाँ\V_VAUX ।\RD_PUNC
+msd430	एको\QT_QTC छन\QT_QTC ओहनी\PR_PRP एक-दोसर\N_NN से\PSP अलगे\N_NN नऽ\RP_NEG रहऽ\V_VM हलन\V_VAUX ।\RD_PUNC
+msd431	एक\QT_QTC दिन\N_NN वजीर\N_NN के\PSP लइका\N_NN अप्पन\PR_PRP इयार\N_NN से\PSP मिले\V_VM उनकर\PR_PRP महल\N_NN में\PSP गेलन\V_VM ।\RD_PUNC
+msd432	बाकि\CC_CCD उहां\N_NN न\RP_NEG देखके\V_VM समझलन\V_VM कि\CC_CCS इयार\N_NN रनिवास\N_NN में\PSP होयतन\V_VM ।\RD_PUNC
+msd433	एही\DM_DMD सोच\N_NN के\V_VM ऊ\PR_PRP रनिवास\N_NN में\PSP चल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd434	उहाँ\DM_DMD खाली\QT_QTF रानी\N_NN तोसक\N_NN गलीचा\N_NN लगा\V_VM के\V_VAUX सुतल\V_VM हलन\V_VAUX ।\RD_PUNC
+msd435	वजीर\N_NN के\PSP लइका\N_NN भी\RP_RPD निसा\N_NN के\PSP सूर\N_NN में\PSP पलंग\N_NN पर\PSP जाके\V_VM पड़\V_VM रहलन\V_VAUX ।\RD_PUNC
+msd436	ओकरा\PR_PRP नीन\N_NN आ\V_VM गेल\V_VAUX ।\RD_PUNC
+msd437	थोड़े\QT_QTC देर\N_NN में\PSP जब\PR_PRL वजीर\N_NN के\PSP बेटा\N_NN के\PSP नीन\N_NN दूटल\V_VM तऽ\CC_CCS ऊ\PR_PRP उठके\V_VM चल\V_VM गेल\V_VAUX आउ\CC_CCD ओकर\PR_PRP हाथ\N_NN के\PSP अंगुठी\N_NN पलंग\N_NN पर\PSP गिर\V_VM गेल\V_VAUX ।\RD_PUNC
+msd438	राजा\N_NN अयलन\V_VM आउ\CC_CCD अंगुठी\N_NN देख\V_VM के\PSP चुपचाप\N_NN उठा\V_VM लेलन\V_VAUX ।\RD_PUNC
+msd439	ओही\DM_DMD दिन\N_NN से\PSP ऊ\PR_PRP रानी\N_NN से\PSP बोल\V_VM चाल\V_VM बंद\V_VAUX कर\V_VM देलन\V_VAUX ।\RD_PUNC
+msd44	सब\QT_QTF इंजताम\N_NN हो\V_VM गेला\V_VAUX ।\RD_PUNC
+msd440	ई\DM_DMI से\PSP रानी\N_NN के\PSP बड़ी\JJ तकलीफ\N_NN होयल\V_VM तब\PR_PRL रानी\N_NN अप्पन\PR_PRP नइहर\N_NN में\PSP अप्पन\PR_PRP भाई-बाप\N_NN के\PSP पास\N_NST चिट्टी\N_NN लिखलन\V_VM -\RD_PUNC बाबा\N_NN बाबा\N_NN लगाय\V_VM के\V_VAUX ,\RD_PUNC लाखो\N_NN -\RD_PUNC लाख\N_NN लुटाय\V_VM ।\RD_PUNC
+msd441	रसभरी\N_NN रसीली\N_NN में\PSP भौरा\N_NN घुर-फिर\V_VM जाय\V_VAUX ।\RD_PUNC
+msd442	अइसन\RP_RPD पाँती\N_NN देख\V_VM के\V_VAUX राजा\N_NN अप्पन\PR_PRP बेटा\N_NN के\PSP दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd443	बेटा\N_NN समझ\N_NN गेलन\V_VM आउ\CC_CCD नाउ\N_NN के\PSP लेके\V_VM बहिन\N_NN ही\RP_RPD चल\V_VM देलन\V_VAUX ।\RD_PUNC
+msd444	जब\PR_PRL उहां\DM_DMD पहुंच\V_VM गेलन\V_VAUX ,\RD_PUNC पानी-उनी\N_NN पी\V_VM के\V_VAUX ,\RD_PUNC साँझ\N_NN खनी\N_NN राजा\N_NN के\PSP बेटा\N_NN ,\RD_PUNC वजीर\N_NN के\PSP बेटा\N_NN नउवा\N_NN आउ\CC_CCD अपने\PR_PRP चारो\QT_QTC घूमे-फिरे\N_NN चललन\V_VM ।\RD_PUNC
+msd445	गांव\N_NN से\PSP दुर\N_NN जा\V_VM के\V_VAUX एगो\QT_QTC बढ़िया\JJ पोखरा\N_NN पर\PSP बइठ\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd446	टहटह\RP_INTF ईजोरिया\JJ रात\N_NN हल\V_VM ।\RD_PUNC
+msd447	पोखरा\N_NN में\PSP फूल\N_NN खिलल\V_VM हल\V_VAUX ।\RD_PUNC
+msd448	चारो\QT_QTC बइठ\V_VM के\V_VAUX चापड़\N_NN खेले\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd449	खेलइत\V_VM -\RD_PUNC खेलइत\V_VM राजा\N_NN के\PSP साला\N_NN कहलन\V_VM कि\CC_CCS -\RD_PUNC निरमल\N_NN जल\N_NN तलाब\N_NN में\PSP अति\N_NN ही\RP_RPD पवित्र-पवित्र\N_NN ।\RD_PUNC
+msd45	रात\N_NN में\PSP रानी\N_NN दैत्य\N_NN के\PSP महल\N_NN में\PSP आयल\V_VM ।\RD_PUNC
+msd450	सो\CC_CCS जल\N_NN काहे\PR_PRQ ना\RP_NEG पिय\V_VM ,\RD_PUNC सुनहुं\V_VM हमारे\N_NN मित्र\N_NN सत\N_NN रह\V_VM तब\PR_PRL राजा\N_NN एतना\QT_QTF सुनके\V_VM मन\N_NN -\RD_PUNC ही\RP_RPD -\RD_PUNC मन\N_NN सोच\N_NN के\V_VM कहलन\V_VM -\RD_PUNC कर\V_VM पंजे\N_NN के\PSP बिच\N_NN में\PSP तामें\N_NN लाल\N_NN समाय\V_VM ।\RD_PUNC
+msd451	सो\CC_CCS मैं\PR_PRP देखा\V_VM पलंग\N_NN पर\PSP ,\RD_PUNC नीर\N_NN पिया\N_NN न\RP_NEG जाय\V_VM सत\N_NN रह\V_VM एतना\QT_QTF सुन\V_VM के\V_VAUX चौपड़\N_NN खेलइत\V_VM खेलइत\V_VM वजीर\N_NN के\PSP लइका\N_NN कहलन\V_VM -\RD_PUNC घटा\N_NN गरजे\V_VM बिजली\N_NN चमके\V_VM ,\RD_PUNC लागे\V_VAUX ना\RP_NEG काहूँ\N_NN अँत\N_NN ।\RD_PUNC
+msd452	माय\N_NN -\RD_PUNC बहिनिया\N_NN जा\V_VM के\V_VAUX ,\RD_PUNC गये\V_VAUX पलंग\N_NN पर\PSP बैठ\V_VM सत\N_NN रह\V_VM ओकरा\PR_PRP बाद\N_NN नउवा\N_NN के\PSP पाँसा\N_NN आयल\V_VM तो\PR_PRL सोच\N_NN -\RD_PUNC विचार\N_NN के\PSP कहलक\V_VM -\RD_PUNC चतुरन\N_NN में\PSP चतुरन\N_NN मिले\V_VM लगे\V_VAUX ना\RP_NEG काहूँ\N_NN अंत\N_NN ।\RD_PUNC
+msd453	अभाग\N_NN हे\V_VAUX ऊ\PR_PRP नारी\N_NN के\PSP ,\RD_PUNC मूरूख\N_NN मिलल\N_NN कँत\N_NN सत\N_NN रह\N_NN एकरा\DM_DMD बाद\N_NN राजा\N_NN के\PSP असली\N_NN बात\N_NN हिरदय\N_NN में\PSP समा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd454	फिनो\CC_CCD सबहे\N_NN घरे\N_NN अयलन\V_VM आउ\CC_CCD राजा-रानी\N_NN खुसी\N_NN से\PSP रहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd455	﻿नाग\N_NN के\PSP अँगूठी\N_NN कहताहर\N_NN मूयदैव\N_NNP सिंह\N_NNP पो०\N_NN जाखिपु\N_NNP जिला\N_NN औरँगाबाद\N_NNP ।\RD_PUNC
+msd456	एगो\QT_QTC बड़का\JJ राजा\N_NN हलन\V_VM ।\RD_PUNC
+msd457	उनका\PR_PRP एगो\QT_QTC लइका\N_NN हल\V_VM ।\RD_PUNC
+msd458	कुछ\QT_QTF दिन\N_NN के\PSP बाद\N_NN राजा\N_NN मर\V_VM गेलन\V_VAUX तब\PR_PRL रानी\N_NN लइका\N_NN के\PSP साथे\N_NST रहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd459	एक\QT_QTC दिन\N_NN लइका\N_NN माय\N_NN से\PSP पूछलक\V_VM कि\CC_CCS हम\PR_PRP बेपार\N_NN करे\V_VM जाइत\V_VAUX ही\V_VAUX ।\RD_PUNC
+msd46	देत्य\N_NN जल्दी-जल्दी\RB खाना\N_NN खाके\V_VM कहलकई\V_VAUX कि\CC_CCS अब\DM_DMD हम्मर\PR_PRP खटिया\N_NN बिसुनलोक\N_NN ला\PSP उड़तई\V_VM ।\RD_PUNC
+msd460	माय\N_NN लइका\N_NN के\PSP छौ\QT_QTC सौ\QT_QTC रूपेआ\N_NN देलक\V_VM ।\RD_PUNC
+msd461	लइका\N_NN रोपेआ\N_NN ले\V_VM के\V_VAUX चल\V_VM देलक\V_VAUX ।\RD_PUNC
+msd462	राह\N_NN में\PSP कई\PR_PRI अदमी\N_NN मिल\V_VM के\V_VAUX एगो\QT_QTC बिलाई\N_NN के\PSP मारइत\V_VM हलन\V_VAUX ।\RD_PUNC
+msd463	राजा\N_NN के\PSP लइका\N_NN के\PSP देख\V_VM के\V_VAUX मोह\N_NN लगल\V_VM ।\RD_PUNC
+msd464	से\CC_CCS ऊ\PR_PRP कहलन\V_VM कि\CC_CCS बेचारी\N_NN बिलाई\N_NN के\PSP जान\N_NN काहे\CC_CCS मारइत\V_VM हऽ\V_VAUX ।\RD_PUNC
+msd465	एकरा\DM_DMD छोड\V_VM दऽ\V_VAUX ।\RD_PUNC
+msd466	तब\PR_PRL एकरे\N_NN पर\PSP ,\RD_PUNC राजा\N_NN के\PSP लइका\N_NN पर\PSP सबहे\N_NN खिसिया\JJ गेलन\V_VM कि\CC_CCS ई\DM_DMI हमर\PR_PRP सव\QT_QTF दुध-दही\N_NN खा\V_VM जाहे\V_VAUX आउ\CC_CCD बरबाद\N_NN कर\V_VM देहे\V_VAUX ।\RD_PUNC
+msd467	एकरे\N_NN पर\PSP राजा\N_NN के\PSP लइका\N_NN कहलक\V_VM कि\CC_CCS ई\DM_DMI तोर\PR_PRP केतना\QT_QTF रोपेआ\N_NN के\PSP समान\N_NN खराव\N_NN कैलक\V_VM हे\V_VAUX ।\RD_PUNC
+msd468	हम\PR_PRP तोरा\PR_PRP दे\V_VM देव\V_VAUX ।\RD_PUNC
+msd469	सबे\QT_QTF कहलक\V_VM कि\CC_CCS दू\QT_QTC सौ\QT_QTC रूपेआ\N_NN के\PSP ।\RD_PUNC
+msd47	वजीर\N_NN खटिया\N_NN के\PSP नीचे\N_NST ओरदाना\N_NN आउ\CC_CCD सिरहाना\N_NN पकड़\V_VM के\V_VAUX लटक\V_VM गेल\V_VAUX ।\RD_PUNC
+msd470	झटपट\N_NN दू\QT_QTC सौ\QT_QTC रूपेआ\N_NN दे\V_VM के\PSP ऊ\PR_PRP बिलाई\N_NN छोड़ा\V_VM देलक\V_VAUX ।\RD_PUNC
+msd471	लइका\N_NN जब\PR_PRL आगे\N_NN चलल\V_VM आउ\CC_CCD तनी\QT_QTF दुर\N_NN जा\V_VM के\V_VAUX पाछे\N_NN घूर\V_VM के\V_VAUX देखलक\V_VM कि\CC_CCS बिलाई\N_NN भी\RP_RPD चलल\V_VM आवइत\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd472	लइका\N_NN बोलल\V_VM कि\CC_CCS ए\N_NN माँई\N_NN बिलाई\N_NN तू\PR_PRP हमरा\PR_PRP पीछे-पीछे\N_NN काहे\CC_CCS आवइत\V_VM हें\V_VAUX ।\RD_PUNC
+msd473	तोहरा\N_NN तो\PR_PRL हम\PR_PRP भलाई\N_NN कइलिअउ\V_VM ।\RD_PUNC
+msd474	तब\PR_PRL बिलाई\N_NN कहलक\V_VM कि\CC_CCS तू\PR_PRP हमर\PR_PRP जान\N_NN बचवलऽ\V_VM हे\V_VAUX तऽ\CC_CCS हम\PR_PRP तोरे\PR_PRP साथ\PSP जायब\V_VM ।\RD_PUNC
+msd475	दुनो\QT_QTC जाइत\V_VM -\RD_PUNC जाइत\V_VM दुसर\QT_QTO गांव\N_NN में\PSP पहुचँलन\V_VM तो\PR_PRL देखइत\V_VM हे\V_VAUX कि\CC_CCS ढेर\QT_QTF -\RD_PUNC सा\RP_RPD अदमी\N_NN एगो\QT_QTC सरप\N_NN के\PSP जान\N_NN मारे\V_VM ला\PSP तइयार\N_NN हथ\V_VM ।\RD_PUNC
+msd476	लड़का\N_NN जा\V_VM के\V_VAUX कहलक\V_VM कि\CC_CCS ए\RP_INJ भाई\N_NN तोहनी\PR_PRP सरप\N_NN के\PSP काहे\PR_PRQ मारइत\V_VM हँऽ\V_VAUX ।\RD_PUNC
+msd477	एकरा\DM_DMD छोड़\V_VM द‍ऽ\V_VAUX ।\RD_PUNC
+msd478	तव\N_NN सबहे\N_NN एकरा\DM_DMD पर\PSP खिसिया\JJ गेलन\V_VM आउ\CC_CCD कहलन\V_VM कि\CC_CCS हमनी\PR_PRP के\PSP सब\QT_QTF कबुतर\N_NN पकड़\V_VM के\V_VAUX खा\V_VM जाहे\V_VAUX ।\RD_PUNC
+msd479	ओकर\PR_PRP दाम\N_NN तुहीं\PR_PRP दे\V_VM दे\V_VAUX ।\RD_PUNC
+msd48	खटिया\N_NN उड़लक\V_VM आउ\CC_CCD पलक\N_NN मारते\V_VM बिसनुलोक\N_NN में\PSP पहुँच\V_VM गेल\V_VAUX ।\RD_PUNC
+msd480	लइका\N_NN बोलल\N_NN कि\CC_CCS केतना\QT_QTF के\PSP बरबाद\N_NN कर\V_VM देलक\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd481	लोपा\N_NNP कहलन\V_VM कि\CC_CCS दू\QT_QTC सौ\QT_QTC रूपेआ\N_NN के\PSP ।\RD_PUNC
+msd482	लइका\N_NN दू\QT_QTC सौ\QT_QTC रूपेआ\N_NN निकाल\V_VM के\V_VAUX दे\V_VM देलक\V_VAUX ।\RD_PUNC
+msd483	उहाँ\DM_DMD से\PSP लइका\N_NN चल\V_VM देलक\V_VAUX ।\RD_PUNC
+msd484	थोड़े\QT_QTF देर\N_NN के\PSP बाद\N_NST पीछे\N_NN मुड\V_VM के\V_VAUX देखलक\V_VM तो\PR_PRL साँप\N_NN धी\N_NN साये\N_NN आवइत\V_VM हल\V_VAUX ।\RD_PUNC
+msd485	ऊ\PR_PRP पुछलक\N_NN कि\CC_CCS तू\PR_PRP हमरा\PR_PRP पीछ-पीछे\N_NN काहे\PR_PRQ आवइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd486	सांप\N_NN कहलक\V_VM कि\CC_CCS अपने\PR_PRP हमरा\PR_PRP जान\N_NN बचौली\N_NN हे\V_VM ,\RD_PUNC एकरे\N_NN से\PSP हम\PR_PRP तोहरे\PR_PRP साथे\N_NN जायब\V_VM आउ\CC_CCD साथ\PSP ही\RP_RPD चले\V_VM लगल\V_VAUX ।\RD_PUNC
+msd487	थोड़े\QT_QTF दुर\N_NN गेला\N_NN पर\PSP देखलक\V_VM कि\CC_CCS एगो\QT_QTC गाँव\N_NN में\PSP लोग\N_NN बाघ\N_NN के\PSP अघमुआँ\N_NN करके\V_VM जान\N_NN से\PSP मारे\V_VM ला\PSP तइयार\N_NN हलन\V_VM ।\RD_PUNC
+msd488	एतने\DM_DMD में\PSP लइका\N_NN पहुँच\V_VM गेल\V_VAUX आउ\CC_CCD कहलन\V_VM कि\CC_CCS हाय-हाय\RD_ECH जान\N_NN केकरो\PR_PRI न\RP_NEG मारे\V_VM के\PSP चाही\V_VM ।\RD_PUNC
+msd489	एकरे\N_NN पर\PSP लोग\N_NN ओकरा\PR_PRP मारे\V_VM खातिर\PSP दउड़लन\V_VM आउ\CC_CCD कहलन\V_VM कि\CC_CCS हमनी\PR_PRP के\PSP गाय\N_NN -\RD_PUNC बैल\N_NN के\PSP मार\V_VM के\V_VAUX खा\V_VM गेल\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd49	उहां\DM_DMD नाच-गान\N_NN हो\V_VM रहल\V_VAUX हलई\V_VAUX ।\RD_PUNC
+msd490	तुँ\PR_PRP ही\RP_RPD ओकर\PR_PRP दाम\N_NN दे\V_VM देबे\V_VAUX ।\RD_PUNC
+msd491	लइका\N_NN कहलक\V_VM कि\CC_CCS केतना\QT_QTF रोपेआ\N_NN के\PSP खा\V_VM गेल\V_VM हे\V_VAUX ।\RD_PUNC
+msd492	लोग\N_NN बोललन\V_VM कि\CC_CCS दु\QT_QTC सौ\QT_QTC रोपेआ\N_NN के\PSP ।\RD_PUNC
+msd493	पर\PSP राजा\N_NN के\PSP लइका\N_NN दू\QT_QTC सौ\QT_QTC रोपेआ\N_NN निकाल\V_VM के\V_VAUX दे\V_VM देलन\V_VAUX तब\PR_PRL लोग\N_NN बाघ\N_NN के\PSP छोड़\V_VM देलन\V_VAUX ।\RD_PUNC
+msd494	एकरा\DM_DMD बाद\N_NN लइका\N_NN चल\V_VM देलक\V_VAUX ।\RD_PUNC
+msd495	कुछ\QT_QTF दुर\N_NN गेल\V_VM तो\PR_PRL पीछे\N_NN मुड़\V_VM के\V_VAUX देखइत\V_VM हे\V_VAUX कि\CC_CCS बाघ\N_NN भी\RP_RPD पीछे-पीछे\N_NN चलल\V_VM आवइत\V_VAUX हेअ\V_VAUX ।\RD_PUNC
+msd496	से\CC_CCS पर\PSP लइका\N_NN कहलक\V_VM कि\CC_CCS ए\RP_INJ भाई\N_NN ,\RD_PUNC हम\PR_PRP तोरा\PR_PRP तो\PR_PRL जान\N_NN बचवली\V_VM हे\V_VAUX तो\PR_PRL तू\PR_PRP हमरा\PR_PRP साथे\PSP काहे\CC_CCS चलल\V_VM आबहत\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd497	बाघ\N_NN कहलक\V_VM अपने\PR_PRP हमरा\PR_PRP जान\N_NN बचौली\N_NN हे\V_VM ,\RD_PUNC अपने\PR_PRP जहाँ\PR_PRL जायब\N_NN उहाँ\DM_DMD हमहू\PR_PRP जायम\V_VM ।\RD_PUNC
+msd498	﻿में\PSP सुन्नर\JJ लड़का\N_NN बन\V_VM के\V_VAUX सवा\QT_QTC बिता\N_NN जमीम\N_NN लीप\V_VM के\V_VAUX कहलन\V_VM कि\CC_CCS हे\RP_RPD नाग-देबता\N_NN के\PSP अंगुठी\N_NN ,\RD_PUNC बजार\N_NN आउ\CC_CCD रग-बिरंग\N_NN के\PSP समान\N_NN सजा\N_NN दऽ\V_VM नऽ\RP_NEG ।\RD_PUNC
+msd499	उहां\DM_DMD बजार\N_NN लग\V_VM गेल\V_VAUX ।\RD_PUNC
+msd5	राजा\N_NN के\PSP लड़का\N_NN के\PSP तेल-तेलवाई\N_NN होलई\V_VM तो\PR_PRL ऊ\PR_PRP सुत\V_VM गेलई\V_VAUX बाकि\CC_CCD बजीर\N_NN के\PSP लइका\N_NN जगले\V_VM रहलई\V_VAUX ।\RD_PUNC
+msd50	रानी\N_NN आउ\CC_CCD दैत्य\N_NN खटिया\N_NN से\PSP उतरल\V_VM आउ\CC_CCD गोड़\N_NN दबा\V_VM के\V_VAUX गेल\V_VAUX आउ\CC_CCD बिसुन\N_NN भगवान\N_NN के\PSP बगल\N_NST में\PSP जा\V_VM के\V_VAUX बइठ\V_VM रहल\V_VAUX ।\RD_PUNC
+msd500	राजा\N_NN के\PSP बेटा\N_NN के\PSP कहला\V_VM पर\PSP रग-बिरंग\N_NN के\PSP इंदर\N_NNP के\PSP परी\N_NN आके\V_VM नाचे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd501	जब\PR_PRL अराम\N_NN करे\V_VM के\PSP बेरा\N_NN होय\V_VM तो\PR_PRL अंगुठी\N_NN के\PSP कह\V_VM देथ\V_VAUX कि\CC_CCS फिनो\CC_CCD ज्यों-के-त्यों\RB हो\V_VM जा\V_VAUX नऽ\RP_NEG ।\RD_PUNC
+msd502	तब\PR_PRL फिन\CC_CCD ओही\DM_DMD तरह\RP_RPD से\PSP हो\V_VM जा\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd503	राजा\N_NN अइसहीं\N_NN अनंद\N_NN मनावइत\V_VM कुछ\QT_QTF दिना\N_NN ओही\DM_DMD जांल\N_NN में\PSP रह\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd504	एगो\QT_QTC दूसर\QT_QTO राज\N_NN में\PSP राजा\N_NN के\PSP तीनगो\QT_QTC लइकी\N_NN हल\V_VM ।\RD_PUNC
+msd505	राजा\N_NN तीनो\QT_QTC से\PSP पारा-पारी\RB पुछलन\V_VM कि\CC_CCS बताव\V_VM तो\PR_PRL तू\PR_PRP लोग\N_NN केकर\PR_PRQ किस्मत\N_NN से\PSP खाइत-पीअइत\V_VM हऽ\V_VAUX ।\RD_PUNC
+msd506	बड़की\JJ बेटी\N_NN बोलल\V_VM कि\CC_CCS हम\PR_PRP अप्पन\PR_PRF किस्मत\N_NN से\PSP खाइत-पीअइत\V_VM ही\V_VAUX बाकि\CC_CCD आउ\CC_CCD सबहे\N_NN कहलन\V_VM कि\CC_CCS हमनी\PR_PRP बाप\N_NN के\PSP किस्मत\N_NN से\PSP खाइत-पीअइत\V_VM ही\V_VAUX ।\RD_PUNC
+msd507	राजा\N_NN बड़की\JJ बेटी\N_NN पर\PSP खिसिया\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd508	सिपाही\N_NN के\PSP हुकुम\N_NN देलन\V_VM कि\CC_CCS अइसन\RP_RPD लइका\N_NN खोज\V_VM लाव\V_VAUX जेकर\PR_PRL न\RP_NEG घर\N_NN दुआर\N_NN होय\V_VM नऽ\RP_NEG हाथ-पांव\N_NN होय\V_VM यानि\CC_CCD कोढ़िया\JJ होय\N_NN ।\RD_PUNC
+msd509	सिपाही\N_NN चलल\V_VM ।\RD_PUNC
+msd51	एने\DM_DMD वजीर\N_NN के\PSP लड़का\N_NN चिलिम\N_NN के\PSP चिलिम\N_NN गाँजा\N_NN चढ़ा\V_VM के\V_VAUX पीये\V_VM लगल\V_VAUX आउ\CC_CCD धुआँ\N_NN तबलत्ती\N_NN के\PSP मुंह\N_NN पर\PSP फॅके\V_VM लगल\V_VAUX ।\RD_PUNC
+msd510	खोजइत-खोजइत\V_VM ओही\DM_DMD लइका\N_NN भिर\PSP पहुंचल\V_VM जे\PR_PRL जंगल\N_NN में\PSP दिन\N_NN खनी\N_NN कोढ़ी\N_NN के\PSP भेस\N_NN बना\V_VM के\V_VAUX रह\V_VM हल\V_VAUX आउ\CC_CCD रात\N_NN के\PSP सुन्नर\JJ लइका\N_NN बन\V_VM जा\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd511	सिपाही\N_NN देखके\V_VM खूब\QT_QTF खुस\JJ होयलन\V_VM आउ\CC_CCD जाके\V_VM कोढ़िया\JJ से\PSP कहलन\V_VM -\RD_PUNC चल\V_VM तोरा\PR_PRP राजा\N_NN के\PSP लइकी\N_NN से\PSP सादी\N_NN करा\V_VM दिअऊ\V_VAUX ।\RD_PUNC
+msd512	कोढ़िया\JJ रोबे-कलपे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd513	सिपाही\N_NN सब\QT_QTF बरिआरी\RB धर-पकड़\V_VM के\V_VAUX राजा\N_NN के\PSP पास\N_NN ले\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd514	राजा\N_NN देखके\V_VM कहलन\V_VAUX कि\CC_CCS बहुत\RP_INTF ठीक\JJ हे\V_VM ।\RD_PUNC
+msd515	लइकी\N_NN के\PSP महल\N_NN से\PSP बोलाके\V_VM ओही\DM_DMD लइका\N_NN से\PSP बिआह\N_NN करा\V_VM देलन\V_VAUX ।\RD_PUNC
+msd516	सिपाही\N_NN के\PSP जरिया\PSP कोढ़िया\JJ लइका\N_NN के\PSP साथे\PSP अपन\PR_PRP लइकी\N_NN फिन\CC_CCD ओही\DM_DMD झोपड़ी\N_NN में\PSP पहुंचा\V_VM देलन\V_VAUX जहां\DM_DMD पर\PSP कोढ़िया\JJ पहिले\N_NST रहऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd517	जब\PR_PRL लइकी\N_NN के\PSP खयला\N_NN बिना\PSP दू\QT_QTC -\RD_PUNC तीन\QT_QTC दिन\N_NN हो\V_VM गेल\V_VAUX आउ\CC_CCD भूखे\N_NN रहल\V_VM न\RP_NEG गेल\V_VAUX तो\PR_PRL जाके\V_VM कोढ़िया\JJ से\PSP कहलक\V_VM -\RD_PUNC हमरा\PR_PRP कुछो\PR_PRI खाय\V_VM खातिर\PSP दऽ\V_VM ,\RD_PUNC हमर\N_NN प्राण\N_NN निकलल\V_VM जाइत\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd518	कोढ़िया\JJ कहलक\V_VM कि\CC_CCS पहिले\N_NST तो\PR_PRL गांव\N_NN घर\N_NN गिराव\N_NN जाके\V_VM माँगऽ\V_VM -\RD_PUNC खा\V_VM हली\V_VAUX बाकि\CC_CCD तोहरा\PR_PRP आवे\V_VM से\PSP कहऊँ\PR_PRI जायते\V_VM न\RP_NEG हिअ\V_VAUX ।\RD_PUNC
+msd519	जब\PR_PRL रानी\N_NN मन\N_NN मसोसके\V_VM सूत\V_VM गेल\V_VAUX तब\PR_PRL ओही\DM_DMD डोली\N_NN में\PSP लइका\N_NN पहिले\N_NST ही\RP_RPD जइसन\RP_RPD सहर\N_NN -\RD_PUNC बाजार\N_NN बसा\V_VM के\V_VAUX अनंद\N_NN लूटलक\V_VM आउ\CC_CCD रानी\N_NN खातिर\N_NN सतमेर\N_NN मिठाई\N_NN एगो\QT_QTC सोना\N_NN के\PSP परात\N_NN में\PSP रखके\N_NN झोपड़ी\N_NN में\PSP खोस\N_NN देलक\V_VAUX ।\RD_PUNC
+msd52	तबलची\N_NN भी\RP_RPD गाँजा\N_NN माँगलकै\V_VM तो\PR_PRL वजीर\N_NN कहलकई\V_VM कि\CC_CCS अपने\PR_PRP चढ़ा\V_VM के\PSP पी\V_VM ला\V_VAUX तब\PR_PRL तक\PSP हम\PR_PRP तबलवा\N_NN के\PSP ठोक\V_VM दैं\V_VAUX हियो\N_NN ।\RD_PUNC
+msd520	सबेरे\N_NN रानी\N_NN ऊठल\V_VM तऽ\CC_CCS कहलक\V_VM कि\CC_CCS दऽ\V_VM न\RP_NEG कुछ\QT_QTF खाय\V_VM ला\PSP ।\RD_PUNC
+msd521	तब\PR_PRL कोढ़िया\JJ कहलक\V_VM कि\CC_CCS देखऽ\V_VM न\RP_NEG ओनही\DM_DMD कुछ\QT_QTF खाय-पीये\V_VM लागी\PSP होयत\V_VM ।\RD_PUNC
+msd522	पहिले\N_NST मांगके\V_VM रखऽ\V_VAUX हली\V_VAUX तो\PR_PRL ओनही\DM_DMD रख\V_VM दे\V_VAUX हली\V_VAUX ।\RD_PUNC
+msd523	रानी\N_NN जाके\V_VM देखलक\V_VAUX तो\PR_PRL दाँते\N_NN अंगुरी\N_NN काटे\V_VM लगल\V_VAUX अउ\CC_CCD मन\N_NN में\PSP सोचलक\V_VM कि\CC_CCS जरूर\RB -\RD_PUNC से\PSP -\RD_PUNC जरूर\RB कोई\PR_PRI बात\N_NN हे\V_VM ।\RD_PUNC
+msd524	परात\N_NN में\PSP से\PSP मिठाई\N_NN खैलक\V_VM -\RD_PUNC पीलक\V_VM आउ\CC_CCD ओकरा\PR_PRP बाद\PSP अराम\N_NN करे\V_VM लगल\V_VAUX ।\RD_PUNC से\PSP ओकरा\PR_PRP नीन\N_NN आ\V_VM गेल\V_VAUX ।\RD_PUNC
+msd525	सांझ\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd526	कोढ़िया\JJ अप्पन\PR_PRP रुप\N_NN बदलके\V_VM पहले\N_NST ही\RP_RPD जइसन\RP_RPD सहर\N_NN बाजार\N_NN बसौलक\N_NN आउ\CC_CCD कुछ\QT_QTF मिठाई\N_NN खैलक\V_VM आउ\CC_CCD परात\N_NN में\PSP ले\V_VM आनके\V_VAUX पहिले\N_NST ही\RP_RPD नियन\RP_RPD रख\V_VM देलक\V_VAUX ।\RD_PUNC
+msd527	रानी\N_NN के\PSP कुछ\QT_QTF संदेह\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd528	एक\QT_QTC दिन\N_NN रानी\N_NN झूठ-मूठ\RB नीन\N_NN के\PSP बहाने\N_NN डोली\N_NN में\PSP से\PSP देखे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd529	रात\N_NN मे\PSP कोढ़िया\JJ अपन\PR_PRP रूप\N_NN बदललक\V_VM ।\RD_PUNC
+msd53	तबलची\N_NN झट\RB वजीर\N_NN के\PSP तबला\N_NN दे\V_VM देलक\V_VAUX ।\RD_PUNC
+msd530	कुछ\QT_QTF दुर\N_NN गेल\V_VM ।\RD_PUNC
+msd531	ई\DM_DMI सबे\QT_QTF देख\V_VM के\V_VAUX रानी\N_NN बड़ी\RP_INTF खुस\JJ भेल\V_VM आउ\CC_CCD ओकरा\PR_PRP पीछे\N_NST -\RD_PUNC पीछे\N_NST चले\V_VM लगल\V_VAUX ।\RD_PUNC
+msd532	कुछ\QT_QTF दूर\N_NN जाके\V_VM देखइत\V_VAUX हे\V_VAUX कि\CC_CCS राजा\N_NN खूब\RP_INTF बढ़िया\JJ सहर\N_NN -\RD_PUNC बजार\N_NN बसौले\V_VM हेय\V_VAUX ।\RD_PUNC
+msd533	एगो\QT_QTC बड़ा\RP_INTF भारी\JJ राजा\N_NN हलन\V_VM ।\RD_PUNC
+msd534	उनका\PR_PRP धन\N_NN -\RD_PUNC दौलत\N_NN से\PSP खजाना\N_NN भरल\V_VM हल\V_VAUX बाकि\CC_CCD उनका\PR_PRP एगो\QT_QTC लड़का\N_NN न\RP_NEG हल\V_VM ।\RD_PUNC
+msd535	सेकरा\PR_PRL लागि\PSP बड़ा\JJ उदास\JJ रहऽ\V_VM हलन\V_VAUX ।\RD_PUNC
+msd536	जे\PR_PRL उनकर\PR_PRP मुँह\N_NN सबेरे\N_NN में\PSP देखे\V_VM से\PR_PRL कहे\V_VM कि\CC_CCS आज\N_NN बाँझ\N_NN -\RD_PUNC बाँझिन\N_NN के\PSP मुँह\N_NN अन्हार\N_NN ही\RP_RPD देखली\V_VM हे\V_VAUX ,\RD_PUNC कइसन\PR_PRQ तो\PR_PRL दिन\N_NN जा\V_VM हे\V_VAUX ।\RD_PUNC
+msd537	राजा\N_NN मन\N_NN मसोस\V_VM के\V_VAUX चुप\V_VM रह\V_VAUX जाथ\V_VAUX ।\RD_PUNC
+msd538	एक\QT_QTC दिन\N_NN उनका\PR_PRP सुतले\V_VM कोठरो\N_NN में\PSP किरिन\N_NN फुट\V_VM गेल\V_VAUX ।\RD_PUNC
+msd539	बाहर\N_NST में\PSP नोकर\N_NN झाडू\N_NN देइत\V_VM हल\V_VAUX सेकर\PR_PRL अवाज\N_NN सुन\V_VM के\V_VAUX राजा\N_NN के\PSP नीन\N_NN टूट\V_VM गेल\V_VAUX ।\RD_PUNC
+msd54	वजीर\N_NN तबला\N_NN बजावइत\V_VM हलई\V_VAUX कि\CC_CCS लालपरी\N_NN के\PSP नाच\N_NN से\PSP खुस\JJ होके\V_VM बिसुन\N_NN भगवान\N_NN ओकर\PR_PRP पर\PSP एगो\QT_QTC लाल\JJ गमछा\N_NN फेंक\V_VM देलक\V_VAUX ।\RD_PUNC
+msd540	आउ\CC_CCD केंवाड़\N_NN खोलल\V_VM तो\PR_PRL उनका\PR_PRP देखके\V_VM नोकरो\N_NN बोलल\V_VM कि\CC_CCS आज\N_NN बाँझ\N_NN के\PSP मुँह\N_NN देखली\V_VM हे\V_VAUX ,\RD_PUNC कइसन\PR_PRQ तो\PR_PRL दिन\N_NN जाहे\V_VM ।\RD_PUNC
+msd541	राजा\N_NN सुन\V_VM के\V_VAUX खिसिअयलन\V_VM नऽ\RP_NEG ।\RD_PUNC केंवाड़ी\N_NN बंद\V_VM कर\V_VAUX लेलन\V_VAUX आउ\CC_CCD परन\N_NN (\RD_SYM प्रतिज्ञा\N_NN )\RD_SYM कैलन\V_VM कि\CC_CCS जब\PR_PRL तक\RP_RPD हमर\PR_PRP दुख\N_NN कोई\PR_PRI नऽ\RP_NEG बुझत\V_VM तब\PR_PRL तक\RP_RPD केंवाड़ी\N_NN न\RP_NEG खोलब\V_VM ।\RD_PUNC
+msd542	अइसहीं\RP_RPD भुखे\N_NN -\RD_PUNC पिआसे\N_NN कोठरी\N_NN में\PSP बंद\V_VM रहइत\V_VAUX हलन\V_VAUX ।\RD_PUNC
+msd543	एक\QT_QTC रोज\N_NN के\PSP बात\N_NN हे\V_VM कि\CC_CCS आधा\QT_QTO रात\N_NN में\PSP ब्रह्माजी\N_NNP के\PSP सिंहासन\N_NN डोल\V_VM गेल\V_VAUX तो\PR_PRL ऊ\PR_PRP उठ\V_VM के\V_VAUX अयलन\V_VAUX आउ\CC_CCD केंवाड़ी\N_NN खोले\V_VM ला\PSP कहलन\V_VM ।\RD_PUNC
+msd544	राजा\N_NN भीतर\N_NST ही\RP_RPD से\PSP कहलन\V_VM कि\CC_CCS जब\PR_PRL तक\RP_RPD हम्मर\PR_PRP दुख\JJ कोई\PR_PRI न\RP_NEG सुनत\V_VM तब\PR_PRL तक\RP_RPD हम\PR_PRP केंवाड़ी\N_NN न\RP_NEG खोलब\V_VM ।\RD_PUNC
+msd545	ए\DM_DMD तरह\RP_RPD जब\PR_PRL तीन\QT_QTC बचन\N_NN कहलन\V_VM तव\PR_PRL ब्रह्माजी\N_NNP बोललन\V_VM कि\CC_CCS हम\PR_PRP तोर\PR_PRP दुख\JJ बुझब\V_VM ।\RD_PUNC
+msd546	एतना\QT_QTF सुन\V_VM के\V_VAUX राजा\N_NN केंबाड़ी\N_NN खोललन\V_VM ।\RD_PUNC
+msd547	ब्रह्माजी\N_NNP बतौलन\V_VM कि\CC_CCS एगो\QT_QTC जंगल\N_NN हे\V_VM ,\RD_PUNC ओकरा\PR_PRP में\PSP एगो\QT_QTC मंदिर\N_NN हे\V_VM ।\RD_PUNC
+msd548	ओकरे\PR_PRP में\PSP जा\V_VM के\V_VAUX तू\PR_PRP पूजा\N_NN -\RD_PUNC पाठ\N_NN करिहँऽ\V_VM ।\RD_PUNC
+msd549	जब\PR_PRL ध्यान\N_NN लगैबऽ\V_VM तऽ\CC_CCS सोना\N_NN के\PSP एगो\QT_QTC चिरई\N_NN तोर\PR_PRP बांह\N_NN पर\PSP आन\V_VM के\V_VAUX बइठत\V_VAUX ।\RD_PUNC
+msd55	परी\N_NN गमछा\N_NN के\PSP तबलची\N_NN पर\PSP फेंक\V_VM देलकई\V_VAUX ।\RD_PUNC
+msd550	ओकरा\PR_PRP पकड़\V_VM के\V_VAUX तू\PR_PRP निगल\V_VM जइहँऽ\V_VAUX ।\RD_PUNC
+msd551	ई\DM_DMI सुन\V_VM के\V_VAUX राजा\N_NN उठलन\V_VM आउ\CC_CCD ओही\DM_DMD जंगल\N_NN में\PSP जा\V_VM पहुँचलन\V_VAUX ।\RD_PUNC
+msd552	मंदिर\N_NN में\PSP जाके\V_VM पुजा\N_NN -\RD_PUNC पाठ\N_NN कैलन\V_VM आउ\CC_CCD ध्यान\N_NN लगौलन\V_VM तब\PR_PRL एगो\QT_QTC चिरईं\N_NN आन\V_VM के\V_VAUX उनकर\PR_PRP बाँह\N_NN पर\PSP बइठल\V_VM बाकि\CC_CCD ध्यान\N_NN लगल\V_VM रहे\V_VAUX से\PSP ऊ\PR_PRP चिरईं\N_NN के\PSP न\RP_NEG पकड़लन\V_VM आउ\CC_CCD चिरईं\N_NN ऊड़\V_VM गेल\V_VAUX ।\RD_PUNC
+msd553	जब\PR_PRL राजा\N_NN के\PSP ध्यान\N_NN दुटल\V_VM तऽ\CC_CCS जोर\RB -\RD_PUNC जोर\RB से\PSP रोवे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd554	उनकर\PR_PRP रोआई\N_NN सुन\V_VM के\V_VAUX फिन\CC_CCD साधु\N_NN बेस\N_NN में\PSP ब्रह्माजी\N_NNP अयलन\V_VM आउ\CC_CCD कहलन\V_VM कि\CC_CCS अबकी\N_NN भर\RP_RPD तूँ\PR_PRP वइसहीं\N_NN करऽ\V_VM बाकि\CC_CCD अबरी\N_NN चिरई\N_NN न\RP_NEG निगलबऽ\V_VM तऽ\CC_CCS लइका\N_NN न\RP_NEG होतवऽ\V_VM ।\RD_PUNC
+msd555	राज\N_NN फिनो\CC_CCD नेहा\V_VM -\RD_PUNC धोआ\V_VM के\V_VAUX पुजा\N_NN -\RD_PUNC पाठ\N_NN कैलन\V_VM आउ\CC_CCD ध्यान\N_NN लगौलन\V_VM तो\PR_PRL सोना\N_NN के\PSP चिरई\N_NN आनके\V_VM बाँह\N_NN पर\PSP बइठ\V_VM गेल\V_VAUX ।\RD_PUNC
+msd556	राजा\N_NN झट-पट\RD_ECH चिरई\N_NN के\PSP पकड़\V_VM के\V_VAUX निगल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd557	ब्रह्माजी\N_NNP पहिल\PSP ही\RP_RPD चेता\V_VM देलकथिन\V_VAUX हल\V_VAUX कि\CC_CCS लइका\N_NN के\PSP कोई\PR_PRI बारह\QT_QTC बरस\N_NN तक\RP_RPD न\RP_NEG देखत\V_VM न\RP_NEG ऊ\PR_PRP बाहर\N_NST निकलत\V_VM ।\RD_PUNC
+msd558	राजा\N_NN घरे\N_NN आन\V_VM के\V_VAUX राजमहल\N_NN में\PSP रानी\N_NN भिरू\PSP गेलन\V_VM ।\RD_PUNC
+msd559	नवे\QT_QTO महीने\N_NN लड़का\N_NN जनम\N_NN लेलक\V_VM ।\RD_PUNC
+msd56	तबलची\N_NN गमछा\N_NN के\PSP चपोत\V_VM के\V_VAUX जेब\N_NN मै\PSP रख\V_VM देलका\V_VAUX ।\RD_PUNC
+msd560	रानी\N_NN आउ\CC_CCD लड़का\N_NN के\PSP महल\N_NN में\PSP सबहे\QT_QTF इंतजाम\N_NN कर\V_VM देल\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd561	लड़का\N_NN चनरमा\N_NN के\PSP ज्योति\N_NN नियन\RP_RPD हल\V_VM ।\RD_PUNC
+msd562	११\QT_QTC बच्छर\N_NN बीतल\V_VM तो\PR_PRL लड़का\N_NN जिद्द\N_NN रोप\V_VM देलक\V_VAUX कि\CC_CCS हम\PR_PRP सिकार\N_NN खेले\V_VM जायब\V_VAUX ।\RD_PUNC
+msd563	अगर\CC_CCS न\RP_NEG जाय\V_VM देवऽ\V_VAUX तो\PR_PRL हम\PR_PRP तरवार\N_NN से\PSP अपन\PR_PRP गरदन\N_NN काट\V_VM के\V_VAUX मर\N_NN जायब\V_VM ।\RD_PUNC
+msd564	रानी\N_NN लचार\N_NN होके\V_VM हुकुम\N_NN दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd565	लड़का\N_NN के\PSP साथे\PSP बड़ी\JJ मानी\RP_CL फउज\N_NN लगा\V_VM देल\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd566	राजा\N_NN के\PSP बेटा\N_NN सिकार\N_NN करइत\V_VM एगो\QT_QTC घनघोर\JJ जंगल\N_NN में\PSP पहुंचलन\V_VM आउ\CC_CCD उहई\DM_DMD रात\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd567	ऊ\PR_PRP एगो\QT_QTC पोखरा\N_NN पर\PSP पड़ाव\N_NN गिरा\V_VM देलन\V_VAUX ।\RD_PUNC
+msd568	सिपाही\N_NN लइका\N_NN के\PSP बीच\N_NST में\PSP ।\RD_PUNC
+msd569	﻿अहेरी\N_NNP कुमार\N_NNP आउ\CC_CCD बलकी\N_NNP कुमारी\N_NNP सुता\V_VM के\V_VAUX चारो\QT_QTC बगल\N_NST से\PSP पहरा\N_NN देवे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd57	दैत्य\N_NN कहलक\V_VM कि\CC_CCS देखलई\V_VM न\RP_NEG रानी\N_NN ,\RD_PUNC लालपरी\N_NN के\PSP लाल\JJ गमछा\N_NN मिललई\V_VM ।\RD_PUNC
+msd570	ऐही\DM_DMD घड़ी\N_NN इन्द्रासन\N_NNP के\PSP दुगो\QT_QTC परी\N_NN अकास\N_NN में\PSP उड़ल\V_VM जाइत\V_VAUX हलन\V_VAUX ।\RD_PUNC
+msd571	लड़का\N_NN के\PSP सुरत\N_NN देखके\V_VM ओहनी\PR_PRP कहलन\V_VM कि\CC_CCS अइसने\N_NN लड़की\N_NN के\PSP साथे\PSP एकरा\DM_DMD बिआह\N_NN होवे\V_VM के\V_VAUX चाही\V_VAUX ।\RD_PUNC
+msd572	अकास\N_NN में\PSP सगरो\RB घूमेओली\JJ परी\N_NN सात\QT_QTC समुन्दर\N_NN गंडक\N_NNP पार\RP_RPD एगो\QT_QTC राजा\N_NN के\PSP अइसने\N_NN सुन्नर\JJ लड़की\N_NN देखलन\V_VM हल\V_VAUX ।\RD_PUNC
+msd573	ऊ\PR_PRP चनरमा\N_NNP के\PSP जोति\N_NN नियन\RP_RPD बरऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd574	से\PSP ओहनी\PR_PRP परियन\N_NN लइका\N_NN के\PSP पलंग\N_NN सहिते\PSP उड़ा\V_VM के\V_VAUX ले\V_VAUX गेलन\V_VAUX आउ\CC_CCD ऊ\PR_PRP लड़की\N_NN जहाँ\PR_PRL अपन\PR_PRP महल\N_NN के\PSP कोठा\N_NN पर\PSP सुतल\V_VM हल\V_VAUX ,\RD_PUNC आकरे\PR_PRP बगल\N_NST मे\PSP पलंग\N_NN रख\V_VM देलन\V_VAUX ।\RD_PUNC
+msd575	एही\DM_DMD बीच\N_NST में\PSP जब\PR_PRL लड़की\N_NN के\PSP नीन\N_NN टूटल\V_VM तब\PR_PRL देखलक\V_VM कि\CC_CCS एगो\QT_QTC लड़का\N_NN सुतल\V_VM हे\V_VAUX ।\RD_PUNC
+msd576	ओकर\PR_PRP सुरत\N_NN देखके\V_VM ऊ\PR_PRP मोहित\JJ हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd577	परी\N_NN लोग\N_NN अप्पन\PR_PRP पाँख\N_NN से\PSP खुब\RP_INTF जोर\RB से\PSP हवा\N_NN कैलन\V_VM तो\PR_PRL लड़की\N_NN के\PSP नीन\N_NN आ\V_VM गेल\V_VAUX बाकि\CC_CCD लड़का\N_NN के\PSP नीन\N_NN टूट\V_VM गेल\V_VAUX तो\PR_PRL देखलक\V_VM कि\CC_CCS राजमहल\N_NN मै\N_NN एगो\QT_QTC लड़की\N_NN के\PSP पलंग\N_NN भिरू\PSP सूतल\V_VM हे\V_VAUX ।\RD_PUNC
+msd578	लड़की\N_NN के\PSP सूरत\N_NN देख\V_VM के\V_VAUX लड़का\N_NN मोहा\JJ गेल\V_VM ।\RD_PUNC
+msd579	एतही\DM_DMD घड़ी\N_NN परी\N_NN लोग\N_NN फिनो\CC_CCD पाँख\N_NN से\PSP हवा\N_NN कैलन\V_VM तो\PR_PRL लड़की\N_NN के\PSP भी\RP_RPD नीन\N_NN दुट\V_VM गेल\V_VAUX ।\RD_PUNC
+msd58	ई\DM_DMI गमछा\N_NN तोर\PR_PRP पति\N_NN के\PSP मिल\V_VM जयतो\V_VAUX तो\PR_PRL हम\PR_PRP जानबो\V_VM कि\CC_CCS हमर\PR_PRP बहिन\N_NN तोर\PR_PRP पति\N_NN से\PSP रहो\V_VM हई\V_VAUX ।\RD_PUNC
+msd580	दुनो\QT_QTC सोचलन\V_VM कि\CC_CCS हम\PR_PRP सपना\N_NN तो\PR_PRL न\RP_NEG देखइत\V_VM ही\V_VAUX ।\RD_PUNC
+msd581	फिन\CC_CCD लड़की\N_NN लड़का\N_NN से\PSP पुछलक\V_VM कि\CC_CCS अपने\PR_PRP के\PSP कहाँ\PR_PRQ मकान\N_NN हे\V_VM ।\RD_PUNC
+msd582	लड़का\N_NN सब\QT_QTF हाल\N_NN बतौलक\V_VM तो\PR_PRL लड़कियो\N_NN अपन\PR_PRP हाल\N_NN कहलक\V_VM ।\RD_PUNC
+msd583	बात\N_NN -\RD_PUNC बात\N_NN में\PSP दुनो\QT_QTC मे\PSP परेम\N_NN हो\V_VM गेल\V_VAUX आउ\CC_CCD दुनो\QT_QTC एक\QT_QTC -\RD_PUNC दुसर\QT_QTO के\PSP अँगूठी\N_NN बदल\V_VM लेलन\V_VAUX ।\RD_PUNC
+msd584	एकरे\DM_DMD बीच\N_NST परी\N_NN लोग\N_NN खुब\RP_INTF जोर\RB -\RD_PUNC जोर\RB से\PSP पाँख\N_NN फड़फड़ा\V_VM के\V_VAUX हवा\N_NN कैलन\V_VM तो\PR_PRL ओहनी\N_NN दुनो\QT_QTC के\PSP फिनो\CC_CCD नीन\N_NN आ\V_VM गेल\V_VAUX ।\RD_PUNC
+msd585	एकरा\DM_DMD बाद\PSP दुनो\QT_QTC परी\N_NN ओहनी\PR_PRP के\PSP पलंग\N_NN अदला\N_NN -\RD_PUNC बदला\N_NN करके\V_VM राजा\N_NN के\PSP लड़का\N_NN के\PSP ओही\DM_DMD जंगल\N_NN में\PSP आन\V_VM के\V_VAUX ओहिजे\DM_DMD पलंग\N_NN रख\V_VM देलन\V_VAUX जहाँ\PR_PRL सिपाही\N_NN लोग\N_NN पहरा\N_NN देइत\V_VM हलन\V_VAUX ।\RD_PUNC
+msd586	सबरे\N_NN लड़का\N_NN उठल\V_VM तो\PR_PRL लड़की\N_NN के\PSP न\RP_NEG देखलक\V_VM ।\RD_PUNC
+msd587	ऊ\PR_PRP ``\RD_PUNC हाय\RP_INJ बलकी\N_NNP कुमारी\N_NNP ,\RD_PUNC हाय\RP_INJ बलकी\N_NNP कुमारी\N_NNP ``\RD_PUNC कहके\V_VM चिल्लाय\V_VAUX लगल\V_VAUX ।\RD_PUNC
+msd588	सिपाही\N_NN लोग\N_NN देखइत\V_VM हथ\V_VAUX कि\CC_CCS पलंग\N_NN दुसर\QT_QTO हे\V_VM आउ\CC_CCD एकर\PR_PRP अँगुठियो\N_NN दुसर\QT_QTO हे\V_VM ।\RD_PUNC
+msd589	लड़का\N_NN कहलक\V_VM कि\CC_CCS हम\PR_PRP जब\PR_PRL सादी\N_NN करब\V_VM तो\PR_PRL ओही\DM_DMD लड़की\N_NN ``\RD_PUNC बलकी\N_NNP कुमारी\N_NNP ``\RD_PUNC से\PSP करब\V_VM ।\RD_PUNC
+msd59	देख\V_VM ला\V_VAUX लाल\JJ गमछाह\N_NN हई\V_VM ।\RD_PUNC
+msd590	एने\DM_DMD जब\PR_PRL लड़की\N_NN के\PSP नीन\N_NN टूटल\V_VM आउ\CC_CCD लड़का\N_NN के\PSP न\RP_NEG देखलक\V_VM तऽ\CC_CCS ``\RD_PUNC हाय\RP_INJ अहेरी\N_NNP कुमारा\N_NN ,\RD_PUNC हाय\RP_INJ अहेरी\N_NNP कुमार\N_NNP ``\RD_PUNC कहके\V_VM रोवे\V_VAUX लगल\V_VAUX ।\RD_PUNC
+msd591	सबे\QT_QTF लोग\N_NN देखके\V_VM कहलन\V_VM कि\CC_CCS लड़की\N_NN पगला\N_NN गेल\V_VM हे\V_VAUX ।\RD_PUNC
+msd592	बाकि\CC_CCD एकरा\DM_DMD बाद\PSP देखइत\V_VM हथ\V_VAUX कि\CC_CCS पलंग\N_NN दुसर\QT_QTO हे\V_VAUX आउ\CC_CCD हाथ\N_NN में\PSP अँगूठी\N_NN भी\RP_RPD दूसर\QT_QTO हे\V_VM ।\RD_PUNC
+msd593	तब\PR_PRL लड़की\N_NN बोलल\V_VM कि\CC_CCS जब\PR_PRL हम\PR_PRP बिआह\N_NN करब\V_VM तो\PR_PRL ``\RD_PUNC अहेरी\N_NNP कुमार\N_NNP ``\RD_PUNC से\PSP ही\RP_RPD करब\V_VM ।\RD_PUNC
+msd594	दुनो\QT_QTC दने\N_NN के\PSP राजा\N_NN ही\RP_RPD से\PSP नउवा\N_NN -\RD_PUNC ब्राह्मन\N_NN लड़का\N_NN -\RD_PUNC लड़की\N_NN खोजे\V_VM निकलन\V_VAUX कि\CC_CCS अहेरी\N_NNP कुमार\N_NNP कहवाँ\PR_PRQ के\PSP लड़का\N_NN हे\V_VM आउ\CC_CCD बलकी\N_NN कुमारी\N_NNP कहवाँ\PR_PRQ के\PSP लड़की\N_NN हे\V_VM ।\RD_PUNC
+msd595	अगर\CC_CCS पता\N_NN चल\V_VM जाय\V_VAUX तो\PR_PRL दुनो\QT_QTC के\PSP बिआह\N_NN हो\V_VM जायत\V_VAUX ।\RD_PUNC
+msd596	खोजइत\V_VM -\RD_PUNC खोजइत\V_VM थकल\V_VM -\RD_PUNC पिआसल\V_VM दुनो\QT_QTC दने\N_NN के\PSP नउवा\N_NN -\RD_PUNC ब्राह्मन\N_NN एके\QT_QTC जगह\N_NN पर\PSP जुट\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd597	दुनो\QT_QTC दने\N_NN से\PSP पुछा-पाछी\V_VM होवे\V_VAUX लगल\V_VAUX तो\PR_PRL सबहे\QT_QTF हाल\N_NN मालूम\V_VM हो\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd598	सब\QT_QTF के\PSP बड़\RP_INTF खुसी\JJ भेल\V_VM आउ\CC_CCD ओही\DM_DMD जगह\N_NN पर\PSP गनना-मनना\V_VM कैल\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd599	निश्चित\JJ समय\N_NN पर\PSP लड़का\N_NN -\RD_PUNC लड़की\N_NN के\PSP बिआह\N_NN भे\V_VM गेल\V_VAUX ।\RD_PUNC
+msd6	रानी\N_NN चुप्पे\RB उठ\V_VM गेलई\V_VAUX आउ\CC_CCD रसोईघर\N_NN मे\PSP जाके\V_VM एक\QT_QTC थारी\N_NN में\PSP छवो\QT_QTC रस\N_NN के\PSP भोजन\N_NN लेलकई\V_VM आउ\CC_CCD बाहर\N_NN चल\V_VM गेलई\V_VAUX ।\RD_PUNC
+msd60	नाच\N_NN खतम\N_NN होते\V_VM झट\RB वजीर\N_NN खटिया\N_NN तर\PSP आन\V_VM के\V_VAUX पड़\V_VM रहल\V_VAUX ।\RD_PUNC
+msd600	लड़का\N_NN रोसगद्दी\N_NN कराके\V_VM लड़की\N_NN के\PSP अपने\PR_PRP घरे\N_NN ले\V_VM अयलक\V_VAUX आउ\CC_CCD खुसी\V_VAUX में\PSP रह\V_VM के\V_VAUX राज-पाट\N_NN चलावे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd601	﻿दइतिन\N_NN बहिन\N_NN के\PSP करमात\N_NN
+msd602	उनका\PR_PRP एगो\QT_QTC बेटा\N_NN हल\V_VM ।\RD_PUNC
+msd603	जब\PR_PRL बेटा\N_NN छव\QT_QTC -\RD_PUNC सात\QT_QTC साल\N_NN के\PSP हो\V_VM गेल\V_VAUX तब\PR_PRL पढ़े\V_VM ला\PSP पाठसाला\N_NN में\PSP जाय\V_VM लगल\V_VAUX ।\RD_PUNC
+msd604	फिनो\CC_CCD राजा\N_NN के\PSP एगो\QT_QTC दइतिन\N_NN लड़की\N_NN जनम\N_NN लेलक\V_VM ।\RD_PUNC
+msd605	जब\PR_PRL राजा\N_NN के\PSP एकर\DM_DMD जानकारी\N_NN भेल\V_VM तऽ\CC_CCS ऊ\PR_PRP अप्पन\PR_PRP बेटा\N_NN के\PSP कहलन\V_VM कि\CC_CCS तू\PR_PRP जा\V_VM के\PSP लड़की\N_NN के\PSP तलबार\N_NN से\PSP मूँड़ी\N_NN काट\V_VM दे\V_VAUX ।\RD_PUNC
+msd606	बेटा\N_NN तलवार\N_NN लेके\V_VM मूँड़ी\N_NN काटे\V_VM चलल\V_VAUX तब\PR_PRL माय\N_NN बोलल\V_VM -\RD_PUNC तोरा\PR_PRP हम\PR_PRP जनमउली\V_VM हे\V_VAUX आउ\CC_CCD एकरा\DM_DMD हमर\PR_PRP कोख\N_NN से\PSP का\PR_PRQ जनम\N_NN न\RP_NEG भेल\V_VM हे\V_VAUX ।\RD_PUNC
+msd607	बेटा\N_NN उहाँ\DM_DMD से\PSP लौट\N_NN के\PSP चल\V_VM आयल\V_VAUX आउ\CC_CCD बाप\N_NN के\PSP पास\N_NST सब\QT_QTF हाल\N_NN कहलक\V_VM ।\RD_PUNC
+msd608	राजा\N_NN सुनलन\V_VM तो\PR_PRL एँड़ी\N_NN के\PSP लहर\N_NN कपार\N_NN पर\PSP चढ़\V_VM गेल\V_VAUX तुरत\N_NN तलवार\N_NN उठाके\V_VM लड़की\N_NN के\PSP मूँडी\N_NN काटे\V_VM चललन\V_VAUX तब\PR_PRL रानी\N_NN देख\V_VM के\V_VAUX कहलन\V_VAUX कि\CC_CCS अब\RB हम\PR_PRP कउन\PR_PRQ उपाय\N_NN करूँ\V_VM ।\RD_PUNC
+msd609	राजा\N_NN से\PSP रानी\N_NN कहलन\V_VM -\RD_PUNC पहिले\QT_QTO लड़की\N_NN के\PSP सूरत\N_NN देख\V_VM लेई\V_VAUX ।\RD_PUNC
+msd61	दैत्य\N_NN आउ\CC_CCD रानी\N_NN खटिया\N_NN पर\PSP बइठलन\N_NN आउ\CC_CCD खटिया\N_NN उड़ल\V_VM ।\RD_PUNC
+msd610	जब\PR_PRL गोदी\N_NN में\PSP लेके\V_VM लड़की\N_NN के\PSP सूरत\N_NN निहारलन\V_VM तो\PR_PRL मोह\JJ आ\V_VM गेल\V_VAUX आउ\CC_CCD लड़की\N_NN के\PSP छोड़\V_VM देलन\V_VAUX ।\RD_PUNC
+msd611	जब\PR_PRL लड़की\N_NN जवान\N_NN हो\V_VM गेल\V_VAUX तो\PR_PRL सहर\N_NN के\PSP सब\QT_QTF लोग\N_NN के\PSP पारा-पारी\RB खाय\V_VM लगल\V_VAUX ।\RD_PUNC
+msd612	लोग\N_NN डर\N_NN के\PSP मारे\V_VM भागे\V_VAUX लगलन\V_VAUX ।\RD_PUNC
+msd613	राजा\N_NN के\PSP सम्पत्ति\N_NN ओरा\N_NN देलक\V_VM ।\RD_PUNC
+msd614	घोड़सार\N_NN के\PSP सबहे\QT_QTF घोड़ा\N_NN ,\RD_PUNC सबहे\QT_QTF जनावर\N_NN के\PSP खा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd615	एक\QT_QTC दिन\N_NN सोचलक\V_VM कि\CC_CCS ई\DM_DMI बाप\N_NN के\PSP भी\RP_RPD काहे\CC_CCS न\RP_NEG खा\V_VM जाऊँ\V_VAUX कि\CC_CCS हम्मर\PR_PRP राज-पाट\N_NN हो\V_VM जाय\V_VAUX ।\RD_PUNC
+msd616	एही\DM_DMD सोचके\V_VM एक\QT_QTC दिन\N_NN दइतिन\N_NN राजा\N_NN के\PSP दरबार\N_NN में\PSP बइठले\V_VM में\PSP जाके\V_VM खा\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd617	परजा\N_NN लोग\N_NN देखके\V_VM भाग\V_VM चललन\V_VAUX ।\RD_PUNC
+msd618	एकरा\DM_DMD बाद\PSP अप्पन\PR_PRP माय\N_NN के\PSP भी\RP_RPD खा\V_VM गेल\V_VAUX ।\RD_PUNC
+msd619	दइतिन\N_NN लड़की\N_NN सब\QT_QTF के\PSP खा\V_VM के\V_VAUX निश्चिन्त\JJ होके\V_VM बाहर\N_NST के\PSP बचल-खुचल\N_NN अमदी\N_NN के\PSP खाय\V_VM लगल\V_VAUX ।\RD_PUNC
+msd62	लाल\JJ गमछा\N_NN के\PSP बात\N_NN होइते\V_VM हल\V_VAUX कि\CC_CCS खटिया\N_NN दैत्य\N_NN के\PSP महल\N_NN में\PSP आ\V_VM गिरल\V_VAUX ।\RD_PUNC
+msd620	फिर\CC_CCD सोचलक\V_VM कि\CC_CCS भइयो\N_NN के\PSP भी\RP_RPD काहे\CC_CCS न\RP_NEG खा\V_VM जाऊँ\V_VAUX कि\CC_CCS एकदम\RP_INTF निफिकरे\RB होके\V_VM कुलेल\V_VAUX करब\V_VAUX ।\RD_PUNC
+msd621	एक\QT_QTC दिन\N_NN जब\PR_PRL ओकर\PR_PRP भाई\N_NN पढ़\V_VM के\V_VAUX रस्ता\N_NN में\PSP आवइत\V_VM हल\V_VAUX तो\PR_PRL एगो\QT_QTC बुढ़िया\N_NN कहलक\V_VM कि\CC_CCS ``\RD_PUNC भागा\V_VM जा\V_VAUX बबुआा\N_NN ,\RD_PUNC न\RP_NEG तो\PR_PRL तोहरो\PR_PRP बहिन\N_NN तोहरो\PR_PRP खा\V_VM जतबऽ\V_VAUX ।\RD_PUNC
+msd622	सभे\QT_QTF के\PSP तो\PR_PRL खाइये\V_VM गेल्थुन\V_VAUX ।\RD_PUNC
+msd623	लड़का\N_NN के\PSP विसवास\N_NN न\RP_NEG भेल\V_VM ।\RD_PUNC
+msd624	घरे\N_NN आयल\V_VM तो\PR_PRL ओकर\PR_PRP बहिन\N_NN नस्ता\N_NN करे\V_VM ला\PSP रोटी\N_NN दे\V_VM देलक\V_VAUX आउ\CC_CCD सहर\N_NN में\PSP अदमी\N_NN के\PSP खाय\V_VM गेल\V_VAUX आउ\CC_CCD ओने\DM_DMD से\PSP खाके\V_VM आयल\V_VAUX तो\PR_PRL ओकरो\PR_PRP खाय\V_VM ला\PSP सोचलक\V_VM ।\RD_PUNC
+msd625	एकरा\PR_PRP में\PSP दमे\N_NN का\PR_PRQ हे\V_VM ।\RD_PUNC
+msd626	जब\PR_PRL लड़का\N_NN नस्ता\N_NN करइत\V_VM हल\V_VAUX तो\PR_PRL एगो\QT_QTC मूस\N_NN निकल\V_VM के\V_VAUX कहलक\V_VAUX कि\CC_CCS ए\RP_INJ राजा\N_NN के\PSP लड़का\N_NN तू\PR_PRP निफिकिरे\RB बइठ\V_VM के\V_VAUX नस्ता\N_NN करइत\V_VM हऽ\V_VAUX बाकि\CC_CCD तोर\PR_PRP परान\N_NN न\RP_NEG बचतवऽ\V_VM ।\RD_PUNC
+msd627	तोहर\PR_PRP बहिन\N_NN अभी\RB सहर\N_NN के\PSP अदमी\N_NN के\PSP खाय\V_VM गेलथुन\V_VAUX हे\V_VAUX आउ\CC_CCD आके\V_VM तोहरा\PR_PRP खा\V_VM जथुन\V_VAUX ।\RD_PUNC
+msd628	एकरे\N_NN पर\PSP लड़का\N_NN कहलक\V_VM -\RD_PUNC ए\RP_INJ भाई\N_NN ,\RD_PUNC तऽ\CC_CCS हमर\PR_PRP जान\N_NN बचे\V_VM के\PSP कोई\PR_PRI उपाय\N_NN न\RP_NEG हे\V_VM ।\RD_PUNC
+msd629	तूँ\PR_PRP एतना\QT_QTF बतवले\V_VM तो\PR_PRL ऐहू\N_NN बताव\V_VM ।\RD_PUNC
+msd63	रानी\N_NN के\PSP आवे\V_VM के\V_VAUX बेरा\N_NN हो\V_VM गेलई\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd630	मुस\N_NN कहलक\V_VM कि\CC_CCS ``\RD_PUNC तोहर\PR_PRP बाप\N_NN के\PSP कोठरी\N_NN में\PSP एगो\QT_QTC घोड़ा\N_NN के\PSP ताला\N_NN बंद\N_NN करके\V_VM रखल\V_VAUX हवऽ\V_VAUX ।\RD_PUNC
+msd631	ओकर\PR_PRP चाभी\N_NN ताखा\N_NN पर\PSP रखल\V_VM हवऽ\V_VAUX ।\RD_PUNC
+msd632	देखऽ\V_VM अगर\CC_CCS ऊ\PR_PRP बचइत\V_VM होवे\V_VAUX तो\PR_PRL तु\PR_PRP भाग\V_VM जा\V_VAUX सकऽ\V_VAUX हऽ\V_VAUX ।\RD_PUNC
+msd633	ऊ\PR_PRP तुरत\RB नस्ता\N_NN छोड़के\V_VM गेल\V_VAUX आउ\CC_CCD ताला\N_NN खोल\V_VM के\V_VAUX घोड़ा\N_NN पर\PSP सवार\N_NN होके\V_VM भाग\V_VAUX चलल\V_VAUX ।\RD_PUNC
+msd634	एतने\N_NN बीच\N_NN में\PSP दइतिन\N_NN आयल\V_VM आउ\CC_CCD भाई\N_NN के\PSP न\RP_NEG देखलक\V_VM तो\PR_PRL सगरो\RB खोजलक\V_VM बाकि\CC_CCD कनहूँ\RB न\RP_NEG देखाई\V_VM परल\V_VAUX तो\PR_PRL सतमंजिला\N_NN छत\N_NN पर\PSP चढ़के\V_VM देखलक\V_VAUX कि\CC_CCS ऊ\PR_PRP भाग\V_VM जाइत\V_VAUX हे\V_VAUX तो\PR_PRL ऊ\PR_PRP भी\RP_RPD पीछे\N_NST -\RD_PUNC पीछे\N_NST पकड़े\V_VM खातिर\PSP दउड़ल\V_VM बाकि\CC_CCD पकड़ा\V_VM न\RP_NEG सकल\V_VM ।\RD_PUNC
+msd635	एकरे\N_NN पर\PSP दइतिन\N_NN कहलक\V_VM कि\CC_CCS जो\V_VM -\RD_PUNC जो\V_VM तू\PR_PRP कहां\PR_PRQ जयवे\V_VM ।\RD_PUNC
+msd636	फिन\CC_CCD तो\PR_PRL अयवे\V_VM करवें\V_VAUX ।\RD_PUNC
+msd637	राजा\N_NN के\PSP लड़का\N_NN एगो\QT_QTC भारी\JJ जंगल\N_NN में\PSP पहुँचलन\V_VM आउ\CC_CCD घोड़ा\N_NN के\PSP एगो\QT_QTC बड़का\JJ गो\RP_CL बड़\JJ के\PSP पेड़\N_NN के\PSP नीचे\N_NST छोड़\V_VM देलन\V_VAUX आउ\CC_CCD कहलन\V_VM कि\CC_CCS ए\DM_DMD घोड़ा\N_NN ,\RD_PUNC तूँ\PR_PRP एगो\QT_QTC जगुन\N_NN चर-चुर\V_VM के\V_VAUX अप्पन\PR_PRP जीवन\N_NN ।\RD_PUNC
+msd638	﻿दइतिन\N_NN बहिन\N_NN के\PSP करमात\N_NN बीतइहऽ\V_VM ।\RD_PUNC
+msd639	बारह\QT_QTC बरीस\N_NN आसा-पुराई\N_NN देख\V_VM के\V_VAUX अप्पन\PR_PRP परान\N_NN छोड़\V_VM दीहऽ\V_VAUX ।\RD_PUNC
+msd64	बाकि\CC_CCD दैत्य\N_NN फेर\RB लाल\JJ गमछा\N_NN के\PSP इयाद\N_NN करावे\V_VM लाल\V_VM तलगुत\RB वजीर\N_NN के\PSP मौका\N_NN मिलल\V_VM आओ\RD_UNK घुसुक\RB के\PSP घर\N_NN से\PSP वाहर\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd640	एतना\QT_QTF कहके\V_VM राजा\N_NN के\PSP लड़का\N_NN पैदले\N_NN जंगल\N_NN में\PSP चल\V_VM देलन\V_VAUX ।\RD_PUNC
+msd641	चलइत-चलइत\V_VM जंगल\N_NN में\PSP एगो\QT_QTC कुटिया\N_NN देखाई\V_VM पड़ल\V_VAUX ।\RD_PUNC
+msd642	ऊ\PR_PRP कुटिया\N_NN में\PSP कोई\PR_PRI चीज\N_NN के\PSP कमी\N_NN नऽ\RP_NEG हल\V_VM ।\RD_PUNC
+msd643	ऊ\PR_PRP कुटिया\N_NN में\PSP भगवान\N_NN के\PSP हार\N_NN भेजल\V_VM समझके\V_VAUX खाय\V_VAUX -\RD_PUNC पीये\V_VAUX आउ\CC_CCD रहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd644	एक\QT_QTC दिन\N_NN कुटिया\N_NN के\PSP दुहारी\N_NN पर\PSP एगो\QT_QTC सियार\N_NN आन\V_VM के\V_VAUX बइठ\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd645	साधुजी\N_NN जब\PR_PRL भोजन\N_NN कयलन\V_VM तब\PR_PRL सियार\N_NN के\PSP भी\RP_RPD देलन\V_VM ।\RD_PUNC
+msd646	सियार\N_NN के\PSP बढ़ियाँ\JJ भोजन\N_NN मिलल\V_VM तो\PR_PRL ओहीं\DM_DMD पर\PSP रहे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd647	सियार\N_NN रोज\RB -\RD_PUNC रोज\RB साधुजी\N_NN से\PSP भोजन\N_NN पावे\V_VM लाल\V_VAUX आउ\CC_CCD खा\V_VM -\RD_PUNC खा\V_VM के\PSP मोटा\JJ गेल\V_VM ।\RD_PUNC
+msd648	एक\QT_QTC दिन\N_NN सियारा\N_NN जंगल\N_NN में\PSP घुमे-फिरे\V_VM गेल\V_VAUX तो\PR_PRL ओकरा\PR_PRP मोटा\JJ -\RD_PUNC ताजा\JJ देख\V_VM के\V_VAUX एगो\QT_QTC बाघ\N_NN पुछलक\V_VM कि\CC_CCS अयँ\RP_INJ सियार\N_NN भाई\N_NN ,\RD_PUNC तूँ\PR_PRP एतना\QT_QTF मोटा\JJ -\RD_PUNC ताजा\JJ कइसे\PR_PRQ हो\V_VM गेले\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd649	ऊ\PR_PRP मोटाय\N_NN के\PSP सब\QT_QTF हाल\N_NN सुनउलक\V_VM ।\RD_PUNC
+msd65	रानी\N_NN से\PSP अगड़िए\N_NST आन\V_VM के\V_VAUX ऊ\PR_PRP पलंग\N_NN पर\PSP पड़\V_VM रहल\V_VAUX ।\RD_PUNC
+msd650	सुनके\V_VM बाघ\N_NN कहलक\V_VM कि\CC_CCS हमहुँ\PR_PRP बाबाजी\N_NN भीर\PSP रहब\V_VM ।\RD_PUNC
+msd651	एकरे\N_NN पर\PSP सियरा\N_NN कहलक\V_VM -\RD_PUNC ना\RP_NEG दादा\N_NN ,\RD_PUNC बाबा\N_NN के\PSP तूँ\PR_PRP खा\V_VM जयबें\V_VAUX तो\PR_PRL फिर\CC_CCD हमरो\PR_PRP तकलीफ\JJ होयत\V_VM ।\RD_PUNC
+msd652	बाघ\N_NN बड़ी\JJ कसम\N_NN खयलक\V_VM तब\PR_PRL सियार\N_NN ओकरा\PR_PRP साथे\PSP लेके\V_VM चलल\V_VAUX ।\RD_PUNC
+msd653	ओहनी\PR_PRP कुटिया\N_NN भिर\PSP पहुँचलन\V_VM तो\PR_PRL सियार\N_NN कहलक\V_VM -\RD_PUNC पहिले\RB हम\PR_PRP बाबा\N_NN से\PSP पुछले\V_VM आव\V_VAUX हिया\V_VAUX ।\RD_PUNC
+msd654	बाबा\N_NN जइसन\RP_RPD कहथुन\V_VM ओइसन\RP_RPD हम\PR_PRP करबउ\V_VM ।\RD_PUNC
+msd655	जब\PR_PRL सियार\N_NN बाबा\N_NN से\PSP पूछे\V_VM लगल\V_VAUX तो\PR_PRL बाघ\N_NN कुटिया\N_NN के\PSP पीछे\N_NST सुने\V_VM लगल\V_VAUX ।\RD_PUNC
+msd656	सियार\N_NN बाबा\N_NN से\PSP सब\QT_QTF हाल\N_NN कहलक\V_VM तो\PR_PRL बाबा\N_NN बाघ\N_NN के\PSP रहे\V_VM खातिर\PSP हुकम\N_NN दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd657	दुनों\QT_QTC बाबा\N_NN के\PSP कुटी\N_NN भिरू\PSP रहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd658	कुछ\QT_QTF दिन\N_NN बीतला\V_VM के\PSP बाद\PSP बाघ\N_NN सियार\N_NN से\PSP कहलक\V_VM कि\CC_CCS साधु\N_NN बाबा\N_NN के\PSP बनावे\V_VM -\RD_PUNC खाय\V_VM में\PSP बड़ी\JJ तकलीफ\JJ होबऽ\V_VM हइन\V_VAUX ।\RD_PUNC
+msd659	इनका\PR_PRP हमनी\PR_PRP सादी\N_NN -\RD_PUNC विआह\N_NN करा\V_VM देतिअइन\V_VAUX हल\V_VAUX तो\PR_PRL अच्छा\JJ हलइ\V_VM ।\RD_PUNC
+msd66	भेल\V_VM बिहान\N_NN रानी\N_NN घर\N_NN के\PSP काम-काज\N_NN में\PSP लग\V_VM गेलई\V_VAUX आओ\CC_CCD दुनु\QT_QTC इयार\N_NN नदी\N_NN किछारे\N_NN जा\V_VM के\V_VAUX राय\N_NN कयलन\V_VM कि\CC_CCS कल्हे\N_NN के\PSP तरह\RB आजो\N_NN तू\PR_PRP गमछा\N_NN माँगिहँऽ\V_VM ।\RD_PUNC
+msd660	एही\DM_DMD सोच\N_NN के\V_VM रात\N_NN में\PSP खा\V_VM -\RD_PUNC पीके\V_VM दूनो\QT_QTC चल\V_VM देलन\V_VAUX ।\RD_PUNC
+msd661	जाइत\V_VM -\RD_PUNC जाइत\V_VM ओहनी\PR_PRP राजा\N_NN के\PSP एगो\QT_QTC महल\N_NN में\PSP पहुंचलन\V_VM ।\RD_PUNC
+msd662	राजा\N_NN अपन\PR_PRP लड़की\N_NN के\PSP रहे\V_VM ला\PSP एगो\QT_QTC अलग\RB महल\N_NN बना\V_VM देलन\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd663	रात\N_NN -\RD_PUNC दिन\N_NN लड़की\N_NN ओकरे\PR_PRP में\PSP रहऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd664	कनहुँ\RB से\PSP ओकरा\PR_PRP में\PSP आवे\V_VM -\RD_PUNC जाय\V_VM के\PSP रस्ता\N_NN ना\RP_NEG हल\V_VM बाकि\CC_CCD एगो\QT_QTC लोहा\N_NN के\PSP छड़\N_NN के\PSP बड़का\JJ गो\RP_CL फाटक\N_NN बनल\V_VM हल\V_VAUX ।\RD_PUNC
+msd665	दूनों\QT_QTC ओहजे\DM_DMD पहुँचलन\V_VM ।\RD_PUNC
+msd666	फिन\CC_CCD सगरो\RB घूम-फिर\V_VM के\V_VAUX देखलन\V_VAUX तो\PR_PRL कनहुँ\RB से\PSP घुसे\V_VM के\PSP राह\N_NN ना\RP_NEG मिलल\V_VM ।\RD_PUNC
+msd667	फिन\CC_CCD बाघ\N_NN खिड़की\N_NN के\PSP छड़\N_NN के\PSP गते\RB -\RD_PUNC गते\RB ममोर\V_VM के\V_VAUX सियार\N_NN के\PSP जाय\N_NN भर\PSP जगह\N_NN बनवलक\V_VM आउ\CC_CCD सियार\N_NN से\PSP कहलक\V_VM कि\CC_CCS तुँ\PR_PRP घुसके\V_VM फाटक\N_NN के\PSP किल्ली\N_NN खोल\V_VM दीहें\V_VAUX ।\RD_PUNC
+msd668	सियार\N_NN घुसलक\V_VM आउ\CC_CCD किल्ली\N_NN खोल\V_VM देलक\V_VAUX तब\PR_PRL बाघ\N_NN भी\RP_RPD घुसल\V_VM ।\RD_PUNC
+msd669	देखइत\V_VM हे\V_VAUX कि\CC_CCS राजा\N_NN के\PSP एगो\QT_QTC खुब\RP_INTF सुन्नर\JJ लड़की\N_NN सुतल\V_VM हे\V_VAUX ।\RD_PUNC
+msd67	राजा\N_NN घरे\N_NN आन\V_VM के\V_VAUX गमछा\N_NN माँगलक\V_VM तो\PR_PRL वजीर\N_NN लाके\V_VM देखा\V_VAUX देलक\V_VAUX ।\RD_PUNC
+msd670	बाघ\N_NN सोचलक\V_VM कि\CC_CCS कइसे\PR_PRQ एकरा\DM_DMD ले\V_VM चलूँ\JJ ।\RD_PUNC
+msd671	अगर\CC_CCS जगा\V_VM के\V_VAUX ले\V_VAUX चलब\V_VAUX तो\PR_PRL डर\N_NN के\PSP मारे\N_NN मरजायत\V_VM ।\RD_PUNC
+msd672	एही\DM_DMD तरह\RP_RPD छव\QT_QTC -\RD_PUNC पाँच\QT_QTC करके\V_VM पलंग\N_NN सहित\PSP लड़की\N_NN के\PSP पीठ\N_NN पर\PSP उठाके\V_VM ले\V_VM चलल\V_VAUX ।\RD_PUNC
+msd673	जाइत\V_VM -\RD_PUNC जाइत\V_VM बीच\N_NST जगल\N_NN में\PSP लड़की\N_NN के\PSP नीन\N_NN टूट\V_VM गेल\V_VAUX तऽ\CC_CCS देखलक\V_VM कि\CC_CCS बाघ\N_NN पलंग\N_NN सहित\PSP हमरा\PR_PRP पीठ\N_NN पर\PSP ले\V_VM जाइत\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd674	डर\N_NN के\PSP मारे\V_VM ओकर\PR_PRP खुन\N_NN सुख\V_VM गेल\V_VAUX ।\RD_PUNC
+msd675	बाकि\CC_CCD अलचारे\RP_INJ बेचारी\JJ का\PR_PRQ करइत\V_VM हल\V_VAUX ।\RD_PUNC
+msd676	फिनो\CC_CCD आँख\N_NN मुंद\V_VM के\V_VAUX सूत\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd677	बाघ\N_NN जा\V_VM के\V_VAUX साधु\N_NN बाबा\N_NN के\PSP बगल\N_NN में\PSP ओकरा\PR_PRP रख\V_VM देलक\V_VAUX ।\RD_PUNC
+msd678	बाबा\N_NN के\PSP नीन\N_NN दूटल\V_VM तब\PR_PRL देखलन\V_VM कि\CC_CCS एगो\QT_QTC खुब\RP_INTF सुन्नर\JJ लड़की\N_NN पलंग\N_NN पर\PSP नीन\N_NN से\PSP सुतल\V_VM हे\V_VAUX ।\RD_PUNC
+msd679	एकरा\DM_DMD बाद\PSP लड़की\N_NN के\PSP भी\RP_RPD नीन\N_NN टूटल\V_VM ।\RD_PUNC
+msd68	रानी\N_NN ई\DM_DMI देख\V_VM के\V_VAUX मन\N_NN मै\PSP सोचलक\V_VM कि\CC_CCS आज\N_NN भँडुए\N_NN के\PSP जना\V_VM के\V_VAUX पूछबै\V_VM ।\RD_PUNC
+msd680	फिन\CC_CCD बाबा\N_NN आउ\CC_CCD लड़की\N_NN में\PSP बात-चीत\V_VM होयल\V_VAUX तऽ\CC_CCS सारा\JJ हाल\N_NN मालूम\V_VM भेल\V_VAUX ।\RD_PUNC
+msd681	दूनों\QT_QTC में\PSP परेम\N_NN भे\V_VM गेल\V_VAUX ।\RD_PUNC
+msd682	बाबा\N_NN तुरंते\RB समझ\N_NN गेलन\V_VM कि\CC_CCS ई\DM_DMI सब\QT_QTF करनी\V_VM बघवे\N_NN के\PSP हे\V_VM ।\RD_PUNC
+msd683	बाघ\N_NN के\PSP बोला\V_VM के\V_VAUX बाबा\N_NN खिसिअयलन\V_VM कि\CC_CCS जहवाँ\DM_DMR से\PSP लैले\V_VM हें\V_VAUX उहवाँ\DM_DMR तुरन्त\RB पहुँचा\V_VM आव\V_VAUX ।\RD_PUNC
+msd684	एकरे\N_NN बीच\N_NN लड़की\N_NN के\PSP फिन\CC_CCD नीन\N_NN आ\V_VM गेल\V_VAUX ।\RD_PUNC
+msd685	तुरंते\RB बाघ\N_NN बाबा\N_NN के\PSP डरे\N_NN लड़की\N_NN के\PSP पहुंचा\V_VM देलक\V_VAUX आउ\CC_CCD चल\V_VM आयल\V_VAUX ।\RD_PUNC
+msd686	तब\PR_PRL सियार\N_NN कहलक\V_VM कि\CC_CCS हम\PR_PRP कहइत\V_VM हलिअउ\V_VAUX ना\RP_NEG कि\CC_CCS बाबा\N_NN खिसिअथुन\V_VM ।\RD_PUNC
+msd687	﻿इहाँ\DM_DMD लड़की\N_NN के\PSP अप्पन\PR_PRP महल\N_NN में\PSP नीन\N_NN टुटल\V_VM तो\PR_PRL ``\RD_PUNC हाय\RP_INJ साधु\N_NN बाबा\N_NN ,\RD_PUNC हाय\RP_INJ साघु\N_NN बाबा\N_NN ``\RD_PUNC कहके\V_VM रोवे\V_VAUX लगल\V_VAUX आउ\CC_CCD चिल्लावे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd688	ओकरा\PR_PRP कोई\PR_PRI पता\N_NN -\RD_PUNC ठेकाना\N_NN ना\RP_NEG मिलल\V_VM हल\V_VAUX ।\RD_PUNC
+msd689	जब\PR_PRL राजा\N_NN के\PSP मालुम\N_NN भेल\V_VM कि\CC_CCS लड़की\N_NN के\PSP फाटक\N_NN खुला\V_VM हे\V_VAUX आउ\CC_CCD लड़की\N_NN ``\RD_PUNC हाय\RP_INJ साघु\N_NN बाबा\N_NN ``\RD_PUNC कहके\V_VM चिल्लाइत\V_VAUX हे\V_VAUX तब\PR_PRL सभे\QT_QTF लोग\N_NN सुनके\V_VM कहे\V_VAUX लगलन\V_VAUX कि\CC_CCS लड़की\N_NN पगला\N_NN गेल\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd69	रात\N_NN हो\V_VM गेला\V_VAUX पर\PSP रोज\N_NN के\PSP तरह\RB रानी\N_NN देत्य\N_NN भीर\PSP गेल\V_VM ।\RD_PUNC
+msd690	बाकि\CC_CCD लड़की\N_NN कहलक\V_VM कि\CC_CCS जब\PR_PRL हम\PR_PRP सादी\N_NN -\RD_PUNC बिआह\N_NN करब\V_VM तो\PR_PRL ऊ\PR_PRP साधु\N_NN बाबा\N_NN से\PSP ही\RP_RPD करब\V_VM ।\RD_PUNC
+msd691	राजा\N_NN साधु\N_NN बाबा\N_NN के\PSP खोजे\V_VM ला\PSP नउआ\N_NN ब्राह्मण\N_NN के\PSP भेजलन\V_VM ।\RD_PUNC
+msd692	नउआ\N_NN ब्राह्मण\N_NN ढेर\QT_QTF दिन\N_NN के\PSP बाद\PSP खोजइत\V_VM -\RD_PUNC खोजइत\V_VM ओही\DM_DMD जगह\N_NN पहुँचलन\V_VM जहाँ\PR_PRL जंगल\N_NN में\PSP साधु\N_NN बाबा\N_NN के\PSP साथे\PSP बाघ\N_NN आउ\CC_CCD सियार\N_NN रहऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd693	दूनों\QT_QTC डरइत\V_VM -\RD_PUNC डरइत\V_VM ऊहाँ\DM_DMD गेलन\V_VM ।\RD_PUNC
+msd694	देखइत\V_VM हथ\V_VAUX कि\CC_CCS एगो\QT_QTC साधु\N_NN बाबा\N_NN आसन\N_NN पर\PSP बइठल\V_VM हथ\V_VAUX ।\RD_PUNC
+msd695	जाके\V_VM दुनों\N_NN जानी\N_NN दंड\N_NN -\RD_PUNC परनाम\N_NN कयलन\V_VM ।\RD_PUNC
+msd696	साधु\N_NN बाबा\N_NN बइठे\V_VM ला\PSP आसन\N_NN देलन\V_VM ।\RD_PUNC
+msd697	एकर\DM_DMD बाद\PSP पुछा\V_VM -\RD_PUNC पुछी\V_VM होवे\V_VAUX लगल\V_VAUX ।\RD_PUNC
+msd698	सबहे\QT_QTF हाल\N_NN मालुम\V_VM हो\V_VAUX गेल\V_VAUX ।\RD_PUNC
+msd699	पहिले\N_NST तो\PR_PRL साधु\N_NN बाबा\N_NN बिआह\N_NN करे\V_VM खातिर\PSP नाहिं\RP_NEG -\RD_PUNC छाहिं\RD_UNK कयलन\V_VM ।\RD_PUNC
+msd7	वजीर\N_NN जे\PR_PRL लड़का\N_NN ई\DM_DMI सब\QT_QTF देखके\V_VM रानी\N_NN के\PSP पीछे-पीछे\RB चलल\V_VM ।\RD_PUNC
+msd70	वजीर\N_NN पीछे\N_NN से\PSP जाके\V_VM झगड़ा\N_NN के\PSP डरे\N_NN दुहारिए\N_NN पर\PSP से\PSP सब\QT_QTF तमाशा\N_NN देखे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd700	बाद\RB में\PSP फिर\RB तइयार\N_NN हो\V_VM गेलन\V_VAUX आउ\CC_CCD कहलन\V_VM कि\CC_CCS विआह\N_NN एही\DM_DMD सर्त\N_NN पर\PSP करब\V_VM कि\CC_CCS बाघ\N_NN भी\RP_RPD साथे\PSP -\RD_PUNC साथे\PSP जायत\V_VM ।\RD_PUNC
+msd701	ई\DM_DMI सर्त\N_NN पर\PSP साधु\N_NN बाबा\N_NN के\PSP बिआह\N_NN ओही\DM_DMD लड़की\N_NN से\PSP हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd702	बाघ\N_NN भी\RP_RPD ओहीं\DM_DMD पर\PSP रहे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd703	बाघ\N_NN ला\PSP एगो\QT_QTC पिंजड़ा\N_NN बनावल\V_VM गेल\V_VAUX जेकरा\PR_PRL से\PSP गाँव-गिराँव\N_NN के\PSP अदमी\N_NN के\PSP घोखा\N_NN न\RP_NEG दे\V_VM सके\V_VAUX ।\RD_PUNC
+msd704	पिजड़े\N_NN में\PSP बाघ\N_NN के\PSP खाना\N_NN -\RD_PUNC खोराक\N_NN मिल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd705	कुछ\QT_QTF दिन\N_NN के\PSP बाद\PSP राजा\N_NN के\PSP इयाद\N_NN पड़ल\N_NN कि\CC_CCS जरा\N_NN हम\PR_PRP अप्पन\PR_PRP घरे\N_NN जइती\V_VM हल\V_VAUX ।\RD_PUNC
+msd706	तब\PR_PRL ससुर\N_NN कहलन\V_VM -\RD_PUNC बबुआ\N_NN एहु\DM_DMD तो\PR_PRL तोर\PR_PRP राज-पाट\N_NN हवऽ\V_VM बाकि\CC_CCD जा\V_VM ,\RD_PUNC फिन\CC_CCD चल\V_VM अइहऽ\V_VAUX ।\RD_PUNC
+msd707	राजा\N_NN के\PSP दमाद\N_NN उहवाँ\DM_DMD से\PSP बोरा\N_NN के\PSP बोरा\N_NN ढेर\QT_QTF मानी\RP_CL किसमिस\N_NN लेके\V_VM चल\V_VAUX देलन\V_VAUX आउ\CC_CCD उहाँ\DM_DMD पर\PSP पहुंचलन\V_VM जहाँ\PR_PRL पर\PSP घोड़ा\N_NN के\PSP छोड़\V_VM अयलन\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd708	बारह\QT_QTC बरस\N_NN में\PSP ठीक\JJ एक\QT_QTC दिन\N_NN बाकी\N_NN हल\V_VM ।\RD_PUNC
+msd709	घोड़ा\N_NN अप्पन\PR_PRF परान\N_NN तेयागे\N_NN ला\PSP चारों\QT_QTC टीगं\N_NN ऊपर\N_NN करके\V_VM चीत\N_NN पड़ल\V_VM हल\V_VAUX ।\RD_PUNC
+msd71	रानी\N_NN जा\V_VM के\V_VAUX झडुआवे\V_VM लागल\V_VAUX तो\PR_PRL देत्य\N_NN समझोलक\V_VM कि\CC_CCS कल\N_NN फिनो\CC_CCD बिसनुलोक\N_NN में\PSP चलके\V_VM देख\V_VAUX ले\V_VAUX ।\RD_PUNC
+msd710	परान\N_NN छोड़इत\V_VM हल\V_VAUX कि\CC_CCS ओइसहिं\RB जाके\V_VM राजा\N_NN घोड़ा\N_NN के\PSP कान\N_NN में\PSP कुछ\QT_QTF कहलन\V_VM ।\RD_PUNC
+msd711	अप्पन\PR_PRP मालिक\N_NN के\PSP बोली\N_NN सुनते\V_VM ही\RP_RPD घोड़ा\N_NN के\PSP कहवाँ\PR_PRQ से\PSP ताकत\N_NN आ\V_VM गेल\V_VAUX कि\CC_CCS फुरफुरा\RB के\PSP उठल\V_VM ।\RD_PUNC
+msd712	जइसहीं\PR_PRL घोड़ा\N_NN उठल\N_NN ओइसहीं\PR_PRL राजा\N_NN घोड़ा\N_NN के\PSP खाय\V_VM ला\PSP किसमिस\N_NN के\PSP बोरा\N_NN खोल\V_VM देलन\V_VAUX ।\RD_PUNC
+msd713	घोड़ा\N_NN खाय\V_VM के\V_VAUX मस्त\JJ हो\V_VM गेल\V_VAUX आउ\CC_CCD उहवाँ\DM_DMD से\PSP अप्पन\PR_PRP राज\N_NN में\PSP जाय\V_VM के\V_VAUX सब\QT_QTF तइयारी\N_NN कर\V_VM देलन\V_VAUX ।\RD_PUNC
+msd714	जाइत\V_VM -\RD_PUNC जाइत\V_VM राजा\N_NN जब\PR_PRL अप्पन\PR_PRP राज\N_NN मे\PSP पहुँचलन\V_VM तब\PR_PRL अगल-बगल\N_NST के\PSP गाँव\N_NN के\PSP लोग\N_NN कहलन\V_VM कि\CC_CCS ई\DM_DMI राह\N_NN से\PSP मत\RP_NEG जा\V_VM बाबू\N_NNP ।\RD_PUNC
+msd715	ई\DM_DMI राह\N_NN में\PSP एगो\QT_QTC दइतिन\N_NN सब\QT_QTF के\PSP खा\V_VM जाहे\V_VAUX ।\RD_PUNC
+msd716	से\CC_CCD ओने\N_NN कोई\PR_PRI लोग\N_NN ना\RP_NEG जाय\V_VM ।\RD_PUNC
+msd717	राजा\N_NN क\PSP लड़का\N_NN कहलन\V_VM कि\CC_CCS अप्पन\PR_PRP घर\N_NN -\RD_PUNC दुआरी\N_NN भी\RP_RPD छोड़\V_VM दीहीं\V_VAUX ।\RD_PUNC
+msd718	ऊ\PR_PRP केकरो\PR_PRI बात\N_NN ना\RP_NEG मानलन\V_VM ।\RD_PUNC
+msd719	घरे\N_NN अयलन\V_VM तो\PR_PRL उनकर\PR_PRP दइतिन\N_NN बहिन\N_NN बड़ी\RP_INTF खुस\JJ होयल\V_VM आउ\CC_CCD मन\N_NN में\PSP कहे\V_VM लगल\V_VAUX कि\CC_CCS तहिना\DM_DMD तो\PR_PRL नतिया\N_NN के\PSP बेटा\N_NN भाग\V_VM गेल\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd72	कोइ\PR_PRI तरह\RB से\PSP सांत\N_NN होके\V_VM रात\N_NN बीत\V_VM गेल\V_VAUX ।\RD_PUNC
+msd720	अबकी\RB कहाँ\PR_PRQ जायत\V_VM ।\RD_PUNC
+msd721	एही\DM_DMD से\PSP ओकरा\PR_PRP कहाँ\PR_PRQ उठाऊँ\V_VM ,\RD_PUNC कहाँ\PR_PRQ बइठाऊँ\V_VM खुब\RP_INTF स्वागत\N_NN कयलक\V_VM ।\RD_PUNC
+msd722	पूड़ी\N_NN पका\V_VM के\V_VAUX नस्ता\N_NN करेला\V_VM देलक\V_VAUX आउ\CC_CCD एगो\QT_QTC ढोलक\N_NN देलक\V_VM कि\CC_CCS लऽ\V_VM बबुआ\N_NN एकरा\DM_DMD बजावइत\V_VM रहिहँऽ\V_VAUX ।\RD_PUNC
+msd723	हम\PR_PRP आवइत\V_VM हिया\V_VAUX ।\RD_PUNC
+msd724	इतना\QT_QTF कहके\V_VM दइतिन\N_NN उनकर\PR_PRP घोड़ा\N_NN के\PSP मार\V_VM के\V_VAUX चीर\V_VAUX -\RD_PUNC फाड़\V_VAUX के\V_VAUX खाय\V_VAUX लगल\V_VAUX ।\RD_PUNC
+msd725	ढोलक\N_NN के\PSP अवाज\N_NN मिलइत\V_VM रहे\V_VM ।\RD_PUNC
+msd726	से\CC_CCD दइतिन\N_NN के\PSP मालुम\N_NN होइत\V_VM हल\V_VAUX कि\CC_CCS अभी\RB भइवा\N_NN नस्ता\N_NN करइत\V_VM हे\V_VAUX ,\RD_PUNC जेकरा\PR_PRL से\PSP खूब\QT_QTF मस्त\RB होके\V_VM खाइत\V_VM हल\V_VAUX ।\RD_PUNC
+msd727	एकरे\DM_DMD बीच\N_NST में\PSP एगो\QT_QTC बिलाई\N_NN आके\V_VM राजा\N_NN के\PSP लड़का\N_NN से\PSP कहलक\V_VM कि\CC_CCS तूँ\PR_PRP बड़ी\RP_INTF मौज\RB से\PSP पूड़ी\N_NN खाइत\V_VM हऽ\V_VAUX राजा\N_NN ,\RD_PUNC बाकि\CC_CCD तोर\PR_PRP जान\N_NN अब\RB तुरत\RB चल\V_VM जतवऽ\V_VAUX ।\RD_PUNC
+msd728	देखऽ\V_VM तोर\PR_PRP बहिन\N_NN तोर\PR_PRP घोड़ा\N_NN के\PSP चीर\V_VM -\RD_PUNC फाड़\V_VM के\V_VAUX खाइत\V_VAUX हवऽ\V_VAUX आउ\CC_CCD ढोलक\N_NN बजइत\V_VM रहइत\V_VAUX तक\RP_RPD आनन्द\RB से\PSP खतवऽ\V_VM ।\RD_PUNC
+msd729	ओकरा\PR_PRP पता\N_NN चलइत\V_VM रहतई\V_VAUX कि\CC_CCS भइवा\N_NN अभी\RB नस्ता\N_NN करइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd73	रानी\N_NN घर\N_NN अयलई\V_VM ।\RD_PUNC
+msd730	राजा\N_NN के\PSP लड़का\N_NN पूछलक\V_VM कि\CC_CCS हमरा\PR_PRP बचे\V_VM के\V_VAUX का\PR_PRQ उपाय\N_NN हे\V_VM ।\RD_PUNC
+msd731	बिलाई\N_NN बोलल\V_VM कि\CC_CCS अब\RB भागे\N_NN बिना\PSP कोई\PR_PRI दुसर\QT_QTO उपाय\N_NN नऽ\RP_NEG हे\V_VM ।\RD_PUNC
+msd732	लावऽ\V_VM ।\RD_PUNC
+msd733	﻿एक\QT_QTC दिन\N_NN एगो\QT_QTC गोबरचुन्नी\N_NN आन\V_VM के\V_VAUX राजा\N_NN से\PSP कहलक\V_VM कि\CC_CCS लीलकंठ\JJ राजा\N_NN के\PSP हम\PR_PRP चिरारी\N_NN पर\PSP घुरइत\V_VM -\RD_PUNC फिरइत\V_VM देखली\V_VAUX हे\V_VAUX बाकि\CC_CCD कोई\PR_PRI अदमी\N_NN -\RD_PUNC जन\N_NN नऽ\RP_NEG रहे\V_VM तब\PR_PRL ।\RD_PUNC
+msd734	एकरे\DM_DMD पर\PSP लीलकंठ\N_NNP के\PSP अउरत\N_NN कहलक\V_VM कि\CC_CCS ई\DM_DMI तगो\N_NN मजाक\N_NN बुझाहत\V_VM हे\V_VAUX ।\RD_PUNC
+msd735	फिन\CC_CCD गोबरचुन्नी\N_NN कहलक\V_VM कि\CC_CCS जा\V_VM के\V_VAUX देखहुन\V_VAUX कातो\CC_CCD हम\PR_PRP झूठो\N_NN कहइत\V_VM हिवऽ\V_VAUX ।\RD_PUNC
+msd736	रानी\N_NN ओही\DM_DMD जगह\N_NN जाके\V_VM एगो\QT_QTC पीपर\N_NN के\PSP खोड़रा\N_NN में\PSP छुपके\V_VM बइठ\V_VAUX गेलन\V_VAUX ।\RD_PUNC
+msd737	देखइत\V_VM हथ\V_VAUX कि\CC_CCS दूगो\QT_QTC परी\N_NN दू\QT_QTC परात\N_NN मिठाई\N_NN लेके\V_VM अयलन\V_VAUX आउ\CC_CCD लीलकेंठ\N_NNP घुरइत\V_VM -\RD_PUNC फिरइत\V_VM हथ\V_VAUX ।\RD_PUNC
+msd738	जब\PR_PRL परी\N_NN लोग\N_NN अयलन\V_VM तो\PR_PRL खटिया\N_NN पर\PSP बइठ\V_VM गेलन\V_VAUX फिन\CC_CCD लीलकंठ\N_NNP पृछलन\V_VM कि\CC_CCS दू\QT_QTC परात\N_NN में\PSP मिठाई\N_NN काहे\CC_CCS लागी\PSP लावलऽ\V_VM हे\V_VAUX ।\RD_PUNC
+msd739	एकरे\DM_DMD पर\PSP परी\N_NN लोग\N_NN कहलन\V_VM कि\CC_CCS एगो\QT_QTC तोहर\N_NN अउरत\N_NN हथुन\V_VM ,\RD_PUNC ओही\DM_DMD लागी\PSP लवली\V_VM हे\V_VAUX ।\RD_PUNC
+msd74	वजीर\N_NN आउ\CC_CCD राजा\N_NN भी\RP_RPD नदी\N_NN किछारे\N_NN आन\V_VM के\V_VAUX बेकुँठ\N_NN चले\V_VM के\V_VAUX परोगराम\N_NN बनौलक\V_VM ।\RD_PUNC
+msd740	ऊ\PR_PRP पीपर\N_NN के\PSP खोड़रा\N_NN में\PSP लुकायल\V_VM हथुन\V_VAUX ।\RD_PUNC
+msd741	जाके\V_VM लीलकेंठ\N_NNP राजा\N_NN देखइत\V_VM हथ\V_VAUX कि\CC_CCS ठीके\N_NN में\PSP नऽ\RP_NEG ऊ\PR_PRP बइठल\V_VM हथ\V_VAUX ।\RD_PUNC
+msd742	पुछलन\V_VM कि\CC_CCS तूँ\PR_PRP इहवाँ\DM_DMD काहे\CC_CCS ला\PSP अयलऽ\V_VM हे\V_VAUX ।\RD_PUNC
+msd743	कउन\PR_PRQ दुख\N_NN -\RD_PUNC तकलीफ\N_NN भेल\V_VM ।\RD_PUNC
+msd744	रानी\N_NN कहलन\V_VM कि\CC_CCS हमरा\PR_PRP बड़ी\JJ दुख\N_NN -\RD_PUNC तकलीफ\N_NN हे\V_VM ।\RD_PUNC
+msd745	अपने\PR_PRP के\PSP माय\N_NN हमरा\PR_PRP खाय\V_VM -\RD_PUNC पीय\V_VM लागी\PSP भी\RP_RPD नऽ\RP_NEG देथ\V_VM ।\RD_PUNC
+msd746	राजा\N_NN से\PSP सबहे\QT_QTF दुखड़ा\N_NN कह\V_VM सुनवलन\V_VAUX ।\RD_PUNC
+msd747	राजा\N_NN कहलन\V_VM तूँ\PR_PRP घरे\N_NN जा\V_VM ।\RD_PUNC
+msd748	हम\PR_PRP रोज\RB तोरा\PR_PRP खाय\V_VM -\RD_PUNC पीय\V_VM ला\PSP ऊहईं\DM_DMD कोठरी\N_NN में\PSP पहुंचा\V_VM देबव\V_VAUX ।\RD_PUNC
+msd749	रानी\N_NN घरे\N_NN चल\V_VM अयलनऽ\V_VAUX ।\RD_PUNC
+msd75	दुसर\QT_QTO रात\N_NN रानी\N_NN दत्य\N_NN के\PSP पास\N_NST गेल\V_VM आउ\CC_CCD बजार\N_NN मी\PSP चुपके\RB से\PSP जाके\V_VM खटिया\N_NN तर\PSP सुत\V_VM रहल\V_VAUX ।\RD_PUNC
+msd750	राजा\N_NN लीलकंठ\N_NNP रोज\RB रानी\N_NN के\PSP खाय\V_VM -\RD_PUNC पीय\V_VM ला\PSP रात\N_NN के\PSP रात\N_NN पहुँचा\V_VM देय\V_VAUX ।\RD_PUNC
+msd751	ऊ\PR_PRP दूनो\QT_QTC ऐस-मौज\N_NN रात\N_NN भर\RP_RPD करथ\V_VM आउ\CC_CCD भोर\N_NN में\PSP चल\V_VM जाथ\V_VAUX ।\RD_PUNC
+msd752	रोज\N_NN -\RD_PUNC के\PSP -\RD_PUNC रोज\N_NN पान\N_NN खा\V_VM के\V_VAUX दुहारी\N_NN के\PSP केवाड़ी\N_NN पर\PSP पान\N_NN के\PSP पीक\N_NN फेंक\V_VM देथ\V_VAUX ।\RD_PUNC
+msd753	राजा\N_NN के\PSP माय\N_NN ई\DM_DMI सब\QT_QTF देख\V_VM के\V_VAUX अछरंग\N_NN लगवे\V_VM लगलन\V_VAUX कि\CC_CCS राड़ी\N_NN कउन\PR_PRQ के\PSP ना\RP_NEG कउन\PR_PRQ के\PSP संगे\PSP बोला\V_VM के\V_VAUX रहऽ\V_VAUX हेय\V_VAUX ।\RD_PUNC
+msd754	ऊ\PR_PRP बेचारी\N_NN चुपचाप\RB सुनइत\V_VM रहे\V_VAUX ।\RD_PUNC
+msd755	जब\PR_PRL रानी\N_NN के\PSP गरभ\N_NN रह\V_VM गेल\V_VAUX तब\PR_PRL रानी\N_NN के\PSP सास\N_NN आउ\CC_CCD ओरहाना\N_NN देवे\V_VM लगलन\V_VAUX कि\CC_CCS कइसन\PR_PRQ कुरहनी\N_NN आयल\V_VM कि\CC_CCS हम्मर\PR_PRP खनदान\N_NN के\PSP भी\RP_RPD नसले\V_VM हेय\V_VAUX ।\RD_PUNC
+msd756	ऊ\PR_PRP रोज\N_NN थू\N_NN -\RD_PUNC थू\N_NN करथ\V_VM ।\RD_PUNC
+msd757	जब\PR_PRL नौवाँ\QT_QTO महीना\N_NN बीतल\V_VM आउ\CC_CCD लइका\N_NN पैदा\N_NN होवे\V_VM ला\PSP होयल\V_VM तो\PR_PRL इन्द्र\N_NNP महाराज\N_NNP इन्द्रासन\N_NN से\PSP परी\N_NN के\PSP चमइन\N_NN बोलावे\V_VM ला\PSP भेजलन\V_VM ।\RD_PUNC
+msd758	ओही\DM_DMD चमइन\N_NN आन\V_VM के\V_VAUX नार-पुरइन\N_NN काटलक\V_VM ।\RD_PUNC
+msd759	जब\PR_PRL लीलकंठ\N_NNP राजा\N_NN के\PSP माय\N_NN देखलन\V_VM कि\CC_CCS लड़का\N_NN के\PSP नार-पुरइन\N_NN कट\V_VM गेल\V_VAUX तो\PR_PRL खूब\QT_QTF कोहराम\N_NN मचवलन\V_VM ।\RD_PUNC
+msd76	दत्य\N_NN आउ\CC_CCD रानी\N_NN खटिया\N_NN पर\PSP बठ\N_NN के\PSP खटिया\N_NN उड़वौलक\V_VM आउ\CC_CCD पलक\N_NN मारते\V_VM बिसुनलोक\N_NN में\PSP पहुँच\V_VM गेल\V_VAUX ।\RD_PUNC
+msd760	एकरे\DM_DMD पर\PSP चमइन\N_NN कहलक\V_VM कि\CC_CCS काहे\CC_CCS ला\PSP एतना\QT_QTF करइत\V_VM हें\V_VAUX ।\RD_PUNC
+msd761	अपने\PR_PRP के\PSP बेटा\N_NN तो\PR_PRL रोज\RB आवऽ\V_VM हथ\V_VAUX ।\RD_PUNC
+msd762	रानी\N_NN सुनलन\V_VM तो\PR_PRL कहलन\V_VM कि\CC_CCS अगे\RP_INJ चमइनियाँ\N_NN राड़ी\N_NN ,\RD_PUNC हमरा\PR_PRP से\PSP तूँ\PR_PRP ठठा\N_NN करइत\V_VM हेय\V_VAUX ।\RD_PUNC
+msd763	हम्मर\PR_PRP बेटा\N_NN मर\V_VM गेल\V_VAUX हेय\V_VAUX तऽ\CC_CCS आवत\V_VM कहवाँ\PR_PRQ से\PSP ।\RD_PUNC
+msd764	चमइन\N_NN कहल\V_VM कि\CC_CCS अपने\PR_PRP के\PSP बेटा\N_NN लीलकंठ\N_NNP राजा\N_NN इन्द्रासन\N_NN के\PSP तबलची\N_NN हथ\V_VM ।\RD_PUNC
+msd765	अगर\CC_CCS अपने\PR_PRP नऽ\RP_NEG पतिआइत\V_VM हिया\V_VAUX तऽ\CC_CCS आज\N_NN देख\V_VM लेव\V_VAUX ।\RD_PUNC
+msd766	लीलकंठ\N_NNP के\PSP माय\N_NN आज\N_NN रात\N_NN के\PSP देखलक\V_VM कि\CC_CCS ठीके\N_NN में\PSP हम्मर\PR_PRP बेटा\N_NN आवऽ\V_VM हथ\V_VAUX ।\RD_PUNC
+msd767	माय\N_NN जा\V_VM के\PSP बेटा\N_NN के\PSP भर\RP_RPD अँकवार\N_NN पकड़\V_VM लेलन\V_VAUX ।\RD_PUNC
+msd768	तो\PR_PRL लीलकंठ\N_NNP राजा\N_NN कहलन\V_VM कि\CC_CCS हम\PR_PRP तोहर\N_NN बेटा\N_NN अब\RB नऽ\RP_NEG हियउ\V_VM ।\RD_PUNC
+msd769	हम्मर\PR_PRP बेटा\N_NN के\PSP ही\RP_RPD तूँ\PR_PRP अप्पन\PR_PRP बेटा\N_NN समझ\V_VM ।\RD_PUNC
+msd77	दैत्य\N_NN बिसुन\N_NNP भग्वान\N_NN से\PSP कहलक\V_VM सरकार\N_NN लालपरी\N_NN मृतुभुवन\N_NN में\PSP अदमी\N_NN से\PSP परेम\N_NN करऽ\V_VM हथ\V_VAUX ।\RD_PUNC
+msd770	एक\QT_QTC दिन\N_NN लीलकंठ\N_NNP राजा\N_NN अप्पन\PR_PRP अउरत\N_NN से\PSP कहलन\V_VM कि\CC_CCS हमरा\PR_PRP रखे\V_VM के\PSP मन\N_NN हवऽ\V_VM तो\PR_PRL जऊन\N_NN दिन\N_NN लड़का\N_NN के\PSP छठीहार\N_NN होयत\V_VM ओही\DM_DMD दिन\N_NN इन्द्रासन\N_NN के\PSP परी\N_NN लोग\N_NN आउ\CC_CCD इन्द्र\N_NN महाराज\N_NN अवतन\V_VM ।\RD_PUNC
+msd771	तूँ\PR_PRP लड़का\N_NN के\PSP खुब\RP_INTF चुट्टी\N_NN काट\V_VM के\V_VAUX रोबइहँऽ\V_VAUX ।\RD_PUNC
+msd772	जब\PR_PRL लड़का\N_NN रोवत\V_VM तो\PR_PRL इन्द्र\N_NNP महराज\N_NNP कहतथुन\V_VM कि\CC_CCS लड़का\N_NN काहे\CC_CCS ला\PSP रोवइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd773	एकरे\DM_DMD पर\PSP तूँ\PR_PRP कहिहऽ\V_VM कि\CC_CCS लड़का\N_NN अप्पन\PR_PRP बाप\N_NN लागी\PSP रोवइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd774	इहेंतरह\RB से\PSP जब\PR_PRL तीन\QT_QTC बार\N_NN करवऽ\V_VM तो\PR_PRL इन्द्र\N_NNP महराज\N_NN कहतथुन\V_VM कि\CC_CCS एकर\PR_PRP बाप\N_NN कहवाँ\PR_PRQ हथुन\V_VM ।\RD_PUNC
+msd775	तो\PR_PRL सभे\QT_QTF कह\V_VM देथुन\V_VAUX कि\CC_CCS एही\DM_DMD लीलकंठ\N_NNP राजा\N_NN हथ\V_VM ।\RD_PUNC
+msd776	तब\PR_PRL एकरे\DM_DMD पर\PSP इन्द्र\N_NNP महराज\N_NNP खुश\JJ होके\V_VM हमरा\PR_PRP रहे\V_VM लागी\PSP कह\V_VM देथुन\V_VAUX ।\RD_PUNC
+msd777	तब\PR_PRL हम\PR_PRP ओही\DM_DMD दिन\N_NN से\PSP तोरा\PR_PRP साथे\PSP रहे\V_VM लगवऽ\V_VAUX ।\RD_PUNC
+msd778	﻿राजकुमार\N_NN आउ\CC_CCD मयनावती\N_NNP रानी\N_NN जब\PR_PRL छठीहार\N_NN के\PSP दिन\N_NN आयल\V_VM तो\PR_PRL इन्द्र\N_NNP महाराज\N_NNP आउ\CC_CCD बहुत\QT_QTF मानी\RP_CL परी\N_NN लोग\N_NN दान\N_NN -\RD_PUNC दहेज\N_NN लेके\V_VM अयलन\V_VAUX ।\RD_PUNC
+msd779	इहाँ\DM_DMD भी\RP_RPD खाय\V_VM -\RD_PUNC पीय\V_VM ला\PSP सगरो\RB नेवता\N_NN चल\V_VM गेल\V_VAUX हलऽ\V_VAUX ।\RD_PUNC
+msd78	परमान\N_NN में\PSP लाल\JJ गमछा\N_NN माँगल\V_VM जाय\V_VAUX ।\RD_PUNC
+msd780	से\CC_CCD सभे\QT_QTF लोग\N_NN अयलन\V_VM ।\RD_PUNC
+msd781	खूब\QT_QTF घूम-धाम\N_NN से\PSP छठीहार\N_NN मनावल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd782	लीलकंठ\N_NNP महाराज\N_NNP के\PSP कहे\V_VM मोताबिक\RB रानी\N_NN लड़का\N_NN के\PSP चुट्टी\N_NN ।\RD_PUNC
+msd783	काटे\V_VM लगलन\V_VAUX तो\PR_PRL लड़का\N_NN रोवे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd784	एकरे\N_NN पर\PSP इन्द्र\N_NNP महराज\N_NNP कहलन\V_VM कि\CC_CCS लड़का\N_NN काहे\CC_CCS ला\PSP रोवइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd785	एकरे\DM_DMD पर\PSP कहलन\V_VM कि\CC_CCS लड़का\N_NN अप्पन\PR_PRP बाप\N_NN लागी\PSP रोवइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd786	इन्द्र\N_NNP महराज\N_NNP कहलन\V_VM कि\CC_CCS लड़का\N_NN के\PSP बाप\N_NN केने\PR_PRQ हे\V_VAUX ।\RD_PUNC
+msd787	परी\N_NN लोग\N_NN कहलन\V_VM कि\CC_CCS ईका\DM_DMD लीलकंठ\N_NNP राजा\N_NN एकर\PR_PRP बाप\N_NN हथ\V_VM ।\RD_PUNC
+msd788	इन्द्र\N_NNP महाराज\N_NNP लीलकंठ\N_NNP राजा\N_NN के\PSP रानी\N_NN आउ\CC_CCD लड़का\N_NN के\PSP साथे\PSP रहे\V_VM ला\PSP हुकुम\N_NN दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd789	ओही\DM_DMD दिन\N_NN से\PSP लीलकंठ\N_NNP राजा\N_NN अप्पन\PR_PRP माय\N_NN -\RD_PUNC बाप\N_NN आउ\CC_CCD रानी\N_NN के\PSP साथ\PSP मजे\N_NN में\PSP रहे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd79	लाल\JJ गमछा\N_NN लाल\JJ परी\N_NN से\PSP बिसुन\N_NNP भगवान\N_NN माँगलथिन\V_VM तब\PR_PRL लालपरी\N_NN तबलची\N_NN से\PSP माँगे\V_VM लगलई\V_VAUX ।\RD_PUNC
+msd790	राजकुमार\N_NN आउ\CC_CCD मयनावती\N_NNP ,\RD_PUNC मक्खन\N_NN के\PSP दलदल\N_NN आउ\CC_CCD मक्खी\N_NN के\PSP पहाड़\N_NN ।\RD_PUNC
+msd791	मुरगी\N_NN मार\V_VM देलक\V_VAUX लात\N_NN ,\RD_PUNC गिर\V_VM गेल\V_VAUX सहर\N_NN गुजरात\N_NN ।\RD_PUNC
+msd792	एगो\QT_QTC कोई\PR_PRI राजा\N_NN हलन\V_VM ।\RD_PUNC
+msd793	राजा\N_NN रोसगदी\N_NN कराके\V_VM जब\PR_PRL अप्पन\PR_PRP राजमहल\N_NN में\PSP अयलन\V_VM आउ\CC_CCD महल\N_NN में\PSP सूते\N_NN लागी\PSP गेलन\V_VM तो\PR_PRL पलंग\N_NN पर\PSP जइसहीं\PR_PRL एक\QT_QTC लात\N_NN रखइत\V_VM हथ\V_VAUX कि\CC_CCS रानी\N_NN ठठा\RB के\PSP हँस\V_VM देलक\V_VAUX ।\RD_PUNC
+msd794	तुरत\N_NN राजा\N_NN अप्पन\PR_PRP गोड़\N_NN पलंग\N_NN से\PSP भुइयाँ\N_NN पर\PSP रख\V_VM देलन\V_VAUX आउ\CC_CCD रानी\N_NN से\PSP पुछलन\V_VM कि\CC_CCS तूँ\PR_PRP का\PR_PRQ बात\N_NN ला\PSP हँसलऽ\V_VM हे\V_VAUX ।\RD_PUNC
+msd795	सेकर\PR_PRL कारण\N_NN बतलावऽ\V_VM ।\RD_PUNC
+msd796	रानी\N_NN कहलक\V_VM कि\CC_CCS हम\PR_PRP अइसही\RP_RPD हँसली\V_VM हे\V_VAUX ,\RD_PUNC कुछो\PR_PRI बात\N_NN नऽ\RP_NEG हे\V_VM ।\RD_PUNC
+msd797	राजा\N_NN कहलन\V_VM कि\CC_CCS ए\DM_DMD में\PSP जरूर\RB कोई\PR_PRI बात\N_NN हे\V_VM ।\RD_PUNC
+msd798	रानी\N_NN एकरे\DM_DMD पर\PSP कहलक\V_VM कि\CC_CCS जा\V_VM नऽ\RP_NEG तोरा\PR_PRP तो\PR_PRL मयनावती\N_NNP से\PSP बिआह\N_NN होइत\V_VM हवऽ\V_VAUX ।\RD_PUNC
+msd799	एतना\QT_QTF सुन\V_VM के\PSP राजा\N_NN तुरंत\N_NN घोड़ा\N_NN के\PSP अस्तबल\N_NN में\PSP गेलेन\V_VM आउ\CC_CCD खोल\V_VM के\PSP घोड़ा\N_NN पर\PSP सवार\N_NN हो\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd8	रानी\N_NN के\PSP देखलक\V_VM कि\CC_CCS ऊ\PR_PRP बीच\JJ जंगल\N_NN में\PSP एगो\QT_QTC दैत्य\N_NN के\PSP घर\N_NN गेलई\V_VM ।\RD_PUNC
+msd80	तबलची\N_NN कहकई\V_VM कि\CC_CCS तू\PR_PRP हमरा\PR_PRP कल्ह\N_NN कुछो\PR_PRI नञु\RP_NEG देले\V_VM है\V_VAUX ।\RD_PUNC
+msd800	उहवाँ\DM_DMD से\PSP मयनावती\N_NNP रानी\N_NN के\PSP खोज\N_NN ला\PSP चल\V_VM देलन\V_VAUX ।\RD_PUNC
+msd801	कहलन\V_VM कि\CC_CCS जब\PR_PRL तक\RP_RPD हम\PR_PRP मयनावती\N_NNP रानी\N_NN से\PSP बिआह\N_NN नऽ\RP_NEG करब\V_VM तब\PR_PRL तक\RP_RPD राज\N_NN में\PSP नऽ\RP_NEG लौटब\V_VM ।\RD_PUNC
+msd802	जाइत\V_VM -\RD_PUNC जाइत\V_VM राजा\N_NN एगो\QT_QTC भारी\N_NN जंगल\N_NN में\PSP पहुँच\V_VM गेलन\V_VAUX तो\PR_PRL देखइत\V_VM हथ\V_VAUX कि\CC_CCS एगो\QT_QTC कुटिया\N_NN बनल\V_VM हे\V_VAUX ।\RD_PUNC
+msd803	ओही\DM_DMD जगह\N_NN पर\PSP पक्का\N_NN के\PSP एगो\QT_QTC कुआँ\N_NN हे\V_VM ।\RD_PUNC
+msd804	ओकरा\DM_DMD पर\PSP बाल्टी\N_NN -\RD_PUNC डोरी\N_NN रखल\V_VM हे\V_VAUX ।\RD_PUNC
+msd805	राजा\N_NN के\PSP जोर\RB से\PSP पिआस\N_NN लगल\V_VM हल\V_VAUX ।\RD_PUNC
+msd806	जब\PR_PRL बाल्टी\N_NN -\RD_PUNC डोरी\N_NN कुआँ\N_NN में\PSP डाललन\V_VM आउ\CC_CCD पानी\N_NN घींचे\N_NN ला\PSP गयलन\V_VM तो\PR_PRL घिचयबे\V_VM ना\RP_NEG करे\V_VAUX ।\RD_PUNC
+msd807	एही\DM_DMD तरह\RP_RPD से\PSP राजा\N_NN के\PSP डोरी\N_NN -\RD_PUNC बाल्टी\N_NN धयले\V_VM सांझ\N_NN से\PSP भोर\N_NN हो\V_VM गेल\V_VAUX तो\PR_PRL कुआँ\N_NN में\PSP देखइत\V_VM हथ\V_VAUX कि\CC_CCS एगो\QT_QTC बड़ा\RP_INTF भारी\JJ अजगर\N_NN साँप\N_NN बाल्टी\N_NN के\PSP पकड़ले\V_VM हे\V_VAUX ।\RD_PUNC
+msd808	जब\PR_PRL दुनों\QT_QTC के\PSP नजर\N_NN मिलल\V_VM तइसहीं\PR_PRL सरप\N_NN कहलक\V_VM कि\CC_CCS हमरा\PR_PRP निकाल\V_VM दऽ\V_VAUX तो\PR_PRL तोरा\PR_PRP हम\PR_PRP काटब\V_VM -\RD_PUNC नऽ\RP_NEG आउ\CC_CCD इनाम\N_NN में\PSP एगो\QT_QTC चीज\N_NN देव\V_VM ।\RD_PUNC
+msd809	जब\PR_PRL राजा\N_NN अजगर\N_NN के\PSP निकाल\V_VM देलन\V_VAUX तो\PR_PRL अजगर\N_NN अप्पन\PR_PRP कुटिपा\N_NN में\PSP ले\V_VM गेल\V_VAUX आउ\CC_CCD कहलक\V_VM कि\CC_CCS हमरा\PR_PRP से\PSP तूँ\PR_PRP बरदान\N_NN माँगऽ\V_VM ।\RD_PUNC
+msd81	ई\DM_DMI बात\N_NN ।\RD_PUNC
+msd810	राजा\N_NN कहलन\V_VM कि\CC_CCS हमरा\PR_PRP कोई\PR_PRI चीज\N_NN के\PSP कमी\N_NN नऽ\RP_NEG हेय\V_VM ।\RD_PUNC
+msd811	बाकि\CC_CCD हमरा\PR_PRP मयनावती\N_NNP से\PSP बिआह\N_NN करा\V_VM दऽ\V_VAUX ।\RD_PUNC
+msd812	अजगर\N_NN कहलन\V_VM कि\CC_CCS इहाँ\DM_DMD से\PSP कुछ\QT_QTF दूर\N_NN पर\PSP एगो\QT_QTC आउ\CC_CCD जंगल\N_NN मिलतवऽ\V_VM ।\RD_PUNC
+msd813	ओही\DM_DMD जंगल\N_NN में\PSP एगो\QT_QTC साघु\N_NN तपस्या\N_NN करइत\V_VM हथ\V_VAUX ।\RD_PUNC
+msd814	उनकर\PR_PRP सरीर\N_NN में\PSP दीआँ\N_NN लगल\V_VM होतवऽ\V_VAUX ।\RD_PUNC
+msd815	उनकर\PR_PRP अँगाड़ी\N_NN में\PSP जा\V_VM के\V_VAUX खाड़ा\V_VM हा\V_VAUX जइहँऽ\V_VAUX तो\PR_PRL उनकर\PR_PRP ध्यान\N_NN टूट\V_VM जायत\V_VAUX ।\RD_PUNC
+msd816	फिन\CC_CCD जउन\PR_PRL चीज\N_NN माँगे\N_NN लागी\PSP होतवऽ\V_VAUX तउन\PR_PRL चीज\N_NN माँग\N_NN लीहऽ\V_VM ।\RD_PUNC
+msd817	अजार\N_NN एकरा\DM_DMD बाद\N_NN राजा\N_NN के\PSP अप्पन\PR_PRP जाँघ\N_NN चिरववलक\V_VM आउ\CC_CCD ओही\DM_DMD में\PSP अप्पन\PR_PRP मुँह\N_NN से\PSP मणि\N_NN उगिल\V_VM देलक\V_VAUX ।\RD_PUNC
+msd818	फिनो\CC_CCD एगो\QT_QTC जड़ी\N_NN से\PSP रगड़\V_VM देलक\V_VAUX तो\PR_PRL जाँघ\N_NN जइसन\RP_RPD हल\V_VM ओइसने\RP_RPD हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd819	अजगर\N_NN कहलक\V_VM कि\CC_CCS एकरा\DM_DMD से\PSP जउन\PR_PRL चीज\N_NN माँगवऽ\V_VM ओही\DM_DMD चीज\N_NN मिल\V_VM जतवऽ\V_VAUX आउ\CC_CCD जड़\N_NN दे\V_VM देलक\V_VAUX ।\RD_PUNC
+msd82	﻿पर\PSP दुनु\QT_QTC में\PSP बक-झक\N_NN हो\V_VM गेलई\V_VAUX ।\RD_PUNC
+msd820	﻿एकरा\DM_DMD बाद\PSP राजा\N_NN अजगर\N_NN से\PSP बिदा\V_VM लेके\V_VM साधु\N_NN के\PSP खोजे\V_VM ला\PSP चललन\V_VM ।\RD_PUNC
+msd821	जाइत\V_VM -\RD_PUNC जाइत\V_VM ओही\DM_DMD जंगल\N_NN में\PSP पहुँचलन\V_VM ,\RD_PUNC जहवाँ\PR_PRL पर\PSP साधुजी\N_NN रह\V_VM हलन\V_VAUX ।\RD_PUNC
+msd822	जाके\V_VM साधु\N_NN जी\N_NN के\PSP अँगाड़ी\N_NN में\PSP खड़ा\V_VM हो\V_VAUX गेलन\V_VAUX ।\RD_PUNC
+msd823	जब\PR_PRL साधु\N_NN जी\N_NN के\PSP ध्यान\N_NN टूटल\V_VM तो\PR_PRL कहलन\V_VM कि\CC_CCS बरदान\N_NN माँगो\V_VM बच्चा\N_NN ।\RD_PUNC
+msd824	साधु\N_NN जी\N_NN के\PSP तीन\QT_QTC -\RD_PUNC चार\QT_QTC बेर\N_NN कहला\V_VM पर\PSP राजा\N_NN बोललन\V_VM कि\CC_CCS हमरा\PR_PRP मयनावती\V_VM से\PSP बिआह\N_NN करवा\V_VM दीहीं\V_VAUX ।\RD_PUNC
+msd825	हमरा\PR_PRP धन\N_NN -\RD_PUNC दौलत\N_NN के\PSP काम\N_NN नऽ\RP_NEG है\V_VM ।\RD_PUNC
+msd826	साघु\N_NN जी\N_NN एगो\QT_QTC जड़ी\N_NN देलन\V_VM आउ\CC_CCD कहलन\V_VM कि\CC_CCS एकरा\DM_DMD अप्पन\PR_PRP कान\N_NN मे\PSP डाल\V_VM लेवें\V_VAUX तो\PR_PRL सुग्गा\N_NN हो\V_VM जयवें\V_VAUX आउ\CC_CCD निकाल\V_VM लेवें\V_VAUX तो\PR_PRL अदमी\N_NN बन\V_VM जयवें\V_VAUX ।\RD_PUNC
+msd827	एकरा\DM_DMD बाद\PSP मयनावती\N_NNP के\PSP पता\N_NN बता\V_VM देलन\V_VAUX ।\RD_PUNC
+msd828	राजा\N_NN सुग्गा\N_NN बन\V_VM के\V_VAUX मयनाबती\N_NNP के\PSP झरोखा\N_NN के\PSP राह\N_NN से\PSP चल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd829	उहवाँ\DM_DMD जाके\V_VM ऊ\PR_PRP अप्पन\PR_PRP कान\N_NN से\PSP जड़ी\N_NN निकाल\V_VM देलन\V_VAUX ,\RD_PUNC तइसहीं\PR_PRL ऊ\PR_PRP अदमी\N_NN हो\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd83	तू\PR_PRP भावान\N_NN के\PSP सामने\N_NST कसम\N_NN खाय\V_VM ला\V_VAUX तैयार\N_NN हो\V_VM गेलई\V_VAUX तब\PR_PRL बिसुन\N_NNP भगवान\N_NN कहलन\V_VM कि\CC_CCS नञु\RP_NEG अब\DM_DMD तू\PR_PRP मृतुभुवन\N_NN में\PSP जा\V_VM के\V_VAUX रहऽ\V_VAUX ।\RD_PUNC
+msd830	मैनावती\N_NNP आउ\CC_CCD राजा\N_NN ,\RD_PUNC दूनो\QT_QTC रात\N_NN -\RD_PUNC भर\RP_RPD अराम\N_NN कैलन\V_VM ।\RD_PUNC
+msd831	एही\DM_DMD तरह\RP_RPD दुनहुन\QT_QTC कई\QT_QTF रोज\N_NN ला\PSP रहलन\V_VM ।\RD_PUNC
+msd832	एक\QT_QTC दिन\N_NN मयनावती\N_NNP कहलक\V_VM कि\CC_CCS अइसे\RB चुपेचापे\N_NN रहे\V_VM से\PSP ठीक\N_NN न\RP_NEG होयत\V_VM ।\RD_PUNC
+msd833	तू\PR_PRP अप्पन\PR_PRP राज\N_NN में\PSP ले\V_VM चलऽ\V_VAUX ।\RD_PUNC
+msd834	उहाँ\DM_DMD बढ़िया\JJ होयत\V_VM ।\RD_PUNC
+msd835	राजा\N_NN -\RD_PUNC रानी\N_NN दुनो\QT_QTC सुग्गा\N_NN -\RD_PUNC सुग्गी\N_NN के\PSP रूप\N_NN बनौलन\V_VM आउ\CC_CCD रानी\N_NN राजा\N_NN के\PSP पीठ\N_NN पर\PSP उड़के\V_VM बइठ\V_VAUX गेलन\V_VAUX ।\RD_PUNC
+msd836	राजा\N_NN उड़\V_VM चललन\V_VAUX ।\RD_PUNC
+msd837	उड़इत\V_VM -\RD_PUNC उड़इत\V_VM साधु\N_NN जी\N_NN के\PSP भिरू\PSP पहुँचलन\V_VM तऽ\CC_CCS राजा\N_NN जड़ी\N_NN निकाले\V_VM ला\PSP भुल\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd838	से\CC_CCD ऊ\PR_PRP अदमी\N_NN के\PSP सकल\N_NN में\PSP न\RP_NEG होयलन\V_VM आउ\CC_CCD साधुओ\N_NN जी\N_NN के\PSP पास\N_NST अब\RB असली\N_NN जड़ी\N_NN न\RP_NEG हल\V_VM ।\RD_PUNC
+msd839	फिन\CC_CCD दूनो\QT_QTC उहाँ\DM_DMD से\PSP उड़इत\V_VM -\RD_PUNC उड़इत\V_VM अजगर\N_NN सरप\N_NN भीर\PSP चल\V_VM अयलन\V_VAUX तो\PR_PRL अजगर\N_NN कहलक\V_VM कि\CC_CCS तोरा\PR_PRP पास\N_NST हम\PR_PRP मनी\N_NN काहे\PR_PRQ ला\PSP देली\V_VM हल\V_VAUX ।\RD_PUNC
+msd84	इहाँ\DM_DMD तोरा\PR_PRP जाह\N_NN नञु\RP_NEG हई\V_VM ।\RD_PUNC
+msd840	ओकरा\PR_PRP से\PSP जउन\PR_PRL काम\N_NN लेतऽ\V_VM हल\V_VAUX ओही\DM_DMD काम\N_NN ऊ\PR_PRP कर\V_VM देतवऽ\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd841	अजगर\N_NN झटपट\RB जाँघ\N_NN के\PSP पास\N_NST जड़ी\N_NN रगड़\V_VM देलक\V_VAUX आउ\CC_CCD मनी\N_NN निकल\V_VM आयल\V_VAUX आउ\CC_CCD दुनो\QT_QTC के\PSP अदमी\N_NN के\PSP रूप\N_NN बना\V_VM देलक\V_VAUX ।\RD_PUNC
+msd842	साँझ\N_NN हो\V_VM गेल\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd843	अजगर\N_NN दुनों\QT_QTC के\PSP ठहरे\N_NN ला\PSP कहलक\V_VM बाकि\CC_CCD ओहनी\PR_PRP न\RP_NEG ठहर\N_NN सकलन\V_VM ।\RD_PUNC
+msd844	घोड़ा\N_NN पर\PSP चढ़के\V_VM दूनो\QT_QTC चल\V_VM देलन\V_VAUX ।\RD_PUNC
+msd845	रस्ता\N_NN में\PSP एगो\QT_QTC ठग\N_NN लग\V_VM गेल\V_VAUX ।\RD_PUNC
+msd846	राजा\N_NN -\RD_PUNC रानी\N_NN एगो\QT_QTC सहर\N_NN मे\PSP पहुँचलन\V_VM आउ\CC_CCD रानी\N_NN से\PSP कहलन\V_VM कि\CC_CCS हम\PR_PRP घोड़ा\N_NN के\PSP दाना\N_NN आउ\CC_CCD भोजन\N_NN लागि\PSP जाइत\V_VM हिवऽ\N_NN ,\RD_PUNC तब\PR_PRL तक\RP_RPD तू\PR_PRP एहीजे\DM_DMD रहिहऽ\V_VM ।\RD_PUNC
+msd847	राजा\N_NN दाना\N_NN -\RD_PUNC चारा\N_NN तउला\V_VM के\V_VAUX दाम\N_NN देलन\V_VM ।\RD_PUNC
+msd848	ओहजे\DM_DMD ऊ\PR_PRP सब\QT_QTF छोड़\V_VM देलन\V_VAUX आउ\CC_CCD कहलन\V_VM कि\CC_CCS हम\PR_PRP आवऽ\V_VM हिय\V_VAUX तब\PR_PRL ले\V_VM जायब\V_VAUX ।\RD_PUNC
+msd849	फिन\CC_CCD भोजन\N_NN के\PSP समान\N_NN खरीद\V_VM के\V_VAUX ओहजे\DM_DMD छोड़\V_VM देलन\V_VAUX ।\RD_PUNC
+msd85	लालपरी\N_NN कहकई\V_VM कि\CC_CCS सरकार\N_NN मृतुभुबन\N_NN में\PSP जेता\QT_QTF अदमी\N_NN हई\V_VM ओकर\PR_PRP मुंड़ी\N_NN काट\V_VM के\V_VAUX हम\PR_PRP ले\V_VM आवइत\V_VAUX ही\V_VAUX ।\RD_PUNC
+msd850	पान\N_NN लेवे\V_VM पनेरिन\N_NN भीर\PSP पहुँचलन\V_VM तो\PR_PRL राजा\N_NN के\PSP सूरत\N_NN देख\V_VM के\V_VAUX पनेरिन\N_NN मोहित\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd851	पनेरिन\N_NN राजा\N_NN के\PSP जादू\N_NN से\PSP घोड़ा\N_NN बना\V_VM के\V_VAUX घरे\N_NN बान्ह\V_VM देलक\V_VAUX ।\RD_PUNC
+msd852	रानी\N_NN एने\DM_DMD अहर\N_NN देखइत\V_VM हथ\V_VAUX ,\RD_PUNC पहर\N_NN देखइत\V_VM हथ\V_VAUX ,\RD_PUNC जब\PR_PRL बड़ी\JJ देरी\N_NN हो\V_VM गेल\V_VAUX तब\PR_PRL चले\V_VM ला\PSP तैयार\N_NN भेलन\V_VM ।\RD_PUNC
+msd853	एही\DM_DMD बीच\N_NN ओही\DM_DMD ठग\N_NN आ\V_VM के\V_VAUX रानी\N_NN के\PSP बरियारी\RB लिया\V_VM चलल\V_VAUX ।\RD_PUNC
+msd854	रानी\N_NN कहलन\V_VM कि\CC_CCS तू\PR_PRP आगे\N_NST -\RD_PUNC आगे\N_NST चलबऽ\V_VM तब\PR_PRL नऽ\RP_NEG ठीक\N_NN होयत\V_VM ।\RD_PUNC
+msd855	हम\PR_PRP आगे\N_NST -\RD_PUNC आगे\N_NST चलब\V_VM तो\PR_PRL लोग\N_NN बहिन\N_NN समझतथुन\V_VM ,\RD_PUNC पर\PSP अब\RB तो\PR_PRL हम\PR_PRP तोर\PR_PRP जनाना\N_NN हो\V_VM गेली\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd856	एतना\QT_QTF सुन\V_VM के\V_VAUX ठगवा\N_NN फुलके\V_VM तुम्मा\N_NN हो\V_VM गेल\V_VAUX आउ\CC_CCD लापरवाही\RB से\PSP आगे\N_NST -\RD_PUNC आगे\N_NST चले\V_VM लगल\V_VAUX ।\RD_PUNC
+msd857	तब\PR_PRL तक\RP_RPD रानी\N_NN पीछे\N_NST से\PSP अप्पन\PR_PRP तलवार\N_NN निकाल\V_VM के\V_VAUX ठग\N_NN के\PSP मार\V_VM देलन\V_VAUX ।\RD_PUNC
+msd858	फिन\CC_CCD उहाँ\DM_DMD से\PSP रानी\N_NN (\RD_SYM मयनावती\N_NNP )\RD_SYM मरदाना\N_NN के\PSP भेस\N_NN बनाके\V_VM राजा\N_NN के\PSP खोजे\V_VM सहर\N_NN में\PSP निकललन\V_VM ।\RD_PUNC
+msd859	उहाँ\DM_DMD के\PSP राजा\N_NN सोयंवर\N_NN रचवले\V_VM हलन\V_VAUX कि\CC_CCS जउन\PR_PRL लड़का\N_NN उड़इत\V_VM तिलंगी\N_NN के\PSP पकड़\N_NN लावत\V_VM ओकरे\PR_PRP से\PSP हम\PR_PRP अपन\PR_PRP बेटी\N_NN के\PSP बिआह\N_NN कर\V_VM देव\V_VAUX आउ\CC_CCD समुचे\QT_QTF राजपाट\N_NN भी\RP_RPD ओकरे\PR_PRP दे\V_VM देब\V_VAUX ।\RD_PUNC
+msd86	कोई\PR_PRI मुड़ी\N_NN घट\V_VM जायत\V_VAUX तो\PR_PRL समझब\V_VM कि\CC_CCS ओही\DM_DMR हम्मर\PR_PRP परेमी\N_NN हे\V_VM ।\RD_PUNC
+msd860	मयनावती\N_NNP अपन\PR_PRP घोड़ा\N_NN के\PSP चार\QT_QTC कोड़ा\N_NN नरम\JJ आउ\CC_CCD चार\QT_QTC कोड़ा\N_NN गरम\JJ मारलक\V_VM तो\PR_PRL घोड़ा\N_NN अकास\N_NN में\PSP जाके\V_VM तिलंगी\N_NN के\PSP पकड़\V_VM लेलक\V_VAUX ।\RD_PUNC
+msd861	फिन\CC_CCD चार\QT_QTC कोड़ा\N_NN गरम\JJ आउ\CC_CCD चार\QT_QTC कोड़ा\N_NN नरम\JJ मारलक\V_VM तब\PR_PRL नीचे\N_NST चल\V_VM आयल\V_VAUX ।\RD_PUNC
+msd862	राजा\N_NN अपन\PR_PRP बेटी\N_NN के\PSP पुरुखधारी\N_NN मयनावती\N_NNP से\PSP विआह\N_NN कर\V_VM देलन\V_VAUX ।\RD_PUNC
+msd863	जब\PR_PRL कोहबर\N_NN मिलल\V_VM तब\PR_PRL मयनावती\N_NNP पलंग\N_NN के\PSP बीच\N_NST में\PSP तलवार\N_NN रख\V_VM देलक\V_VAUX आउ\CC_CCD दुनो\QT_QTC पलंग\N_NN के\PSP एक\QT_QTC -\RD_PUNC एक\QT_QTC पटिया\N_NN पर\PSP सुतलन\V_VM ।\RD_PUNC
+msd864	राजा\N_NN ।\RD_PUNC
+msd865	﻿राजकुमार\N_NN आउ\CC_CCD मयनावती\N_NNP रानी\N_NN के\PSP दमाद\N_NN (\RD_SYM मयनावती\N_NNP )\RD_SYM कहलन\V_VM कि\CC_CCS हमरा\PR_PRP ही\RP_RPD के\PSP चाल\N_NN हे\V_VM कि\CC_CCS जब\PR_PRL तक\RP_RPD रोसगद्दी\N_NN करा\V_VM के\V_VAUX न\RP_NEG ले\V_VM जाय\V_VAUX तब\PR_PRL तक\RP_RPD मरद\N_NN -\RD_PUNC औरत\N_NN एक\QT_QTC साथे\PSP न\RP_NEG सुते\V_VM ।\RD_PUNC
+msd866	मयनावती\N_NNP जादू\N_NN जाने\V_VM में\PSP माहिर\N_NN हल\V_VM ।\RD_PUNC
+msd867	से\CC_CCD ऊ\PR_PRP जान\N_NN गेल\V_VM हल\V_VAUX कि\CC_CCS पनेरनिया\N_NN हमर\PR_PRP राजा\N_NN के\PSP भेंड़ा\N_NN बना\V_VM के\V_VAUX बान्हले\V_VAUX हेय\V_VAUX ।\RD_PUNC
+msd868	इहाँ\DM_DMD राजा\N_NN के\PSP कोई\PR_PRI लड़का\N_NN न\RP_NEG हल\V_VM से\PSP सब\QT_QTF राज\N_NN -\RD_PUNC पाट\N_NN मयनावतिये\N_NNP के\PSP हो\V_VM गेल\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd869	जब\PR_PRL राजा\N_NN के\PSP दमाद\N_NN (\RD_SYM मयनावती\N_NNP )\RD_SYM राजगद्दी\N_NN पर\PSP बइठल\V_VM तो\PR_PRL परजा\N_NN के\PSP बोला\V_VM के\V_VAUX सब\QT_QTF मलगुजारी\N_NN माफ\N_NN कर\V_VM देलक\V_VAUX ।\RD_PUNC
+msd87	भगवान\N_NN मुँड़ी\N_NN काट\V_VM के\V_VAUX लावेला\V_VAUX आज्ञा\N_NN दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd870	एकरा\DM_DMD बाद\PSP जब\PR_PRL कुछ\QT_QTF दिन\N_NN बीतल\V_VM तो\PR_PRL राजा\N_NN फिनो\CC_CCD सब\QT_QTF परजा\N_NN के\PSP बोलौलन\V_VM कि\CC_CCS सब\QT_QTF लोग\N_NN अप्पन\PR_PRP -\RD_PUNC अप्पन\PR_PRP बैल\N_NN -\RD_PUNC गोरू\N_NN आउ\CC_CCD सब\QT_QTF कुछ\QT_QTF के\PSP गिनती\N_NN करा\V_VM लऽ\V_VAUX ।\RD_PUNC
+msd871	सबे\QT_QTF अप्पन\PR_PRP -\RD_PUNC अप्पन\PR_PRP जनावर\N_NN के\PSP गिनती\N_NN करा\V_VM लेलन\V_VAUX तब\PR_PRL सब\QT_QTF कहलन\V_VM कि\CC_CCS पनेरनिया\N_NN अपन\PR_PRP जनावर\N_NN के\PSP गिनती\N_NN न\RP_NEG करौलक\V_VM हे\V_VAUX ।\RD_PUNC
+msd872	पनेरनिया\N_NN के\PSP बोलावल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd873	पनेरिन\N_NN अपन\PR_PRP भेंड़ा\N_NN के\PSP साथे\PSP आयल\V_VM तो\PR_PRL राजा\N_NN के\PSP दमाद\N_NN कहलन\V_VM -\RD_PUNC अगे\RP_INJ पनेरिन\N_NN ,\RD_PUNC जल्दी\RB से\PSP ई\DM_DMI भेंड़ा\N_NN के\PSP अदमी\N_NN बनावऽ\V_VM न\RP_NEG तो\PR_PRL हम\PR_PRP जान\N_NN से\PSP मार\V_VM देबऊ\V_VAUX ।\RD_PUNC
+msd874	डरे\N_NN पनेरिन\N_NN भेंड़ा\N_NN से\PSP अदमी\N_NN बना\V_VM देलक\V_VAUX ।\RD_PUNC
+msd875	एकरा\DM_DMD बाद\PSP पनेरिन\N_NN के\PSP गड़हा\N_NN भरवा\V_VM देलन\V_VAUX आउ\CC_CCD राजा\N_NN से\PSP सबहे\QT_QTF हाल\N_NN कहलन\V_VM ।\RD_PUNC
+msd876	एकरा\DM_DMD बाद\PSP राजा\N_NN (\RD_SYM मयनावती\N_NNP )\RD_SYM अप्पन\PR_PRP ससुर\N_NN से\PSP कहलन\V_VM कि\CC_CCS हम\PR_PRP अप्पन\PR_PRP देस\N_NN से\PSP लौट\V_VM के\V_VAUX आयब\V_VAUX तो\V_VAUX रोसगदी\N_NN करा\V_VM के\PSP ले\V_VAUX जायब\V_VAUX ।\RD_PUNC
+msd877	राजा\N_NN हुकुम\N_NN दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd878	एकरा\DM_DMD बाद\PSP मयनावती\N_NNP आउ\CC_CCD उनकर\PR_PRP मरदाना\N_NN (\RD_SYM राजा\N_NN )\RD_SYM दूनो\QT_QTC घोड़ा\N_NN पर\PSP चढ़के\V_VM चललन\V_VAUX ।\RD_PUNC
+msd879	दूनो\QT_QTC के\PSP जाइत\V_VM -\RD_PUNC जाइत\V_VM एक\QT_QTC जगुन\N_NN साँझ\N_NN हो\V_VM गेल\V_VAUX तो\PR_PRL अनजाने\N_NN में\PSP एगो\QT_QTC ठग\N_NN ही\RP_RPD ठहर\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd88	दैत्य\N_NN आउ\CC_CCD रानी\N_NN खटिया\N_NN पर\PSP बइठलन\V_VM ।\RD_PUNC
+msd880	घर\N_NN में\PSP सास\N_NN ,\RD_PUNC पतोह\N_NN आउ\CC_CCD बेटी\N_NN हलन\V_VM ,\RD_PUNC ठग\N_NN कहीं\N_NN ठगी\N_NN करे\V_VM चल\V_VAUX गेलन\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd881	रात\N_NN में\PSP राजा\N_NN -\RD_PUNC रानी\N_NN के\PSP खुब\JJ सोआगत\N_NN कैल\V_VM गेल\V_VAUX बाकि\CC_CCD सुते\V_VM ला\PSP अलगे\N_NN -\RD_PUNC अलगे\N_NN कोठरी\N_NN देल\V_VM गेल\V_VAUX ।\RD_PUNC
+msd882	जब\PR_PRL आधा\QT_QTO रात\N_NN भेल\V_VM तब\PR_PRL ठग\N_NN के\PSP बेटी\N_NN तलवार\N_NN लेके\V_VM राजा\N_NN के\PSP कोठरी\N_NN में\PSP घुसल\V_VM आउ\CC_CCD छाती\N_NN पर\PSP चढ़\V_VM के\V_VAUX जान\N_NN से\PSP मारे\V_VM लागि\PSP तइयार\N_NN हो\V_VM गेल\V_VAUX ।\RD_PUNC
+msd883	राजा\N_NN ठग\N_NN के\PSP बेटी\N_NN के\PSP फुसलावे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd884	मनावइत\V_VM -\RD_PUNC फुसलावइत\V_VM जब\PR_PRL ऊ\PR_PRP मान\N_NN गेल\V_VM तो\PR_PRL ठग\N_NN के\PSP बेटी\N_NN कहलक\V_VM -\RD_PUNC हमर\PR_PRP बाप\N_NN -\RD_PUNC भाई\N_NN के\PSP दूगो\QT_QTC साँढ़िनी\N_NN हेय\V_VM ।\RD_PUNC
+msd885	एगो\QT_QTC अस्सी\QT_QTC कोस\N_NN भागऽ\V_VM हे\V_VAUX आउ\CC_CCD एगो\QT_QTC साठ\QT_QTC कोस\N_NN भागेओली\N_NN हे\V_VM ।\RD_PUNC
+msd886	जाके\V_VM खोल\V_VAUX के\V_VAUX ले\V_VAUX आवऽ\V_VAUX ।\RD_PUNC
+msd887	हमनी\PR_PRP तीनो\QT_QTC इहाँ\DM_DMD से\PSP भागऽ\V_VM चलब\V_VAUX ।\RD_PUNC
+msd888	राजा\N_NN साँढ़नी\N_NN के\PSP पास\N_NST गेलन\V_VM तो\PR_PRL चिन्हे\N_NN में\PSP ना\RP_NEG आयल\V_VM आउ\CC_CCD साठ\QT_QTC कोस\N_NN चलेओली\N_NN साँढ़नी\N_NN के\PSP खोल\V_VM के\V_VAUX लवलन\V_VAUX ।\RD_PUNC
+msd889	ओही\DM_DMD साँढ़नी\N_NN पर\PSP तीनो\QT_QTC चढ़के\V_VM भाग\V_VAUX चललन\V_VAUX ।\RD_PUNC
+msd89	वजीर\N_NN भी\RP_RPD नीचे\N_NN आ\V_VM घुसल\V_VAUX ।\RD_PUNC
+msd890	जब\PR_PRL ठग\N_NN लोग\N_NN अयलन\V_VM तो\PR_PRL सास\N_NN -\RD_PUNC पुतोह\N_NN कहलन\V_VM कि\CC_CCS दूगो\QT_QTC अइसन\RP_RPD मोसाफिर\N_NN आयल\V_VM हल\V_VAUX जेकरा\PR_PRL से\PSP हमनी\PR_PRP बइठल\V_VM खइती\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd891	सुन\V_VM के\V_VAUX ठग\N_NN खयवो\V_VM -\RD_PUNC पीबो\V_VM न\RP_NEG कैलक\V_VM आउ\CC_CCD तुरंत\RB साँढ़नी\N_NN के\PSP मँगौलक\V_VM तो\PR_PRL देखलक\V_VM कि\CC_CCS अस्सी\QT_QTC कोस\N_NN दूउगेवाली\N_NN साँढ़नी\N_NN बचइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd892	दुनो\QT_QTC ठग\N_NN साँढ़नी\N_NN पर\PSP चढ़के\V_VM दउगलन\V_VAUX आउ\CC_CCD थोड़\QT_QTF ही\RP_RPD दुर\N_NN जाके\V_VM ओहनी\PR_PRP के\PSP पीछा\N_NN कर\V_VM लेलन\V_VAUX ।\RD_PUNC
+msd893	जब\PR_PRL ठग\N_NN के\PSP बेटी\N_NN पीछे\N_NST घुरके\V_VM देखलक\V_VAUX तो\PR_PRL भाई\N_NN -\RD_PUNC बाप\N_NN ओहनी\PR_PRP के\PSP पीछा\N_NN कर\V_VM रहलन\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd894	ऊ\PR_PRP राजा\N_NN से\PSP कहलक\V_VM कि\CC_CCS अपने\PR_PRP दुनो\QT_QTC एही\DM_DMD बड़\N_NN के\PSP पेड़\N_NN पर\PSP चढ़\V_VM जायब\V_VAUX आउ\CC_CCD हम\PR_PRP नीचे\N_NST बइठ\V_VM के\PSP रोयब\V_VAUX कि\CC_CCS नतिया\N_NN -\RD_PUNC छौड़ा\N_NN पुत्ता\N_NN हमरा\PR_PRP भगवले\V_VM जाइत\V_VAUX हे\V_VAUX भइया\N_NN ।\RD_PUNC
+msd895	फिन\CC_CCD हम\PR_PRP अस्सी\QT_QTC कोस\N_NN दउगेवाली\N_NN साँढ़नी\N_NN एही\DM_DMD बरोह\N_NN तर\PSP लगवले\V_VM रहब\V_VAUX ।\RD_PUNC
+msd896	जब\PR_PRL भाई\N_NN -\RD_PUNC बाप\N_NN पेड़\N_NN पर\PSP चढ़जयतन\V_VM तब\PR_PRL तोहनी\PR_PRP दुनो\QT_QTC अस्सी\QT_QTC कोसवाली\N_NN साँढ़नी\N_NN पर\PSP उतर\V_VM जइहँऽ\V_VAUX आउ\CC_CCD हमनी\PR_PRP तीनो\QT_QTC कोई\PR_PRI भाग\V_VM चलब\V_VAUX ।\RD_PUNC
+msd897	जब\PR_PRL ठग\N_NN भिरू\PSP पहुँच\V_VM गेलन\V_VAUX तो\PR_PRL राजा\N_NN आउ\CC_CCD रानी\N_NN पेड़\N_NN पर\PSP चढ़\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd898	एने\DM_DMD ठग\N_NN के\PSP बेटी\N_NN कहे\V_VM लगल\V_VAUX कि\CC_CCS देखऽ\V_VM न\RP_NEG भइया\N_NN ,\RD_PUNC नतिया\N_NN हमरा\PR_PRP बरिआरी\RB भगवले\V_VM जाइत\V_VAUX हवऽ\V_VAUX ।\RD_PUNC
+msd899	से\CC_CCD लावा\N_NN सँढ़िनियाँ\N_NN थमले\V_VM रहिवऽ\V_VAUX ।\RD_PUNC
+msd9	ई\DM_DMI दुअरिए\N_NN पर\PSP ठहर\V_VM के\PSP सब\QT_QTF तमासा\N_NN देखे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd90	खटिया\N_NN उड़ल\V_VM आउ\CC_CCD दैत्य\N_NN के\PSP घर\N_NN में\PSP आ\V_VM गीरल\V_VAUX ।\RD_PUNC
+msd900	तोहनी\PR_PRP दुनो\QT_QTC पेड़\N_NN पर\PSP चढ़के\V_VM पकड़\V_VAUX लिहँऽ\V_VAUX ,\RD_PUNC नतिया\N_NN जयते\V_VM कहाँ\PR_PRQ ।\RD_PUNC
+msd901	दुनो\QT_QTC ठग\N_NN जब\PR_PRL ।\RD_PUNC
+msd902	﻿पेड़\N_NN पर\PSP चढ़\V_VM गेलन\V_VAUX तो\PR_PRL राजा\N_NN -\RD_PUNC रानी\N_NN ओही\DM_DMD बरोह\N_NN से\PSP अस्सी\QT_QTC कोस\N_NN वाली\RP_RPD सांढ़नी\N_NN पर\PSP उतर\V_VM गेलन\V_VAUX आउ\CC_CCD तीनो\QT_QTC भाग\V_VM चललन\V_VAUX ।\RD_PUNC
+msd903	ठगवन\N_NN अछता-पछता\RB के\PSP लउट\V_VM गेलन\V_VAUX कि\CC_CCS हमर\PR_PRP बहिनिये\N_NN हमनी\PR_PRP के\PSP ठगलक\V_VM ।\RD_PUNC
+msd904	एहनी\PR_PRP भागइत\V_VM -\RD_PUNC भागइत\V_VM राजा\N_NN अप्पन\PR_PRP राज\N_NN में\PSP पहुँच\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd905	उहां\DM_DMD जाके\V_VM राजा\N_NN दूनो\QT_QTC औरत\N_NN के\PSP एनही\DM_DMD कोठरी\N_NN में\PSP रख\V_VM के\V_VAUX राजमहल\N_NN में\PSP गेलन\V_VM ।\RD_PUNC
+msd906	महल\N_NN में\PSP जाके\V_VM अप्पन\PR_PRP जाँघ\N_NN से\PSP मनि\N_NN निकाल\V_VM के\V_VAUX दिरखा\N_NN पर\PSP रख\V_VM देलन\V_VAUX जेकरा\PR_PRL से\PSP कोठरी\N_NN इंजोर\N_NN रहऽ\V_VM हल\V_VAUX ।\RD_PUNC
+msd907	राजा\N_NN के\PSP पहिलकी\QT_QTO औरत\N_NN खजांची\N_NN से\PSP फंसल\N_NN हलन\V_VM ।\RD_PUNC
+msd908	एक\QT_QTC दिन\N_NN राजा\N_NN दरबार\N_NN में\PSP हलन\V_VM तइसहीं\PR_PRL खजांची\N_NN उनकर\PR_PRP औरत\N_NN भीर\PSP गेल\V_VM तो\PR_PRL दिरखा\N_NN पर\PSP मनी\N_NN के\PSP बरइत\V_VM देखलक\V_VAUX ।\RD_PUNC
+msd909	ऊ\PR_PRP पुछलक\V_VM कि\CC_CCS ई\DM_DMI का\PR_PRQ हवऽ\V_VM बरइत\V_VAUX रानी\N_NN ।\RD_PUNC
+msd91	रानी\N_NN आन\V_VM के\V_VAUX घरे\N_NN राजा\N_NN के\PSP पलंग\N_NN पर\PSP पड़\V_VM रहल\V_VAUX ।\RD_PUNC
+msd910	अतो\CC_CCD राजा\N_NN कने\N_NN से\PSP तो\PR_PRL लान\V_VM के\V_VAUX रख\V_VAUX देले\V_VAUX हथिन\V_VAUX ।\RD_PUNC
+msd911	खजांची\N_NN कहलन\V_VM कि\CC_CCS ई\DM_DMI पथरवा\N_NN हमरा\PR_PRP दे\V_VM दऽ\V_VAUX ।\RD_PUNC
+msd912	रानी\N_NN दिरखा\N_NN से\PSP उठा\V_VM के\V_VAUX दे\V_VAUX देलन\V_VAUX ।\RD_PUNC
+msd913	जब\PR_PRL राजा\N_NN महल\N_NN में\PSP अयलन\V_VM आउ\CC_CCD मनि\N_NN ना\RP_NEG देखलन\V_VM तो\PR_PRL ``\RD_PUNC हाय\RP_INTF मनि\N_NN ,\RD_PUNC हाय\RP_INTF मनि\N_NN ``\RD_PUNC कहके\V_VM चिल्लाय\V_VAUX लगलन\V_VAUX ।\RD_PUNC
+msd914	रानी\N_NN साथ\PSP रहते\V_VM -\RD_PUNC रहते\V_VM खेयाल\N_NN भुला\V_VM गेलन\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd915	राजा\N_NN अप्पन\PR_PRP बेटा\N_NN के\PSP पगलायल\N_NN समझ\V_VM के\V_VAUX बड़ा\RP_INTF दुखी\RB होलन\V_VM ।\RD_PUNC
+msd916	इघर\N_NN जब\PR_PRL ठग\N_NN के\PSP बेटी\N_NN सुनलक\V_VM कि\CC_CCS राजा\N_NN उहवाँ\DM_DMD मनि\N_NN के\PSP कारन\N_NN पगल\N_NN गेलन\V_VM हे\V_VAUX तो\PR_PRL अपने\PR_PRP पनेरिन\N_NN बन\V_VM के\V_VAUX पान\N_NN बेचे\V_VM खातिर\PSP ओही\DM_DMD राजदरबार\N_NN के\PSP राह\N_NN से\PSP कहइत\V_VM जाइत\V_VAUX हल\V_VAUX कि\CC_CCS ``\RD_PUNC ले\V_VM पान\N_NN ,\RD_PUNC ले\V_VM पान\N_NN ।\RD_PUNC
+msd917	एतना\QT_QTF सुन\V_VM के\V_VAUX बराहिल\N_NN आयल\V_VM आउ\CC_CCD पुछलक\V_VM कि\CC_CCS कइसे\PR_PRQ खिल्ली\N_NN पान\N_NN हउ\V_VM पनेरिन\N_NN ।\RD_PUNC
+msd918	पनेरिन\N_NN कहलक\V_VM कि\CC_CCS सौ\QT_QTC रुपये\N_NN खिल्ली\N_NN ।\RD_PUNC
+msd919	तुरँत\RB एक\QT_QTC खिल्ली\N_NN पान\N_NN ले\V_VM के\V_VAUX सौ\QT_QTC रुपया\N_NN दे\V_VM देलक\V_VAUX आउ\CC_CCD पुचलक\V_VM कि\CC_CCS आउ\CC_CCD का\PR_PRQ देवे\V_VM ।\RD_PUNC
+msd92	वजीर\N_NN उनके\PR_PRP से\PSP पहिल\N_NN आन\V_VM के\V_VAUX सुत\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd920	तो\PR_PRL पनेरिन\N_NN कहलक\V_VM कि\CC_CCS साँझ\N_NN के\PSP अन्हार\N_NN भेला\N_NN आ\V_VM जायब\V_VAUX ।\RD_PUNC
+msd921	एकरा\DM_DMD बाद\PSP गोमस्ता\N_NN आयल\V_VM तो\PR_PRL अइसेहीं\RB पुछलक\V_VM तो\PR_PRL पनेरिन\N_NN कहलक\V_VM कि\CC_CCS दू\QT_QTC सौ\QT_QTC रुपये\N_NN खिल्ली\N_NN ।\RD_PUNC
+msd922	झटपट\RB दू\QT_QTC सौ\QT_QTC रुपया\N_NN दे\V_VM के\V_VAUX दू\QT_QTC खिल्ली\N_NN पान\N_NN खा\V_VM लेलक\V_VAUX तब\PR_PRL पनेरिन\N_NN कहलक\V_VM अपने\PR_PRP साँझ\N_NN के\PSP अन्हार\N_NN भेला\V_VM के\PSP एक\QT_QTC घंटा\N_NN बाद\PSP आ\V_VM जायब\V_VAUX ।\RD_PUNC
+msd923	एकरा\DM_DMD बाद\PSP खजांची\N_NN अयलन\V_VM तो\PR_PRL ओ\PR_PRL भी\RP_RPD एही\DM_DMD तरी\N_NN पूछलन\V_VM ।\RD_PUNC
+msd924	पनेरिन\N_NN सौ\QT_QTC रुपये\N_NN खिल्ली\N_NN पान\N_NN के\PSP दाम\N_NN बढ़वते\V_VM जा\V_VAUX हल\V_VAUX ।\RD_PUNC
+msd925	खजांची\N_NN कहलन\V_VM कि\CC_CCS हमरा\PR_PRP पास\N_NST एगो\QT_QTC पत्थर\N_NN हेय\V_VM ।\RD_PUNC
+msd926	पनेरिन\N_NN तुरत\RB पत्थर\N_NN लेके\V_VM पान\N_NN दे\V_VM देलक\V_VAUX ।\RD_PUNC
+msd927	येही\PR_PRL तरह\RP_RPD मनेजर\N_NN ,\RD_PUNC बूढ़ा\JJ राजा\N_NN ,\RD_PUNC सब\QT_QTF ढेर\QT_QTF लोग\N_NN आन\V_VM के\V_VAUX पान\N_NN खयलन\V_VM आउ\CC_CCD पनेरिन\N_NN सबहे\QT_QTF के\PSP एक\QT_QTC -\RD_PUNC एक\QT_QTC घंटा\N_NN बाद\PSP रात\N_NN खानी\N_NST बोलौलक\V_VM ।\RD_PUNC
+msd928	फिनो\CC_CCD ठग\N_NN के\PSP बेटी\N_NN अपन\PR_PRP मरद\N_NN (\RD_SYM राजा\N_NN )\RD_SYM के\PSP बोला\V_VM के\V_VAUX मनि\N_NN दे\V_VM देलक\V_VAUX आउ\CC_CCD अप्पन\PR_PRP सब\QT_QTF हाल\N_NN कह\V_VM सुनौलक\V_VAUX ।\RD_PUNC
+msd929	फिन\CC_CCD उनका\PR_PRP उहई\DM_DMD एगो\QT_QTC कोठरी\N_NN में\PSP रहे\V_VM के\PSP अलगे\RB इंतजाम\N_NN कर\V_VM देलक\V_VAUX ।\RD_PUNC
+msd93	बिहान\N_NN होते\V_VM नदी\N_NN किनारे\N_NN जा\V_VM के\V_VAUX दुनु\QT_QTC इयार\N_NN बतिअयलकै\V_VM ।\RD_PUNC
+msd930	रात\N_NN के\PSP अन्हारा\N_NN में\PSP बराहिल\N_NN पहुँचल\V_VM तो\PR_PRL खखन\N_NN में\PSP गोमस्ता\N_NN भी\RP_RPD तुरते\RB गेलन\V_VM ।\RD_PUNC
+msd931	डरे\N_NN बराहिल\N_NN थरथराय\V_VM लगल\V_VAUX तो\PR_PRL ठग\N_NN के\PSP बेटी\N_NN झटपट\RB ओकरा\PR_PRP चटाई\N_NN में\PSP लपेट\V_VM के\V_VAUX लुका\V_VAUX देलक\V_VAUX ।\RD_PUNC
+msd932	एकरा\DM_DMD बाद\PSP खंजाची\N_NN अयलन\V_VM तो\PR_PRL गोमस्ता\N_NN डर\N_NN गेलन\V_VM आउ\CC_CCD कहलन\V_VM कि\CC_CCS कने\N_NN जाऊँ\V_VM ।\RD_PUNC
+msd933	ठग\N_NN के\PSP बेटी\N_NN झटपट\RB उनकर\PR_PRP देह\N_NN में\PSP कारिख\N_NN पोत\V_VM देलक\V_VAUX आउ\CC_CCD सोझे\JJ खड़ा\N_NN करके\V_VM उनकर\PR_PRP कपार\N_NN पर\PSP दीया\N_NN बार\V_VM देलक\V_VAUX आउ\CC_CCD कहलक\V_VM कि\CC_CCS हिल\V_VM -\RD_PUNC डोल\V_VM मत\RP_NEG करिहँऽ\V_VAUX न\RP_NEG तो\PR_PRL दीया\N_NN बुझा\V_VM जायत\V_VAUX आउ\CC_CCD सबे\QT_QTF पोल\N_NN खुल\V_VM जतवऽ\V_VAUX ।\RD_PUNC
+msd934	अइसहीं\RP_RPD पारा-पारी\RB सबहे\QT_QTF ,\RD_PUNC मनेजर\N_NN आउ\CC_CCD राजा\N_NN के\PSP बाप\N_NN भी\RP_RPD अयलन\V_VM ।\RD_PUNC
+msd935	ठग\N_NN के\PSP मरद\N_NN राजा\N_NN सबहे\QT_QTF के\PSP देखलन\V_VM आउ\CC_CCD देख\V_VM के\V_VAUX चुपचाप\RB रह\V_VM गेलन\V_VAUX ।\RD_PUNC
+msd936	सबेरे\N_NN उठइत\V_VM सब\QT_QTF के\PSP बोलाके\V_VM खादे\N_NN -\RD_PUNC भूसे\N_NN भरवा\V_VM देलन\V_VAUX ।\RD_PUNC
+msd937	साथे\PSP -\RD_PUNC साथे\PSP अप्पन\PR_PRP पहिलकी\QT_QTO अउरत\N_NN आउ\CC_CCD बेभिचारी\JJ बाप\N_NN के\PSP भी\RP_RPD भरवा\V_VM देलन\V_VAUX ।\RD_PUNC
+msd938	एकरा\DM_DMD बाद\PSP मयनावती\N_NNP रानी\N_NN आउ\CC_CCD ठग\N_NN के\PSP बेटी\N_NN के\PSP साथे\PSP मिल\V_VM -\RD_PUNC जुल\V_VM के\V_VAUX ऊ\PR_PRP रहे\V_VM लगलन\V_VAUX आउ\CC_CCD राज\N_NN -\RD_PUNC पाट\N_NN करे\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd939	﻿जब\N_NN सोहराई\N_NN आयल\V_VM तो\PR_PRL सबे\QT_QTF दरबारी\N_NN लोग\N_NN राजा\N_NN के\PSP दरबार\N_NN में\PSP जुआ\N_NN खेले\V_VM लगलन\V_VAUX ।\RD_PUNC
+msd94	वजीर\N_NN कहकई\N_NN कि\CC_CCS हमरे\PR_PRP कारण\N_NN आज\N_NN सब\QT_QTF के\PSP जान\N_NN चल\V_VM जयतो\V_VAUX ।\RD_PUNC
+msd940	सईस\N_NN भी\RP_RPD जुआ\N_NN खेले\V_VM लगल\V_VAUX ।\RD_PUNC
+msd941	लाल\N_NN निकाल\V_VM के\V_VAUX आगे\N_NST रख\V_VM देलक\V_VAUX आउ\CC_CCD जुआ\N_NN खेले\V_VM लगल\V_VAUX ।\RD_PUNC
+msd942	पहिला\QT_QTO दिन\N_NN एक\QT_QTC हजार\N_NN रोपेया\N_NN जीतलक\V_VM आउ\CC_CCD जाके\V_VM अप्पन\PR_PRP रानी\N_NN के\PSP दे\V_VM देलक\V_VAUX ।\RD_PUNC
+msd943	अइसहीं\RP_RPD चार\QT_QTC -\RD_PUNC पाँच\QT_QTC दिन\N_NN में\PSP दस\QT_QTC -\RD_PUNC बारह\QT_QTC हजार\N_NN रोपेया\N_NN जीत\N_NN लेलक\V_VM ।\RD_PUNC
+msd944	अइसन\RP_RPD देख\V_VM के\V_VAUX सभे\QT_QTF दरबारी\N_NN राजा\N_NN साहब\N_NN से\PSP चुगली\N_NN लगवलन\V_VM कि\CC_CCS अपने\PR_PRP के\PSP सईस\N_NN के\PSP पास\N_NST एगो\QT_QTC लाल\N_NN है\V_VAUX ।\RD_PUNC
+msd945	राजा\N_NN तुरत\RB सईस\N_NN के\PSP बोला\V_VM के\V_VAUX लाल\N_NN मँगवा\V_VM लेलन\V_VAUX ।\RD_PUNC
+msd946	राजा\N_NN अपन\PR_PRP बेटी\N_NN के\PSP लाल\N_NN दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd947	लड़की\N_NN लाल\N_NN गाँथ\V_VM के\V_VAUX गल्ला\N_NN में\PSP पहन\V_VM लेलक\V_VAUX आउ\CC_CCD जाके\V_VM पलंग\N_NN पर\PSP सूतल\V_VM हल\V_VAUX ।\RD_PUNC
+msd948	ऊ\PR_PRP दुनों\QT_QTC मैना\N_NN आउ\CC_CCD तोता\N_NN पोसले\V_VM हल\V_VAUX ।\RD_PUNC
+msd949	लड़की\N_NN जब\PR_PRL लाल\N_NN पेन्ह\V_VM के\V_VAUX पलंग\N_NN पर\PSP सुतल\V_VM तब\PR_PRL मैना\N_NN कहइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd95	राजा\N_NN कहलक\V_VM कि\CC_CCS हमनी\PR_PRP के\PSP भाग\V_VM जाय\V_VAUX के\V_VAUX चाहीं\V_VM ।\RD_PUNC
+msd950	ओह\RP_INJ रे\RP_RPD ओह\RP_INJ ,\RD_PUNC राजा\N_NN के\PSP बेटी\N_NN केतना\PR_PRQ बढ़िया\JJ लगइत\V_VM हथिन\V_VAUX ।\RD_PUNC
+msd951	एकरे\DM_DMD पर\PSP तोता\N_NN कहलक\V_VM -\RD_PUNC तूँ\PR_PRP का\PR_PRQ जाने\N_NN गेले\V_VM सत्तूखोर\N_NN ।\RD_PUNC
+msd952	जब\PR_PRL लाल\N_NN के\PSP जोड़ा\N_NN रहइत\V_VM हल\V_VAUX तो\PR_PRL आउ\CC_CCD बढ़ियाँ\JJ लगइत\V_VM हल\V_VAUX ।\RD_PUNC
+msd953	राजा\N_NN के\PSP लड़की\N_NN सुन\V_VM के\V_VAUX तुरत\RB पलंग\N_NN पर\PSP चादर\N_NN ओढ़\V_VM के\V_VAUX गोड़े\N_NN -\RD_PUNC मुड़े\N_NN तान\V_VM के\V_VAUX सुत\V_VM रहल\V_VAUX ।\RD_PUNC
+msd954	राजा\N_NN -\RD_PUNC रानी\N_NN केतनो\PR_PRQ उठावथ\V_VM बाकि\CC_CCD उठवे\V_VM नऽ\RP_NEG करे\V_VM ।\RD_PUNC
+msd955	अन्त\N_NN में\PSP कहलक\V_VM कि\CC_CCS जब\PR_PRL तक\RP_RPD हमरा\PR_PRP ई\DM_DMI लाल\N_NN के\PSP जोड़ा\N_NN नऽ\RP_NEG लगत\V_VM तब\PR_PRL तक\RP_RPD हम\PR_PRP नऽ\RP_NEG खायब\V_VM नऽ\RP_NEG पीअब\V_VM ।\RD_PUNC
+msd956	राजा\N_NN के\PSP एके\QT_QTC गो\RP_CL बेटिये\N_NN हल\V_VM ।\RD_PUNC
+msd957	से\CC_CCD ऊ\PR_PRP कहलन\V_VM कि\CC_CCS जे\PR_PRL एगो\QT_QTC देलक\V_VM हे\V_VAUX ओही\DM_DMD जोड़ा\N_NN भी\RP_RPD लगा\V_VM देत\V_VAUX ।\RD_PUNC
+msd958	उठऽ\V_VM आउ\CC_CCD खा\V_VM पीअऽ\V_VM ।\RD_PUNC
+msd959	सबेरे\N_NN मँगा\V_VM देतुअऽ\V_VAUX ।\RD_PUNC
+msd96	वजीर\N_NN कहलकै\V_VM ।\RD_PUNC
+msd960	तुरत\RB राजा\N_NN सईस\N_NN के\PSP बोला\V_VM के\V_VAUX कहलन\V_VM जाके\V_VAUX तूँ\PR_PRP लाल\N_NN के\PSP जोड़ा\N_NN लगावेओला\N_NN एगो\QT_QTC आउ\CC_CCD लाल\N_NN ले\V_VM आव\V_VAUX नऽ\RP_NEG तो\PR_PRL सभे\QT_QTF परिवार\N_NN के\PSP गड़हारा\N_NN भरवा\V_VM देवउ\V_VAUX ।\RD_PUNC
+msd961	सईस\N_NN कहलक\V_VM कि\CC_CCS घरे\N_NN से\PSP पुछ\V_VM के\V_VAUX आयब\V_VAUX तो\PR_PRL कहब\V_VM ।\RD_PUNC
+msd962	घरे\N_NN आयल\V_VM तो\PR_PRL चद्दर\N_NN ओढ़\V_VM के\V_VAUX खटिया\N_NN पर\PSP सूत\V_VM रहल\V_VAUX ।\RD_PUNC
+msd963	रानी\N_NN कहलक\V_VM कि\CC_CCS का\PR_PRQ बात\N_NN हेय\V_VM से\CC_CCD सुतल\V_VM हिय\V_VAUX ।\RD_PUNC
+msd964	तब\PR_PRL ऊ\PR_PRP सब\QT_QTF हाल\N_NN कह\V_VM सुनौलक\V_VAUX ।\RD_PUNC
+msd965	रानी\N_NN कहलक\V_VM कि\CC_CCS तहिने\PR_PRL नऽ\RP_NEG कहइत\V_VM हलिवऽ\V_VAUX कि\CC_CCS लालच\N_NN मत\RP_NEG करऽ\V_VM नऽ\RP_NEG तो\PR_PRL खतरा\N_NN होयत\V_VM ।\RD_PUNC
+msd966	अच्छा\JJ उठूँ\V_VM आउ\CC_CCD हाथ\N_NN -\RD_PUNC मुँह\N_NN घोके\V_VM आउँ\N_NN आउ\CC_CCD जा\V_VM के\V_VAUX राजा\N_NN से\PSP दस\QT_QTC हजार\N_NN रोपेया\N_NN आउ\CC_CCD एगो\QT_QTC सिपाही\N_NN ,\RD_PUNC दाई\N_NN आउ\CC_CCD घर\N_NN पर\PSP सालो\N_NN भर\RP_RPD के\PSP खरचा\N_NN -\RD_PUNC बरचा\N_NN माँगिहँऽ\V_VM ।\RD_PUNC
+msd967	से\CC_CCD ऊ\PR_PRP उठल\V_VM आउ\CC_CCD मुँह\N_NN -\RD_PUNC हाथ\N_NN धोके\V_VM राजा\N_NN के\PSP पास\N_NST गेल\V_VM आउ\CC_CCD सभे\QT_QTF चीज\N_NN फरमउलक\V_VM ।\RD_PUNC
+msd968	राजा\N_NN खजाँची\N_NN के\PSP हुकम\N_NN दे\V_VM देलन\V_VAUX ।\RD_PUNC
+msd969	सईस\N_NN सभे\QT_QTF चीज\N_NN लेके\V_VM घरे\N_NN रख\V_VM देलक\V_VAUX आउ\CC_CCD घर\N_NN उठावे\V_VM लागी\PSP काम\N_NN लगा\V_VM देलक\V_VAUX ।\RD_PUNC
+msd97	कि\CC_CCS भागऽ\V_VM चाहे\CC_CCD कुछ\PR_PRI जान\N_NN जयतो\V_VM जरुर\RB ।\RD_PUNC
+msd970	अपने\PR_PRP ओही\DM_DMD नदी\N_NN में\PSP लाल\N_NN खातिर\PSP चलल\V_VM ।\RD_PUNC
+msd971	जब\PR_PRL उहाँ\DM_DMD पहँचल\V_VM तो\PR_PRL सोचलक\V_VM कि\CC_CCS काहे\CC_CCS ना\RP_NEG हम\PR_PRP पता\N_NN लगा\V_VM लेई\V_VAUX कि\CC_CCS ई\DM_DMI नदी\N_NN बह\V_VM के\V_VAUX आबइत\V_VAUX हे\V_VAUX कहवाँ\PR_PRQ से\PSP ।\RD_PUNC
+msd972	ओकर\PR_PRP जड़ी\N_NN के\PSP पता\N_NN लगा\V_VM ले\V_VAUX ही\RP_RPD तो\PR_PRL अच्छा\JJ होयत\V_VM ।\RD_PUNC
+msd973	एही\DM_DMD सोच\V_VM के\V_VAUX नदी\N_NN के\PSP किनारे\N_NN -\RD_PUNC किनारे\N_NN जाइत\V_VM हल\V_VAUX ।\RD_PUNC
+msd974	जाइत\V_VM -\RD_PUNC जाइत\V_VM कुछ\QT_QTF दुर\N_NN गेल\V_VM तो\PR_PRL देखइत\V_VM हे\V_VAUX कि\CC_CCS एगो\QT_QTC लड़की\N_NN के\PSP मूँड़ी\N_NN काटल\V_VM हेय\V_VAUX ।\RD_PUNC
+msd975	ओकरे\PR_PRP खुन\N_NN नदी\N_NN में\PSP गिरइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd976	ओकरे\PR_PRP से\PSP लाल\N_NN बन\V_VM जाइत\V_VAUX हे\V_VAUX ।\RD_PUNC
+msd977	ओही\DM_DMD लाल\N_NN नदी\N_NN के\PSP घारा\N_NN में\PSP बहइत\V_VM हे\V_VAUX ।\RD_PUNC
+msd978	ऊ\PR_PRP चुपचाप\RB पेड़\N_NN पर\PSP लुका\V_VM के\V_VAUX चढ़\V_VAUX गेल\V_VAUX आउ\CC_CCD सभे\QT_QTF तमासा\N_NN देखे\V_VM लगल\V_VAUX कि\CC_CCS का\PR_PRQ बात\N_NN हे\V_VAUX ।\RD_PUNC
+msd979	जब\PR_PRL साम\N_NN भेल\V_VM तो\PR_PRL एगो\QT_QTC दैत्त\N_NN हाहास\RB कैले\V_VM आयल\V_VAUX आउ\CC_CCD एगो\QT_QTC पेड़\N_NN से\PSP फुल\N_NN तोड़\V_VM के\V_VAUX सुघाँ\V_VAUX देलक\V_VAUX ।\RD_PUNC
+msd98	राजा\N_NN जान\N_NN बचे\V_VM के\V_VAUX उपाय\N_NN पुछलकै\V_VM तो\PR_PRL वजीर\N_NN कहकई\V_VM कि\CC_CCS दैत्य\N_NN के\PSP घर\N_NN के\PSP नजीक\N_NST एगो\QT_QTC कपड़ा\N_NN के\PSP घर\N_NN बना\V_VM दऽ\V_VAUX आउ\CC_CCD दैत्य\N_NN के\PSP घर\N_NN दने\N_NN ओकर\PR_PRP फाटक\N_NN लागा\N_NN दऽ\V_VAUX ।\RD_PUNC
+msd980	तुरँत\RB लड़की\N_NN जी\V_VM गेल\V_VAUX ।\RD_PUNC
+msd981	जब\PR_PRL दोसर\QT_QTO दिन\N_NN दत्त\N_NN बाहर\N_NST जाय\V_VM लगल\V_VAUX तो\PR_PRL तलवार\N_NN से\PSP मुँड़ी\N_NN काट\V_VM देलक\V_VAUX ।\RD_PUNC
+msd982	फिन\CC_CCD ओही\DM_DMD तरह\RP_RPD से\PSP लाल\N_NN के\PSP धारा\N_NN बहे\V_VM लगल\V_VAUX ।\RD_PUNC
+msd983	जब\PR_PRL दैत्त\N_NN चल\V_VM गेल\V_VAUX तब\PR_PRL पेड़\N_NN से\PSP उतर\V_VM के\V_VAUX ऊ\PR_PRP पेड़\N_NN के\PSP फुल\N_NN तोड़लक\V_VM ,\RD_PUNC जउन\PR_PRL पेड़\N_NN से\PSP देत्त\N_NN फुल\N_NN तोड़लक\V_VM हल\V_VAUX आउ\CC_CCD लड़की\N_NN के\PSP सुंघा\V_VM देलक\V_VAUX ।\RD_PUNC
+msd984	ऊ\PR_PRP तुंरत\RB जी\V_VM उठल\V_VM ।\RD_PUNC
+msd985	लड़की\N_NN ओकरा\PR_PRP देखलक\V_VM तो\PR_PRL बड़ी\RP_INTF खुश\JJ होयल\V_VM ।\RD_PUNC
+msd986	लड़की\N_NN के\PSP नाम\N_NN हल\V_VAUX लालपरी\N_NNP ।\RD_PUNC
+msd987	दुनों\QT_QTC दिन\N_NN भर\RP_RPD ऎस-मौज\N_NN कयलन\V_VM ।\RD_PUNC
+msd988	एकरा\DM_DMD बाद\PSP लड़की\N_NN कहलक\V_VM कि\CC_CCS हमर\PR_PRP बापजान\N_NN अयतथुन\V_VM तब\PR_PRL जान\N_NN ना\RP_NEG बचतवऽ\V_VM से\CC_CCD तुरत\RB लड़की\N_NN ओकरा\PR_PRP मच्छड़\N_NN बना\V_VM देलक\V_VAUX ।\RD_PUNC
+msd989	जब\PR_PRL दैत्त\N_NN आयल\V_VM ।\RD_PUNC
+msd99	हम\PR_PRP एगो\QT_QTC कड़कबिन\N_NN लेके\V_VM पहरा\N_NN देबो\V_VM ।\RD_PUNC
+msd990	﻿फिन\RB चद्दर\N_NN तान\V_VM के\V_VAUX खटिया\N_NN पर\PSP सुत\V_VM रहलन\V_VAUX ।\RD_PUNC
+msd991	राजा\N_NN -\RD_PUNC रानी\N_NN केतनो\PR_PRQ उठावथ\V_VM बाकि\CC_CCD तइयो\CC_CCS ना\RP_NEG उठे\V_VM ।\RD_PUNC
+msd992	अन्त\N_NN में\PSP लड़की\N_NN कहलक\V_VM कि\CC_CCS जब\PR_PRL तक\RP_RPD हमरा\PR_PRP जमुरत\N_NN के\PSP गुच्छा\N_NN लाके\V_VM नऽ\RP_NEG देवऽ\V_VM तब\PR_PRL तक\RP_RPD हम\PR_PRP न\RP_NEG खायब\V_VM ना\RP_NEG पीअब\V_VM ।\RD_PUNC
+msd993	राजा\N_NN कहलन\V_VM कि\CC_CCS जउन\PR_PRL लाल\N_NN ला\PSP के\PSP देलक\V_VM हे\V_VAUX ओही\DM_DMD जमुरत\N_NN के\PSP गुच्छा\N_NN भी\RP_RPD जरूर\RB ला\V_VM के\V_VAUX देत\V_VAUX ।\RD_PUNC
+msd994	उठऽ\V_VM हाथ\N_NN -\RD_PUNC मुँह\N_NN धोवऽ\V_VM ।\RD_PUNC
+msd995	लड़की\N_NN उठल\V_VM आउ\CC_CCD हाथ\N_NN -\RD_PUNC मुँह\N_NN धोलक\V_VM ।\RD_PUNC
+msd996	राजा\N_NN फिन\CC_CCD सइस\N_NN के\PSP बोलवलन\V_VM आउ\CC_CCD कहलन\V_VM कि\CC_CCS अगर\CC_CCS तूँ\PR_PRP जमुरत\N_NN के\PSP गुच्छा\N_NN नऽ\RP_NEG लयबे\V_VM तो\PR_PRL तोरा\PR_PRP हम\PR_PRP सभे\QT_QTF परिवार\N_NN के\PSP गड़हारा\N_NN में\PSP भरवा\V_VM देब\V_VAUX ।\RD_PUNC
+msd997	सईस\N_NN कहलक\V_VM तो\PR_PRL पूछलक\V_VM -\RD_PUNC का\PR_PRQ होयल\V_VM कि\CC_CCS चद्दर\N_NN ओढ़\V_VM के\V_VAUX सूतल\V_VAUX हिय\V_VAUX ।\RD_PUNC
+msd998	जमुरत\N_NN के\PSP गुच्छा\N_NN तो\PR_PRL हम्मर\PR_PRP बहिन\N_NN हेयऽ\V_VM ,\RD_PUNC उठऽ\V_VAUX ।\RD_PUNC
+msd999	लड़का\N_NN उठल\V_VM ,\RD_PUNC हाथ\N_NN -\RD_PUNC मुँह\N_NN धोयलक\V_VM आउ\CC_CCD खा\V_VM -\RD_PUNC पी\V_VM के\V_VAUX तइयार\V_VAUX भेल\V_VAUX ।\RD_PUNC

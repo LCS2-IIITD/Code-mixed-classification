@@ -1,0 +1,22 @@
+लघुकथाकार\N-NN -\RD-PUNC कृष्ण\N-NN चन्द्र\N-NN चौधरीफेंकनी\N-NN अप्पन\PR-PRP गोदी\N-NN में\PSP दू\QT-QTC महीना\N-NN के\PSP बुतरू\N-NN लेले\V-VM दुआरी\N-NN पर\PSP बइठल\V-VM हल\V-VAUX ।\RD-PUNC 
+बुतरू\N-NN बोखार\N-NN से\PSP तलफइत\V-VM हल\V-VAUX ।\RD-PUNC 
+ओकर\PR-PRP हालत\N-NN देख\V-VM के\PSP फेंकनी\N-NN के\PSP चेहरा\N-NN पर\PSP चिंता\N-NN के\PSP छाँह\N-NN पसरल\V-VM हल\V-VAUX ।\RD-PUNC 
+फेंकनी\N-NN के\PSP मरद\N-NN चार\QT-QTC दिन\N-NN से\PSP दतवन\N-NN बेचे\V-VM शहर\N-NN गेल\V-VM हलन\V-VAUX ।\RD-PUNC 
+फेंकनी\N-NN के\PSP हाथ\N-NN में\PSP एक्को\QT-QTC पइसा\N-NN नयँ\V-VM हल\V-VAUX जे\PR-PRL दवा-दारू\N-NN करा\V-VM सकऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+ओझा-गुनी\N-NN से\PSP भी\RP-RPD कोई\PR-PRI फयदा\N-NN नयँ\N-NN होल\V-VM ।\RD-PUNC 
+फेंकनी\N-NN पइसा\N-NN लेल\V-VM दसो\V-VAUX दुआरी\N-NN हो\V-VM आल\V-VAUX हल,\V-VAUX मुदा\N-NN कहीं\DM-DMI से\PSP पइसा\N-NN नयँ\N-NN मिलल\V-VM हल\V-VAUX ।\RD-PUNC 
+मिलतइ\N-NN हल\V-VM भी\RP-RPD कहाँ\PR-PRQ से\PSP ?\V-VM 
+सउँसे\N-NN भुईं\N-NN टोली\V-VM के\PSP एक्के\QT-QTC हालत\N-NN हल\V-VM ।\RD-PUNC 
+हाँफइत\PR-PRP बुतरू\N-NN पर\PSP नजर\N-NN पड़ल\V-VM त\N-NN फेंकनी\N-NN के\PSP आँख\N-NN लोर\N-NN से\PSP भर\V-VM गेल\V-VAUX ।\RD-PUNC 
+ओही\DM-DMD घड़ी\N-NN सुकनी\N-NN बूढ़ी\N-NN काँख\N-NN में\PSP पोटली\N-NN दबयले\V-VM उहाँ\DM-DMD आ\V-VM खड़ा\N-NN होल\V-VM ।\RD-PUNC 
+दिन\N-NN भर\N-NN भीख\N-NN माँग\V-VM के\PSP आल\V-VM हल,\V-VAUX से\PSP थक\V-VM गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+तनि\N-NN सुस्ताय\N-NN ला\PSP बइठ\V-VM के\PSP पूछलक\V-VM -"फेंकनी\RD-PUNC !\V-VM 
+तूँ\PR-PRP काहे\CC-CCS रोवइत\V-VM ह\V-VAUX ?\RD-PUNC 
+""हम्मर\PR-PRP बुतरू\N-NN बेमार\N-NN हे\V-VM माय\N-NN !\PSP 
+हाथ\N-NN में\PSP एक्को\QT-QTC पइसा\N-NN नयँ\V-VM हे\V-VAUX ।\RD-PUNC 
+दवा-दारू\N-NN कहाँ\PR-PRQ से\PSP करा\V-VM सकऽ\V-VM ही\V-VAUX ?\RD-PUNC 
+"\N-NN फेंकनी\N-NN सुबकते\V-VM बतयलक\V-VAUX ।\RD-PUNC 
+"हम\PR-PRP पइसा\N-NN देइत\V-VM हियो,\V-VAUX कोई\PR-PRI डागडर\N-NN से\PSP जाके\V-VM देखावऽ\V-VAUX ।\RD-PUNC 
+"\N-NN कह\V-VM के\PSP सुकनी\N-NN अप्पन\PR-PRP पोटली\N-NN खोललक\V-VM आउ\CC-CCD दस\QT-QTC रुपइया\N-NN के\PSP नोट\N-NN ओकर\PR-PRP हाथ\N-NN पर\PSP रख\V-VM देलक\V-VAUX ।\RD-PUNC 
+फेंकनी\N-NN के\PSP लगल\V-VM कि\CC-CCS गाँव-गाँव\N-NN माँग-चाँग\V-VM के\PSP खाय\V-VM ओली\N-NN सुकनी\N-NN बूढ़ी\N-NN भीखमंगनी\N-NN नयँ\N-NN हे,\V-VM बलुक\N-NN ममता\N-NN के\PSP देवी\N-NN हे\V-VM ।\RD-PUNC 
+[मगही\N-NN मासिक\JJ पत्रिका\N-NN "अलका\V-VM मागधी",\RD-PUNC बरिस-४,\RD-PUNC अंक-१,\RD-PUNC जनवरी\N-NN १९९८,\PSP पृ॰२७\N-NN से\PSP साभार;\N-NN पत्रिका\N-NN में\PSP प्रकाशित\N-NN लघुकथा\N-NN के\PSP मूल\N-NN शीर्षक\V-VM -\RD-PUNC "देवी"]\V-VM ।\RD-PUNC 

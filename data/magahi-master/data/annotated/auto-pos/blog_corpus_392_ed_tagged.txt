@@ -1,0 +1,323 @@
+मगही\N-NN लेखकों\V-VM की\V-VAUX सूची\N-NN (वर्णक्रमानुसार)001\N-NN .\V-VM 
+अंकिमचन्द्र002\N-NN .\V-VM 
+अखिलेश\N-NN कुमार\N-NNP सिंह003\N-NN .\V-VM 
+अगिया\N-NN बैताल004\N-NN .\V-VM 
+अजय\N-NN प्रसाद\N-NNP वर्मा005\N-NN .\V-VM 
+अजयकान्त\N-NN शर्मा006\N-NN .\V-VM 
+अजीत\N-NN कुमार\N-NNP मिश्र\N-NN 'अविनाश'007\V-VM .\V-VAUX 
+अनन्त\N-NN कुमार\N-NNP सिंह008\N-NN .\V-VM 
+अभिमन्यु\N-NN प्रसाद\N-NN मौर्य,\PSP डॉ०009\N-NN .\V-VM 
+अमर\N-NN अलंकृत010\N-NN .\V-VM 
+अमलेश\N-NN वर्मा,\V-VM डॉ०011\V-VAUX .\V-VM 
+अम्बिका\N-NN सिंह012\N-NN .\V-VM 
+अरविन्द\N-NN कुमार\N-NNP 'अजगर'013\N-NN .\V-VM 
+अरविन्द\N-NN कुमार\N-NNP मिश्र\N-NN 'मगहिया'014\V-VM .\V-VAUX 
+अरुण\N-NN कुमार\N-NNP गौतम015\N-NNP .\V-VM 
+अरुण\N-NN कुमार\N-NNP सिन्हा016\N-NN .\V-VM 
+अर्चना\N-NN कुमारी017\PSP .\V-VM 
+अर्जुन\N-NN सिंह,\PSP प्रो०018\N-NN .\V-VM 
+अर्पणा\N-NN कुमारी\N-NNP 'अक्षरश्रुति'019\V-VM .\V-VM 
+अलखदेव\N-NNP प्रसाद\N-NNP 'अचल'020\N-NNP .\V-VM 
+अवधेश\N-NN कुमार\N-NNP सिन्हा021\N-NN .\V-VM 
+अशोक\N-NN कुमार\N-NNP भास्कर022\N-NN .\V-VM 
+अशोक\N-NN प्रियदर्शी023\N-NN .\V-VM 
+आनन्द\RB किरण\N-NN भारद्वाज024\V-VM .\V-VAUX 
+आर०\N-NN पी०\N-NN वर्मा025\N-NN .\V-VM 
+आरफिन\N-NN रिजवी026\N-NN .\V-VM 
+आलोक\N-NN प्रकाश\N-NN 'पंतुल'027\N-NN .\V-VM 
+आशा028\N-NN .\V-VM 
+आशुतोष\N-NN कुमार\N-NNP चौधरी029\N-NN .\V-VM 
+उपेन्द्र\N-NNP प्रसाद\N-NNP वर्मा030\N-NN .\V-VM 
+उमाकान्त\N-NN पाण्डेय031\N-NN .\V-VM 
+उमाकान्त\N-NN भट्टाचार्य032\N-NN .\V-VM 
+उमाशंकर\N-NN सिंह\N-NNP 'सुमन'033\N-NN .\V-VM 
+उमेश\N-NN कुमार034\PSP .\V-VM 
+उर्मिला\N-NN उत्पल035\N-NN .\V-VM 
+ऋषिराज\N-NN सुमन036\N-NN .\V-VM 
+ओम\N-NN प्रकाश037\N-NN .\V-VM 
+ओम\N-NN प्रकाश\N-NN सिंह\N-NNP 'फौजी'038\N-NN .\V-VM 
+कपिल\N-NNP देव\V-VM त्रिवेदी\N-NN 'देव'039\N-NN .\V-VM 
+कपिलदेव\N-NNP सिंह040\N-NN .\V-VM 
+कमलेश041\N-NN .\V-VM 
+कर्णावती,\V-VM कुमारी042\PSP .\V-VM 
+कल्पना\N-NN कुमारी043\PSP .\V-VM 
+कल्याणी\N-NN कुसुम\N-NN सिंह,\PSP डॉ०044\N-NN .\V-VM 
+कविता\N-NN कुमारी\N-NNP सिंह,\V-VM डॉ०045\V-VAUX .\V-VM 
+कश्यप,\PR-PRP एम०\N-NN पी०046\V-VM .\V-VAUX 
+किरण\N-NN अर्याणी\N-NN मित्रा,\V-VM डॉ०047\V-VAUX .\V-VM 
+किसलय048\N-NN .\V-VM 
+कुमार\N-NNP रजनीकान्त\N-NN रंजन,\V-VM डॉ०049\V-VAUX .\V-VM 
+कुमारेन्द्र\N-NNP अम्बुज050\N-NN .\V-VM 
+कृष्ण\N-NN कुमार\N-NNP भट्टा051\N-NN .\V-VM 
+कृष्ण\N-NN चन्द्र\N-NN चौधरी052\N-NN .\V-VM 
+कृष्ण\N-NN प्रकाश\N-NN 'सुधांशु',\PSP डॉ०053\N-NN .\V-VM 
+कृष्ण\N-NN मुरारी\N-NN सिंह\N-NNP 'किसान'054\N-NN .\V-VM 
+कृष्ण\N-NN मोहन\N-NN प्यारे055\V-VM .\V-VAUX 
+कृष्णदेव\V-VM प्रसाद056\N-NN .\V-VM 
+केदार\N-NN 'अजेय'057\N-NN .\V-VM 
+केदार\N-NN मिश्र058\N-NN .\V-VM 
+केशव\N-NN प्रसाद\N-NNP वर्मा059\N-NN .\V-VM 
+केसरी\N-NN कुमार,\PSP आचार्य060\N-NN .\V-VM 
+गगनसुत\N-NN नवीन061\N-NN .\V-VM 
+गणेश\N-NN प्रसाद\N-NNP गुप्ता062\N-NNP .\V-VM 
+गणेश\N-NN मिश्र063\N-NN .\V-VM 
+गनौरी\N-NN महतो,\PSP डॉ०064\N-NN .\V-VM 
+गयादत्त\N-NN मिश्र\N-NN विशारद,\N-NN डॉ०065\N-NN .\V-VM 
+गिरधर\N-NN प्रसाद\N-NNP सुल्तानिया066\V-VM .\V-VM 
+गुरु\N-NN चरण\N-NN बौद्ध067\QT-QTF .\V-VM 
+गोपाल\N-NN मिश्र\N-NN केसरी068\PSP .\V-VM 
+गोपाल\N-NN शरण\N-NN सिंह,\PSP डॉ०069\N-NN .\V-VM 
+गोवर्धन\N-NN प्रसाद\N-NNP 'सदय'070\N-NNP .\V-VM 
+गोविन्द\N-NN शर्मा071\N-NN .\V-VM 
+गौरीशंकर\N-NNP प्रसाद072\N-NN .\V-VM 
+चंचला\N-NN कुमारी073\PSP .\V-VM 
+चतुर्भुज,\N-NN डॉ०074\N-NN .\V-VM 
+चन्द्र\N-NN प्रकाश\N-NN माया075\N-NN .\V-VM 
+चन्द्रशेखर\N-NN झा\N-NN 'इन्दु'076\N-NN .\V-VM 
+चन्द्रशेखर\N-NN शर्मा077\N-NN .\V-VM 
+चितरंजन\N-NN सिंह078\N-NN .\V-VM 
+जगन्नाथ\N-NNP प्रसाद\N-NNP 'किंकर'\N-NNP (देव\N-NNP के\PSP राजा)079\N-NN .\V-VM 
+जटाधारी\N-NN मिश्र080\N-NN .\V-VM 
+जनकनन्दन\N-NN प्रसाद\N-NNP सिंह\N-NNP 'जनक'081\N-NN .\V-VM 
+जनहरिनाथ082\N-NN .\V-VM 
+जनार्दन\N-NN प्रसाद\N-NNP सिंह\N-NNP 'जस्टिस\N-NN ऑफ\N-NN पीस'083\V-VM .\V-VAUX 
+जनार्दन\N-NN मिश्र\N-NN 'जलज'084\N-NN .\V-VM 
+जय\V-VM प्रकाश085\N-NN .\V-VM 
+जयनन्दन\N-NN ठाकुर086\N-NN .\V-VM 
+जयनाथ\N-NN कवि,\N-NN प्रो०087\N-NN .\V-VM 
+जयनाथपति088\N-NN .\V-VM 
+जयप्रकाश\N-NN नारायण\N-NN सिंह089\N-NN .\V-VM 
+जयराम\N-NN पाठक\N-NN 'सेवक'090\N-NN .\V-VM 
+जवाहिर\N-NN लाल091\N-NN .\V-VM 
+जितेन्द्र\N-NNP कुमार092\N-NNP .\V-VM 
+जितेन्द्र\N-NNP प्रसाद\N-NNP यादव093\N-NN .\V-VM 
+ज्ञान्ति\N-NN कुमारी094\PSP .\V-VM 
+ज्योति095\N-NN .\V-VM 
+ज्वाला\N-NN प्रसाद,\PSP मास्टर096\N-NN .\V-VM 
+तारकेश्वर\N-NN भारती097\N-NN .\V-VM 
+तृप्ति\N-NN नारायण\N-NN शर्मा098\N-NN .\V-VM 
+दयानन्द\N-NN 'बटोही'099\N-NN .\V-VM 
+दशई\N-NN सिंह100\N-NN .\V-VM 
+दशरथ101\N-NN .\V-VM 
+दामोदर\N-NN प्रसाद,\V-VM डॉ०102\V-VAUX .\V-VM 
+दिनेश\N-NN प्रसाद103\N-NN .\V-VM 
+दिलीप\N-NN कुमार,\PSP प्रो०104\N-NN .\V-VM 
+दीनबन्धु105\N-NN .\V-VM 
+दीनानाथ\N-NN शरण,\PSP डॉ०106\N-NN .\V-VM 
+दीपा\N-NN वर्मा107\N-NN .\V-VM 
+देवनन्दन\N-NN सिंह108\N-NN .\V-VM 
+देवराज\N-NN शर्मा109\N-NN .\V-VM 
+देवेन्द्र\N-NN कुमार110\PSP .\V-VM 
+द्वारका\N-NN प्रसाद111\N-NN .\V-VM 
+धनंजय\N-NN श्रोत्रिय112\N-NN .\V-VM 
+धीरेन्द्र\N-NNP कुमार\N-NNP भारद्वाज113\N-NN .\V-VM 
+नन्द\N-NN किशोरदास114\N-NN .\V-VM 
+नन्दकिशोर\N-NN सिंह115\N-NN .\V-VM 
+नन्दकिशोर\N-NN सिंह\N-NNP 'विद्यार्थी'116\N-NN .\V-VM 
+नन्दन\N-NN शास्त्री117\N-NN .\V-VM 
+नन्दा\N-NN मौर्य118\N-NN .\V-VM 
+नरमदेश्वर\N-NN कुमार\N-NNP सिंह\N-NNP 'इंजोर'119\V-VM .\V-VAUX 
+नरेन्द्र\N-NNP प्रसाद\N-NNP नवीन120\N-NNP .\V-VM 
+नरेन्द्र\N-NNP प्रसाद\N-NNP सिंह121\N-NNP .\V-VM 
+नरेश\N-NN प्रसाद\N-NNP कुशवंत122\N-NN .\V-VM 
+नर्मदेश्वर\N-NN कुमार\N-NNP शर्मा\N-NN 'इंजोर'123\V-VM .\V-VAUX 
+नागेन्द्र\N-NNP तिवारी124\N-NN .\V-VM 
+नागेन्द्र\N-NNP प्रसाद\N-NNP शर्मा\N-NN 'मुकुल'125\N-NN .\V-VM 
+नारायण\N-NN प्रसाद126\N-NN .\V-VM 
+नील\N-NN कमल127\N-NN .\V-VM 
+परमेश्वरी128\N-NN .\V-VM 
+परमेश्वरी\N-NN सिंह129\N-NN .\V-VM 
+परमेश्वरी\N-NN सिंह\N-NNP 'अनपढ़'130\N-NN .\V-VM 
+पवन\N-NN तनय131\N-NN .\V-VM 
+पांशुल,\QT-QTC एम०\N-NN बी०132\N-NN .\V-VM 
+पुष्पा\N-NN अर्याणी133\N-NN .\V-VM 
+पूनम\N-NN सिंह134\N-NN .\V-VM 
+प्यारे\V-VM सिन्हा\N-NN परेश135\N-NN .\V-VM 
+प्रभात\N-NN कुमार\N-NNP वर्मा136\N-NN .\V-VM 
+प्रभात\N-NN वर्मा137\N-NN .\V-VM 
+प्रभु\N-NN नारायण\N-NN विद्यार्थी,\N-NN डॉ०138\N-NN .\V-VM 
+प्रमिला\N-NN प्रकाश139\N-NN .\V-VM 
+प्रियम्वदा140\N-NN .\V-VM 
+प्रेम\N-NN कुमार\N-NNP मणि141\N-NN .\V-VM 
+प्रेमलता142\N-NN .\V-VM 
+प्रेमलता\N-NN भारती143\N-NN .\V-VM 
+बंशी\N-NN शरण\N-NN सिंह144\N-NN .\V-VM 
+बाँके\N-NN बिहारी\N-NN 'वियोगी'145\N-NN .\V-VM 
+बाबूलाल\N-NN मधुकर146\N-NN .\V-VM 
+बालेश्वर\N-NN राम147\N-NN .\V-VM 
+बालेश्वर,\N-NN भाई148\N-NN .\V-VM 
+बि०\N-NN एन०\N-NN विश्वकर्मा,\N-NN डॉ०149\N-NN .\V-VM 
+बैजू\N-NN सिंह150\N-NN .\V-VM 
+ब्रजमोहन\N-NN पाण्डेय\N-NN 'नलिन'151\N-NN .\V-VM 
+ब्रजेश\N-NN कुमार\N-NNP दांगी152\N-NN .\V-VM 
+भरत\N-NN सिंह,\PSP डॉ०153\N-NN .\V-VM 
+भास्कर\N-NN प्रसाद\N-NNP सिंह\N-NNP 'बचल-खुचल'154\N-NN .\V-VM 
+भुवनेश्वर\N-NN प्रसाद\N-NNP सिंह155\N-NNP .\V-VM 
+मथुरा\N-NN प्रसाद\N-NNP नवीन156\N-NNP .\V-VM 
+मदन\N-NN मोहन\N-NN कुमार157\PSP .\V-VM 
+मदन\N-NN मोहन\N-NN 'मोसाफिर'158\N-NN .\V-VM 
+मनसुर\N-NN खान\N-NN 'नादान'159\N-NN .\V-VM 
+मनोज\N-NN कुमार160\PSP .\V-VM 
+महेन्द्र\N-NNP प्रसाद161\N-NN .\V-VM 
+महेन्द्र\N-NNP प्रसाद\N-NNP 'देहाती'162\N-NNP .\V-VM 
+महेश\N-NN 'प्रबुद्ध'163\N-NN .\V-VM 
+मिथिलेश164\N-NN .\V-VM 
+मुद्रिका\N-NNP सिंह165\N-NN .\V-VM 
+मुनक्का\N-NN कुँअर166\N-NN .\V-VM 
+मुनिलाल\N-NN सिन्हा\N-NN 'सीसम'167\N-NN .\V-VM 
+मुनेश्वर\N-NN शमन168\N-NN .\V-VM 
+मुन्ना\N-NN प्रसाद169\N-NN .\V-VM 
+मुरली\N-NN मनोहर170\N-NN .\V-VM 
+मुरारी\N-NN शरण\N-NN पाण्डेय171\N-NN .\V-VM 
+मोतीलाल\N-NNP 'प्यासा'172\N-NN .\V-VM 
+युगल\N-NN किशोर\N-NN शर्मा\N-NN 'स्वयं'173\N-NN .\V-VM 
+युगेश्वर\N-NN पाण्डेय174\N-NN .\V-VM 
+योगेश्वर\N-NN सिंह\N-NNP 'योगेश'175\N-NN .\V-VM 
+रघुवंश\N-NN नारायण\N-NN 'प्रहरी'176\N-NN .\V-VM 
+रमाकान्त\N-NN 'निराला'177\N-NN .\V-VM 
+रमाशंकर178\N-NN .\V-VM 
+रवीन्द्र\N-NNP कुमार179\N-NNP .\V-VM 
+रवीन्द्र\N-NNP नाथ\N-NNP मिश्र180\V-VM .\V-VM 
+राकेश\N-NN कुमार\N-NNP सिन्हा\N-NN 'रवि'181\V-VM .\V-VAUX 
+राकेश\N-NN प्रियदर्शी182\N-NN .\V-VM 
+रागिनी\N-NN सिन्हा183\N-NN .\V-VM 
+राज\N-NN नारायण\N-NN राय,\PSP डॉ०184\N-NN .\V-VM 
+राज\N-NN नारायण,\PSP डॉ०185\N-NN .\V-VM 
+राजकुमार\N-NN 'प्रेमी'186\N-NN .\V-VM 
+राजेन्द्र\N-NN कुमार\N-NNP यौधेय187\N-NN .\V-VM 
+राजेन्द्र\N-NN पाण्डेय188\N-NN .\V-VM 
+राजेन्द्र\N-NN प्रसाद189\N-NN .\V-VM 
+राजेन्द्र\N-NN ब्रह्मचारी190\N-NN .\V-VM 
+राजेश्वर\N-NN उपाध्याय191\N-NN .\V-VM 
+राजेश्वर\N-NN पाठक\N-NN 'राजेश'192\N-NN .\V-VM 
+राजेश्वर\N-NN प्रसाद\N-NNP अंशुल193\N-NN .\V-VM 
+राजेश्वर\N-NN प्रसाद\N-NNP सिंह194\N-NNP .\V-VM 
+राणा\N-NN प्रसाद195\N-NN .\V-VM 
+राधा,\N-NN कुमारी196\PSP .\V-VM 
+राधाकान्त\N-NN भारती197\N-NN .\V-VM 
+राधाकृष्ण\N-NN प्रसाद198\N-NN .\V-VM 
+राधाकृष्ण\N-NN राय199\N-NN .\V-VM 
+राम\N-NN खेलावन200\V-VM .\V-VM 
+राम\N-NN गोपाल\N-NN आर्य201\N-NN .\V-VM 
+राम\N-NN गोविन्द\N-NN यादव\N-NN 'जानकीन्दु'202\N-NN .\V-VM 
+राम\N-NN जन्म\N-NN सिंह\N-NNP 'अंशुमाली'203\N-NN .\V-VM 
+राम\N-NN नन्दन,\PSP डॉ०\V-VM 204\V-VAUX .\V-VM 
+राम\N-NN नरेश\N-NN 'नीरस'205\N-NN .\V-VM 
+राम\N-NN पारिख206\N-NN .\V-VM 
+राम\N-NN प्रसाद\N-NNP सिंह,\N-NNP डॉ०207\N-NN .\V-VM 
+राम\N-NN बुझावन\N-NN सिंह,\PSP प्रो०208\N-NN .\V-VM 
+राम\N-NN भजन\N-NN शर्मा\N-NN 'बटोही'209\N-NN .\V-VM 
+राम\N-NN विलास\N-NN 'रजकण'210\N-NN .\V-VM 
+रामकृष्ण\N-NN प्रसाद\N-NNP मिश्र211\N-NNP .\V-VM 
+रामगोपाल\N-NN पाण्डेय212\N-NN .\V-VM 
+रामचन्द्र\N-NN 'अदीप'213\N-NN .\V-VM 
+रामदास\N-NN आर्य\N-NN उर्फ\N-NN घमण्डी\N-NN राम214\N-NN .\V-VM 
+रामदेव\N-NN मेहता\N-NN 'मुकुल'215\N-NN .\V-VM 
+रामनगीना\N-NN सिंह\N-NNP 'मगहिया',\RD-PUNC संत216\N-NNP .\V-VM 
+रामनरेश\N-NN पाठक217\N-NN .\V-VM 
+रामनरेश\N-NN प्रसाद\N-NNP वर्मा218\N-NN .\V-VM 
+रामनरेश\N-NN मिश्र\N-NN 'हंस',\PSP डॉ०219\N-NN .\V-VM 
+रामनाथ\N-NN शर्मा220\N-NN .\V-VM 
+रामपुकार\N-NN सिंह\N-NNP 'राठौर'221\N-NN .\V-VM 
+रामरतन\N-NN प्रसाद\N-NNP सिंह\N-NNP 'रत्नाकर'222\N-NN .\V-VM 
+रामवृक्ष\N-NN महाराज223\N-NN .\V-VM 
+रामाकांत\N-NN सिंह224\N-NN .\V-VM 
+रामाधार\N-NN प्रसाद225\N-NN .\V-VM 
+रामाधार\N-NN सिंह\N-NNP 'आधार'226\N-NN .\V-VM 
+रासबिहारी\N-NN पाण्डेय227\N-NN .\V-VM 
+रीना\N-NN कुमारी228\PSP .\V-VM 
+रेणु\N-NN सहाय229\N-NN .\V-VM 
+लक्ष्मण\N-NN प्रसाद\N-NNP 'चन्द'230\N-NNP .\V-VM 
+लक्ष्मण\N-NN प्रसाद\N-NNP 'दीन'231\N-NNP .\V-VM 
+लक्ष्मी\N-NN देवी232\N-NN .\V-VM 
+लक्ष्मीचन्द्र\N-NNP प्रियदर्शी,\PSP प्रो०233\N-NN .\V-VM 
+लवकुश\N-NNP प्रसाद\N-NNP सिंह234\N-NNP .\V-VM 
+लालमणि\N-NN कुमारी235\PSP .\V-VM 
+लालमणि\N-NN विक्रान्त236\N-NN .\V-VM 
+लोहड़ी\N-NN ठाकुर237\N-NN .\V-VM 
+वासुदेव\N-NN प्रसाद238\N-NN .\V-VM 
+विजय\N-NN कुमार\N-NNP पाठक,\RD-PUNC डॉ०239\N-NNP .\V-VM 
+विजय\N-NN कुमार\N-NNP मिश्र240\N-NN .\V-VM 
+विजया\N-NN पाठक241\N-NN .\V-VM 
+विनय\N-NN प्रसाद\N-NNP मिश्र242\N-NNP .\V-VM 
+विनय\N-NN प्रसाद\N-NNP सिंह243\N-NNP .\V-VM 
+विनीत\N-NN कुमार\N-NNP मिश्र\N-NN 'अकेला'244\V-VM .\V-VAUX 
+विनोद\N-NN कुमार\N-NNP उपाध्याय245\N-NN .\V-VM 
+विमल\N-NN कुमार246\PSP .\V-VM 
+विवश\N-NN बिहारी247\N-NN .\V-VM 
+विश्वनाथ\N-NN मिश्र\N-NN 'पंचानन'248\N-NN .\V-VM 
+विश्वनाथ\N-NN साहू249\N-NN .\V-VM 
+वीणा\N-NN कुमारी\N-NNP मिश्रा250\V-VM .\V-VM 
+वीरेन्द्र\N-NN कुमार\N-NNP भारद्वाज251\N-NN .\V-VM 
+वीरेन्द्र\N-NN सिंह\N-NNP 'आजाद'252\N-NN .\V-VM 
+वैद्यनाथ\N-NN शर्मा253\N-NN .\V-VM 
+शकुन्तला\N-NN प्रसाद254\N-NN .\V-VM 
+शम्भु\N-NN विश्वकर्मा255\N-NN .\V-VM 
+शम्भु\N-NN शरण\N-NN सत्यार्थी256\N-NN .\V-VM 
+शशिभूषण\N-NN उपाध्याय257\N-NN .\V-VM 
+शशिभूषण\N-NN उपाध्याय\N-NN 'मधुकर'258\N-NN .\V-VM 
+शिव\N-NNP प्रसाद\N-NNP लोहानी259\N-NN .\V-VM 
+शिवदत्त\N-NN मिश्र260\N-NN .\V-VM 
+शिवपूजन\N-NN प्रसाद261\N-NN .\V-VM 
+शिवपूजन\N-NN सिंह262\N-NN .\V-VM 
+शिवराम\N-NN योगी263\N-NN .\V-VM 
+शीला\N-NN सिंह264\N-NN .\V-VM 
+शेखर265\N-NN .\V-VM 
+शैलेन्द्र\N-NNP कुमार\N-NNP 'शैल'266\V-VM .\V-VM 
+श्याम\N-NNP विलास\N-NN पाठक\N-NN 'ललित'267\N-NN .\V-VM 
+श्यामनन्दन\N-NNP शास्त्री\N-NN हंसराज,\V-VM डॉ०268\V-VAUX .\V-VM 
+श्रीकान्त\N-NN जैतपुरिया269\N-NN .\V-VM 
+श्रीकान्त\N-NN शास्त्री,\V-VM डॉ०270\V-VAUX .\V-VM 
+श्रीधर\N-NNP प्रसाद\N-NNP शर्मा271\N-NNP .\V-VM 
+संगीता\N-NN कुमारी272\PSP .\V-VM 
+संजय\N-NN कुमार\N-NNP सिन्हा,\RD-PUNC डॉ०273\N-NNP .\V-VM 
+संजय\N-NN सिन्हा274\N-NN .\V-VM 
+संजीव\N-NN कुमार\N-NNP तिवारी275\N-NN .\V-VM 
+संजू\N-NN बाबा276\N-NN .\V-VM 
+संतोष\N-NN सक्सेना277\N-NN .\V-VM 
+सच्चिदानन्द\N-NN प्रसाद,\V-VM डॉ०278\V-VAUX .\V-VM 
+सच्चिदानन्द\N-NN प्रेमी279\N-NN .\V-VM 
+सच्चिदानन्द,\N-NN आचार्य280\N-NN .\V-VM 
+सतीश\N-NN कुमार\N-NNP मिश्र281\N-NN .\V-VM 
+सतीशराज\N-NN पुष्करणा,\V-VM डॉ०282\V-VAUX .\V-VM 
+सत्यदेव\N-NN शान्तिप्रिय283\N-NN .\V-VM 
+सत्येन्द्र\N-NN कुमार\N-NNP सिंह284\N-NN .\V-VM 
+सत्येन्द्र\N-NN जमालपुरी285\N-NN .\V-VM 
+सम्पत्ति\N-NN अर्याणी,\N-NN डॉ०286\V-VM .\V-VAUX 
+सरयु\N-NN कुमार\N-NNP करुण\N-NN उर्फ\V-VM साधुजी287\N-NN .\V-VM 
+सरयु\N-NN कुमार\N-NNP तरुण\N-NN उर्फ\V-VM साधुजी288\N-NN .\V-VM 
+सरयू\N-NN प्रसाद,\V-VM डॉ०289\V-VAUX .\V-VM 
+सरिता\N-NN रंजन290\N-NN .\V-VM 
+सरोज\N-NN कुमार\N-NNP त्रिपाठी,\RD-PUNC डॉ०291\N-NNP .\V-VM 
+सरोज\N-NN देवी292\N-NN .\V-VM 
+सविता\N-NN आजाद293\N-NN .\V-VM 
+साधना\N-NN प्रियदर्शी294\N-NN .\V-VM 
+सिद्धनाथ\N-NN शर्मा\N-NN उर्फ\N-NN सिद्धि295\N-NN .\V-VM 
+सिद्धेश्वर296\N-NN .\V-VM 
+सिद्धेश्वर\N-NN नाथ\N-NNP पाण्डेय297\N-NN .\V-VM 
+सी०\N-NN रा०\N-NN प्रसाद,\V-VM डॉ०298\V-VAUX .\V-VM 
+सुखदेव\N-NN प्रसाद\N-NNP रत्नाकर299\N-NN .\V-VM 
+सुखित\N-NN वर्मा,\PSP प्रो०300\N-NN .\V-VM 
+सुजीत\N-NN मालाकार301\N-NN .\V-VM 
+सुदर्शन\N-NN श्रीनिवास\N-NN शांडिल्य302\N-NN .\V-VM 
+सुबोध\N-NN कुमार\N-NNP आर्य303\N-NN .\V-VM 
+सुमनप्रभा\N-NN प्रसाद,\V-VM डॉ०304\V-VAUX .\V-VM 
+सुमन्त305\N-NN .\V-VM 
+सुरेन्द्र\N-NNP प्रसाद\N-NNP जमुआर,\N-NNP डॉ०306\N-NN .\V-VM 
+सुरेश\N-NN दूबे\V-VM 'सरस'307\V-VAUX .\V-VM 
+सुरेश\N-NN निर्द्वन्द्व308\N-NN .\V-VM 
+सुरेश\N-NN प्रसाद\N-NN 'विमल',\PSP डॉ०309\N-NN .\V-VM 
+सुशील\N-NN रंजन310\N-NN .\V-VM 
+सूर्यनारायण\N-NN शर्मा311\N-NN .\V-VM 
+सोम\N-NN नरेश312\N-NN .\V-VM 
+स्वर्णकिरण,\N-NN डॉ०313\N-NN .\V-VM 
+हरिदास\N-NN ज्वाल,\V-VM पं०314\N-NN .\V-VM 
+हरिश्चन्द्र\N-NN प्रियदर्शी315\N-NN .\V-VM 
+हरीन्द्र\N-NN विद्यार्थी316\N-NN .\V-VM 
+हर्षदेव\N-NN 'प्रेमी'317\N-NN .\V-VM 
+हारुण\N-NN रसीद\N-NN 'अश्क'318\N-NN .\V-VM 
+हृषिकेश\N-NN पाठक;;;;नारायण\N-NN जी,\V-VM नमस्कार\N-NN .\V-VM 
+अगर\CC-CCS आप\PR-PRP चाहें\N-NN तो\PR-PRL मेरा\N-NNP नाम\N-NN भी\RP-RPD जोड़\N-NN सकते\V-VM हैं\V-VAUX http://mka-mka\RD-PUNC .\V-VM 
+blogspot\N-NN .\V-VM 
+com/2010/10/nayeem-master-ke-dusman-magahi-story\N-NN .\V-VM 
+html;;;;This\N-NN comment\N-NN has\N-NN been\V-VM removed\V-VAUX by\V-VAUX a\V-VAUX blog\RD-PUNC administrator\V-VAUX .\V-VM 

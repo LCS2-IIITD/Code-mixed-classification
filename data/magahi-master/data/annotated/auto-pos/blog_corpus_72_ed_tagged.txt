@@ -1,0 +1,28 @@
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX EN-IN\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin-top:0cm;\RD-PUNC mso-para-margin-right:0cm;\N-NN mso-para-margin-bottom:10.0pt;\N-NN mso-para-margin-left:0cm;\N-NN line-height:17.0pt;\N-NN mso-line-height-rule:exactly;\N-NN mso-pagination:widow-orphan;\N-NN font-size:11.0pt;\N-NN font-family:"Calibri","sans-serif";\N-NN mso-ascii-font-family:Calibri;\N-NN mso-ascii-theme-font:minor-latin;\N-NN mso-hansi-font-family:Calibri;\N-NN mso-hansi-theme-font:minor-latin;\N-NN mso-fareast-language:EN-US;}\N-NN मूल\N-NN जर्मन\V-VM –\N-NN Der\N-NN Taschendieb\V-VM ;\V-VAUX मगही\N-NN अनुवाद\N-NN -\RD-PUNC नारायण\N-NN प्रसाद\N-NNP Normal\N-NNP 0\N-NN false\N-NN false\V-VM false\V-VAUX EN-IN\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin-top:0cm;\RD-PUNC mso-para-margin-right:0cm;\N-NN mso-para-margin-bottom:10.0pt;\N-NN mso-para-margin-left:0cm;\N-NN line-height:17.0pt;\N-NN mso-line-height-rule:exactly;\N-NN mso-pagination:widow-orphan;\N-NN font-size:11.0pt;\N-NN font-family:"Calibri","sans-serif";\N-NN mso-ascii-font-family:Calibri;\N-NN mso-ascii-theme-font:minor-latin;\N-NN mso-hansi-font-family:Calibri;\N-NN mso-hansi-theme-font:minor-latin;\N-NN mso-fareast-language:EN-US;}\N-NN एगो\QT-QTC बेपारी\N-NN एक\QT-QTC तुरी\N-NN यात्रा\N-NN पर\PSP गेलइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP एगो\QT-QTC छोट्टे\JJ गो\RP-CL शहर\N-NN में\PSP ठहर\V-VM गेलइ,\V-VAUX काहे\CC-CCS कि\CC-CCS ऊ\PR-PRP अपन\PR-PRP दोस्त\N-NN से\PSP भेंट\V-VM करे\V-VAUX लगी\V-VAUX चाहऽ\N-NN हलइ\V-VM ।\RD-PUNC 
+एगो\QT-QTC होटल\N-NN में\PSP एगो\QT-QTC रूम\N-NN किराया\V-VM पर\PSP लेलकइ\V-VM आउ\CC-CCD फेर\N-NN अपन\PR-PRP दोस्त\N-NN के\PSP फ्लैट\N-NN पर\PSP गेलइ\V-VM ।\RD-PUNC 
+दुन्नु\QT-QTC दोस्त\N-NN एक\QT-QTC साथ\PSP बइठके\V-VM देर\N-NN तक\RP-RPD गपशप\N-NN करते\V-VM गेला\V-VAUX ।\RD-PUNC 
+देर\N-NN रात\N-NN के\PSP बेपारी\N-NN अपन\PR-PRP होटल\V-VM वापिस\N-NN चलल\V-VM ।\RD-PUNC 
+शहर\N-NN के\PSP गलियन\N-NN में\PSP बहुत\N-NN अन्हेरा\N-NN हलइ\V-VM आउ\CC-CCD बहुत\N-NN कठिनाई\N-NN से\PSP ऊ\PR-PRP अपन\PR-PRP रस्ता\N-NN देख\V-VM पावऽ\V-VAUX हलइ\V-VM ।\RD-PUNC 
+गलिया\N-NN में\PSP कोय\PR-PRI नयँ\JJ हलइ\V-VM ।\RD-PUNC 
+अचानक\N-NN ओकरा\PR-PRP पैर\N-NN के\PSP आहट\V-VM सुनाय\N-NN देलकइ\V-VM ।\RD-PUNC 
+एगो\QT-QTC अदमी\N-NN बगल\N-NN के\PSP गली\N-NN के\PSP कोनमा\N-NN भिर\N-NN से\PSP तेजी\RB से\PSP अइलइ\N-NN आउ\CC-CCD दुनहूँ\N-NN टकरा\N-NN गेते\N-NN गेलइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP अदमिया\N-NN माफी\N-NN मँगलकइ\V-VM आउ\CC-CCD तेजी\RB से\PSP आगे\N-NN बढ़\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+बेपरिया\N-NN रुक\N-NN गेलइ\V-VM ।\RD-PUNC 
+"अभी\N-NN की\PSP समय\N-NN होब\N-NN करऽ\V-VM होतइ\V-VAUX ?\RD-PUNC 
+"\N-NN ऊ\PR-PRP सोचलकइ\V-VM आउ\CC-CCD अपन\PR-PRP घड़ी\N-NN देखे\V-VM ल\N-NN चहलकइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP अपन\PR-PRP जैकेट\N-NN के\PSP पाकिट\N-NN में\PSP खोजलक,\V-VM लेकिन\CC-CCD ओकरा\PR-PRP घड़िया\N-NN नयँ\N-NN मिल्लल\V-VM ।\RD-PUNC 
+ओकर\PR-PRP सब्भे\PSP पाकिट\N-NN खाली\QT-QTF हलइ\V-VM ।\RD-PUNC 
+तेजी\RB से\PSP ऊ\PR-PRP धउगके\N-NN ऊ\PR-PRP अदमिया\N-NN तरफ\N-NN गेल,\V-VM ओकरा\PR-PRP कोटवा\N-NN पकड़के\V-VM रोकलक\V-VAUX आउ\CC-CCD चिल्लाल,\N-NN "जल्दी\N-NN से\PSP घड़िया\N-NN दे\V-VM !\V-VAUX 
+"\CC-CCD ऊ\PR-PRP अदमिया\N-NN बहुत\RP-INTF डर\N-NN गेलइ,\V-VM काहे\CC-CCS कि\CC-CCS बेपरिया\N-NN के\PSP अवाज\N-NN में\PSP बहुत\N-NN गोस्सा\N-NN हलइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP घड़िया\N-NN दे\V-VM देलकइ,\V-VAUX आउ\CC-CCD बेपरिया\N-NN संतुष्ट\N-NN होके\V-VM चल\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP तुरते\N-NN होटल\V-VM में\PSP अपन\PR-PRP रूम\N-NN में\PSP पहुँचल\V-VM आउ\CC-CCD बत्ती\N-NN जलइलक\V-VM ।\RD-PUNC 
+तब\PR-PRL ओकरा\PR-PRP बिछावन\N-NN के\PSP बगल\N-NN के\PSP टेबुल\N-NN पर\PSP घड़ी\N-NN पर\PSP नजर\N-NN पड़ल\V-VM ।\RD-PUNC 
+ऊ\PR-PRP अपन\PR-PRP हाथ\N-NN पाकिट\N-NN में\PSP घुसइलक\V-VM आउ\CC-CCD ऊ\PR-PRP अदमिया\N-NN के\PSP घड़िया\N-NN देखलक\V-VM !\V-VAUX 
+"हे\N-NN भगमान\N-NN !\V-VM 
+”,\PR-PRP बेपरिया\N-NN बोलल,\V-VM "वास्तव\N-NN में\PSP हमहीं\N-NN पकिटमार\N-NN हकिअइ,\V-VM ऊ\PR-PRP अदमिया\N-NN नयँ\V-VM !\V-VAUX 
+”रतिया\N-NN के\PSP बेपरिया\N-NN के\PSP ठीक\N-NN से\PSP नीन\N-NN नयँ\N-NN अइलइ\V-VM ।\RD-PUNC 
+बिहान\N-NN होला\V-VM पर\PSP ऊ\PR-PRP घड़िया\N-NN लेके\V-VM पुलिस\N-NN के\PSP पास\N-NN अइलइ\V-VM ।\RD-PUNC 
+जल्दीए\N-NN घड़िया\N-NN के\PSP मालिक\N-NN के\PSP ढूँढ़\N-NN लेवल\V-VM गेलइ\V-VAUX आउ\CC-CCD ओकरा\PR-PRP घड़िया\N-NN वापिस\N-NN दे\V-VM देवल\V-VAUX गेलइ\V-VAUX ।\RD-PUNC 

@@ -1,0 +1,348 @@
+[नोट:\N-NN हूठा\N-NN =\PSP साढ़े\N-NN तीन;\QT-QTC धमुच्चा\N-NN =\V-VM साढ़े\N-NN चार;\V-VM पोंचा\N-NN =\V-VM साढ़े\N-NN पाँच;\N-NN खोंचा\V-VM =\V-VAUX साढ़े\N-NN छह;\N-NN सतोंचा\V-VM =\V-VAUX साढ़े\N-NN सात[दे॰\PSP Prinsep's\N-NN Essays\V-VM on\V-VAUX Indian\V-VAUX Antiquities\V-VAUX (1858),\RD-PUNC Vol\V-VAUX .\V-VM 
+II,\QT-QTC USEFUL\N-NN TABLES,\V-VM illustrative\V-VAUX of\V-VAUX the\V-VAUX Coins,\RD-PUNC Weights\N-NN and\N-NN Measures\V-VM of\V-VAUX BRITISH\V-VAUX INDIA,\RD-PUNC p.130:धोंचा\N-NN -\RD-PUNC Four\N-NN and\V-VM a\V-VAUX half\RD-PUNC .\V-VM 
+The\N-NN word\N-NN is\N-NN found\V-VM in\V-VAUX Arithmetical\RD-PUNC Tables\V-VAUX of\V-VAUX the\V-VAUX Multiplication\V-VAUX of\V-VAUX Fractions,\RD-PUNC which\N-NN are\V-VM in\V-VAUX constant\RD-PUNC use\V-VAUX with\V-VAUX our\V-VAUX Surveying\V-VAUX Ameens,\RD-PUNC when\N-NN reducing\N-NN their\V-VM linear\V-VAUX measurements\V-VAUX to\RD-PUNC Beeghas\V-VAUX .\V-VM 
+The\N-NN words\N-NN used\N-NN by\V-VM them\V-VAUX in\V-VAUX Fractional\V-VAUX Multiplications\RD-PUNC areडेवढ़ा\N-NN 1.5;\N-NN धमा\V-VM 2.5;\V-VAUX होंटा\N-NN 3.5;\N-NN धोंचा\V-VM 4.5;\V-VAUX पोंचा\N-NN 5.5;\N-NN खोंचा\V-VM 6.5;\RD-PUNC सतोंचा\V-VM 7.5\V-VAUX .\V-VM 
+The\N-NN size\N-NN of\N-NN the\V-VM fields\V-VAUX rarely\RD-PUNC requires\V-VAUX Ameens\V-VAUX to\V-VAUX go\V-VAUX beyond\RD-PUNC this\V-VAUX .\V-VM 
+]"धमा,\CC-CCD होंटा,\PR-PRP धोंचा"\N-NN के\PSP हमरा\PR-PRP हियाँ\N-NN क्रमशः\V-VM "अढ़इया,\V-VAUX हूँठा\N-NN (हूठा),\V-VM धमुच्चा"\N-NN कहल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+चूँकि\CC-CCS विकट\N-NN पहाड़ा\N-NN में\PSP डेढ़\N-NN से\PSP साढ़े\N-NN दस\QT-QTC तक\RP-RPD के\PSP प्रयोग\N-NN कइल\V-VM गेले\V-VAUX ह,\V-VAUX से\PSP से\PSP निम्नलिखित\N-NN शब्द\N-NN गढ़के\V-VM लिखल\V-VM गेले\V-VAUX ह\V-VAUX -अठोंचा\RD-PUNC =\N-NN साढ़े\N-NN आठनवोंचा\V-VM (या\N-NN 'नौंचा')\V-VM =\V-VAUX साढ़े\N-NN नोदहोंचा\N-NN =\PSP साढ़े\N-NN दस\QT-QTC ]----------------------------------------------------------------------------\N-NN १\QT-QTC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM १\QT-QTC ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (1.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 1.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------१\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+२\N-NN ।\RD-PUNC 
+डेढ़\N-NN डेउढ़े\V-VM सावा\N-NN दू\QT-QTC 1.5\N-NN x\V-VM 1.5\V-VAUX 2.25\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+३\N-NN ।\RD-PUNC 
+डेढ़\N-NN अढ़ैएँ\N-NN पौने\V-VM चार\QT-QTC 1.5\N-NN x\V-VM 2.5\V-VAUX 3.75\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+५\N-NN ।\RD-PUNC 
+डेढ़\N-NN हूठे\N-NN सावा\N-NN पाँच\QT-QTC 1.5\N-NN x\V-VM 3.5\V-VAUX 5.25\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+६\N-NN ।\RD-PUNC 
+डेढ़\N-NN धमुच्चे\N-NN पौने\N-NN सात\QT-QTC 1.5\N-NN x\N-NN 4.5\V-VM 6.75\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+८\N-NN ।\RD-PUNC 
+डेढ़\N-NN पोंचे\N-NN सावा\N-NN आठ\QT-QTC 1.5\N-NN x\PSP 5.5\N-NN 8.25\V-VM १\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+९\N-NN ।\RD-PUNC 
+डेढ़\N-NN खोंचे\N-NN पौने\N-NN दस\QT-QTC 1.5\N-NN x\N-NN 6.5\V-VM 9.75\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+११\QT-QTC ।\RD-PUNC 
+डेढ़\N-NN सतोंचे\N-NN सावा\N-NN एगारऽ\V-VM 1.5\V-VAUX x\V-VAUX 7.5\V-VAUX 11.25\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+१२\N-NN ।\RD-PUNC 
+डेढ़\N-NN अठोंचे\N-NN पौने\N-NN तेरऽ\V-VM 1.5\V-VAUX x\V-VAUX 8.5\V-VAUX 12.75\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+१४\N-NN ।\RD-PUNC 
+डेढ़\N-NN नवोंचे\N-NN सावा\N-NN चौदऽ\V-VM 1.5\V-VAUX x\V-VAUX 9.5\V-VAUX 14.25\V-VAUX १\QT-QTC ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+१५\N-NN ।\RD-PUNC 
+डेढ़\N-NN दहोंचे\N-NN पौने\N-NN सोल्लऽ\V-VM 1.5\V-VAUX x\V-VAUX 10.5\V-VAUX 15.75----------------------------------------------------------------------------\V-VAUX २\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM २\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (2.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 2.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------२\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+३\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN डेउढ़े\V-VM पौने\V-VAUX चार\QT-QTC 2.5\N-NN x\N-NN 1.5\N-NN 3.75\V-VM २\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+६\N-NN ।\RD-PUNC 
+अढ़य\N-NN अढ़ैएँ\N-NN सावा\N-NN छो\V-VM 2.5\V-VAUX x\V-VAUX 2.5\V-VAUX 6.25\V-VAUX २\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+८\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN हूठे\N-NN पौने\N-NN नौ\QT-QTC 2.5\N-NN x\PSP 3.5\N-NN 8.75\V-VM २\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+११\QT-QTC ।\RD-PUNC 
+अढ़य\N-NN धमुच्चे\N-NN सवा\QT-QTO एगारऽ\V-VM 2.5\N-NN x\N-NN 4.5\N-NN 11.25\V-VM २\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+१३\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN पोंचे\N-NN पौने\N-NN चौदऽ\V-VM 2.5\V-VAUX x\V-VAUX 5.5\V-VAUX 13.75\V-VAUX २\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+१६\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN खोंचे\N-NN सावा\N-NN सोल्लऽ\V-VM 2.5\V-VAUX x\V-VAUX 6.5\V-VAUX 16.25\V-VAUX २\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+१८\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN सतोंचे\N-NN पौने\N-NN उनइस\N-NN 2.5\V-VM x\V-VAUX 7.5\V-VAUX 18.75\V-VAUX २\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+२१\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN अठोंचे\N-NN सवा\QT-QTF एकइस\N-NN 2.5\N-NN x\PSP 8.5\N-NN 21.25\V-VM २\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+२३\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN नवोंचे\N-NN पौने\N-NN चोबीस\N-NN 2.5\V-VM x\V-VAUX 9.5\V-VAUX 23.75\V-VAUX २\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+२६\N-NN ।\RD-PUNC 
+अढ़ाय\N-NN दहोंचे\N-NN सावा\N-NN छब्बी\N-NN 2.5\N-NN x\V-VM 10.5\V-VAUX 26.25\V-VAUX ----------------------------------------------------------------------------\RD-PUNC ३\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM ३\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (3.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 3.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------३\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+५\N-NN ।\RD-PUNC 
+हूठा\N-NN डेउढ़े\V-VM सावा\N-NN पाँच\QT-QTC 3.5\N-NN x\N-NN 1.5\V-VM 5.25३\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+८\N-NN ।\RD-PUNC 
+हूठा\N-NN अढ़ैएँ\N-NN पौने\V-VM नो\CC-CCD 3.5\N-NN x\N-NN 2.5\V-VM 8.75३\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+१२\N-NN ।\RD-PUNC 
+हूठा\N-NN हूठे\N-NN सावा\N-NN बारऽ\V-VM 3.5\V-VAUX x\V-VAUX 3.5\V-VAUX 12.25\V-VAUX ३\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+१५\N-NN ।\RD-PUNC 
+हूठा\N-NN धमुच्चे\N-NN पौने\N-NN सोल्लऽ\V-VM 3.5\V-VAUX x\N-NN 4.5\V-VM 15.75३\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+१९\N-NN ।\RD-PUNC 
+हूठा\N-NN पोंचे\N-NN सावा\N-NN उनइस\N-NN 3.5\PSP x\N-NN 5.5\V-VM 19.25३\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+२२\N-NN ।\RD-PUNC 
+हूठा\N-NN खोंचे\N-NN पौने\N-NN तेइस\N-NN 3.5\V-VM x\V-VAUX 6.5\V-VAUX 22.75\V-VAUX ३\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+२६\N-NN ।\RD-PUNC 
+हूठा\N-NN सतोंचे\N-NN सावा\N-NN छब्बी\N-NN 3.5\PSP x\N-NN 7.5\V-VM 26.25३\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+२९\N-NN ।\RD-PUNC 
+हूठा\N-NN अठोंचे\N-NN पौने\N-NN तीस\QT-QTC 3.5\N-NN x\V-VM 8.5\V-VAUX 29.75३\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+३३\N-NN ।\RD-PUNC 
+हूठा\N-NN नवोंचे\N-NN सावा\N-NN तेती\N-NN 3.5\V-VM x\V-VAUX 9.5\V-VAUX 33.25\V-VAUX ३\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+३६\N-NN ।\RD-PUNC 
+हूठा\N-NN दहोंचे\N-NN पौने\N-NN सैंती\N-NN 3.5\V-VM x\V-VAUX 10.5\V-VAUX 36.75----------------------------------------------------------------------------------\V-VAUX ४\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM ४\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (4.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 4.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------------४\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+६\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN डेउढ़े\N-NN पौने\N-NN सात\QT-QTC 4.5\N-NN x\N-NN 1.5\V-VM 6.75४\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+११\QT-QTC ।\RD-PUNC 
+धमुच्चा\N-NN अढ़ैएँ\N-NN सवा\QT-QTO एगारऽ\V-VM 4.5\N-NN x\N-NN 2.5\V-VM 11.25४\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+१५\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN हूठे\N-NN पौने\N-NN सोल्लऽ\V-VM 4.5\V-VAUX x\V-VAUX 3.5\V-VAUX 15.75\V-VAUX ४\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+२०\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN धमुच्चे\N-NN सावा\N-NN बीस\QT-QTC 4.5\N-NN x\N-NN 4.5\V-VM 20.25४\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+२४\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN पोंचे\N-NN पौने\N-NN पची\N-NN 4.5\PSP x\N-NN 5.5\V-VM 24.75४\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+२९\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN खोंचे\N-NN सावा\N-NN उनती\N-NN 4.5\V-VM x\V-VAUX 6.5\V-VAUX 29.25\V-VAUX ४\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+३३\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN सतोंचे\N-NN पौने\N-NN चौंती\N-NN 4.5\PSP x\N-NN 7.5\V-VM 33.75४\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+३८\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN अठोंचे\N-NN सावा\N-NN अड़ती\N-NN 4.5\PSP x\N-NN 8.5\V-VM 38.25४\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+४२\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN नवोंचे\N-NN पौने\N-NN तेताली\N-NN 4.5\V-VM x\V-VAUX 9.5\V-VAUX 42.75\V-VAUX ४\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+४७\N-NN ।\RD-PUNC 
+धमुच्चा\N-NN दहोंचे\N-NN सवा\QT-QTF सनताली\N-NN 4.5\N-NN x\PSP 10.5\N-NN 47.25----------------------------------------------------------------------------------\V-VM ५\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM ५\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (5.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 5.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------------५\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+८\N-NN ।\RD-PUNC 
+पोंचा\N-NN डेउढ़े\V-VM सावा\N-NN आठ\QT-QTC 5.5\N-NN x\PSP 1.5\V-VM 8.25५\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+१३\N-NN ।\RD-PUNC 
+पोंचा\N-NN अढ़ैएँ\N-NN पौने\N-NN चौदऽ\V-VM 5.5\V-VAUX x\N-NN 2.5\V-VM 13.75५\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+१९\N-NN ।\RD-PUNC 
+पोंचा\N-NN हूठे\N-NN सावा\N-NN उनइस\N-NN 5.5\V-VM x\V-VAUX 3.5\V-VAUX 19.25\V-VAUX ५\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+२४\N-NN ।\RD-PUNC 
+पोंचा\N-NN धमुच्चे\N-NN पौने\N-NN पची\N-NN 5.5\PSP x\N-NN 4.5\V-VM 24.75५\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+३०\N-NN ।\RD-PUNC 
+पोंचा\N-NN पोंचे\N-NN सावा\N-NN तीस\QT-QTC 5.5\N-NN x\V-VM 5.5\V-VAUX 30.25५\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+३५\N-NN ।\RD-PUNC 
+पोंचा\N-NN खोंचे\N-NN पौने\N-NN छत्तीस\N-NN 5.5\V-VM x\V-VAUX 6.5\V-VAUX 35.75\V-VAUX ५\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+४१\N-NN ।\RD-PUNC 
+पोंचा\N-NN सतोंचे\N-NN सावा\N-NN एकताली\N-NN 5.5\PSP x\N-NN 7.5\V-VM 41.25५\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+४६\N-NN ।\RD-PUNC 
+पोंचा\N-NN अठोंचे\N-NN पौने\N-NN सनताली\N-NN 5.5\PSP x\N-NN 8.5\V-VM 46.75५\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+५२\N-NN ।\RD-PUNC 
+पोंचा\N-NN नवोंचे\N-NN सावा\N-NN बावन\QT-QTC 5.5\N-NN x\QT-QTC 9.5\N-NN 52.25\V-VM ५\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+५७\N-NN ।\RD-PUNC 
+पोंचा\N-NN दहोंचे\N-NN पौने\N-NN अनठावन\N-NN 5.5\V-VM x\V-VAUX 10.5\V-VAUX 57.75----------------------------------------------------------------------------------\V-VAUX ६\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM ६\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (6.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 6.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------------६\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+९\N-NN ।\RD-PUNC 
+खोंचा\V-VM डेउढ़े\N-NN पौने\N-NN दस\QT-QTC 6.5\N-NN x\N-NN 1.5\V-VM 9.75६\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+१६\N-NN ।\RD-PUNC 
+खोंचा\V-VM अढ़ैएँ\N-NN सवा\QT-QTO सोल्लऽ\V-VM 6.5\N-NN x\N-NN 2.5\V-VM 16.25६\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+२२\N-NN ।\RD-PUNC 
+खोंचा\N-NN हूठे\N-NN पौने\N-NN बाइस\N-NN 6.5\N-NN x\V-VM 3.5\V-VAUX 22.75\V-VAUX ६\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+२९\N-NN ।\RD-PUNC 
+खोंचा\V-VM धमुच्चे\N-NN सावा\N-NN उनती\N-NN 6.5\N-NN x\V-VM 4.5\V-VAUX 29.25६\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+३५\N-NN ।\RD-PUNC 
+खोंचा\N-NN पोंचे\N-NN पौने\N-NN छत्तीस\N-NN 6.5\N-NN x\V-VM 5.5\V-VAUX 35.75६\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+४२\N-NN ।\RD-PUNC 
+खोंचा\V-VM खोंचे\N-NN सावा\N-NN बियाली\N-NN 6.5\N-NN x\V-VM 6.5\V-VAUX 42.25\V-VAUX ६\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+४८\N-NN ।\RD-PUNC 
+खोंचा\N-NN सतोंचे\N-NN पौने\N-NN उनचास\N-NN 6.5\N-NN x\V-VM 7.5\V-VAUX 48.75६\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+५५\N-NN ।\RD-PUNC 
+खोंचा\N-NN अठोंचे\N-NN सावा\N-NN पचपन\V-VM 6.5\V-VAUX x\V-VAUX 8.5\V-VAUX 55.25६\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+६१\N-NN ।\RD-PUNC 
+खोंचा\N-NN नवोंचे\N-NN पौने\N-NN बासठ\N-NN 6.5\N-NN x\V-VM 9.5\V-VAUX 61.75\V-VAUX ६\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+६८\N-NN ।\RD-PUNC 
+खोंचा\V-VM दहोंचे\N-NN सावा\N-NN अड़सठ\N-NN 6.5\N-NN x\V-VM 10.5\V-VAUX 68.25----------------------------------------------------------------------------------\V-VAUX ७\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM ७\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (7.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 7.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------------७\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+११\QT-QTC ।\RD-PUNC 
+सतोंचा\V-VM डेउढ़े\N-NN सवा\QT-QTO एगारऽ\V-VM 7.5\N-NN x\N-NN 1.5\V-VM 11.25७\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+१८\N-NN ।\RD-PUNC 
+सतोंचा\N-NN अढ़ैएँ\N-NN पौने\N-NN उनइस\N-NN 7.5\PSP x\N-NN 2.5\V-VM 18.75७\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+२६\N-NN ।\RD-PUNC 
+सतोंचा\N-NN हूठे\N-NN सावा\N-NN छब्बी\N-NN 7.5\V-VM x\V-VAUX 3.5\V-VAUX 26.25\V-VAUX ७\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+३३\N-NN ।\RD-PUNC 
+सतोंचा\N-NN धमुच्चे\N-NN पौने\N-NN चौंती\N-NN 7.5\V-VM x\V-VAUX 4.5\V-VAUX 33.75\V-VAUX ७\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+४१\N-NN ।\RD-PUNC 
+सतोंचा\N-NN पोंचे\N-NN सावा\N-NN एकताली\N-NN 7.5\V-VM x\V-VAUX 5.5\V-VAUX 41.25\V-VAUX ७\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+४८\N-NN ।\RD-PUNC 
+सतोंचा\N-NN खोंचे\N-NN पौने\N-NN उनचास\N-NN 7.5\V-VM x\V-VAUX 6.5\V-VAUX 48.75\V-VAUX ७\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+५६\N-NN ।\RD-PUNC 
+सतोंचा\N-NN सतोंचे\N-NN सावा\N-NN छप्पन\QT-QTC 7.5\N-NN x\PSP 7.5\V-VM 56.25७\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+६३\N-NN ।\RD-PUNC 
+सतोंचा\N-NN अठोंचे\N-NN पौने\N-NN चौंसठ\N-NN 7.5\V-VM x\V-VAUX 8.5\V-VAUX 63.75\V-VAUX ७\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+७१\N-NN ।\RD-PUNC 
+सतोंचा\N-NN नवोंचे\N-NN सावा\N-NN एकत्तर\PSP 7.5\N-NN x\V-VM 9.5\V-VAUX 71.25\V-VAUX ७\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+७८\N-NN ।\RD-PUNC 
+सतोंचा\N-NN दहोंचे\N-NN पौने\N-NN उनासी\N-NN 7.5\V-VM x\V-VAUX 10.5\V-VAUX 78.75----------------------------------------------------------------------------------\V-VAUX ८\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM ८\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (8.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 8.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------------८\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+१२\N-NN ।\RD-PUNC 
+अठोंचा\N-NN डेउढ़े\N-NN पौने\N-NN तेरऽ\V-VM 8.5\V-VAUX x\N-NN 1.5\V-VM 12.75८\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+२१\N-NN ।\RD-PUNC 
+अठोंचा\N-NN अढ़ैएँ\N-NN सवा\QT-QTF एकइस\N-NN 8.5\N-NN x\N-NN 2.5\V-VM 21.25८\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+२९\N-NN ।\RD-PUNC 
+अठोंचा\N-NN हूठे\N-NN पौने\N-NN तीस\QT-QTC 8.5\N-NN x\PSP 3.5\N-NN 29.75\V-VM ८\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+३८\N-NN ।\RD-PUNC 
+अठोंचा\N-NN धमुच्चे\N-NN सावा\N-NN अड़ती\N-NN 8.5\V-VM x\V-VAUX 4.5\V-VAUX 38.25\V-VAUX ८\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+४६\N-NN ।\RD-PUNC 
+अठोंचा\N-NN पोंचे\N-NN पौने\N-NN सनताली\N-NN 8.5\V-VM x\V-VAUX 5.5\V-VAUX 46.75\V-VAUX ८\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+५५\N-NN ।\RD-PUNC 
+अठोंचा\N-NN खोंचे\N-NN सावा\N-NN पचपन\V-VM 8.5\V-VAUX x\V-VAUX 6.5\V-VAUX 55.25\V-VAUX ८\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+६३\N-NN ।\RD-PUNC 
+अठोंचा\N-NN सतोंचे\N-NN पौने\N-NN चौंसठ\N-NN 8.5\N-NN x\N-NN 7.5\V-VM 63.75८\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+७२\N-NN ।\RD-PUNC 
+अठोंचा\N-NN अठोंचे\N-NN सवा\QT-QTF बहत्तर\N-NN 8.5\N-NN x\N-NN 8.5\V-VM 72.25८\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+८०\N-NN ।\RD-PUNC 
+अठोंचा\N-NN नवोंचे\N-NN पौने\N-NN एकासी\N-NN 8.5\V-VM x\V-VAUX 9.5\V-VAUX 80.75\V-VAUX ८\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+८९\N-NN ।\RD-PUNC 
+अठोंचा\N-NN दहोंचे\N-NN सावा\N-NN नबासी\N-NN 8.5\V-VM x\V-VAUX 10.5\V-VAUX 89.25----------------------------------------------------------------------------------\V-VAUX ९\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM ९\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (9.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 9.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------------९\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+१४\N-NN ।\RD-PUNC 
+नवोंचा\V-VM डेउढ़े\N-NN सवा\QT-QTO चौदऽ\V-VM 9.5\N-NN x\N-NN 1.5\V-VM 14.25९\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+२३\N-NN ।\RD-PUNC 
+नवोंचा\N-NN अढ़ैएँ\N-NN पौने\N-NN चोबी\N-NN 9.5\PSP x\N-NN 2.5\V-VM 23.75९\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+३३\N-NN ।\RD-PUNC 
+नवोंचा\N-NN हूठे\N-NN सावा\N-NN तेती\N-NN 9.5\V-VM x\V-VAUX 3.5\V-VAUX 33.25\V-VAUX ९\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+४२\N-NN ।\RD-PUNC 
+नवोंचा\N-NN धमुच्चे\N-NN पौने\N-NN तेताली\N-NN 9.5\PSP x\N-NN 4.5\V-VM 42.75९\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+५२\N-NN ।\RD-PUNC 
+नवोंचा\N-NN पोंचे\N-NN सावा\N-NN बावन\QT-QTC 9.5\N-NN x\QT-QTC 5.5\N-NN 52.25९\V-VM ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+६१\N-NN ।\RD-PUNC 
+नवोंचा\N-NN खोंचे\N-NN पौने\N-NN बासठ\N-NN 9.5\V-VM x\V-VAUX 6.5\V-VAUX 61.75\V-VAUX ९\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+७१\N-NN ।\RD-PUNC 
+नवोंचा\N-NN सतोंचे\N-NN सावा\N-NN एकत्तर\PSP 9.5\N-NN x\V-VM 7.5\V-VAUX 71.25९\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+८०\N-NN ।\RD-PUNC 
+नवोंचा\N-NN अठोंचे\N-NN पौने\N-NN एकासी\N-NN 9.5\PSP x\N-NN 8.5\V-VM 80.75९\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+९०\N-NN ।\RD-PUNC 
+नवोंचा\N-NN नवोंचे\N-NN सावा\N-NN नब्बे\PSP 9.5\N-NN x\V-VM 9.5\V-VAUX 90.25\V-VAUX ९\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+९९\N-NN ।\RD-PUNC 
+नवोंचा\N-NN दहोंचे\N-NN पौने\N-NN सौ\QT-QTC 9.5\N-NN x\V-VM 10.5\RD-PUNC 99.75----------------------------------------------------------------------------------\V-VM १०\V-VAUX ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+से\PSP लेके\V-VM १०\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+तक\RP-RPD (10.5\QT-QTC x\V-VM 1.5\N-NN से\PSP लेके\V-VM 10.5\V-VAUX x\V-VAUX 10.5\V-VAUX तक)----------------------------------------------------------------------------------१०\RD-PUNC ।\RD-PUNC 
+x\N-NN १\QT-QTC ।\RD-PUNC 
+१५\N-NN ।\RD-PUNC 
+दहोंचा\N-NN डेउढ़े\N-NN पौने\N-NN सोल्लऽ\V-VM 10.5\V-VAUX x\V-VAUX 1.5\V-VAUX 15.75१०\V-VAUX ।\RD-PUNC 
+x\N-NN २\V-VM ।\RD-PUNC 
+२६\N-NN ।\RD-PUNC 
+दहोंचा\N-NN अढ़ैएँ\N-NN सावा\N-NN छब्बी\N-NN 10.5\PSP x\N-NN 2.5\V-VM 26.25१०\V-VAUX ।\RD-PUNC 
+x\N-NN ३\V-VM ।\RD-PUNC 
+३६\N-NN ।\RD-PUNC 
+दहोंचा\N-NN हूठे\N-NN पौने\N-NN सैंती\N-NN 10.5\N-NN x\V-VM 3.5\V-VAUX 36.75\V-VAUX १०\V-VAUX ।\RD-PUNC 
+x\N-NN ४\V-VM ।\RD-PUNC 
+४७\N-NN ।\RD-PUNC 
+दहोंचा\N-NN धमुच्चे\N-NN सावा\N-NN सनताली\N-NN 10.5\N-NN x\V-VM 4.5\V-VAUX 47.25१०\V-VAUX ।\RD-PUNC 
+x\N-NN ५\V-VM ।\RD-PUNC 
+५७\N-NN ।\RD-PUNC 
+दहोंचा\N-NN पोंचे\N-NN पौने\N-NN अनठावन\N-NN 10.5\PSP x\N-NN 5.5\V-VM 57.75१०\V-VAUX ।\RD-PUNC 
+x\N-NN ६\V-VM ।\RD-PUNC 
+६८\N-NN ।\RD-PUNC 
+दहोंचा\V-VM खोंचे\N-NN सावा\N-NN अड़सठ\N-NN 10.5\N-NN x\V-VM 6.5\V-VAUX 68.25\V-VAUX १०\V-VAUX ।\RD-PUNC 
+x\N-NN ७\V-VM ।\RD-PUNC 
+७८\N-NN ।\RD-PUNC 
+दहोंचा\N-NN सतोंचे\N-NN पौने\N-NN उनासी\N-NN 10.5\N-NN x\V-VM 7.5\V-VAUX 78.75१०\V-VAUX ।\RD-PUNC 
+x\N-NN ८\V-VM ।\RD-PUNC 
+८९\N-NN ।\RD-PUNC 
+दहोंचा\V-VM अठोंचे\N-NN सवा\QT-QTF नबासी\N-NN 10.5\N-NN x\N-NN 8.5\V-VM 89.25१०\V-VAUX ।\RD-PUNC 
+x\N-NN ९\V-VM ।\RD-PUNC 
+९९\N-NN ।\RD-PUNC 
+दहोंचा\N-NN नवोंचे\N-NN पौने\N-NN सौ\QT-QTC 10.5\N-NN x\V-VM 9.5\RD-PUNC 99.75\V-VM १०\V-VAUX ।\RD-PUNC 
+x\N-NN १०\V-VM ।\RD-PUNC 
+११०\N-NN ।\RD-PUNC 
+दहोंचा\V-VM दहोंचे\N-NN सवा\QT-QTF दहोतल\N-NN से\PSP 10.5\N-NN x\V-VM 10.5\V-VAUX 110.25----------------------------------------------------------------------------------;;;;बहुत\N-NN बढ़िया\N-NN नारायणजी,\PSP आपकी\QT-QTF मेहनत\N-NN भी\RP-RPD विकट\N-NST है\V-VAUX .\V-VM 
+धन्यवाद\N-NN एक\QT-QTC पारम्परिक\N-NN चीज\N-NN से\PSP परिचित\N-NN कराने\N-NN के\PSP लिए\V-VM ।\RD-PUNC 

@@ -1,0 +1,471 @@
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX EN-IN\RD-PUNC X-NONE\N-NN X-NONE\N-NN /*\N-NN Style\V-VM Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-priority:99;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0cm\N-NN 5.4pt\N-NN 0cm\V-VM 5.4pt;\V-VAUX mso-para-margin:0cm;\RD-PUNC mso-para-margin-bottom:\RD-PUNC .\V-VM 
+0001pt;\N-NN mso-pagination:widow-orphan;\N-NN font-size:10.0pt;\N-NN font-family:"Calibri","sans-serif";}\N-NN अपराध\N-NN आउ\CC-CCD दंड\N-NN भाग\V-VM –\N-NN 2अध्याय\V-VM –\N-NN 3तइयो\CC-CCS अइसन\RP-RPD बात\N-NN नयँ\JJ हलइ\V-VM कि\CC-CCS बेमारी\N-NN के\PSP पूरे\N-NN समय\N-NN ऊ\PR-PRP बिलकुल\N-NN बेहोश\N-NN हलइ\V-VM -\RD-PUNC ई\DM-DMI बोखार\N-NN के\PSP अवस्था\N-NN हलइ,\V-VM बड़बड़ाहट\N-NN (delirium)\N-NN आउ\CC-CCD आधा\QT-QTF बेहोशी\N-NN के\PSP साथ\PSP ।\RD-PUNC 
+बहुत\N-NN कुछ\QT-QTF ओकरा\PR-PRP बाद\N-NN में\PSP आद\N-NN आ\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+कभी\N-NN ओकरा\PR-PRP लगइ,\V-VM कि\CC-CCS कइएक\N-NN अदमी\N-NN ओकरा\PR-PRP भिर\N-NN जामा\N-NN हइ\V-VM आउ\CC-CCD पकड़के\V-VM कहीं\V-VAUX दूर\N-NN ले\V-VM जाय\V-VAUX ल\V-VAUX चाहऽ\V-VM हकइ,\V-VAUX ओकरा\PR-PRP बारे\N-NN बहुत\N-NN वाद-विवाद\N-NN करऽ\V-VM हइ\V-VAUX आउ\CC-CCD झगड़ते\V-VM जा\V-VM हइ\V-VAUX ।\RD-PUNC 
+कभी\N-NN अचानक\N-NN ओकरा\PR-PRP लगइ\V-VM कि\CC-CCS ऊ\PR-PRP कमरा\N-NN में\PSP एकसरे\N-NN हइ,\PSP सब\QT-QTF कोय\PR-PRI चल\V-VM गेलइ\V-VAUX आउ\CC-CCD ओकरा\PR-PRP से\PSP डरऽ\V-VM हइ,\V-VAUX आउ\CC-CCD खाली\QT-QTF बीच-बीच\N-NN में\PSP ओकरा\PR-PRP तरफ\N-NN देखे\V-VM लगी\N-NN जरी\QT-QTF सन\RP-CL दरवाजा\N-NN खोलऽ\V-VM हइ,\V-VAUX ओकरा\PR-PRP धमकावऽ\V-VM हइ,\V-VAUX आपस\PR-PRC में\PSP कुछ\QT-QTF तो\PR-PRL बतियाके\V-VM तय\N-NN करऽ\V-VM हइ,\V-VAUX हँस्सऽ\V-VAUX हइ\V-VAUX आउ\CC-CCD ओकरा\PR-PRP चिढ़ावऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+अपन\PR-PRP बगल\N-NN में\PSP रहते\V-VM नस्तास्या\N-NN के\PSP ऊ\PR-PRP अकसर\N-NN पछान\N-NN ले\V-VM हलइ;\V-VAUX एगो\QT-QTC आउ\CC-CCD अदमी\N-NN के\PSP ऊ\PR-PRP पछानऽ\V-VM हलइ,\V-VAUX जे\PR-PRL ओकरा\PR-PRP बहुत\N-NN परिचित\N-NN लगऽ\V-VM हलइ,\V-VAUX लेकिन\CC-CCD पक्का\JJ ऊ\PR-PRP के\PSP हलइ,\V-VM ऊ\PR-PRP कइसूँ\RB अंदाज\N-NN नयँ\PSP लगा\V-VM पावऽ\JJ हलइ\V-VM आउ\CC-CCD उदास\JJ हो\V-VM जा\V-VAUX हलइ,\V-VAUX कनियो\V-VAUX जा\V-VAUX हलइ\V-VAUX ।\RD-PUNC 
+कभी\N-NN ओकरा\PR-PRP लगइ,\V-VM कि\CC-CCS ऊ\PR-PRP एक\QT-QTC महिन्ना\N-NN से\PSP पड़ल\V-VM हइ;\V-VAUX कभी\N-NN लगे\V-VM लगइ,\V-VAUX कि\CC-CCS ओहे\N-NN दिन\N-NN चल\V-VM रहले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD ओकरा\PR-PRP बारे,\N-NN ओकरा\PR-PRP बारे\N-NN ऊ\PR-PRP बिलकुल\N-NN भूल\N-NN गेले\V-VM हल;\V-VAUX लेकिन\CC-CCD ओकरा\PR-PRP हरेक\N-NN मिनट\N-NN आद\N-NN रहऽ\V-VM हलइ,\V-VAUX कि\CC-CCS ऊ\PR-PRP कुछ\QT-QTF तो\PR-PRL भूल\N-NN गेले\V-VM ह,\V-VAUX जेकरा\PR-PRL कभियो\N-NN भुल्ले\V-VM के\PSP नयँ\N-NN चाही\V-VM -\RD-PUNC दुखी\N-NN होवऽ\V-VM हलइ,\V-VAUX तड़पऽ\RD-PUNC हलइ,\V-VAUX आद\N-NN करे\V-VM के\PSP कोशिश\N-NN में\PSP कराहऽ\V-VM हलइ,\V-VAUX झुंझला\N-NN उठऽ\V-VM हलइ,\V-VAUX चाहे\N-NN ओकरा\PR-PRP भयानक\N-NN असहनीय\N-NN डर\N-NN सतावे\V-VM लगऽ\V-VAUX हलइ\V-VM ।\RD-PUNC 
+तब\PR-PRL ऊ\PR-PRP अपन\PR-PRP जगह\N-NN से\PSP उट्ठे\N-NN के\PSP कोशिश\N-NN करऽ\V-VM हलइ,\CC-CCD भाग\V-VM जाय\V-VAUX लगी\V-VAUX चाहऽ\N-NN हलइ,\V-VM लेकिन\CC-CCD हमेशे\PR-PRP कोय\PR-PRI न\RP-NEG कोय\PR-PRI ओकरा\PR-PRP जबरदस्ती\N-NN रोक\V-VM ले\V-VAUX हलइ,\V-VAUX आउ\CC-CCD ऊ\PR-PRP फेर\N-NN से\PSP कमजोरी\N-NN आउ\CC-CCD बेहोशी\N-NN के\PSP शिकार\N-NN हो\V-VM जा\V-VAUX हलइ\V-VAUX ।\RD-PUNC 
+आखिरकार,\N-NN ऊ\PR-PRP बिलकुल\N-NN होश\N-NN में\PSP आ\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+अइसन\RP-RPD सुबह\N-NN में\PSP घटलइ,\JJ दस\QT-QTC बजे\V-VM ।\RD-PUNC 
+सुबह\N-NN के\PSP ई\DM-DMI बखत,\V-VM साफ\N-NN दिन\N-NN में,\PSP रौदा\N-NN हमेशे\PSP एगो\QT-QTC लमगर\N-NN पट्टी\N-NN के\PSP रूप\N-NN में\PSP ओकर\PR-PRP दहिना\N-NN देवाल\N-NN पर\PSP आवऽ\V-VM हलइ\V-VAUX आउ\CC-CCD दरवाजा\N-NN के\PSP पास\N-NN के\PSP कोना\N-NN में\PSP रोशनी\N-NN भर\N-NN दे\V-VM हलइ\V-VAUX ।\RD-PUNC 
+ओकर\PR-PRP बिछौना\N-NN के\PSP पास\N-NN खड़ी\JJ हलइ\V-VM नस्तास्या\N-NN आउ\CC-CCD एगो\QT-QTC आउ\CC-CCD अदमी,\N-NN जे\PR-PRL बहुत\N-NN उत्सुकतापूर्वक\V-VM ओकरा\PR-PRP तरफ\N-NN तक\PSP रहले\V-VM हल\V-VAUX आउ\CC-CCD जे\PR-PRL ओकरा\PR-PRP लगी\V-VM बिलकुल\N-NN अपरिचित\N-NN हलइ\V-VM ।\RD-PUNC 
+ई\DM-DMI कफ्तान\N-NN [1]\N-NN में\PSP एगो\QT-QTC नौजवान\N-NN हलइ,\V-VM छोटगर\RD-PUNC दाढ़ी\N-NN वला,\V-VM आउ\CC-CCD चेहरा\N-NN से\PSP सहकारी\N-NN संघ\N-NN (artel)\N-NN के\PSP सदस्य\N-NN मालूम\N-NN पड़ऽ\V-VM हलइ\V-VAUX ।\RD-PUNC 
+आधा\QT-QTO खुल्लल\V-VM दरवाजा\N-NN से\PSP मकान-मालकिन\N-NN हुलक\N-NN रहले\V-VM हल\V-VAUX ।\RD-PUNC 
+रस्कोलनिकोव\N-NN उठके\V-VM बइठ\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+"ई\N-NN के\PSP हइ,\V-VM नस्तास्या\N-NN ?\V-VM 
+"\N-NN ऊ\PR-PRP नौजवान\N-NN तरफ\N-NN इशारा\N-NN करते\V-VM पुछलकइ\V-VAUX ।\RD-PUNC 
+"अरे\N-NN देखऽ,\V-VM होश\V-VAUX में\PSP आ\V-VM गेला\V-VAUX !\CC-CCD 
+"\N-NN ऊ\PR-PRP बोललइ\V-VM ।\RD-PUNC 
+"होश\N-NN में\PSP आ\V-VM गेलथिन\V-VAUX !\RD-PUNC 
+"\N-NN नौजवान\N-NN बात\N-NN दोहरइलकइ\V-VM ।\RD-PUNC 
+ई\DM-DMI अंदाज\N-NN लगाके,\V-VM कि\CC-CCS ऊ\PR-PRP अब\N-NN होश\N-NN में\PSP आ\V-VM गेलइ,\V-VAUX मकान-मालकिन,\RD-PUNC जे\PR-PRL दरवजवा\N-NN से\PSP हुलक\V-VM रहले\V-VAUX हल,\V-VAUX तुरते\RB ओकरा\PR-PRP बन\V-VM कर\V-VAUX लेलकइ\V-VM आउ\CC-CCD गायब\N-NN हो\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP हमेशे\PR-PRP से\PSP शर्मीली\N-NN हलइ\V-VM आउ\CC-CCD मोसकिल\N-NN से\PSP बातचीत\N-NN आउ\CC-CCD बहस\N-NN सहन\N-NN कर\V-VM पावऽ\V-VAUX हलइ;\V-VAUX ऊ\PR-PRP करीब\N-NN चालीस\N-NN साल\N-NN के\PSP हलइ,\V-VM आउ\CC-CCD मोटी-तगड़ी,\N-NN भौं\N-NN आउ\CC-CCD आँख\N-NN कार,\V-VM मोटापा\N-NN आउ\CC-CCD आलस्य\N-NN के\PSP चलते\V-VM दयालु;\N-NN आउ\CC-CCD सलोनी\N-NN भी\RP-RPD ।\RD-PUNC 
+जरूरत\N-NN से\PSP जादे\V-VM लजालु\V-VAUX ।\RD-PUNC 
+"अपने\PR-PRP .\V-VM 
+केऽ\V-VM ?\RD-PUNC 
+"\N-NN ऊ\PR-PRP पुछते\V-VM रहलइ,\V-VAUX सीधे\N-NN सहकारी\N-NN संघ\N-NN के\PSP सदस्य\N-NN के\PSP संबोधित\N-NN करके\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD एतने\N-NN में\PSP फेर\N-NN से\PSP दरवाजा\N-NN धड़\N-NN से\PSP खुललइ,\V-VM आउ,\CC-CCD थोड़े\QT-QTF से\PSP झुकके,\N-NN काहेकि\CC-CCS उँचगर\N-NN हलइ,\V-VM रज़ुमिख़िन\N-NN अन्दर\N-NN घुसलइ\V-VM ।\RD-PUNC 
+"ई\CC-CCD कइसन\PR-PRQ जहाज\N-NN के\PSP केबिन\N-NN हइ\V-VM !\RD-PUNC 
+"\N-NN अन्दर\N-NN घुसते\V-VM ऊ\PR-PRP चिल्लइलइ,\V-VM "हमेशे\V-VAUX हमर\PR-PRP सिर\N-NN टकरा\N-NN जा\V-VM हके;\V-VAUX तइयो\CC-CCS एकरा\DM-DMD क्वाटर\N-NN कहल\V-VM जा\V-VAUX हइ\V-VAUX !\RD-PUNC 
+आ\CC-CCD तूँ\PR-PRP भाय,\N-NN होश\N-NN में\PSP आ\V-VM गेलऽ\V-VAUX ?\RD-PUNC 
+अभिये\N-NN पाशेन्का\N-NN से\PSP सुनलियो\V-VM ।\RD-PUNC 
+"अभिये\N-NN होश\N-NN में\PSP अइला\N-NN ह",\V-VM नस्तास्या\N-NN बोललइ\V-VM ।\RD-PUNC 
+"अभिये\N-NN होश\N-NN मे\PSP अइलथिन\N-NN हँ",\V-VM फेर\N-NN से\PSP ऊ\PR-PRP नौजवान\N-NN मुसकइते\V-VM दोहरइलकइ\V-VAUX ।\RD-PUNC 
+"आउ\CC-CCD खुद\N-NN अपने\PR-PRP के\PSP हथिन,\V-VM बता\V-VM सकऽ\V-VAUX हथिन,\V-VAUX महोदय\N-NN ?\PSP 
+"\N-NN अचानक\N-NN ओकरा\PR-PRP संबोधित\N-NN करते\V-VM रज़ुमिख़िन\N-NN पुछलकइ\V-VM ।\RD-PUNC 
+"हम\N-NN हकिअइ,\V-VM अपने\PR-PRP के\PSP सूचनार्थ,\V-VM व्रज़ुमिख़िन;\N-NN रज़ुमिख़िन\N-NN नयँ,\PSP जइसन\RP-RPD कि\CC-CCS सब\QT-QTF कोय\PR-PRI पुकारऽ\V-VM हका,\V-VAUX बल्कि\CC-CCD व्रज़ुमिख़िन,\N-NN एगो\QT-QTC छात्र\N-NN आउ\CC-CCD कुलीन\N-NN घराना\N-NN के\PSP बेटा,\N-NN आउ\CC-CCD ऊ\PR-PRP हमर\PR-PRP मित्र\N-NN ।\RD-PUNC 
+अच्छऽ,\RP-RPD महोदय,\N-NN आउ\CC-CCD अपने\PR-PRP केऽ\PSP हथिन\V-VAUX ?\RD-PUNC 
+""आ\N-NN हम\PR-PRP हकिअइ\V-VM सहकारी\N-NN संघ\N-NN के\PSP दफ्तर\N-NN के\PSP एगो\QT-QTC सदस्य,\N-NN व्यापारी\N-NN शेलोपायेव\V-VM के\PSP हियाँ\N-NN से,\PSP श्रीमान,\V-VM आउ\CC-CCD हियाँ\N-NN काम\N-NN के\PSP सिलसिले\N-NN में\PSP अइलिए\N-NN ह,\V-VM श्रीमान\N-NN ।\RD-PUNC 
+""ई\N-NN कुरसी\N-NN पर\PSP तशरीफ\N-NN रखथिन",\V-VM खुद\N-NN रज़ुमिख़िन\N-NN दोसरा\N-NN कुरसी\N-NN पर\PSP बइठलइ,\V-VM टेबुल\N-NN के\PSP दोसरा\N-NN तरफ\N-NN ।\RD-PUNC 
+"आउ\CC-CCD तूँ,\PR-PRP भाय,\RP-INTF अच्छा\JJ होलो\V-VM कि\CC-CCS होश\N-NN में\PSP आ\V-VM गेलऽ",\V-VAUX ऊ\PR-PRP आगू\N-NN बोललइ,\V-VM रस्कोलनिकोव\N-NN के\PSP संबोधित\N-NN करते\V-VM ।\RD-PUNC 
+"ई\N-NN चौठा\N-NN दिन\N-NN हको,\V-VM कि\CC-CCS मोसकिल\N-NN से\PSP तूँ\PR-PRP कुछ\QT-QTF खा\V-VM ह\V-VAUX आउ\CC-CCD पीयऽ\V-VM ह\V-VAUX ।\RD-PUNC 
+वस्तुतः,\RB तोरा\PR-PRP चम्मच\N-NN से\PSP चाय\N-NN देल\V-VM गेलो\V-VAUX ।\RD-PUNC 
+हम\PR-PRP तोरा\PR-PRP भिर\N-NN ज़ोसिमोव\N-NN के\PSP दू\QT-QTC तुरी\N-NN लइलियो\V-VM हल\V-VAUX ।\RD-PUNC 
+आद\N-NN हको\V-VM ज़ोसिमोव\CC-CCD के\PSP बारे\N-NN ?\V-VM 
+तोरा\PR-PRP ध्यान\N-NN से\PSP जँचलको\N-NN आउ\CC-CCD तुरते\RB बता\V-VM देलको,\V-VAUX कि\CC-CCS घबराय\V-VM के\PSP कोय\PR-PRI बात\N-NN नयँ\N-NN हइ\V-VM -\RD-PUNC सिर\N-NN में\PSP कुछ\QT-QTF तो\PR-PRL कइसूँ\RB आघात\N-NN कइलकइ\V-VM ।\RD-PUNC 
+एक\QT-QTC प्रकार\N-NN के\PSP स्नायु\N-NN (nervous)\N-NN संबंधी\N-NN बकवास,\V-VM राशन\N-NN खराब\N-NN हलइ,\V-VM ओकर\PR-PRP कहना\V-VM हइ\V-VAUX कि\CC-CCS तोरा\PR-PRP काफी\N-NN बियर\N-NN आउ\CC-CCD मूली\N-NN नयँ\N-NN देल\V-VM गेलो,\V-VAUX ओहे\V-VAUX से\PSP ई\DM-DMI बेमारी,\N-NN लेकिन\CC-CCD कोय\PR-PRI बात\N-NN नयँ,\PSP ई\DM-DMI दूर\N-NN हो\V-VM जइतो\V-VAUX आउ\CC-CCD सब\QT-QTF कुछ\QT-QTF ठीक\JJ हो\V-VM जइतो\V-VAUX ।\RD-PUNC 
+नौजवान\N-NN ज़ोसिमोव\V-VM !\V-VAUX 
+ओकर\PR-PRP डगडरी\N-NN बढ़ियाँ\JJ से\PSP चल\V-VM पड़ले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+अच्छऽ\RP-RPD जी,\V-VM हम\PR-PRP अपने\PR-PRP के\PSP जादे\N-NN देर\N-NN नयँ\N-NN रोकके\V-VM रखबइ\V-VAUX ।\RD-PUNC 
+",\CC-CCD ऊ\PR-PRP फेर\RB से\PSP संघ\N-NN के\PSP नौजवान\N-NN के\PSP संबोधित\N-NN कइलकइ,\V-VM "अपने\V-VAUX बता\V-VM सकऽ\V-VAUX हथिन,\V-VAUX कि\CC-CCS अपने\PR-PRP के\PSP की\PR-PRQ काम\N-NN हइ\V-VM ?\RD-PUNC 
+ई\DM-DMI ध्यान\N-NN में\PSP रख\V-VM रोद्या,\N-NN कि\CC-CCS ओकन्हीं\N-NN के\PSP दफ्तर\N-NN से\PSP ई\DM-DMI दोसरा\N-NN तुरी\N-NN केकरो\PR-PRI भेजल\V-VM गेलो\V-VAUX ह;\V-VAUX खाली\QT-QTF पहिले\N-NST ई\DM-DMI नयँ\N-NN अइला,\V-VM बल्कि\CC-CCD दोसर\QT-QTO कोय,\PR-PRI आउ\CC-CCD हम\PR-PRP ओकरा\PR-PRP से\PSP बातचीत\N-NN कइलियो\V-VM हल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI पहिले\N-NST तुरी\N-NN तोरा\PR-PRP पास\N-NN केऽ\PSP अइलो\V-VM हल\V-VAUX ?\RD-PUNC 
+"\N-NN "हमरा\PR-PRP लगऽ\V-VM हइ,\V-VAUX कि\CC-CCS ई\DM-DMI तेसरा\N-NN दिन\N-NN हइ\V-VM जी,\V-VAUX बिलकुल\N-NN सही\N-NN जी\N-NN ।\RD-PUNC 
+ई\DM-DMI अलिक्सेय\V-VM सिम्योनविच\N-NN हलथिन;\PSP हमन्हिएँ\PR-PRP के\PSP दफ्तर\N-NN में\PSP काम\N-NN करऽ\V-VM हथिन\V-VAUX जी\N-NN ।\RD-PUNC 
+""आउ\CC-CCD ऊ\PR-PRP अपने\PR-PRP से\PSP जादे\N-NN समझदार\N-NN लगऽ\V-VM हका,\V-VAUX अपने\PR-PRP के\PSP की\PR-PRQ कहना\V-VM हइ\V-VAUX ?\RD-PUNC 
+""जी\N-NN हाँ;\RP-RPD ऊ\PR-PRP जरी\QT-QTF जादे\V-VM तगड़ा\N-NN हथिन\N-NN जी\N-NN ।\RD-PUNC 
+""बहुत\N-NN अच्छा;\RP-RPD अच्छऽ\RP-RPD जी,\V-VM आगे\N-NN बोलथिन\V-VM ।\RD-PUNC 
+""आ\N-NN ई\DM-DMI अफ़नासी\N-NN इवानोविच\N-NN वख़रूशिन\N-NN के\PSP तरफ\N-NN से,\PSP जिनका\N-NN बारे,\N-NN हम\PR-PRP समझऽ\V-VM हिअइ,\V-VAUX कइएक\RD-PUNC तुरी\N-NN सुनलथिन\V-VM होत\V-VAUX जी,\V-VAUX अपने\PR-PRP के\PSP माताजी\N-NN के\PSP निवेदन\N-NN पे,\V-VM हमर\PR-PRP दफ्तर\N-NN से\PSP अपने\PR-PRP खातिर\PSP मनीआडर\N-NN हइ\V-VM जी",\RD-PUNC नौजवान\N-NN कहे\V-VM ल\V-VAUX शुरू\N-NN कइलकइ,\PSP रस्कोलनिकोव\N-NN के\PSP सीधे\N-NN संबोधित\V-VM करके\V-VM ।\RD-PUNC 
+"अगर\N-NN अपने\PR-PRP समझे\V-VM के\PSP हालत\N-NN में\PSP हथिन,\V-VM श्रीमान,\V-VAUX त\N-NN हमरा\PR-PRP अपने\PR-PRP के\PSP पैंतीस\N-NN रूबल\N-NN देवे\V-VM के\PSP हइ,\V-VM काहेकि\CC-CCS पहिलहीं\N-NN जइसन,\PR-PRL अपने\PR-PRP के\PSP माताजी\N-NN के\PSP निवेदन\N-NN पे,\V-VM अफ़नासी\N-NN इवानोविच\N-NN से\PSP सिम्योन\N-NN सिम्योनविच\N-NN के\PSP ई\DM-DMI संबंध\N-NN में\PSP नोटिस\N-NN मिल\V-VM चुकले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+अपने\PR-PRP उनका\PR-PRP जानऽ\V-VM हथिन,\V-VAUX श्रीमान\N-NN ?\PSP 
+""हाँ\DM-DMD .\V-VM 
+आद\N-NN हइ\V-VM .\RD-PUNC 
+वख़रूशिन\N-NN .\V-VM 
+",\PR-PRP रस्कोलनिकोव\N-NN ध्यानमग्न\N-NN हालत\N-NN में\PSP बोललइ\V-VM ।\RD-PUNC 
+"सुन्नऽ\N-NN हो\V-VM -\RD-PUNC व्यापारी\N-NN वख़रूशिन\N-NN के\PSP जानऽ\V-VM हका\V-VAUX !\RD-PUNC 
+"\N-NN रज़ुमिख़िन\N-NN चिल्लइलइ\V-VM ।\RD-PUNC 
+"ऊ\PR-PRP कइसे\PR-PRQ नयँ\N-NN होश\N-NN में\PSP हका\N-NN ?\V-VM 
+बल्कि,\N-NN हम\PR-PRP अब\N-NN नोटिस\N-NN करऽ\V-VM ही\V-VAUX कि\CC-CCS अपनहूँ\PR-PRP समझदार\N-NN व्यक्ति\N-NN हथिन\V-VM ।\RD-PUNC 
+अच्छऽ\RP-RPD जी\N-NN !\V-VM 
+अकलमंदी\N-NN के\PSP बात\N-NN सुने\V-VM में\PSP खुशी\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+""जी\N-NN श्रीमान,\V-VM ओहे\V-VAUX वख़रूशिन,\RD-PUNC अफ़नासी\N-NN इवानोविच,\N-NN आउ\CC-CCD अपने\PR-PRP के\PSP माताजी\N-NN के\PSP निवेदन\N-NN के\PSP अनुसार,\N-NN जे\PR-PRL उनकर\PR-PRP माध्यम\N-NN से\PSP ओइसीं\N-NN एक\QT-QTC तुरी\N-NN अपने\PR-PRP के\PSP रकम\N-NN भेज\V-VM चुकलथिन\N-NN हँ,\V-VM ऊ\PR-PRP अबरियो\N-NN इनकार\N-NN नयँ\N-NN कइलथिन\V-VM श्रीमान,\V-VAUX आउ\CC-CCD सिम्योन\N-NN सिम्योनविच\N-NN के\PSP ओहे\N-NN दिन\N-NN अपना\PR-PRF तरफ\N-NN से\PSP नोटिस\N-NN देलथिन,\V-VM कि\CC-CCS अपने\PR-PRP के\PSP पैंतीस\N-NN रूबल\V-VM अदा\N-NN कर\V-VM देल\V-VAUX जाय\V-VAUX श्रीमान,\V-VAUX आउ\CC-CCD बेहतर\N-NN के\PSP आशा\N-NN में,\PSP श्रीमान\N-NN ।\RD-PUNC 
+"अपने\PR-PRP के\PSP मुँह\N-NN से\PSP 'आउ\N-NN बेहतर\N-NN के\PSP आशा\N-NN में'\PSP -\RD-PUNC ई\DM-DMI सबसे\N-NN निम्मन\N-NN बात\N-NN निकसलइ;\V-VM आउ\CC-CCD 'अपने\PR-PRP के\PSP माताजी'\N-NN के\PSP मामले\N-NN में\PSP भी\RP-RPD कुछ\QT-QTF खराब\N-NN नयँ\N-NN हलइ\V-VM ।\RD-PUNC 
+अच्छऽ,\RP-RPD त\N-NN अपने\PR-PRP के\PSP मत\RP-NEG में\PSP -\RD-PUNC ऊ\PR-PRP पूरा\N-NN तरह\RP-RPD से,\PSP या\CC-CCD कि\CC-CCS पूरा\N-NN तरह\RP-RPD से\PSP नयँ,\N-NN होश\N-NN में\PSP हका\N-NN ?\V-VM 
+अयँ\RP-INJ ?\RD-PUNC 
+""हम्मर\PR-PRP मत\RP-NEG में\PSP की\PR-PRQ रक्खल\V-VM हइ,\V-VAUX श्रीमान\N-NN ।\RD-PUNC 
+बस,\CC-CCD खाली\QT-QTF दसखत\N-NN हो\V-VM जइते\V-VAUX हल,\V-VAUX श्रीमान\RD-PUNC ।\RD-PUNC 
+""हाँ,\PR-PRP कइसूँ\PSP घसीट\N-NN तो\PR-PRL देवे\V-VM करता\V-VAUX !\V-VAUX 
+अपने\PR-PRP के\PSP पास\N-NN किताब\N-NN हइ\V-VM न\RP-NEG ?\V-VM 
+""अइकी\N-NN हइ\V-VM कितब्बा,\V-VAUX श्रीमान\N-NN ।\RD-PUNC 
+""एद्धिर\N-NN देथिन\V-VM ।\RD-PUNC 
+अच्छऽ,\RP-RPD रोद्या,\V-VM जरी\QT-QTF उठ\V-VM के\V-VAUX बइठऽ\V-VAUX ।\RD-PUNC 
+हम\PR-PRP तोरा\PR-PRP सहारा\N-NN देले\V-VM रहबो;\V-VAUX ओकरा\PR-PRP लगी\N-NN 'रस्कोलनिकोव'\V-VM रगड़के\V-VAUX लिख\V-VM देहो,\V-VAUX कलम\N-NN ले\V-VM ल,\V-VAUX काहेकि,\CC-CCS भाय,\QT-QTC पइसा\N-NN हमन्हीं\V-VM के\V-VAUX अभी\N-NN मध\N-NN से\PSP जादे\N-NN जरूरत\N-NN हको\V-VM ।\RD-PUNC 
+""जरूरत\N-NN नयँ",\PSP रस्कोलनिकोव\N-NN कहलकइ,\V-VM कलम\N-NN के\PSP ढकेलके\V-VM दूर\N-NN करते\V-VM ।\RD-PUNC 
+"काहे\CC-CCS नयँ\N-NN जरूरत\N-NN हइ\V-VM ?\RD-PUNC 
+""हम\N-NN दसखत\N-NN नयँ\N-NN करम\V-VM ।\RD-PUNC 
+""अरे,\CC-CCD शैतान\N-NN कहीं\DM-DMD के,\PSP त\N-NN दसखत\N-NN के\PSP बगैर\N-NN कइसे\PR-PRQ काम\N-NN चलतउ\V-VM ?\V-VAUX 
+""नयँ\N-NN चाही\V-VM .\RD-PUNC 
+पइसा\N-NN .\V-VM 
+""ई\QT-QTC पइसा\N-NN नयँ\PSP चाही\V-VM !\RD-PUNC 
+अच्छऽ,\RP-RPD भाय,\N-NN ई\DM-DMI तो\PR-PRL झूठ\N-NN हउ,\V-VM हम\PR-PRP गोवाह\N-NN हकिअउ\V-VM !\V-VAUX 
+किरपा\N-NN करके,\V-VM फिकिर\N-NN नयँ\PSP करथिन,\V-VM ई\DM-DMI अइसीं\N-NN .\V-VM 
+फेर\RB से\PSP घुम्मब\V-VM करऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+ओकरो\PR-PRP साथ\PSP तो\PR-PRL जगलो\N-NN पर\PSP अइसन\RP-RPD होवऽ\V-VM हइ\V-VAUX .\RD-PUNC 
+अपने\PR-PRP बुद्धिमान\N-NN हथिन,\V-VM आउ\CC-CCD हमन्हीं\V-VM ओकरा\PR-PRP मार्गदर्शन\N-NN करते\V-VM जइबइ,\N-NN मतलब\N-NN ओकर\PR-PRP हाथ\N-NN के\PSP मामूली\N-NN तौर\N-NN से\PSP रखबइवइ,\V-VM आउ\CC-CCD ऊ\PR-PRP दसखत\N-NN करतइ\V-VM ।\RD-PUNC 
+चालू\N-NN कइल\V-VM जाय\V-VAUX .\V-VM 
+""लेकिन\CC-CCD हम\PR-PRP फेर\RB आ\V-VM जइबइ,\V-VAUX श्रीमान\N-NN ।\RD-PUNC 
+""नयँ,\N-NN नयँ;\N-NN अपने\PR-PRP के\PSP तकलीफ\N-NN काहे\CC-CCS लगी\V-VM देबइ\V-VAUX ।\RD-PUNC 
+अपने\PR-PRP बुद्धिमान\N-NN व्यक्ति\N-NN हथिन\N-NN .\V-VM 
+अच्छऽ,\RP-RPD रोद्या,\N-NN मेहमान\N-NN के\PSP रोकके\V-VM मत\RP-NEG रख\V-VAUX .\V-VM 
+देखऽ\V-VM हीं,\PR-PRP इंतजार\N-NN कर\V-VM रहलथिन\V-VAUX हँ\V-VAUX ।\RD-PUNC 
+"\N-NN आउ\CC-CCD ऊ\PR-PRP गंभीरतापूर्वक\N-NN रस्कोलनिकोव\N-NN के\PSP हाथ\N-NN के\PSP दसखत\N-NN खातिर\PSP तैयार\N-NN कइलकइ\V-VM ।\RD-PUNC 
+"रहे\N-NN दे,\V-VM हम\PR-PRP खुद्दे\V-VM .\V-VAUX 
+",\CC-CCD ऊ\PR-PRP बोललइ,\V-VM कलम\N-NN लेलकइ\V-VM आउ\CC-CCD किताब\N-NN में\PSP दसखत\N-NN कर\V-VM देलकइ\V-VAUX ।\RD-PUNC 
+संघ\N-NN के\PSP अदमी\N-NN पइसा\N-NN दे\V-VM देलकइ\V-VAUX आउ\CC-CCD चल\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+"चाबस\N-NN !\V-VM 
+आउ\CC-CCD अब,\RB भाय,\N-NN खाय\V-VM के\PSP मन\N-NN करऽ\V-VM हउ\V-VAUX ?\RD-PUNC 
+""हाँ",\PR-PRP रस्कोलनिकोव\N-NN जवाब\N-NN देलकइ\V-VM ।\RD-PUNC 
+"तोरा\PR-PRP पास\N-NN शोरबा\N-NN (सूप)\V-VM हको\V-VAUX ?\CC-CCD 
+""कल्हे\N-NN वला",\PSP नस्तास्या\N-NN जवाब\N-NN देलकइ,\V-VM जे\PR-PRL अभी\N-NN तक\RP-RPD ओज्जे\N-NN खड़ी\JJ हलइ\V-VM ।\RD-PUNC 
+"आलू\N-NN आउ\CC-CCD चावल\N-NN के\PSP साथ\PSP ?\V-VM 
+""आलू\N-NN आउ\CC-CCD चावल\N-NN के\PSP साथ\PSP ।\RD-PUNC 
+""हमरा\PR-PRP मुँहजबानी\N-NN आद\N-NN हके\V-VM ।\RD-PUNC 
+सूप\N-NN लेके\V-VM आव,\V-VAUX आउ\CC-CCD चइयो\N-NN दे\V-VM दे\V-VAUX ।\RD-PUNC 
+""लावऽ\V-VM हियो\V-VAUX ।\RD-PUNC 
+"रस्कोलनिकोव\N-NN ई\DM-DMI सब\QT-QTF कुछ\QT-QTF बड़ी\JJ अचरज\N-NN आउ\CC-CCD जरी\QT-QTF व्यर्थ\N-NN के\PSP डर\N-NN से\PSP देखब\V-VM करऽ\V-VAUX हलइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP चुपचाप\N-NN रहे\V-VM आउ\CC-CCD इंतजार\N-NN करे\V-VM के\PSP फैसला\N-NN कर\V-VM लेलकइ\N-NN -\RD-PUNC "आगू\PR-PRP की\PR-PRQ होतइ\V-VM ?\V-VAUX 
+लगऽ\V-VM हइ,\PSP हम\PR-PRP सरसाम\N-NN (delirium)\N-NN में\PSP नयँ\N-NN हकूँ\V-VM ।\RD-PUNC 
+",\CC-CCD ऊ\PR-PRP सोचलकइ,\V-VM "शायद,\CC-CCS ई\DM-DMI वास्तव\N-NN में\PSP .\V-VM 
+"दू\N-NN मिनट\N-NN के\PSP बाद\N-NN नस्तास्या\N-NN सूप\N-NN लेके\V-VM वापिस\N-NN अइलइ\V-VM आउ\CC-CCD बतइलकइ,\V-VM कि\CC-CCS चाय\N-NN अभिये\N-NN तैयार\N-NN हो\V-VM जइतइ\V-VAUX ।\RD-PUNC 
+सूप\N-NN के\PSP साथ\PSP अइलइ\N-NN दू\QT-QTC गो\RP-CL सम्मच,\N-NN दू\QT-QTC गो\RP-CL प्लेट,\N-NN आउ\CC-CCD पूरा\N-NN सेट\N-NN -\RD-PUNC नीमक,\N-NN गोलकी,\V-VM गोमांस\N-NN खातिर\PSP सरसों,\V-VM वगैरह-वगैरह,\V-VAUX जे\PR-PRL पहिले\N-NST ई\DM-DMI तरह\RP-RPD से\PSP लम्बा\N-NN समय\N-NN से\PSP नयँ\N-NN सजावल\V-VM गेले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+मेजपोश\N-NN (टेबुल-क्लॉथ)\N-NN साफ-सुथरा\N-NN हलइ\V-VM ।\RD-PUNC 
+"बेजाय\N-NN नयँ\N-NN होतइ,\V-VM नस्तस्यूश्का\N-NN (नस्तास्या),\V-VM अगर\CC-CCS प्रस्कोव्या\N-NN पावलोव्ना\N-NN दू\QT-QTC बोतल\N-NN बियर\N-NN भेज\V-VM देतइ\V-VAUX ।\RD-PUNC 
+हमन्हीं\PR-PRP पी\V-VM जइबइ\V-VAUX जी\V-VAUX ।\RD-PUNC 
+""अरे,\CC-CCD तूँ\PR-PRP भी\RP-RPD बड़ी\JJ तेज\JJ ह\V-VM !\RD-PUNC 
+",\PR-PRP नस्तास्या\N-NN बड़बड़इलइ\V-VM आउ\CC-CCD हुक्म\N-NN के\PSP पालन\N-NN करे\V-VM खातिर\PSP चल\V-VM पड़लइ\V-VAUX ।\RD-PUNC 
+रस्कोलनिकोव\N-NN बेहूदा\N-NN आउ\CC-CCD तनावपूर्ण\N-NN ढंग\N-NN से\PSP घूरते\V-VM रहलइ\V-VAUX ।\RD-PUNC 
+एहे\DM-DMD दौरान\N-NN रज़ुमिख़िन\N-NN सोफा\N-NN पर\PSP ओकर\PR-PRP बगल\N-NN में\PSP बइठ\V-VM गेलइ,\V-VAUX अनाड़ी\N-NN नियन,\PSP भालू\N-NN जइसे;\V-VM आउ\CC-CCD ओकर\PR-PRP सिर\N-NN के\PSP बामा\N-NN हथवा\N-NN से\PSP पकड़\V-VM लेलकइ,\V-VAUX हलाँकि\CC-CCD ऊ\PR-PRP खुद\RB बइठ\V-VM सकऽ\V-VAUX हलइ,\V-VAUX आउ\CC-CCD दहिना\N-NN हथवा\N-NN से\PSP एक\QT-QTC चम्मच\N-NN सूप\N-NN ओकर\PR-PRP मुँहमा\N-NN भिर\N-NN लइलकइ,\V-VM लेकिन\V-VAUX पहिले\N-NST ओकरा\PR-PRP कुछ\QT-QTF तुरी\N-NN मुँहाँ\N-NN से\PSP फूँक\N-NN मार\V-VM ले\V-VAUX हलइ,\V-VAUX ताकि\CC-CCD ओकर\PR-PRP मुँह\N-NN नयँ\PSP जल\N-NN जाय\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD सूप\N-NN खाली\QT-QTF हलका\V-VM गरम\JJ हलइ\V-VM ।\RD-PUNC 
+रस्कोलनिकोव\N-NN तरसल\N-NN नियन\RP-RPD एक\QT-QTC चम्मच\N-NN गटक\V-VM गेलइ,\V-VAUX बाद\N-NN में\PSP दोसर,\V-VM तेसर\QT-QTO ।\RD-PUNC 
+लेकिन\CC-CCD कुछ\QT-QTF चम्मच\N-NN देला\V-VM के\PSP बाद,\N-NN रज़ुमिख़िन\N-NN अचानक\N-NN रुक\N-NN गेलइ\V-VM आउ\CC-CCD बोललइ,\V-VM कि\CC-CCS आउ\CC-CCD अधिक\N-NN देवे\V-VM के\PSP संबंध\N-NN में\PSP ज़ोसिमोव\N-NN से\PSP सलाह\N-NN लेवे\V-VM के\PSP चाही\V-VAUX ।\RD-PUNC 
+दू\QT-QTC बोतल\V-VM बियर\N-NN लेले\V-VM नस्तास्या\N-NN घुसलइ\V-VM ।\RD-PUNC 
+"आ\V-VM चाय\N-NN चाही\V-VM ?\RD-PUNC 
+""हाँ,\V-VM चाही\V-VAUX ।\RD-PUNC 
+""जल्दी\N-NN से\PSP जाके\V-VM चइयो\V-VAUX ले\V-VAUX आ,\V-VAUX नस्तास्या,\RD-PUNC काहेकि\CC-CCS जाहाँ\PR-PRL तक\RP-RPD चाय\N-NN के\PSP बात\N-NN हइ,\V-VM हमरा\PR-PRP लगऽ\V-VM हइ,\V-VAUX कि\CC-CCS बिन\N-NN डागडर\N-NN के\PSP सलाह\N-NN लेलहूँ\V-VM पीयल\V-VAUX जा\V-VAUX सकऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD हियाँ\N-NN तो\PR-PRL बियर\N-NN भी\RP-RPD हइ\V-VM !\V-VAUX 
+"\N-NN ऊ\PR-PRP अपन\PR-PRP कुरसी\N-NN पर\PSP बइठ\V-VM गेलइ,\V-VAUX अपना\PR-PRF तरफ\N-NN सूप\N-NN आउ\CC-CCD बीफ़\N-NN (गोमांस)\N-NN घींच\N-NN लेलकइ,\V-VM आउ\CC-CCD अइसे\DM-DMD खाय\V-VM लगलइ,\V-VAUX जइसे\PR-PRL तीन\QT-QTC दिन\N-NN से\PSP भुक्खल\V-VM होवे\V-VAUX ।\RD-PUNC 
+"हम\N-NN तो\PR-PRL भाय,\N-NN रोद्या,\V-VM अब\N-NN तोरा\PR-PRP पास\N-NN रोज\N-NN अइसीं\N-NN खाना\N-NN खइबो",\V-VM ऊ\PR-PRP बड़बड़इलइ\N-NN जाहाँ\N-NN तक\RP-RPD बीफ़\N-NN से\PSP भरल\V-VM ओकर\PR-PRP मुँह\N-NN से\PSP बन\V-VM पइलइ,\V-VAUX "आउ\CC-CCD ई\DM-DMI सब\QT-QTF तोर\PR-PRP प्यारी\N-NN मकान-मलकिन\N-NN पाशेन्का\N-NN के\PSP मेहरबानी\N-NN हको,\V-VM जे\PR-PRL हमरा\PR-PRP बिलकुल\N-NN दिल\N-NN से\PSP इज्जत\N-NN करऽ\V-VM हको\V-VAUX ।\RD-PUNC 
+जाहिर\N-NN बात\N-NN हइ,\V-VM एकरा\DM-DMD लगी\N-NN हम\PR-PRP कोय\PR-PRI जोर\N-NN नयँ\PSP दे\V-VM हिअइ,\V-VAUX लेकिन\CC-CCD हम\PR-PRP विरोधो\N-NN नयँ\N-NN करऽ\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD अइकी\N-NN नस्तास्या\N-NN भी\RP-RPD चाय\N-NN लेके\V-VM आ\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+केतना\QT-QTF फुरतीली\N-NN हकइ\V-VM !\V-VAUX 
+नस्तेन्का\N-NN (नस्तास्या),\V-VM तोरा\PR-PRP बियर\N-NN चाही\V-VM ?\RD-PUNC 
+""अरे,\N-NN करबऽ\V-VM हमरा\PR-PRP से\PSP हुलचुल्ली\N-NN !\V-VM 
+""आ\N-NN चाय\V-VM ?\V-VAUX 
+""चाय,\N-NN अच्छऽ\V-VM ।\RD-PUNC 
+""ढार\N-NN दे\V-VM ।\RD-PUNC 
+ठहर,\V-VM हम\PR-PRP तोरा\PR-PRP लगी\V-VM खुद्दे\V-VAUX ढार\N-NN दे\V-VM हिअउ;\V-VAUX टेबुल\N-NN के\PSP पास\N-NST बइठ\V-VM जो\V-VAUX ।\RD-PUNC 
+"ऊ\N-NN तुरते\RB सब\QT-QTF कुछ\QT-QTF सजइलकइ,\V-VM चाय\N-NN ढरलकइ,\V-VM फेर\N-NN आउ\CC-CCD दोसर\QT-QTO कप\N-NN ढरलकइ,\PSP अपन\PR-PRP खाना\N-NN छोड़\V-VM देलकइ\V-VAUX आउ\CC-CCD फेर\N-NN से\PSP सोफा\N-NN पर\PSP बइठ\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+पहिलहीं\N-NN नियन\RP-RPD ऊ\PR-PRP अपन\PR-PRP बामा\N-NN हाथ\N-NN से\PSP रोगी\N-NN के\PSP सिर\N-NN पकड़लकइ,\V-VM ओकरा\PR-PRP उठइलकइ\V-VM आउ\CC-CCD चम्मच\N-NN से\PSP ओकरा\PR-PRP चाय\N-NN पिलावे\V-VM लगलइ,\V-VAUX फेर\N-NN से\PSP लगातार\V-VM आउ\CC-CCD खास\N-NN लगन\N-NN के\PSP साथ\PSP चम्मच\N-NN पर\PSP फूँक\N-NN मारते,\V-VM मानूँ\PSP फूँक\N-NN मारे\V-VM के\PSP ई\DM-DMI प्रक्रिया\N-NN में\PSP ही\RP-RPD रोगी\N-NN के\PSP चंगा\N-NN होवे\V-VM के\PSP सबसे\N-NN मुख्य\N-NN आउ\CC-CCD रक्षक\N-NN बिन्दु\N-NN होवे\V-VM ।\RD-PUNC 
+रस्कोलनिकोव\N-NN चुपचाप\N-NN रहलइ\V-VM आउ\CC-CCD कोय\PR-PRI विरोध\N-NN नयँ\PSP कइलकइ,\V-VM हलाँकि\V-VAUX ऊ\PR-PRP अपना\PR-PRF में\PSP एतना\QT-QTF यथेष्ट\N-NN सामर्थ्य\N-NN अनुभव\N-NN कर\V-VM रहले\V-VAUX हल,\V-VAUX कि\CC-CCS बिन\N-NN कोय\PR-PRI बाहरी\N-NN सहारा\N-NN के\PSP उठ\V-VM आउ\CC-CCD सोफा\N-NN पर\PSP बइठ\V-VM सकऽ\V-VAUX हलइ,\V-VAUX खाली\QT-QTC हाथ\N-NN से\PSP चमचवे,\V-VM चाहे\N-NN कपवे\N-NN पकड़\V-VM नयँ\V-VAUX सकऽ\V-VM हलइ,\V-VAUX बल्कि\CC-CCD शायद\N-NN चलियो-फिर\V-VM सकऽ\V-VAUX हलइ\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD कोय\PR-PRI विचित्र,\V-VM लगभग\PSP जानवर\N-NN के\PSP धूर्तता\N-NN नियन\RP-RPD ओकरा\PR-PRP अचानक\N-NN दिमाग\N-NN में\PSP विचार\N-NN अइलइ\V-VM कि\CC-CCS अभी\N-NN खातिर\PSP अपन\PR-PRP सामर्थ्य\N-NN के\PSP छिपइले\V-VM रहे,\V-VAUX चुप्पी\N-NN साधले\PSP रहे,\V-VM अगर\CC-CCS जरूरत\N-NN पड़े\V-VM तो\PR-PRL ई\DM-DMI ढोंग\N-NN करते\V-VM रहे,\V-VAUX कि\CC-CCS अभियो\N-NN तक\PSP ओकर\PR-PRP होश\N-NN पूरा\N-NN तरह\RP-RPD से\PSP ठीक\N-NN नयँ\V-VM होले\V-VAUX ह,\V-VAUX आउ\CC-CCD ई\DM-DMI दौरान\N-NN सुन्ने\V-VM आउ\CC-CCD जाने,\V-VM कि\CC-CCS हियाँ\N-NN की-की\N-NN हो\V-VM रहले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+लेकिन,\V-VM ऊ\PR-PRP अपन\PR-PRP घृणा\N-NN पर\PSP नियंत्रण\N-NN नयँ\N-NN कर\V-VM पइलकइ\N-NN -\RD-PUNC दस\QT-QTC चम्मच\N-NN चाय\N-NN घोंट\N-NN गेला\V-VM पर,\PSP ऊ\PR-PRP अचानक\N-NN अपन\PR-PRP सिर\N-NN छोड़ा\V-VM लेलकइ,\V-VAUX सनकी\N-NN नियन\RP-RPD चम्मच\N-NN के\PSP ढकेलके\V-VM दूर\N-NN कर\V-VM देलकइ,\V-VAUX आउ\CC-CCD फेर\N-NN से\PSP तकिया\N-NN पर\PSP लुढ़क\N-NN गेलइ\V-VM ।\RD-PUNC 
+अब\N-NN ओकर\PR-PRP सिर\N-NN के\PSP निच्चे\V-VM वास्तविक\N-NN तकिया\N-NN पड़ल\V-VM हलइ\V-VM -\RD-PUNC चिरईं\N-NN के\PSP रोएँदार\N-NN पंख\N-NN से\PSP भरल\V-VM आउ\CC-CCD साफ-सुथरा\N-NN तकिया\N-NN के\PSP खोल\V-VM के\V-VAUX साथ;\N-NN एहो\V-VM ऊ\PR-PRP देखलकइ\V-VM आउ\CC-CCD ध्यान\N-NN में\PSP रखलकइ\V-VM ।\RD-PUNC 
+"पाशेन्का\N-NN के\PSP आझ\N-NN हमन्हीं\V-VM हीं\V-VAUX रसभरी\N-NN के\PSP जाम\N-NN (raspberry\N-NN jam)\N-NN भेजे\V-VM के\V-VAUX चाही,\V-VAUX ओकरा\PR-PRP लगी\N-NN पेय\N-NN (drink)\N-NN बनावे\V-VM खातिर",\PSP रज़ुमिख़िन\N-NN बोललइ,\V-VM अपन\PR-PRP जगह\N-NN पर\PSP बइठते\V-VM आउ\CC-CCD फेर\N-NN से\PSP सूप\N-NN आउ\CC-CCD बियर\N-NN पीये\V-VM में\PSP लगते\V-VM ।\RD-PUNC 
+"आउ\CC-CCD ऊ\PR-PRP तोहरा\N-NN खातिर\PSP रसभरी\N-NN काहाँ\PR-PRQ से\PSP लइता\N-NN ?\V-VM 
+",\PR-PRP नस्तास्या\N-NN पुछलकइ,\V-VM कश्तरी\N-NN के\PSP अपन\PR-PRP पाँचो\QT-QTC अंगुरी\N-NN फैलाके\V-VM पकड़ले\V-VAUX आउ\CC-CCD शक्कर\V-VM के\PSP डला\N-NN (lump)\PSP मुँह\N-NN में\PSP रखले\V-VM चाय\V-VAUX पीते\N-NN [2]\V-VM ।\RD-PUNC 
+"रसभरी,\QT-QTF हमर\PR-PRP यार,\N-NN ऊ\PR-PRP दोकान\N-NN से\PSP लेतइ\V-VM ।\RD-PUNC 
+देखऽ\V-VM हीं,\RD-PUNC रोद्या,\V-VM हियाँ\N-NN पूरा\N-NN खिस्सा\N-NN तोर\PR-PRP गैरहाजिरी\N-NN में\PSP होलो\V-VM ह\V-VAUX ।\RD-PUNC 
+जब\PR-PRL तूँ\PR-PRP ओइसन\N-NN धोखेबाज\N-NN तरीका\N-NN से\PSP हमरा\PR-PRP हीं\N-NN से\PSP भाग\V-VM गेलहीं\V-VAUX आउ\CC-CCD अपन\PR-PRP डेरा\N-NN के\PSP पतो\N-NN नयँ\N-NN देलहीं,\V-VM तब\PR-PRL हमरा\PR-PRP अइसन\RP-RPD गोस्सा\N-NN अइलउ,\V-VM कि\CC-CCS हम\PR-PRP तोरा\PR-PRP खोजके\V-VM दंड\N-NN देवे\V-VM के\PSP फैसला\N-NN कर\V-VM लेलिअउ\V-VAUX ।\RD-PUNC 
+ओहे\N-NN दिन\N-NN हम\PR-PRP काम\N-NN पे\N-NN लग\V-VM गेलिअउ\V-VAUX ।\RD-PUNC 
+हम\PR-PRP तोरा\PR-PRP खोजे\V-VM खातिर\PSP चक्कर\V-VM लगइते\V-VAUX रहलिअउ,\RD-PUNC चक्कर\V-VM लगइते\V-VAUX रहलिअउ,\V-VAUX लोग\N-NN से\PSP पुछते\V-VM रहलिअउ,\V-VAUX पुछते\V-VM रहलिअउ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI अभी\N-NN वला\N-NN फ्लैट\N-NN के\PSP बारे\N-NN तो\PR-PRL हम\PR-PRP भूलिए\N-NN गेलिअउ;\V-VM बल्कि\CC-CCD एकरा\DM-DMD बारे\N-NN हमरा\PR-PRP कभियो\N-NN आद\N-NN नयँ\N-NN हल,\V-VM काहेकि\CC-CCS एकरा\DM-DMD बारे\N-NN हम\PR-PRP जानवे\V-VM नयँ\N-NN करऽ\V-VM हलूँ\V-VAUX ।\RD-PUNC 
+हूँ,\N-NN आउ\CC-CCD पहिलौका\N-NN फ्लैट\N-NN के\PSP बारे\N-NN -\RD-PUNC हमरा\PR-PRP एतने\N-NN आद\N-NN हउ,\V-VM कि\CC-CCS पंचकोण\N-NN [3]\N-NN में\PSP ख़र्लामोव\V-VM के\PSP मकान\N-NN हलउ\V-VM ।\RD-PUNC 
+ई\DM-DMI ख़र्लामोव\V-VM के\V-VAUX घर\N-NN हम\PR-PRP ढूँढ़ते\N-NN रहलूँ,\V-VM ढूँढ़ते\N-NN रहलूँ\V-VM -\RD-PUNC लेकिन\CC-CCD बाद\N-NN में\PSP पता\N-NN चलल,\V-VM कि\CC-CCS वास्तव\N-NN में\PSP ई\DM-DMI ख़र्लामोव\V-VM के\PSP घर\N-NN नयँ,\V-VM बल्कि\CC-CCD बुख़\N-NN के\PSP घर\N-NN हकइ\V-VM -\RD-PUNC कभी-कभी\N-NN ध्वनि\N-NN से\PSP कइसन\PR-PRQ भ्रम\N-NN हो\V-VM जा\V-VAUX हइ\V-VAUX !\RD-PUNC 
+त\N-NN हमहूँ\PR-PRP गोसा\N-NN गेलूँ\V-VM ।\RD-PUNC 
+गोसइलूँ\N-NN आउ\CC-CCD चलियो\V-VM पड़लूँ,\V-VAUX जे\PR-PRL होवे\V-VM से\PSP होवे,\V-VM दोसर\QT-QTO दिन\N-NN पता\N-NN वला\N-NN दफ्तर\N-NN (address\V-VM bureau),\V-VAUX आउ\CC-CCD मालूम\N-NN हउ\V-VM -\RD-PUNC दुइए\N-NN मिनट\N-NN में\PSP तोर\PR-PRP पता\N-NN ढूँढ़के\V-VM दे\V-VAUX देवल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+तोर\PR-PRP नाम\N-NN हुआँ\N-NN दर्ज\N-NN कइल\V-VM हकउ\V-VAUX ।\RD-PUNC 
+""दर्ज\N-NN कइल\V-VM !\V-VAUX 
+""बिलकुल\N-NN !\V-VM 
+आउ\CC-CCD अउकी\N-NN हमर\PR-PRP सामनहीं\N-NN सेनापति\N-NN कोबेलेव\V-VM के\PSP नाम\N-NN कइसूँ\V-VM ओकन्हीं\V-VAUX ढूँढ़\V-VAUX नयँ\RD-PUNC पइलका\N-NN !\V-VM 
+अच्छऽ\RP-RPD जी,\N-NN ई\DM-DMI एगो\QT-QTC लम्मा\N-NN खिस्सा\N-NN हइ\V-VM ।\RD-PUNC 
+हियाँ\N-NN हमर\PR-PRP कदम\N-NN रखतहीं\V-VM तुरते\RB हम\PR-PRP तोर\PR-PRP सब\QT-QTF किरिया-करम\N-NN से\PSP परिचित\N-NN हो\V-VM गेलूँ;\V-VAUX सब\QT-QTF कुछ,\N-NN भाय,\N-NN सब\QT-QTF कुछ,\PSP सब\QT-QTF कुछ\QT-QTF जन्नऽ\V-VM हिअउ;\V-VAUX अइकी\N-NN एहो\V-VM (नस्तास्या)\CC-CCS देखलको\V-VM ह\V-VAUX -\RD-PUNC आउ\CC-CCD निकोदिम\PR-PRP फ़ोमिच\N-NN से\PSP परिचय\N-NN होलउ,\V-VM इल्या\N-NN पित्रोविच\N-NN से\PSP परिचय\N-NN करावल\V-VM गेल,\V-VAUX आउ\CC-CCD दरबान\N-NN से,\PSP मिस्टर\N-NN ज़म्योतोव\V-VM से,\RD-PUNC अलिक्सान्द्र\RB ग्रिगोरयेविच,\N-NN ई\DM-DMI दफ्तर\N-NN के\PSP मैनेजर\N-NN से,\PSP आउ\CC-CCD आखिरकार\N-NN पाशेन्का\N-NN से\PSP -\RD-PUNC ई\DM-DMI तो\PR-PRL ताज\JJ मिले\V-VM जइसन\RP-RPD बात\N-NN हल;\V-VM अइकी\N-NN एहो\V-VM जन्नऽ\V-VAUX हउ\V-VAUX .\RD-PUNC 
+"\N-NN "शक्कर\V-VM लगाके\PSP बोलला",\V-VM शरारत\N-NN से\PSP मुसकइते\N-NN नस्तास्या\N-NN बड़बड़इलइ\V-VM ।\RD-PUNC 
+"ओकरा\PR-PRP चइया\N-NN में\PSP डाल\V-VM द,\V-VAUX नस्तास्या\N-NN निकिफ़ोरोव्ना\V-VM ।\RD-PUNC 
+""अरे,\CC-CCD कुत्ता\N-NN कहीं\DM-DMI के\PSP !\V-VM 
+"\N-NN अचानक\N-NN नस्तास्या\N-NN चिल्लइलइ\N-NN आउ\CC-CCD खिलखिला\N-NN उठलइ\V-VM ।\RD-PUNC 
+"आ\N-NN हम\PR-PRP पित्रोव्ना\N-NN हकूँ,\V-VM निकिफ़ोरोव्ना\CC-CCS नयँ",\PR-PRP ऊ\PR-PRP अचानक\RP-RPD आगे\N-NST बोललइ,\V-VM जब\PR-PRL हँसना\N-NN बन\V-VM कर\V-VAUX देलकइ\V-VAUX ।\RD-PUNC 
+"ध्यान\N-NN में\PSP रखबो\V-VM जी\N-NN ।\RD-PUNC 
+अच्छऽ,\RP-RPD भाय,\V-VM फालतू\CC-CCD बात\N-NN छोड़\V-VM देल\V-VAUX जाय,\V-VAUX पहिले\N-NST हम\PR-PRP चाहऽ\N-NN हलिअइ\V-VM कि\CC-CCS हियाँ\N-NN सगरो\N-NN बिजली\N-NN के\PSP करंट\V-VM (धारा)\V-VAUX लगा\V-VM दिअइ,\JJ ताकि\PR-PRL हियाँ\N-NN के\PSP सब्भे\V-VM स्थानीय\N-NN (लोकल)\V-VM अंधविश्वास\N-NN एक्के\QT-QTC तुरी\N-NN में\PSP जड़\N-NN से\PSP उखड़\N-NN जाय,\V-VM लेकिन\CC-CCD पाशेन्का\N-NN जीत\N-NN गेलइ\V-VM ।\RD-PUNC 
+हमरा\PR-PRP तो\PR-PRL भाय\N-NN बिलकुल\N-NN आशा\N-NN नयँ\N-NN हल,\V-VM कि\CC-CCS ऊ\PR-PRP अइसन\RP-RPD हकइ\N-NN .\V-VM 
+दिल\N-NN के\PSP खींच\V-VM लेवे\V-VAUX वली\N-NN .\V-VM 
+की\PR-PRQ ?\V-VM 
+तोरा\PR-PRP की\PSP कहना\V-VM हइ\V-VAUX ?\RD-PUNC 
+"रस्कोलनिकोव\N-NN चुप\V-VM रहलइ,\V-VAUX हलाँकि\CC-CCD एक्को\QT-QTC मिनट\N-NN लगी\V-VM ऊ\PR-PRP अपन\PR-PRP चिंताग्रस्त\N-NN आँख\N-NN के\PSP ओकरा\PR-PRP से\PSP अलगे\N-NN नयँ\N-NN कइलकइ,\V-VM आउ\CC-CCD अब\N-NN लगातार\N-NN ओकरा\PR-PRP एकटक\N-NN देखना\V-VM जारी\N-NN रखलकइ\V-VM ।\RD-PUNC 
+"आउ\CC-CCD बहुत",\N-NN रज़ुमिख़िन\N-NN बात\N-NN जारी\N-NN रखलकइ,\V-VM ओकर\PR-PRP चुप्पी\N-NN से\PSP बिन\N-NN कोय\PR-PRI परेशानी\N-NN के\PSP आउ\CC-CCD मानूँ\N-NN प्राप्त\N-NN उत्तर\N-NN से\PSP सहमत\N-NN होते,\V-VM "आ\V-VAUX बहुत\N-NN ठीके-ठाक\N-NN हइ,\V-VM सब्भे\PSP हालत\N-NN में\PSP ।\RD-PUNC 
+""अरे\N-NN नीच\N-NN !\PSP 
+"\N-NN नस्तास्या\N-NN फेर\N-NN चिल्लइलइ,\V-VM जेकरा\PR-PRL ई\DM-DMI बातचीत\N-NN शायद\V-VM वर्णनातीत\N-NN आनन्द\RB दे\V-VM रहले\V-VM हल\V-VAUX ।\RD-PUNC 
+"ई\N-NN खराब\N-NN बात\N-NN हउ,\V-VM भाय,\N-NN कि\CC-CCS तूँ\PR-PRP शुरुए\N-NN से\PSP ई\DM-DMI बात\N-NN पे\N-NN ध्यान\N-NN नयँ\V-VM दे\V-VAUX पइलहीं\V-VAUX ।\RD-PUNC 
+ओकरा\PR-PRP साथ\PSP अइसन\RP-RPD नयँ\N-NN होवे\V-VM के\PSP चाही\V-VM हल\V-VAUX ।\RD-PUNC 
+वास्तव\N-NN में\PSP ऊ,\V-VM तथाकथित,\RD-PUNC बिलकुल\N-NN अप्रत्याशित\PR-PRP स्वभाव\N-NN के\PSP हइ\V-VM !\V-VAUX 
+खैर,\V-VM ओकर\PR-PRP स्वभाव\N-NN के\PSP बारे\N-NN बाद\N-NN में\PSP देखल\V-VM जइतइ\V-VAUX .\V-VM 
+खाली\QT-QTF एहे\DM-DMD बात\N-NN लेल\V-VM जाय,\V-VAUX मसलन,\CC-CCD तूँ\PR-PRP नौबत\N-NN कइसे\PR-PRQ हियाँ\N-NN तक\RP-RPD पहुँचे\V-VM देलहीं\V-VAUX कि\CC-CCS ऊ\PR-PRP तोरा\PR-PRP खानो\JJ भेजना\V-VM बन\V-VM कर\V-VAUX देलकउ\V-VAUX ?\RD-PUNC 
+चाहे,\N-NN मसलन,\PSP करजा\V-VM के\PSP ई\DM-DMI वचनपत्र\N-NN ?\V-VM 
+तूँ\PR-PRP पागल\N-NN हो\V-VM गेलहीं\V-VAUX हल\V-VAUX की,\V-VAUX कि\CC-CCS करजा\N-NN के\PSP वचनपत्र\N-NN पे\N-NN दसखत\V-VM कइलहीं\V-VAUX !\RD-PUNC 
+चाहे,\V-VM मसलन,\PSP ई\DM-DMI प्रस्तावित\V-VM विवाह,\V-VAUX जब\PR-PRL ओकर\PR-PRP बेटी,\N-NN नताल्या\N-NN येगोरोव्ना,\PR-PRL जिन्दे\N-NN हलइ\V-VM .\RD-PUNC 
+हमरा\PR-PRP सब\QT-QTF कुछ\QT-QTF मालूम\N-NN हकउ\V-VM !\V-VAUX 
+बल्कि\CC-CCD हम\PR-PRP देखऽ\V-VM हिअउ,\V-VAUX कि\CC-CCS ई\DM-DMI बहुत\RP-INTF नाजुक\JJ मामला\V-VM हकउ\V-VAUX आउ\CC-CCD हम\PR-PRP गदहा\N-NN हकूँ;\PSP तूँ\PR-PRP हमरा\PR-PRP माफ\N-NN कर\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD अब\N-NN जब\PR-PRL बात\N-NN बेवकूफी\N-NN के\PSP निकस\V-VM गेलउ,\V-VAUX त\CC-CCD तूँ\PR-PRP जइसन\RP-RPD सोचऽ\V-VM हीं,\RP-RPD प्रस्कोव्या\N-NN पाव्लोव्ना\N-NN बिलकुल,\V-VM भाय,\V-VAUX ओतना\PR-PRL बेवकूफ\N-NN नयँ\N-NN हइ,\V-VM जेतना\PR-PRL पहिले\N-NST नजर\N-NN में\PSP देखे\V-VM में\PSP लगऽ\V-VM हइ,\V-VAUX की\V-VAUX ?\RD-PUNC 
+"\N-NN "हाँ\DM-DMD .\V-VM 
+",\PR-PRP रस्कोलनिकोव\N-NN दाँत\N-NN भींचके\V-VM बोललइ,\RD-PUNC बगल\N-NST तरफ\N-NN देखते,\V-VM लेकिन\CC-CCD ई\DM-DMI जानके,\V-VM कि\CC-CCS बातचीत\N-NN जारी\N-NN रखना\V-VM ओकर\PR-PRP जादे\N-NN फयदा\N-NN में\PSP रहतइ\V-VM ।\RD-PUNC 
+"सच\N-NN हइ\V-VM न\RP-NEG ?\V-VM 
+",\PR-PRP रज़ुमिख़िन\N-NN चिल्ला\N-NN पड़लइ,\V-VM स्पष्टतया,\N-NN ई\DM-DMI बात\N-NN से\PSP खुश\JJ होके\V-VM कि\CC-CCS ओकरा\PR-PRP जवाब\N-NN मिललइ,\V-VM "लेकिन\CC-CCD वस्तुतः\N-NN बुद्धिमान\N-NN नयँ,\PR-PRP की\PR-PRQ ?\V-VM 
+बिलकुल,\N-NN बिलकुल\N-NN अप्रत्याशित\PR-PRP स्वभाव\N-NN वली\V-VM !\V-VAUX 
+हम,\PR-PRP भाय,\V-VM जरी\QT-QTF भ्रमित\V-VM हिअउ,\V-VAUX तोरा\PR-PRP हम\PR-PRP विश्वास\N-NN देलावऽ\V-VM हिअउ\V-VAUX .\V-VM 
+ऊ\PR-PRP चालीस\N-NN के\PSP तो\PR-PRL पक्का\JJ होतइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP बतावऽ\N-NN हइ\V-VM -\RD-PUNC छत्तीस\N-NN आउ\CC-CCD ई\DM-DMI बात\N-NN के\PSP ओकरा\PR-PRP पूरा\N-NN हक\V-VM हइ\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD हम\PR-PRP विश्वास\N-NN देलावऽ\V-VM हिअउ\V-VAUX कि\CC-CCS ओकरा\PR-PRP हम\PR-PRP जादे\N-NN बौद्धिकता\N-NN के\PSP कसौटी\N-NN पर\PSP परखऽ\V-VM हिअउ,\V-VAUX खाली\QT-QTF आध्यात्मिक\N-NN दृष्टिकोण\N-NN से;\PSP भाय,\N-NN हियाँ\N-NN पर\PSP हमन्हीं\V-VM बीच\N-NST अइसन\RP-RPD प्रतीक\N-NN शुरू\N-NN होले\V-VM ह,\V-VAUX कि\CC-CCS तोर\PR-PRP बीजगणित\V-VM की\V-VAUX हउ\V-VAUX !\RD-PUNC 
+हमरा\PR-PRP कुछ\QT-QTF समझ\N-NN में\PSP नयँ\V-VM आवऽ\V-VAUX हउ\V-VAUX !\RD-PUNC 
+खैर,\CC-CCD ई\DM-DMI सब\QT-QTF तो\PR-PRL बकवास\N-NN हइ,\V-VM लेकिन\CC-CCD खाली\QT-QTF ऊ\PR-PRP ई\DM-DMI देखके,\V-VM कि\CC-CCS तूँ\PR-PRP अब\N-NN छात्र\N-NN नयँ\N-NN रह\V-VM चुकलहीं\V-VAUX हँ,\RD-PUNC तोर\PR-PRP टीसनी\N-NN करे\V-VM के\PSP काम\N-NN छूट\V-VM गेलो\V-VAUX ह\V-VAUX आउ\CC-CCD ढंग\N-NN के\PSP पोशाक\N-NN तक\RP-RPD नयँ\N-NN रहलउ,\V-VM कि\CC-CCS ओकर\PR-PRP रईसजादी\N-NN (बेटी)\N-NN के\PSP मौत\N-NN के\PSP बाद\N-NN ओकरा\PR-PRP कोय\PR-PRI तरह\RP-RPD से\PSP तोरा\PR-PRP रिश्तेदार\N-NN जइसन\RP-RPD व्यवहार\N-NN करे\V-VM के\PSP जरूरत\N-NN नयँ\N-NN रह\V-VM गेले\V-VAUX ह,\V-VAUX त\N-NN ऊ\PR-PRP अचानक\N-NN डर\N-NN गेलइ;\V-VM आउ\CC-CCD चूँकि\QT-QTC तूँ\PR-PRP अपना\PR-PRF तरफ\N-NN से\PSP कोना\N-NN में\PSP दुबकल\N-NN रहलहीं\V-VM आउ\CC-CCD पहिले\V-VM जइसन\RP-RPD कुच्छो\QT-QTF संबंध\V-VM बनइले\V-VAUX नयँ\RD-PUNC रखलहीं,\V-VAUX त\N-NN ऊ\PR-PRP तोरा\PR-PRP अपन\PR-PRP फ्लैट\N-NN से\PSP निकास\N-NN बाहर\N-NN करे\V-VM के\PSP सोच\N-NN लेलकउ\V-VM ।\RD-PUNC 
+आउ\CC-CCD ई\DM-DMI इरादा\N-NN बहुत\RP-INTF पहिले\N-NST से\PSP कइले\V-VM हलउ,\V-VAUX लेकिन\CC-CCD ओकरा\PR-PRP करजा\N-NN के\PSP वचनपत्र\N-NN के\PSP अफसोस\N-NN हलइ\V-VM (अर्थात्\V-VAUX पइसा\N-NN डुब्बे\V-VM के\V-VAUX अफसोस)\N-NN ।\RD-PUNC 
+एकरा\DM-DMD बारे\N-NN तूँ\PR-PRP खुद्दे\N-NN विश्वास\N-NN देलइलहीं\V-VM हल,\V-VAUX कि\CC-CCS तोर\PR-PRP माय\N-NN भुगतान\V-VM करथुन\V-VAUX .\V-VM 
+""ई\N-NN हमर\PR-PRP कमीनापन\N-NN हलइ\V-VM कि\CC-CCS हम\PR-PRP अइसे\N-NN बोललिअइ\V-VM .\V-VM 
+हमर\PR-PRP माय\N-NN खुद्दे\V-VM लगभग\V-VAUX भिखारिन\N-NN हकइ\V-VM .\V-VAUX 
+आउ\CC-CCD हम\PR-PRP झूठ\N-NN बोललिए\V-VM हल,\V-VAUX ताकि\CC-CCS हमरा\PR-PRP फ्लैट\N-NN में\PSP रहे\V-VM दे\V-VAUX आउ\CC-CCD .\V-VM 
+खाना\N-NN देते\N-NN रहे",\V-VM रस्कोलनिकोव\N-NN उच्च\N-NN स्वर\N-NN से\PSP आउ\CC-CCD साफ-साफ\N-NN बोललइ\V-VM ।\RD-PUNC 
+"हाँ,\N-NN ई\DM-DMI तो\PR-PRL तोर\PR-PRP समझदारी\N-NN हलउ\V-VM ।\RD-PUNC 
+खाली\QT-QTF बड़गर\V-VM मामला\N-NN हइ\V-VM ई,\V-VAUX कि\CC-CCS ओहे\DM-DMD बखत\N-NN टपक\V-VM जा\V-VAUX हका\N-NN मिस्टर\N-NN चेबारोव,\PSP कोर्ट\N-NN काउंसिलर\V-VM आउ\CC-CCD व्यापारी\N-NN अदमी\N-NN ।\RD-PUNC 
+पाशेन्का\N-NN ओकरा\PR-PRP बिन\N-NN कुच्छो\QT-QTF सोच\V-VM नयँ\V-VM सकऽ\V-VAUX हलइ,\V-VAUX ऊ\PR-PRP हइए\V-VM हइ\V-VAUX जादे\V-VAUX शर्मीली;\V-VAUX लेकिन\CC-CCD एगो\QT-QTC व्यापारी\N-NN अदमी\N-NN तो\PR-PRL लजालु\N-NN नयँ\N-NN होवऽ\V-VM हइ,\V-VAUX आउ\CC-CCD जाहिर\N-NN हइ,\V-VM ऊ\PR-PRP सबसे\N-NN पहिले\N-NST प्रश्न\N-NN कइलकइ\V-VM -\RD-PUNC वचनपत्र\N-NN के\PSP मोताबिक\N-NN वसूली\N-NN के\PSP कोय\PR-PRI आशा\N-NN हइ\V-VM ?\RD-PUNC 
+उत्तर\N-NN –\N-NN ‘हइ,\V-VM काहेकि\CC-CCS माय\N-NN अइसन\RP-RPD हइ,\V-VM कि\CC-CCS अपन\PR-PRP एक\QT-QTC सो\N-NN पचीस\N-NN रूबल\N-NN के\PSP पेंशन\N-NN से,\PSP चाहे\N-NN भुखले\N-NN काहे\CC-CCS नयँ\PSP रहे,\V-VM लेकिन\CC-CCD रोदिन्का\N-NN के\PSP जरूर\RB बचइतइ,\V-VM आउ\CC-CCD बहिनी\N-NN अइसन\RP-RPD हइ,\V-VM कि\CC-CCS अपन\PR-PRP भाय\N-NN खातिर\PSP बंधुआ\N-NN मजूरनी\N-NN बन\V-VM जइतइ\V-VAUX ।\RD-PUNC 
+एहे\DM-DMD बात\N-NN पर\PSP तो\PR-PRL ऊ\PR-PRP दिलजमई\N-NN हलइ\V-VM .\RD-PUNC 
+’\CC-CCD तूँ\PR-PRP कसमसा\N-NN हीं\V-VM काहे\CC-CCS ?\V-VM 
+हम\PR-PRP तो,\PR-PRP भाय,\N-NN तोर\PR-PRP सब\QT-QTF असलियत\N-NN जन\N-NN गेलियो\V-VM ह,\V-VAUX ई\DM-DMI बेकार\N-NN के\PSP बात\N-NN नयँ\N-NN हलइ,\V-VM कि\CC-CCS तूँ\PR-PRP पाशेन्का\N-NN के\PSP सामने\N-NST सब\QT-QTF कुछ\QT-QTF दिल\N-NN खोलके\V-VM बता\V-VM दे\V-VAUX हलहीं,\V-VAUX जब\PR-PRL ओकरा\PR-PRP साथ\PSP रिश्तेदारी\N-NN के\PSP स्तर\N-NN पर\PSP हलहीं,\V-VM आउ\CC-CCD अब\RB हम\PR-PRP प्यार\V-VM से\PSP कह\V-VM रहलियो\V-VAUX ह\V-VAUX .\RD-PUNC 
+असली\N-NN बात\N-NN तो\PR-PRL ई\DM-DMI हइ\V-VM -\RD-PUNC ईमनदार\V-VM आउ\CC-CCD कोमलहृदय\N-NN व्यक्ति\N-NN खुल्लल\V-VM दिल\N-NN से\PSP बात\N-NN करऽ\V-VM हइ,\V-VAUX लेकिन\CC-CCD एगो\QT-QTC व्यापारी\N-NN अदमी\N-NN सुनते\V-VM रहऽ\V-VAUX हइ\V-VM आउ\CC-CCD खइते\V-VM रहऽ\V-VAUX हइ,\V-VAUX आ\CC-CCD बाद\N-NN में\PSP पूरा\N-NN खा\V-VM जा\V-VM हइ\V-VAUX ।\RD-PUNC 
+त\N-NN ऊ\PR-PRP ई\DM-DMI वचनपत्र\N-NN के\PSP चेबारोव\N-NN के\PSP कोय\PR-PRI भुगतान\N-NN के\PSP रूप\N-NN में\PSP लेवे\N-NN देलकइ,\V-VM आ\V-VAUX ऊ\PR-PRP औपचारिक\N-NN रूप\N-NN से\PSP भुगतान\N-NN के\PSP तगादा\N-NN कइलकइ,\V-VM आउ\CC-CCD एकरा\DM-DMD में\PSP ओकरा\PR-PRP कोय\PR-PRI शरम\N-NN नयँ\PSP बुझइलइ\V-VM ।\RD-PUNC 
+जइसीं\PR-PRL हमरा\PR-PRP ई\DM-DMI सब\QT-QTF पता\N-NN चललइ,\V-VM हमरा\PR-PRP मन\N-NN कइलकइ,\V-VM कि\CC-CCS अपन\PR-PRP अंतःकरण\N-NN के\PSP सफाई\N-NN खातिर\PSP ओकरो\PR-PRP खाल\QT-QTF घींच\N-NN लिअइ,\V-VM लेकिन\CC-CCD ऊ\PR-PRP समय\N-NN तक\RP-RPD हमर\PR-PRP पाशेन्का\N-NN के\PSP साथ\PSP तालमेल\N-NN बइठ\V-VM गेले\V-VAUX हल,\V-VAUX आउ\CC-CCD हम\PR-PRP ई\DM-DMI सब\QT-QTF खिस्सा\N-NN के\PSP समाप्त\N-NN कर\V-VM देवे\V-VAUX ल\V-VAUX कहलिअइ,\N-NN मतलब\N-NN कि\CC-CCS बिलकुल\N-NN जड़\N-NN से,\PSP ई\DM-DMI गारंटी\N-NN देके\V-VM कि\CC-CCS तूँ\PR-PRP भुगतान\N-NN कर\V-VM देमहीं\V-VAUX ।\RD-PUNC 
+हम\PR-PRP तो,\PR-PRP भाय,\N-NN तोरा\PR-PRP खातिर\PSP गारंटी\N-NN देलिअउ,\V-VM समझलहीं\N-NN ?\V-VM 
+चेबारोव\N-NN के\PSP बोलावल\V-VM गेलइ,\V-VAUX चानी\N-NN के\PSP दस\QT-QTC रूबल\N-NN ओकर\PR-PRP चेहरा\N-NN पर\PSP बिग\V-VM देलिअइ,\V-VAUX आउ\CC-CCD कागज\N-NN वापस\N-NN ले\V-VM लेलिअइ,\V-VAUX आउ\CC-CCD एकरा\DM-DMD हम\PR-PRP तोर\PR-PRP खिदमत\N-NN में\PSP पेश\N-NN कर\V-VM रहलियो\V-VAUX ह\V-VAUX -\RD-PUNC अब\N-NN तोर\PR-PRP बात\N-NN पर\PSP लोग\N-NN विश्वास\N-NN करते\V-VM जा\V-VAUX हका\N-NN -\RD-PUNC अइकी,\N-NN ले\V-VM ल,\V-VAUX आऊ\N-NN हम\PR-PRP थोड़े\QT-QTF सन\N-NN एकरा\DM-DMD फाड़\V-VAUX देलियो\V-VAUX ह,\V-VAUX जइसन\RP-RPD कि\CC-CCS साधारणतः\N-NN कइल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+रज़ुमिख़िन\N-NN करजा\N-NN के\PSP वचनपत्र\N-NN टेबुल\N-NN पर\PSP रख\V-VM देलकइ;\V-VAUX रस्कोलनिकोव\N-NN ओकरा\PR-PRP तरफ\N-NN देखलकइ,\V-VM आउ\CC-CCD बिन\N-NN एक्को\QT-QTC शब्द\N-NN बोलले,\V-VM अपन\PR-PRP मुँह\N-NN देवाल\N-NN तरफ\N-NN फेर\V-VM लेलकइ\V-VAUX ।\RD-PUNC 
+रज़ुमिख़िन\N-NN के\PSP भी\RP-RPD जरी\QT-QTF बुरा\N-NN लगलइ\V-VM ।\RD-PUNC 
+"हम\N-NN देख\V-VM रहलियो\V-VAUX ह,\V-VAUX भाय,",\RP-RPD ऊ\PR-PRP एक\QT-QTC मिनट\N-NN के\PSP बाद\N-NN बोललइ,\V-VM "कि\CC-CCD फेर\RB से\PSP हम\PR-PRP बेवकूफी\N-NN कइलूँ\V-VM हँ\V-VAUX ।\RD-PUNC 
+हम\PR-PRP तोर\PR-PRP ध्यान\N-NN हटावे\V-VM आउ\CC-CCD अपन\PR-PRP बकबक\N-NN से\PSP दिल\N-NN बहलावे\V-VM लगी\V-VAUX सोचब\N-NN करऽ\V-VM हलूँ,\V-VAUX लेकिन\CC-CCD लगऽ\V-VM हउ,\V-VAUX कि\CC-CCS हम\PR-PRP खाली\QT-QTF तोर\PR-PRP पित्त\N-NN छेड़\N-NN देलिअउ\V-VM ।\RD-PUNC 
+""ई\N-NN की\PSP तूँ\PR-PRP हलहीं\N-NN जेकरा\PR-PRL हम\PR-PRP सरसामी\N-NN हालत\N-NN में\PSP पछान\N-NN नयँ\N-NN पइलूँ\V-VM हल\V-VAUX ?\RD-PUNC 
+"\N-NN रस्कोलनिकोव\N-NN पुछलकइ,\V-VM एक\QT-QTC मिनट\N-NN तक\PSP चुप्पी\N-NN साधला\N-NN के\PSP बाद\N-NN आउ\CC-CCD अपन\PR-PRP सिर\N-NN बिन\N-NN घुमइले\V-VM ।\RD-PUNC 
+"हाँ\DM-DMD हमहीं\N-NN हलिअउ,\V-VM आउ\CC-CCD तूँ\PR-PRP ऊ\PR-PRP बखत\N-NN उखड़\V-VM गेलहीं\V-VAUX हल,\RD-PUNC खास\N-NN करके\V-VM जब\PR-PRL हम\PR-PRP एक\QT-QTC तुरी\N-NN ज़म्योतोव\N-NN के\PSP लइलियो\V-VM हल\V-VAUX ।\RD-PUNC 
+""ज़म्योतोव\N-NN ?\V-VM 
+किरानी\N-NN ?\V-VM 
+काहे\CC-CCS लगी\V-VM ?\RD-PUNC 
+"\N-NN रस्कोलनिकोव\N-NN तेजी\RB से\PSP अपन\PR-PRP सिर\N-NN घुमइलकइ\V-VM आउ\CC-CCD अपन\PR-PRP दृष्टि\N-NN रज़ुमिख़िन\N-NN पर\PSP जमइलकइ\V-VM ।\RD-PUNC 
+"लेकिन\CC-CCD तूँ\PR-PRP अइसे\N-NN काहे\CC-CCS बरत\N-NN रहलँऽ\V-VM हँ\V-VAUX .\V-VM 
+परेशान\N-NN काहे\CC-CCS हकँऽ\V-VM ?\RD-PUNC 
+ऊ\PR-PRP तोरा\PR-PRP साथ\PSP परिचय\N-NN करे\V-VM ल\V-VAUX चाहऽ\N-NN हलइ;\V-VM ऊ\PR-PRP खुद\N-NN चाहऽ\V-VM हलइ,\V-VAUX काहेकि\CC-CCS ओकरा\PR-PRP साथ\PSP हम\PR-PRP तोरा\PR-PRP बारे\N-NN बहुत\RP-INTF कुछ\QT-QTF बात\N-NN कइलिए\N-NN हल\V-VM .\RD-PUNC 
+नयँ\N-NN तो\PR-PRL तोरा\PR-PRP बारे\N-NN एतना\QT-QTF जनकारी\N-NN हमरा\PR-PRP केकरा\PR-PRQ से\PSP मिल्लत\V-VM हल\V-VAUX ?\RD-PUNC 
+भाय,\N-NN ऊ\PR-PRP निम्मन\N-NN अदमी\N-NN हकइ,\V-VM बहुत\N-NN करामाती\N-NN .\V-VM 
+जाहिर\N-NN हइ,\PSP अपन\PR-PRP ढंग\N-NN के\PSP ।\RD-PUNC 
+अभी\N-NN हमन्हीं\PSP दोस्त\N-NN हकिअइ;\V-VM लगभग\V-VAUX रोज\N-NN दिन\N-NN मिल्लऽ\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+हम\PR-PRP एहे\DM-DMD इलाका\N-NN में\PSP आ\V-VM गेलियो\V-VAUX ह\V-VAUX ।\RD-PUNC 
+तोरा\PR-PRP अभी\N-NN तक\RP-RPD नयँ\N-NN मालूम\V-VM ?\V-VAUX 
+अभी-अभी\N-NN अइलियो\V-VM ह\V-VAUX ।\RD-PUNC 
+ओकरा\PR-PRP साथ\PSP दू\QT-QTC तुरी\N-NN लविज़ा\N-NN के\PSP पास\N-NN होके\V-VM अइलिए\N-NN ह\V-VM ।\RD-PUNC 
+लविज़ा\N-NN के\PSP तो\PR-PRL आद\N-NN आवऽ\V-VM हउ\V-VAUX न,\RD-PUNC लविज़ा\N-NN इवानोव्ना\N-NN ?\V-VM 
+""बड़बड़ा\N-NN रहलिए\N-NN हल\V-VM हम\PR-PRP कुच्छो\QT-QTF ?\V-VM 
+""बिलकुल\N-NN !\V-VM 
+तूँ\PR-PRP अपने\PR-PRP आप\PR-PRP के\PSP नयँ\N-NN हलऽ,\V-VM जी\N-NN ।\RD-PUNC 
+""हम\N-NN कउची\N-NN के\PSP बारे\N-NN बड़बड़ा\N-NN रहलिए\V-VM हल\V-VAUX ?\RD-PUNC 
+""बाप\N-NN रे\V-VM !\RD-PUNC 
+कउची\N-NN के\PSP बारे\N-NN बड़बड़ा\N-NN रहलहीं\V-VM हल\V-VAUX ?\RD-PUNC 
+ई\DM-DMI जाहिर\N-NN हइ\V-VM कि\CC-CCS सब\QT-QTF कउन\PR-PRQ चीज\N-NN के\PSP बारे\N-NN बड़बड़ा\N-NN हइ\V-VM .\RD-PUNC 
+अच्छऽ,\RP-RPD भाय,\N-NN अब\N-NN हम\PR-PRP समय\N-NN बरबाद\N-NN नयँ\RP-NEG कर\V-VM सकऽ\V-VAUX हूँ,\RD-PUNC काम\N-NN हके\V-VM ।\RD-PUNC 
+"ऊ\PR-PRP कुरसी\N-NN से\PSP उठ\V-VM खड़ी\N-NN होलइ\V-VM आउ\CC-CCD अपन\PR-PRP टोपी\N-NN धर\V-VM लेलकइ\V-VAUX ।\RD-PUNC 
+"अरे,\V-VM हम\PR-PRP कउची\PR-PRQ के\PSP बारे\N-NN बड़बड़ाब\N-NN करऽ\V-VM हलिअइ\V-VAUX ?\RD-PUNC 
+""कइसन\N-NN रट\N-NN लगइले\V-VM हके\V-VAUX !\RD-PUNC 
+कहीं\DM-DMI कोय\PR-PRI भेद\N-NN खातिर\PSP तो\PR-PRL डरल\V-VM-VNP नयँ\N-NN हकऽ\V-VM ?\V-VAUX 
+फिकिर\N-NN नयँ\N-NN करऽ\V-VM -\RD-PUNC कोय\PR-PRI शहजादी\N-NN के\PSP बारे\N-NN तोर\PR-PRP मुँह\N-NN से\PSP कुछ\QT-QTF नयँ\N-NN निकसलो\V-VM ।\RD-PUNC 
+बल्कि\CC-CCD कोय\PR-PRI बुलडॉग\N-NN के\PSP बारे,\N-NN आउ\CC-CCD कनबाली\N-NN के\PSP बारे,\N-NN आउ\CC-CCD केकरो\PR-PRI चेन\N-NN (सिकरी)\N-NN के\PSP बारे,\N-NN आउ\CC-CCD क्रेस्तोव्स्की\N-NN टापू\N-NN के\PSP बारे,\N-NN आउ\CC-CCD कोय\PR-PRI दरबान\N-NN के\PSP बारे,\N-NN आउ\CC-CCD निकोदिम\N-NN फ़ोमिच\N-NN के\PSP बारे,\N-NN आउ\CC-CCD इल्या\N-NN पित्रोविच,\V-VM पुलिस\N-NN चीफ\N-NN के\PSP सहायक,\N-NN के\PSP बारे,\N-NN बहुत\N-NN कुछ\QT-QTF बक\V-VM गेलऽ\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD एकरा\DM-DMD अलावे,\N-NN अपन\PR-PRP पेताबा\N-NN लगी\N-NN भी\RP-RPD तोरा\PR-PRP बहुत\N-NN दिलचस्पी\N-NNP हलो,\V-VM बहुत\QT-QTF !\V-VM 
+शिकायत\N-NN कर\N-NN रहलऽ\V-VM हल\V-VAUX -\RD-PUNC 'हमरा\PR-PRP दे\V-VM दऽ,\V-VAUX बस'\RD-PUNC ।\RD-PUNC 
+ज़म्योतोव\V-VM खुद्दे\N-NN तोर\PR-PRP पेताबा\N-NN खातिर\PSP सब्भे\V-VM कोना\N-NN छान\N-NN मरलको,\V-VM आउ\CC-CCD अपन\PR-PRP इत्र\N-NN से\PSP महँकते\N-NN आउ\CC-CCD अंगूठी\N-NN से\PSP सज्जल\N-NN हाथ\N-NN से\PSP तोरा\PR-PRP ई\DM-DMI चिथड़ा\PR-PRQ देलको\V-VM ।\RD-PUNC 
+तब\PR-PRL तोरा\PR-PRP चैन\N-NN अइलो,\V-VM आउ\CC-CCD पूरे\N-NN चोबीस\N-NN घंटे\N-NN ई\DM-DMI चिथड़ा\N-NN के\PSP हथवा\N-NN में\PSP दबइले\V-VM रहलऽ;\V-VAUX तोर\PR-PRP हाथ\N-NN से\PSP एकरा\DM-DMD निकासना\V-VM संभव\N-NN नयँ\N-NN होल\V-VM ।\RD-PUNC 
+शायद\N-NN अभियो\N-NN कहीं\DM-DMI पे\N-NN तोर\PR-PRP रजाय\N-NN के\PSP अन्दर\N-NN पड़ल\V-VM होतो\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD फेर\N-NN पतलून\N-NN के\PSP फुचड़ो\N-NN मँग\N-NN रहलऽ\V-VM हल,\V-VAUX आउ\CC-CCD ओहो\PR-PRP केतना\QT-QTF लोर\N-NN बहइते\V-VM !\V-VAUX 
+आउ\CC-CCD हमन्हीं\V-VM तो\PR-PRL ई\DM-DMI समझे\V-VM के\PSP कोरसिस\N-NN कर\V-VM रहलियो\V-VAUX हल\V-VAUX -\RD-PUNC हुआँ\N-NN आउ\CC-CCD कइसन\PR-PRQ फुचड़ा\V-VM होतइ\V-VAUX ?\RD-PUNC 
+लेकिन\CC-CCD कुच्छो\QT-QTF समझ\N-NN में\PSP नयँ\N-NN आ\V-VM रहलो\V-VAUX हल\V-VAUX .\RD-PUNC 
+अच्छऽ,\RP-RPD अब\N-NN काम\N-NN के\PSP बात\N-NN हो\V-VM जाय\V-VAUX !\RD-PUNC 
+अइकी\N-NN पाँच\QT-QTC रूबल\N-NN हको;\V-VM ओकरा\PR-PRP में\PSP से\PSP दस\QT-QTC ले\V-VAUX ले\V-VAUX हकियो,\V-VAUX आउ\CC-CCD लगभग\V-VM दू\QT-QTC घंटा\N-NN के\PSP बाद\N-NN ऊ\PR-PRP सब\QT-QTF के\PSP हिसाब\N-NN दे\V-VM देबो\V-VM ।\RD-PUNC 
+एहे\DM-DMD दौरान\N-NN हम\PR-PRP ज़ोसिमोव\N-NN के\PSP भी\RP-RPD बता\V-VM देबो,\V-VAUX हलाँकि\CC-CCD एकरा\DM-DMD बगैर\N-NN ओकरा\PR-PRP बहुत\RP-INTF पहिलहीं\N-NN आ\V-VM जाय\V-VAUX के\PSP चाही\V-VM हल,\V-VAUX काहेकि\CC-CCS एगारऽ\V-VM से\PSP जादे\N-NN बज\N-NN गेलइ\V-VM ।\RD-PUNC 
+आउ\CC-CCD तूँ\PR-PRP नस्तेन्का\N-NN (नस्तास्या),\V-VM हमर\PR-PRP गैरहाजिरी\N-NN में\PSP जेतना\QT-QTF जादे\N-NN हो\V-VM सके\V-VAUX ओतना\PR-PRL तुरी\N-NN बीच-बीच\N-NN में\PSP जरी\QT-QTF देख\V-VM लिहो\V-VAUX हल,\V-VAUX कि\CC-CCS इनका\PR-PRP कुछ\QT-QTF पीये\V-VM लगी,\V-VAUX चाहे\N-NN आउ\CC-CCD कुछ\QT-QTF चाही\V-VM .\PSP 
+आउ\CC-CCD पाशेन्का\N-NN के\PSP खुद्दे\V-VM जे\PR-PRL कुछ\QT-QTF जरूरत\N-NN हइ\V-VM ऊ\PR-PRP बता\V-VM दे\V-VAUX हिअइ\V-VAUX ।\RD-PUNC 
+फेर\RB भेंट\V-VM होतइ\V-VAUX !\RD-PUNC 
+"\N-NN "उनका\PR-PRP पाशेन्का\N-NN कहके\V-VM पुकारऽ\V-VAUX हइ\V-VAUX !\RD-PUNC 
+बदमाश\N-NN कहीं\DM-DMI के\PSP !\V-VM 
+"\N-NN ओकर\PR-PRP पीछू\N-NN में\PSP नस्तास्या\N-NN बोललइ;\V-VM फेर\N-NN दरवाजा\N-NN खोललकइ\V-VM आउ\CC-CCD कान\N-NN देके\V-VM सुन्ने\N-NN लगलइ,\V-VM लेकिन\CC-CCD ओकरा\PR-PRP बरदास\N-NN नयँ\N-NN होलइ\V-VM आउ\CC-CCD खुद\N-NN ज़ीना\N-NN से\PSP उतरते\V-VM निच्चे\N-NN दौड़ल\N-NN गेलइ\V-VM ।\RD-PUNC 
+ओकरा\PR-PRP बहुत\N-NN उत्सुकता\N-NN हलइ\V-VM ई\DM-DMI जाने\V-VM के,\V-VAUX कि\CC-CCS हुआँ\N-NN ऊ\PR-PRP मकान-मालकिन\N-NN से\PSP कउची\PR-PRQ बारे\N-NN बात\N-NN करऽ\V-VM हइ;\V-VAUX आउ\CC-CCD कुल\N-NN मिलाके\V-VM ई\V-VAUX साफ\N-NN लगऽ\V-VM हलइ,\V-VAUX कि\CC-CCS ऊ\PR-PRP रज़ुमिख़िन\N-NN पर\PSP बिलकुल\N-NN मोहित\N-NN हो\V-VM गेले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+जइसीं\PR-PRL ओकर\PR-PRP पीछू\N-NN दरवाजा\N-NN बन\V-VM होलइ,\V-VAUX ओइसीं\N-NN रोगी\N-NN रजाय\N-NN अपने\PR-PRP ऊपर\N-NN से\PSP हटा\N-NN लेलकइ\V-VM आउ\CC-CCD अधपगला\N-NN नियन\RP-RPD बिछौना\N-NN पर\PSP से\PSP उछल\V-VM खड़ी\N-NN होलइ\V-VM ।\RD-PUNC 
+जलते\V-VM झटकदार\N-NN उजलत\N-NN से\PSP ऊ\PR-PRP इंतजार\N-NN कर\V-VM रहले\V-VAUX हल,\V-VAUX कि\CC-CCS केतना\PR-PRQ जल्दी\N-NN ओकन्हीं\N-NN हियाँ\N-NN से\PSP घसके,\V-VM कि\CC-CCS ओकन्हीं\N-NN के\PSP गैरहाजिरी\N-NN में\PSP अपन\PR-PRP काम\N-NN में\PSP जल्दी\N-NN से\PSP लग\V-VM जाय\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD काहे\CC-CCS लगी,\V-VM कउन\PR-PRQ काम\N-NN लगी\V-VM ?\V-VAUX 
+-\RD-PUNC मानूँ\N-NN अब\N-NN ओकरा\PR-PRP चिढ़ावे\V-VM खातिर,\PSP सब\QT-QTF कुछ\QT-QTF भुला\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+"हे\N-NN भगमान\N-NN !\V-VM 
+हमरा\PR-PRP खाली\QT-QTF एक\QT-QTC बात\N-NN बता\V-VM दे\V-VAUX -\RD-PUNC ओकन्हीं\V-VAUX के\PSP सब\QT-QTF कुछ\QT-QTF मालूम\N-NN हकइ,\V-VM कि\CC-CCS अभियो\N-NN कुछ\QT-QTF मालूम\N-NN नयँ\N-NN हइ\V-VM ?\RD-PUNC 
+आउ\CC-CCD कि\CC-CCS जान\N-NN गेते\N-NN गेला\V-VM ह\V-VAUX आउ\CC-CCD खाली\QT-QTF ढोंग\N-NN करऽ\V-VM हका,\V-VAUX चिढ़ावऽ\V-VAUX हका,\V-VAUX जब\PR-PRL हम\PR-PRP पड़ल\V-VM रहऽ\V-VAUX हकूँ,\V-VAUX आउ\CC-CCD अइकी\N-NN अन्दर\N-NN घुसता\V-VM आउ\CC-CCD कहता,\V-VM कि\CC-CCS सब\QT-QTF कुछ\QT-QTF तो\PR-PRL पहिलहीं\N-NN मालूम\N-NN चल\V-VM चुकलो\N-NN हल\V-VM आउ\CC-CCD खाली\QT-QTF अइसीं\N-NN .\V-VM 
+अब\N-NN की\PSP करूँ\V-VM ?\RD-PUNC 
+अइकी\N-NN हम\PR-PRP भूल\N-NN गेलूँ,\PSP मानूँ\V-VM जान-बूझके;\N-NN अचानक\RP-RPD भूल\N-NN गेलूँ,\V-VM अभी-अभी\N-NN तो\PR-PRL आद\N-NN हले\V-VM !\RD-PUNC 
+"\N-NN ऊ\PR-PRP कमरा\N-NN के\PSP बिच्चे\N-NN में\PSP खड़ी\JJ हलइ\V-VM आउ\CC-CCD कष्टदायक\N-NN विस्मय\N-NN से\PSP चारो\QT-QTC तरफ\N-NN देखते\V-VM रहलइ;\V-VAUX फेर\N-NN दरवाजा\N-NN भिर\N-NN गेलइ,\V-VM एकरा\DM-DMD खोललकइ,\V-VM ध्यान\N-NN देके\V-VM सुनलकइ;\V-VAUX लेकिन\CC-CCD ई\DM-DMI ऊऽ\V-VM नयँ\JJ हलइ\V-VM ।\RD-PUNC 
+अचानक,\N-NN मानूँ\PSP ओकरा\PR-PRP कुछ\QT-QTF आद\N-NN आ\V-VM गेल\V-VAUX होवे,\V-VAUX लपकके\V-VAUX ऊ\PR-PRP कोनमा\N-NN में\PSP गेलइ,\V-VM जाहाँ\PR-PRL देवाल\N-NN के\PSP कागज\N-NN में\PSP भूड़\N-NN हलइ,\V-VM आउ\CC-CCD सब\QT-QTF कुछ\QT-QTF जाँचे\V-VM लगलइ,\PSP भुड़वा\N-NN में\PSP हाथ\N-NN नइलकइ,\PSP टटोललकइ,\V-VM लेकिन\CC-CCD एहो\V-VM ऊ\PR-PRP नयँ\JJ हलइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP स्टोव\N-NN के\PSP पास\N-NN अइलइ,\V-VM एकरा\DM-DMD खोललकइ,\V-VM आउ\CC-CCD राख\N-NN में\PSP टटोले\V-VM लगलइ\V-VAUX -\RD-PUNC पतलून\N-NN के\PSP फुचड़ा\N-NN आउ\CC-CCD जेभी\N-NN में\PSP से\PSP नोचल\V-VM चिथड़ा\N-NN अइसीं\N-NN पड़ल\V-VM हलइ,\V-VAUX जइसे\PR-PRL कि\CC-CCS ऊ\PR-PRP तखनी\N-NN फेंकलके\V-VM हल,\V-VAUX मतलब\N-NN कि\CC-CCS कोय\PR-PRI नयँ\N-NN देखलके\V-VM हल\V-VAUX !\RD-PUNC 
+तभिये\N-NN ओकरा\PR-PRP पेताबा\N-NN के\PSP बारे\N-NN आद\N-NN पड़लइ,\V-VM जेकरा\PR-PRL बारे\N-NN रज़ुमिख़िन\N-NN अभी\N-NN ओकरा\PR-PRP बतइलके\V-VM हल\V-VAUX ।\RD-PUNC 
+सच\N-NN में,\V-VM अइकी\V-VAUX ऊ\PR-PRP सोफा\N-NN पर\PSP पड़ल\V-VM हइ,\V-VAUX रजाय\N-NN के\PSP निच्चे,\V-VM लेकिन\CC-CCD अब\RB तक\RP-RPD ऊ\PR-PRP एतना\QT-QTF घिस\N-NN चुकले\V-VM हल\V-VAUX आउ\CC-CCD गंदा\N-NN हो\V-VM गेले\V-VAUX हल,\V-VAUX कि\CC-CCS ज़म्योतोव\N-NN कुछ\QT-QTF नयँ\N-NN देख\V-VM पइलके\V-VAUX हल\V-VAUX ।\RD-PUNC 
+"अरे,\PR-PRP ज़म्योतोव\V-VM !\V-VAUX 
+दफ्तर\N-NN !\V-VM 
+आ\V-VM काहे\CC-CCS लगी\DM-DMD हमरा\PR-PRP दफ्तर\N-NN में\PSP बोलावल\V-VM जा\V-VAUX हइ\V-VAUX ?\RD-PUNC 
+नोटिस\N-NN काहाँ\PSP हइ\V-VM ?\RD-PUNC 
+अरे\N-NN !\V-VM 
+हम\PR-PRP सब\QT-QTF कुछ\QT-QTF मिला\V-VM देलिअइ\V-VM -\RD-PUNC एकर\PR-PRP ऊ\PR-PRP बखत\N-NN जरूरत\N-NN हलइ\V-VM !\RD-PUNC 
+हम\PR-PRP ऊ\PR-PRP बखत\N-NN पेताबा\N-NN जाँच\V-VM रहलिए\V-VAUX हल,\V-VAUX लेकिन\CC-CCD अब\N-NN .\V-VM 
+अब\N-NN तो\PR-PRL हम\PR-PRP बेमार\N-NN हलिअइ\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD ज़म्योतोव\N-NN काहे\CC-CCS लगी\N-NN अइले\V-VM हल\V-VAUX ?\RD-PUNC 
+काहे\CC-CCS लगी\N-NN लइलके\V-VM हल\V-VAUX ओकरा\PR-PRP रज़ुमिख़िन\N-NN ?\V-VM 
+",\CC-CCD ऊ\PR-PRP कमजोरी\N-NN में\PSP बड़बड़ा\N-NN रहले\V-VM हल,\V-VAUX फेर\N-NN से\PSP सोफा\N-NN पर\PSP बइठते\V-VM ।\RD-PUNC 
+"ई\PR-PRP की\PR-PRQ हइ\V-VM ?\RD-PUNC 
+हम\PR-PRP अभियो\N-NN सरसाम\N-NN में\PSP हकूँ,\V-VM कि\CC-CCS ई\DM-DMI सब\QT-QTF वास्तव\N-NN में\PSP हो\V-VM रहल\V-VAUX ह\V-VAUX ?\RD-PUNC 
+लगऽ\V-VM हइ,\RP-RPD ई\DM-DMI सच\N-NN हइ\V-VM .\V-VAUX 
+आह,\DM-DMD हमरा\PR-PRP आद\N-NN पड़ल\V-VM -\RD-PUNC भाग\V-VM !\V-VAUX 
+जल्दी\N-NN से\PSP भाग,\V-VM जरूर,\V-VAUX जरूर\RB भाग\V-VM !\V-VAUX 
+हाँ\RP-RPD .\V-VM 
+लेकिन\CC-CCD काहाँ\DM-DMQ ?\V-VM 
+आउ\CC-CCD हमर\PR-PRP पोशाक\N-NN काहाँ\PR-PRQ हके\V-VM ?\RD-PUNC 
+बूट\N-NN नयँ\N-NN !\PSP 
+लेके\V-VM चल\V-VM गेते\N-NN गेलइ\V-VM !\V-VAUX 
+नुका\V-VM देते\N-NN गेलइ\V-VM !\V-VAUX 
+हम\PR-PRP समझऽ\V-VM ही\V-VAUX !\RD-PUNC 
+आह,\CC-CCD अइकी\N-NN हमर\PR-PRP पोशाक\N-NN हके\V-VM -\RD-PUNC ओकन्हीं\N-NN के\PSP नजर\N-NN से\PSP चूक\N-NN गेलइ\V-VM !\V-VAUX 
+अइकी\N-NN टेबुल\N-NN पर\PSP पइसवो\N-NN हइ,\V-VM भगमान\N-NN के\PSP किरपा\N-NN से\PSP !\V-VM 
+अइकी\N-NN वचनपत्र\N-NN भी\RP-RPD हकइ\V-VM .\V-VM 
+हम\PR-PRP पइसवा\N-NN ले\V-VM लेम\V-VAUX आउ\CC-CCD दूर\N-NN चल\V-VM जाम,\V-VAUX आउ\CC-CCD दोसर\QT-QTO फ्लैट\N-NN किराया\N-NN पर\PSP ले\V-VM लेम,\V-VAUX ओकन्हीं\V-VAUX ढूँढ़\V-VAUX नयँ\RD-PUNC पइता\N-NN !\V-VM 
+हाँ,\RP-RPD लेकिन\CC-CCD पता\N-NN वला\N-NN दफ्तर\N-NN (address\V-VM bureau)\V-VAUX ?\RD-PUNC 
+हमरा\PR-PRP खोज\V-VM लेवल\V-VAUX जात\N-NN !\PSP 
+रज़ुमिख़िन\N-NN तो\PR-PRL खोजिए\V-VM लेत\V-VAUX ।\RD-PUNC 
+सबसे\N-NN अच्छा\JJ बिलकुल\N-NN भाग\V-VM जाय\V-VAUX के\V-VAUX .\V-VM 
+दूर\N-NN .\V-VM 
+अमेरिका\N-NN में,\PSP आउ\CC-CCD ओकन्हीं\N-NN सब\QT-QTF पर\PSP थूक\N-NN देवे\V-VM के\V-VAUX !\V-VAUX 
+आउ\CC-CCD वचनपत्र\N-NN ले\V-VM लेवे\V-VAUX के\PSP .\V-VM 
+ई\DM-DMI हुआँ\N-NN काम\N-NN देत\V-VM ।\RD-PUNC 
+आउ\CC-CCD कउची\N-NN लेवे\V-VM के\V-VAUX ?\V-VAUX 
+ओकन्हीं\N-NN सोचतइ,\V-VM कि\CC-CCS हम\PR-PRP बेमार\N-NN हकिअइ\V-VM !\V-VAUX 
+ओकन्हीं\N-NN ई\DM-DMI जानवो\N-NN नयँ\V-VM करतइ,\V-VAUX कि\CC-CCS हम\PR-PRP चलियो-फिर\V-VM सकऽ\V-VAUX हिअइ,\V-VAUX हे\V-VAUX हे\V-VAUX हे\V-VAUX !\RD-PUNC 
+ओकन्हीं\N-NN के\PSP अँखिया\N-NN से\PSP हम\PR-PRP अन्दाज\N-NN लगइलिअइ,\V-VM कि\CC-CCS ओकन्हीं\N-NN के\PSP सब\QT-QTF कुछ\QT-QTF मालूम\N-NN हइ\V-VM !\RD-PUNC 
+बस\CC-CCD कहीं\DM-DMD ज़ीना\N-NN से\PSP उतर\V-VM पाऊँ\V-VAUX !\RD-PUNC 
+आउ\CC-CCD अगर\CC-CCS ओकन्हीं\N-NN के\PSP पहरेदार\N-NN हुआँ\N-NN खड़ी\N-NN रहइ\N-NN -\RD-PUNC पुलिसवला\N-NN !\V-VM 
+ई\DM-DMI की\PR-PRQ हइ\V-VM -\RD-PUNC चाय\V-VM ?\V-VAUX 
+आउ,\CC-CCD अइकी\N-NN बियर\N-NN भी\RP-RPD बच्चल\N-NN हइ,\V-VM आधा\QT-QTF बोतल,\V-VM ठंढका\N-NN !\V-VM 
+"ऊ\N-NN बोतल\N-NN उठा\V-VM लेलकइ,\V-VAUX जेकरा\PR-PRL में\PSP एक\QT-QTC पूरा\N-NN गिलास\N-NN बियर\N-NN बच्चल\N-NN हलइ,\V-VM आउ\CC-CCD बड़ी\JJ चाव\N-NN से\PSP एक\QT-QTC साँस\N-NN में\PSP गटक\V-VM गेलइ,\V-VAUX मानूँ\N-NN अपन\PR-PRP सीना\N-NN के\PSP आग\N-NN बुझा\V-VM रहल\V-VAUX होवे\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD एक्को\QT-QTC मिनट\N-NN नयँ\N-NN होलइ,\V-VM कि\CC-CCS बियर\N-NN ओक्कर\N-NN सिर\N-NN में\PSP चढ़\V-VM गेलइ,\V-VAUX आउ\CC-CCD ओकर\PR-PRP रीढ़\N-NN से\PSP एगो\QT-QTC हलका\V-VAUX आउ\CC-CCD सुखद\N-NN भी\RP-RPD सिहरन\N-NN दौड़\N-NN गेलइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP पड़\V-VM गेलइ\V-VAUX आउ\CC-CCD रजाय\N-NN तानके\V-VM ओढ़\V-VM लेलकइ\V-VAUX ।\RD-PUNC 
+ओकर\PR-PRP बेमार\N-NN आउ\CC-CCD बिखरल\N-NN विचार\N-NN अधिकाधिक\N-NN उलझे\N-NN लगलइ,\V-VM आउ\CC-CCD जल्दीए\N-NN हलका\V-VM आउ\CC-CCD सुखद\N-NN नीन\N-NN ओकरा\PR-PRP धर\V-VM लेलकइ\V-VAUX ।\RD-PUNC 
+अराम\N-NN के\PSP साथ\PSP ऊ\PR-PRP अपन\PR-PRP सिर\N-NN तकिया\N-NN के\PSP अन्दर\N-NN जमा\V-VM लेलकइ,\V-VAUX आउ\CC-CCD नरम\JJ रजाय,\N-NN जे\PR-PRL अब\N-NN ओकर\PR-PRP चिथड़ा\N-NN होल\V-VM पहिलौका\N-NN ओवरकोट\N-NN के\PSP जगह\N-NN ले\V-VM लेलके\V-VAUX हल,\PSP ऊ\PR-PRP कसके\RB खुद\N-NN पर\PSP लपेट\V-VM लेलकइ,\V-VAUX अराम\N-NN से\PSP उच्छ्वास\N-NN लेलकइ\V-VM आउ\CC-CCD गहरा,\V-VM गाढ़ा,\V-VAUX सेहतगर\N-NN (स्वास्थ्यप्रद)\N-NN नीन\N-NN में\PSP सुत\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP जग\N-NN गेलइ,\V-VM ई\V-VAUX सुनके\V-VM कि\CC-CCS कोय\PR-PRI तो\PR-PRL ओकर\PR-PRP कमरा\N-NN में\PSP घुसलइ,\V-VM आँख\N-NN खोललकइ\V-VM आउ\CC-CCD रज़ुमिख़िन\N-NN के\PSP देखलकइ,\V-VM जे\PR-PRL दरवाजा\N-NN पूरा\N-NN खोलके\V-VM चौखट\N-NN भिजुन\PSP खड़ी\N-NN हलइ,\V-VM ई\DM-DMI संकोच\N-NN में,\V-VM कि\CC-CCS अन्दर\N-NN जाय\V-VM कि\CC-CCS नयँ\N-NN ।\RD-PUNC 
+रस्कोलनिकोव\N-NN तेजी\RB से\PSP उठके\V-VM सोफा\N-NN पर\PSP बइठ\V-VM गेलइ\V-VAUX आउ\CC-CCD ओकरा\PR-PRP तरफ\N-NN देखे\V-VM लगलइ,\PR-PRL मानूँ\N-NN कुछ\QT-QTF तो\PR-PRL आद\N-NN करे\V-VM के\PSP प्रयास\N-NN कर\V-VM रहल\V-VAUX होवे\V-VAUX ।\RD-PUNC 
+"अच्छऽ,\DM-DMD त\N-NN तूँ\PR-PRP सुत्तल\V-VM नयँ\N-NN हकऽ,\V-VM ल\N-NN हम\PR-PRP पहुँच\V-VM गेलियो\V-VAUX !\RD-PUNC 
+नस्तास्या,\N-NN बंडल\N-NN घसीटके\V-VM हियाँ\V-VAUX ले\V-VAUX आव\V-VAUX !\RD-PUNC 
+"\N-NN रज़ुमिख़िन\N-NN निच्चे\V-VM तरफ\N-NN चिल्लइलइ\V-VM ।\RD-PUNC 
+"अभिये\N-NN हिसाब\N-NN मिल\V-VM जइतो\V-VAUX .\V-VM 
+""केतना\QT-QTF बजले\V-VM ह\V-VAUX ?\RD-PUNC 
+"\N-NN रस्कोलनिकोव\N-NN पुछलकइ,\V-VM बेचैनी\N-NN से\PSP चारो\QT-QTC तरफ\N-NN देखते\V-VM ।\RD-PUNC 
+"तूँ\PR-PRP तो\PR-PRL अच्छा\N-NN नीन\N-NN लेलऽ,\V-VM भाय\N-NN -\RD-PUNC बाहर\N-NN तो\PR-PRL साँझ\N-NN हो\V-VM गेलो\V-VAUX ह,\RD-PUNC लगभग\V-VM छो\JJ बजलो\V-VM होत\V-VAUX ।\RD-PUNC 
+तूँ\PR-PRP छो\JJ घंटा\N-NN से\PSP जादहीं\V-VM सुतलऽ\V-VM ह\V-VAUX .\V-VM 
+""हे\N-NN भगमान\N-NN !\V-VM 
+हमरा\PR-PRP की\PSP हो\V-VM गेल\V-VAUX ह\V-VAUX !\RD-PUNC 
+""आ\QT-QTC ओकरा\PR-PRP से\PSP की\PR-PRQ ?\V-VM 
+ई\DM-DMI तो\PR-PRL सेहत\N-NN लगी\N-NN अच्छे\RP-RPD हको\V-VM !\CC-CCD 
+काहाँ\CC-CCS के\PSP जल्दी\RB हको\V-VM ?\CC-CCD 
+केकरो\PR-PRI से\PSP मिल्ले\V-VM के\PSP हको\V-VM की\V-VAUX ?\RD-PUNC 
+हमन्हीं\PR-PRP के\PSP पास\N-NN बखते\V-VM बखत\N-NN हइ\V-VM ।\RD-PUNC 
+हम\PR-PRP तोर\PR-PRP तीन\QT-QTC घंटा\N-NN से\PSP इंतजार\N-NN कर\V-VM रहलियो\V-VAUX ह;\V-VAUX दू\QT-QTC तुरी\N-NN हम\PR-PRP हियाँ\N-NN अइलियो\V-VM हल,\V-VAUX तूँ\PR-PRP सुत्तल\N-NN हलऽ\V-VM ।\RD-PUNC 
+ज़ोसिमोव\N-NN के\PSP हियाँ\N-NN दू\QT-QTC तुरी\N-NN गेलिअइ\V-VM -\RD-PUNC जब\PR-PRL देखऽ\V-VM त\N-NN घरे\N-NN पर\PSP नयँ\N-NN !\V-VM 
+खैर,\RB कोय\PR-PRI बात\N-NN नयँ,\RD-PUNC आ\V-VM जइतइ\V-VAUX !\RD-PUNC 
+अपन\PR-PRP छोट-मोट\JJ कामो\N-NN खातिर\PSP हम\PR-PRP कुछ\QT-QTF देर\N-NN लगी\N-NN बाहर\N-NN गेलूँ\V-VM हल\V-VAUX ।\RD-PUNC 
+हम\PR-PRP आझे\N-NN घर\N-NN बदललूँ,\V-VM बिलकुल\N-NN बदल\V-VM लेलूँ,\V-VAUX अपन\PR-PRP चाचा\N-NN के\PSP साथ\PSP ।\RD-PUNC 
+अब\N-NN हमरा\PR-PRP साथ\PSP चाचा\N-NN रहऽ\V-VM हका\N-NN .\V-VM 
+खैर,\CC-CCD ई\DM-DMI सब\QT-QTF बात\N-NN के\PSP छोड़ऽ,\V-VM काम\N-NN के\PSP बात\N-NN पर\PSP आवल\V-VM जाय\V-VAUX !\RD-PUNC 
+बंडल\N-NN हियाँ\N-NN पर\PSP लाव,\V-VM नस्तेन्का\N-NN ।\RD-PUNC 
+त\N-NN काम\N-NN शुरू\N-NN कइल\V-VM जाय\V-VAUX .\V-VM 
+आउ\CC-CCD भाय,\N-NN कइसन\PR-PRQ हकऽ\V-VM ?\V-VAUX 
+""हम\N-NN ठीक\JJ हकूँ;\V-VM हम\PR-PRP बेमार\N-NN नयँ\V-VM हकूँ\V-VAUX .\V-VM 
+रज़ुमिख़िन,\CC-CCD तूँ\PR-PRP हियाँ\N-NN पर\PSP लम्मा\N-NN समय\N-NN से\PSP हकऽ\V-VM ?\V-VAUX 
+""कहलियो\DM-DMD न,\PSP तीन\QT-QTC घंटा\N-NN इंतजार\N-NN कइलियो\V-VM ।\RD-PUNC 
+""नयँ,\CC-CCD लेकिन\CC-CCD पहिले\N-NST ?\V-VM 
+""पहिले\PR-PRP की\PR-PRQ ?\V-VM 
+""तूँ\PR-PRP कबसे\PSP हियाँ\N-NN अइते\N-NN रहलऽ\V-VM ह\V-VAUX ?\RD-PUNC 
+""ई\N-NN तो\PR-PRL हम\PR-PRP तोरा\PR-PRP सुबहीं\N-NN बता\V-VM चुकलियो\N-NN ह;\V-VM कि\CC-CCS तोरा\PR-PRP आद\N-NN नयँ\N-NN ?\V-VM 
+"रस्कोलनिकोव\N-NN सोचे\V-VM लगलइ\V-VAUX ।\RD-PUNC 
+सुबह\N-NN के\PSP बात\N-NN ओकरा\PR-PRP सपना\N-NN नियन\RP-RPD लग\V-VM रहले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP खुद्दे\N-NN आद\N-NN नयँ\N-NN कर\V-VM पइलकइ\N-NN आउ\CC-CCD प्रश्नात्मक\N-NN ढंग\N-NN से\PSP रज़ुमिख़िन\N-NN तरफ\N-NN देखे\V-VM लगलइ\V-VAUX ।\RD-PUNC 
+"हूँ\DM-DMD !\PSP 
+"\N-NN ऊ\PR-PRP बोललइ,\V-VM "भूल\V-VAUX गेलऽ\V-VAUX !\RD-PUNC 
+हमरा\PR-PRP सुबहे\N-NN के\PSP लग\V-VM रहऽ\V-VAUX हल,\V-VAUX कि\CC-CCS तूँ\PR-PRP अभियो\N-NN पूरा\N-NN होश\N-NN में\PSP नयँ\N-NN हकऽ\V-VM .\V-VAUX 
+अब\N-NN सुतला\N-NN से\PSP तो\PR-PRL कुछ\QT-QTF बेहतर\N-NN लगऽ\V-VM हकऽ\V-VAUX .\V-VM 
+सच\N-NN में,\PSP बिलकुल\N-NN बेहतर\N-NN देखाय\V-VM दे\V-VAUX ह\V-VAUX ।\RD-PUNC 
+नौजवान\N-NN !\V-VM 
+खैर,\V-VM अब\N-NN काम\N-NN के\PSP बात\N-NN !\V-VM 
+अइकी\N-NN तोरा\PR-PRP अब\N-NN आद\N-NN आ\V-VM जइतो\V-VAUX ।\RD-PUNC 
+एन्ने\N-NN देखऽ,\V-VM प्यारे\N-NN दोस्त\N-NN ।\RD-PUNC 
+"ऊ\PR-PRP बंडल\N-NN खोले\V-VM लगलइ,\V-VAUX आउ\CC-CCD साफ\N-NN लगऽ\V-VM हलइ\V-VAUX कि\CC-CCS जे\PR-PRL ओकरा\PR-PRP बड़ी\JJ दिलचस्प\N-NN लग\V-VM रहले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+"जन्नऽ\CC-CCD हो,\V-VM भाय,\V-VAUX ई\DM-DMI हम\PR-PRP खास\N-NN करके\V-VM हम\PR-PRP अपन\PR-PRP दिल\N-NN में\PSP ले\V-VM लेलियो\V-VAUX ह\V-VAUX ।\RD-PUNC 
+काहेकि,\CC-CCS हमरा\PR-PRP तोरा\PR-PRP में\PSP से\PSP इंसान\N-NN बनावे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+चलऽ\V-VM -\RD-PUNC उपरे\N-NN से\PSP शुरू\N-NN कइल\V-VM जाय\V-VAUX ।\RD-PUNC 
+ई\DM-DMI टोपी\V-VM देखऽ\V-VM हो\V-VAUX ?\V-VAUX 
+"\N-NN ऊ\PR-PRP शुरू\N-NN कइलकइ,\V-VM बंडल\N-NN से\PSP एगो\QT-QTC काफी\N-NN निम्मन\N-NN लेकिन\CC-CCD मामूली\N-NN सन\N-NN आउ\CC-CCD सस्ता\N-NN टोपी\V-VM निकासते\V-VM ।\RD-PUNC 
+"पेहनाके\V-VM देखे\V-VM द\N-NN ।\RD-PUNC 
+""थोड़े\QT-QTC देर\N-NN में,\PSP बाद\N-NN में",\PSP चिड़चिड़ाल\N-NN रस्कोलनिकोव\N-NN ओकरा\PR-PRP दूर\N-NN हटइते\V-VM बोललइ\V-VAUX ।\RD-PUNC 
+"नयँ\N-NN नयँ,\PSP भाय\N-NN रोद्या,\V-VM विरोध\N-NN मत\RP-NEG करऽ,\V-VM बाद\N-NN में\PSP बहुत\N-NN देर\N-NN हो\V-VM जइतो;\V-VAUX आउ\CC-CCD हमरो\PR-PRP रात\N-NN भर\N-NN नीन\N-NN नयँ\N-NN आत,\V-VM काहेकि\CC-CCS बिन\N-NN नाप\N-NN के\PSP अन्दाज\N-NN से\PSP हम\PR-PRP खरीदलूँ\V-VM हँ\V-VAUX ।\RD-PUNC 
+बिलकुल\N-NN ठीक\JJ !\V-VM 
+"\N-NN टोपी\V-VM पेहनाके\PSP ऊ\PR-PRP विजय\N-NN के\PSP लहजा\N-NN में\PSP चिल्ला\N-NN उठलइ\V-VM -\RD-PUNC "नाप\N-NN में\PSP बिलकुल\N-NN ठीक\JJ !\V-VM 
+सिर\N-NN के\PSP टोपी,\V-VM भाय\N-NN -\RD-PUNC ई\DM-DMI पहनावा\N-NN में\PSP सबसे\N-NN पहिला\QT-QTO चीज\N-NN होवऽ\V-VM हइ,\V-VAUX अपने\PR-PRP तरह\RP-RPD के\PSP एगो\QT-QTC अनुशंसा\N-NN (सिफारिश)\V-VM ।\RD-PUNC 
+हमर\PR-PRP दोस्त\N-NN तल्सत्याकोव\N-NN हर\N-NN तुरी\N-NN अपन\PR-PRP ढक्कन\N-NN उतारे\V-VM खातिर\PSP लचार\N-NN हो\V-VM जा\V-VAUX हइ,\V-VAUX जब\PR-PRL कभी\N-NN कहीं\DM-DMD अइसन\RP-RPD सार्वजनिक\N-NN स्थान\N-NN पे\N-NN जा\V-VM हइ,\V-VAUX जाहाँ\N-NNP सब्भे\PSP दोसर\QT-QTO कोय\PR-PRI टोप\N-NN आउ\CC-CCD टोपी\N-NN में\PSP रहऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+सब\QT-QTF कोय\PR-PRI सोचऽ\V-VM हइ,\V-VAUX कि\CC-CCS ऊ\PR-PRP दास\N-NN जइसन\RP-RPD विनम्रता\N-NN के\PSP कारण\N-NN अइसन\RP-RPD करऽ\V-VM हइ,\V-VAUX लेकिन\CC-CCD ऊ\PR-PRP खाली\QT-QTF ई\DM-DMI कारण\N-NN से\PSP अइसन\RP-RPD करऽ\V-VM हइ,\V-VAUX कि\CC-CCS ओकरा\PR-PRP अपन\PR-PRP चिड़ियाँ\N-NN के\PSP खोंथा\N-NN से\PSP शरम\V-VM आवऽ\V-VAUX हइ\V-VM -\RD-PUNC अइसन\RP-RPD शर्मीला\N-NN अदमी\N-NN हइ\V-VM !\V-VAUX 
+अच्छऽ\RP-RPD नस्तास्या,\N-NN ई\DM-DMI दू\QT-QTC तरह\RP-RPD के\PSP सिर\N-NN के\PSP टोपी\V-VM हको\V-VAUX -\RD-PUNC ई\DM-DMI पलमेर्स्तोन\N-NN (ऊ\V-VM कोनमा\N-NN से\PSP रस्कोलनिकोव\N-NN के\PSP फट्टल-चिट्टल\V-VM गोलगाल\V-VAUX टोपी\N-NN निकसलकइ,\V-VM जेकरा\PR-PRL नयँ\N-NN मालूम\N-NN काहे\CC-CCS ऊ\PR-PRP 'पलमेर्स्तोन'\RB कहऽ\V-VM हलइ),\V-VAUX अथवा\N-NN ई\DM-DMI जेवर\N-NN के\PSP छोटगर\JJ चीज\N-NN ?\V-VM 
+एकर\DM-DMD कीमत\N-NN आँकऽ,\V-VM रोद्या,\RD-PUNC की\PR-PRQ सोचऽ\V-VM हो,\V-VAUX हम\PR-PRP केतना\QT-QTF चुकइलिए\N-NN होत\V-VM ?\V-VAUX 
+नस्तस्यूश्का\N-NN ?\V-VM 
+"\CC-CCS ऊ\PR-PRP ओकरा\PR-PRP (नस्तास्या)\N-NN तरफ\N-NN मुड़लइ,\V-VM ई\DM-DMI देखके\V-VM कि\CC-CCS ऊ\PR-PRP (रस्कोलनिकोव)\N-NN चुप\V-VM हकइ\V-VAUX ।\RD-PUNC 
+"बीस\QT-QTC कोपेक\N-NN देलऽ\V-VM होत",\V-VAUX नस्तास्या\N-NN जवाब\N-NN देलकइ\V-VM ।\RD-PUNC 
+"बीस\QT-QTC कोपेक\N-NN ?\V-VM 
+मूरख\N-NN कहीं\DM-DMI के\PSP !\V-VM 
+"\N-NN ऊ\PR-PRP नराज\N-NN होके\V-VM चिल्लइलइ,\V-VAUX "आझकल\V-VAUX तो\PR-PRL तोरो\PR-PRP बीस\QT-QTC कोपेक\N-NN में\PSP कोय\PR-PRI खरीद\N-NN नयँ\PSP पइतइ\N-NN -\RD-PUNC आठ\QT-QTC ग्रिव्ना\N-NN [4]\PSP !\V-VM 
+ओहो\DM-DMD ई\DM-DMI कारण\N-NN से,\V-VM कि\CC-CCS ई\DM-DMI पुराना\N-NN हकइ\V-VM ।\RD-PUNC 
+आउ\CC-CCD सच\N-NN में\PSP एकरा\DM-DMD ई\DM-DMI शर्त\N-NN पर,\V-VM कि\CC-CCS पेन्हला\N-NN के\PSP बाद\N-NN अगर\CC-CCS फट\V-VM जइतो,\V-VAUX त\N-NN अगले\V-VM साल\N-NN दोसर\QT-QTO फोकट\N-NN में\PSP दे\V-VM देतो,\V-VAUX भगमान\N-NN कसम\N-NN !\V-VM 
+अच्छऽ\RP-RPD जी,\V-VM अब\N-NN 'संयुक्त\N-NN राज्य\N-NN अमेरिका'\N-NN पर\PSP बात\N-NN शुरू\N-NN कइल\V-VM जाय,\V-VAUX जइसन\RP-RPD कि\CC-CCS हमन्हीं\V-VM के\PSP इस्कूल\N-NN में\PSP ई\DM-DMI नाम\N-NN से\PSP पुकारल\V-VM जा\V-VAUX हलइ\V-VM ।\RD-PUNC 
+हम\PR-PRP आगाह\N-NN करऽ\V-VM हियो\V-VAUX -\RD-PUNC हमरा\PR-PRP ई\DM-DMI फुलपैंट\N-NN पर\PSP नाज\N-NN हके\V-VM !\RD-PUNC 
+"\N-NN आउ\CC-CCD ऊ\PR-PRP रस्कोलनिकोव\N-NN के\PSP सामने\N-NN सिलेटी\N-NN रंग\N-NN के\PSP हलका\V-VM ऊनी\PR-PRP कपड़ा\N-NN के\PSP गरमी\N-NN में\PSP पहने\N-NN वला\N-NN पतलून\N-NN देखइलकइ\V-VM ।\RD-PUNC 
+"न\N-NN तो\PR-PRL कोय\PR-PRI भूड़,\N-NN न\RP-NEG कोय\PR-PRI धब्बा,\V-VM आउ\CC-CCD साथे-साथ\PSP पुराना\N-NN होलो\V-VM पर\PSP काफी\RP-INTF अच्छा\JJ हइ,\V-VM आउ\CC-CCD ओइसने\N-NN वास्कट,\N-NN एक्के\QT-QTC रंग\N-NN के\PSP (मैचिंग),\V-VM जइसन\RP-RPD कि\CC-CCS फैशन\N-NN के\PSP मोताबिक\N-NN जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+आउ\CC-CCD जे\PR-PRL पुराना\N-NN हइ,\V-VM त\N-NN वास्तव\N-NN में\PSP आउ\CC-CCD बेहतर\N-NN हइ\V-VM -\RD-PUNC जादे\V-VM कोमल,\PSP जादे\V-VM मोलायम\N-NN .\V-VM 
+देखऽ,\V-VM रोद्या,\N-NN संसार\N-NN में\PSP जीविका\N-NN बनावे\V-VM के\PSP हको,\V-VM त\N-NN हमर\PR-PRP विचार\N-NN से,\PSP ई\DM-DMI काफी\N-NN हइ\V-VM कि\CC-CCS ऋतु\N-NN के\PSP अनुसार\N-NN रहन-सहन\N-NN रक्खे\N-NN के\PSP चाही;\V-VM अगर\CC-CCS जनवरी\N-NN में\PSP शतावर\N-NN (asparagus)\N-NN के\PSP इस्तेमाल\N-NN नयँ\N-NN करऽ\V-VM ह,\V-VAUX त\N-NN अपन\PR-PRP बटुआ\JJ (पर्स)\N-NN में\PSP कुछ\QT-QTF रूबल\N-NN बचा\V-VM लेबऽ;\V-VAUX एहे\DM-DMD बात\N-NN लागू\PSP होवऽ\V-VM हइ\V-VAUX ई\DM-DMI खरीदारी\N-NN के\PSP मामले\N-NN में\PSP ।\RD-PUNC 
+अभी\N-NN ग्रीष्म\N-NN ऋतु\N-NN हइ,\V-VM आउ\CC-CCD हम\PR-PRP ग्रीष्म\N-NN खातिर\PSP ही\RP-RPD खरीदारी\N-NN कइलूँ,\V-VM काहेकि\CC-CCS पतझड़\N-NN ऋतु\N-NN तक\RP-RPD तो\PR-PRL कइसूँ\RB आउ\CC-CCD जादे\V-VM गरम\JJ सामग्री\N-NN के\PSP जरूरत\N-NN होत,\V-VM आउ\CC-CCD एकरा\DM-DMD फेंक\V-VM देवे\V-VAUX पड़त\V-VAUX .\V-VAUX 
+खास\N-NN करके\V-VM ई\DM-DMI वजह\N-NN से,\V-VM कि\CC-CCS ई\DM-DMI सब\QT-QTF कुछ\QT-QTF उ\PR-PRP बखत\N-NN तक\PSP खुद्दे\V-VM बरबाद\N-NN हो\V-VM जइतइ,\V-VAUX अगर\CC-CCS ऐशो-आराम\N-NN के\PSP स्तर\N-NN उँचगर\N-NN हो\V-VM गेला\V-VAUX के\PSP वजह\N-NN से\PSP नयँ,\V-VM त\N-NN अन्दरूनी\N-NN अव्यवस्था\N-NN के\PSP चलते\V-VM ।\RD-PUNC 
+अच्छऽ,\RP-RPD त\N-NN एकर\PR-PRP कीमत\N-NN आँकऽ\V-VM !\V-VAUX 
+तोहर\PR-PRP विचार\N-NN में\PSP केतना\QT-QTF होतइ\V-VM ?\V-VAUX 
+दू\QT-QTC रूबल\N-NN पचीस\N-NN कोपेक\V-VM !\V-VAUX 
+आउ\CC-CCD आद\N-NN रहे,\V-VM फेर\N-NN ओहे\DM-DMD पहिलौका\N-NN शर्त\N-NN के\PSP साथ\PSP -\RD-PUNC अगर\CC-CCS पेहन-पेहनके\V-VM कहीं\PSP फट\V-VM जाय,\V-VAUX त\N-NN अगले\V-VM साल\N-NN दोसर\QT-QTO फोकट\N-NN के\PSP मिल\V-VM जइतो\V-VAUX !\RD-PUNC 
+फ़ेद्यायेव\N-NN के\PSP दोकान\N-NN पर\PSP आउ\CC-CCD दोसरा\N-NN तरह\RP-RPD से\PSP कारोबार\N-NN नयँ\N-NN होवऽ\V-VM हइ\V-VM -\RD-PUNC एक\QT-QTC तुरी\N-NN भुगतान\N-NN कइलऽ,\V-VM आउ\CC-CCD सारी\N-NN जिनगी\N-NN लगी\N-NN काफी\N-NN हो\V-VM जा\V-VAUX हइ,\V-VAUX काहेकि\CC-CCS दोसरा\N-NN तुरी\N-NN खुद्दे\V-VM नयँ\N-NN जइबऽ\V-VM ।\RD-PUNC 
+अच्छऽ\RP-RPD जी,\V-VM अब\N-NN बूट\N-NN के\PSP बारे\N-NN बात\N-NN कइल\V-VM जाय\V-VAUX -\RD-PUNC ई\DM-DMI कइसन\PR-PRQ लगऽ\V-VM हको\V-VAUX ?\CC-CCD 
+ई\DM-DMI साफ\N-NN झलकऽ\V-VM हइ,\V-VAUX कि\CC-CCS ई\DM-DMI पुराना\N-NN हइ,\V-VM लेकिन\CC-CCD दू\QT-QTC महिन्ना\N-NN तो\PR-PRL चलिए\N-NN जइतइ,\V-VM काहेकि\CC-CCS ई\DM-DMI विदेशी\N-NN काम\N-NN हइ\V-VM आउ\CC-CCD विदेशी\N-NN माल\N-NN से\PSP बन्नल\N-NN हइ\V-VM -\RD-PUNC अंगरेजी\N-NN दूतावास\N-NN के\PSP सचिव\N-NN पिछले\V-VM सप्ताह\N-NN फुटपाथ\N-NN पर\PSP के\PSP हाट\N-NN में\PSP डाल\V-VM देलके\V-VAUX हल;\N-NN ऊ\PR-PRP एकरा\DM-DMD खाली\QT-QTC छो\QT-QTC दिन\N-NN पेन्हलके\V-VM हल,\V-VAUX लेकिन\CC-CCD ओकरा\PR-PRP पइसा\N-NN के\PSP बहुत\N-NN जरूरत\N-NN हलइ\V-VM ।\RD-PUNC 
+कीमत\N-NN एक\QT-QTC रूबल\N-NN पचास\N-NN कोपेक\V-VM ।\RD-PUNC 
+हइ\V-VM न\RP-NEG बढ़ियाँ\JJ सौदा\N-NN ?\V-VM 
+""लेकिन\CC-CCD हो\V-VM सकऽ\V-VAUX हइ,\V-VAUX ई\DM-DMI उनका\PR-PRP फिट\QT-QTF नयँ\N-NN होबइ\V-VM !\V-VAUX 
+"\N-NN नस्तास्या\N-NN टिप्पणी\N-NN कइलकइ\V-VM ।\RD-PUNC 
+"फिट\N-NN नयँ\N-NN होतइ\V-VM ?\V-VAUX 
+आ\V-VM एकरा\DM-DMD में\PSP की\PR-PRQ रक्खल\V-VM हइ\V-VAUX ?\RD-PUNC 
+"\N-NN आउ\CC-CCD ऊ\PR-PRP झोला\N-NN से\PSP रस्कोलनिकोव\N-NN के\PSP पुरनका,\V-VM रूखड़ा,\RD-PUNC सुक्खल\V-VM कीचड़\V-VAUX से\PSP सन्नल,\V-VM भूड़े-भूड़\N-NN होल,\V-VM बूट\N-NN निकसलकइ\V-VM ।\RD-PUNC 
+"हम\N-NN तैयार\N-NN होके\V-VM गेलिए\V-VAUX हल,\V-VAUX हमर\PR-PRP ई\DM-DMI भीमकाय\N-NN बूट\N-NN के\PSP मोताबिक\N-NN असली\N-NN नाप\N-NN मालूम\N-NN कर\V-VM लेलकइ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सब\QT-QTF काम\N-NN दिल\N-NN से\PSP कइल\V-VM गेले\V-VAUX ह\V-VAUX ।\RD-PUNC 
+जाहाँ\PR-PRL तक\RP-RPD छालटी\N-NN (linen,\N-NN सन\N-NN या\CC-CCD पटसन\N-NN के\PSP रेशा\N-NN से\PSP बन्नल\N-NN कपड़ा)\N-NN के\PSP बात\N-NN हइ,\V-VM त\N-NN एकरा\DM-DMD बारे\N-NN मकान-मालकिन\N-NN से\PSP बात\N-NN पक्का\N-NN करके\V-VM लइलिए\N-NN ह\V-VM ।\RD-PUNC 
+अइकी,\PR-PRP सबसे\N-NN पहिले\N-NST तो\PR-PRL सन\N-NN के\PSP (hempen)\N-NN तीन\QT-QTC गो\RP-CL कमीज,\N-NN लेकिन\CC-CCD उपरे\N-NN से\PSP फैशनदार\N-NN .\V-VM 
+अच्छऽ\RP-RPD जी,\V-VM त\RP-RPD ई\DM-DMI तरह\RP-RPD से\PSP -\RD-PUNC आठ\QT-QTC ग्रिव्ना\N-NN (अस्सी\N-NN कोपेक)\N-NN के\PSP टोपी,\V-VM दू\QT-QTC रूबल\N-NN पचीस\N-NN कोपेक\V-VM के\PSP दोसर-दोसर\QT-QTO कपड़ा,\N-NN कुल\N-NN मिलाके\V-VM तीन\QT-QTC रूबल\N-NN पाँच\QT-QTC कोपेक;\N-NN एक\QT-QTC रूबल\N-NN पचास\N-NN कोपेक\V-VM के\PSP बूट,\V-VM काहेकि\CC-CCS ई\DM-DMI बहुत\RP-INTF निम्मन\N-NN हइ,\V-VM कुल्लम\CC-CCS चार\QT-QTC रूबल\N-NN पचपन\V-VM कोपेक,\V-VAUX आउ\CC-CCD पाँच\QT-QTC रूबल\N-NN कुल\N-NN छालटी\N-NN के\PSP -\RD-PUNC थोक\N-NN में\PSP मोलजोल\N-NN कइल\V-VM -\RD-PUNC सब\QT-QTF कुछ\QT-QTF मिलाके\V-VM नो\CC-CCD रूबल\N-NN पचपन\V-VM कोपेक\V-VAUX ।\RD-PUNC 
+(मतलब,\PR-PRP दस\QT-QTC रूबल\N-NN में\PSP से\PSP बच्चल)\N-NN पैंतालीस\N-NN कोपेक\N-NN रेजकी,\PSP तामा\N-NN के\PSP पँच-पँच\N-NN कोपेक\V-VM के\PSP सिक्का,\N-NN अइकी\N-NN जी,\V-VM स्वीकार\N-NN करऽ\V-VM ।\RD-PUNC 
+त\N-NN ई\DM-DMI तरह\RP-RPD से,\N-NN रोद्या,\PSP तूँ\PR-PRP अब\N-NN पूरे\N-NN सूट-बूट\N-NN में\PSP हकऽ,\V-VM काहेकि\CC-CCS हमर\PR-PRP विचार\N-NN से,\PSP तोर\PR-PRP ओवरकोट\N-NN अभियो\N-NN काम\N-NN देतो,\V-VM बल्कि\CC-CCD देखे\V-VM में\PSP अपने\PR-PRP आप\PR-PRP में\PSP विशेष\N-NN शानदार\N-NN लगतो\V-VM -\RD-PUNC एहे\DM-DMD मतलब\N-NN होवऽ\V-VM हइ\V-VAUX शार्मेर\N-NN [5]\N-NN से\PSP खरीदारी\N-NN करे\V-VM के\V-VAUX !\V-VAUX 
+जाहाँ\PR-PRL तक\RP-RPD पेताबा\N-NN आउ\CC-CCD बाकी\N-NN चीज\N-NN के\PSP बात\N-NN हइ,\V-VM ई\DM-DMI हम\PR-PRP तोरे\PR-PRP ऊपर\N-NN छोड़\V-VM दे\V-VAUX हियो;\V-VAUX हमन्हीं\V-VAUX के\V-VAUX पास\N-NN पैंतीस\N-NN रूबल\N-NN बच\V-VM जात,\V-VAUX आउ\CC-CCD पाशेन्का\N-NN के\PSP बारे\N-NN आउ\CC-CCD फ्लैट\N-NN के\PSP किराया\V-VM के\PSP भुगतान\V-VM के\PSP बारे\N-NN फिकिर\N-NN मत\RP-NEG करऽ;\V-VM हम\PR-PRP कहलियो\V-VM -\RD-PUNC मतलब\N-NN बिन\N-NN सीमा\N-NN के\PSP उधार\N-NN ।\RD-PUNC 
+आउ\CC-CCD अब,\PR-PRP भाय,\N-NN अपन\PR-PRP छालटी\N-NN बदले\N-NN द,\V-VM काहेकि\CC-CCS शायद\N-NN तोर\PR-PRP कमीजिए\N-NN में\PSP खाली\QT-QTF अब\N-NN रोग\N-NN बइठल\V-VM हको\V-VAUX .\V-VM 
+""रहे\V-VM दऽ\V-VAUX !\RD-PUNC 
+नयँ\N-NN चाही\V-VM !\RD-PUNC 
+"\N-NN रस्कोलनिकोव\N-NN झटकके\PSP हटा\V-VM देलकइ,\V-VAUX जे\PR-PRL अनिच्छा\N-NN से\PSP पोशाक\N-NN के\PSP खरीदी\N-NN के\PSP रज़ुमिख़िन\N-NN के\PSP तनावपूर्ण\N-NN ओछा\N-NN रिपोर्ट\N-NN सुन\V-VM रहले\V-VAUX हल\V-VAUX .\V-VAUX 
+"ई\N-NN तो,\RD-PUNC भाय,\N-NN असंभव\N-NN हको;\V-VM त\N-NN हम\PR-PRP काहे\CC-CCS लगी\N-NN एतना\QT-QTF जुत्ता\N-NN घिसलूँ\V-VM !\V-VAUX 
+"\N-NN रज़ुमिख़िन\N-NN जिद\N-NN कइलकइ\V-VM ।\RD-PUNC 
+"नस्तस्यूश्का,\QT-QTC शरमाऽ\N-NN मत,\PSP आ\V-VM मदत\N-NN करऽ,\V-VM अइकी\N-NN अइसे\N-NN !\V-VM 
+"\N-NN आउ\CC-CCD रस्कोलनिकोव\N-NN केतनो\QT-QTF विरोध\N-NN कइलकइ,\V-VM तइयो\CC-CCS ऊ\PR-PRP ओकरा\PR-PRP छालटी\N-NN बदलिए\N-NN देलकइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP (रस्कोलनिकोव)\N-NN तकिया\N-NN पर\PSP पड़\V-VM गेलइ\V-VAUX आउ\CC-CCD करीब\N-NN दू\QT-QTC मिनट\N-NN तक\RP-RPD एक्को\QT-QTC शब्द\V-VM नयँ\N-NN बोललइ\V-VM ।\RD-PUNC 
+"ओकन्हीं\N-NN से\PSP लम्मा\N-NN समय\N-NN तक\PSP छुटकारा\N-NN नयँ\N-NN मिल्लत\V-VM !\V-VAUX 
+"\N-NN ऊ\PR-PRP सोचलकइ\V-VM ।\RD-PUNC 
+"कउन\N-NN पइसा\N-NN से\PSP ई\DM-DMI सब\QT-QTF खरीदल\V-VM गेले\V-VAUX ह\V-VAUX ?\RD-PUNC 
+"\N-NN देवाल\N-NN तरफ\N-NN नजर\N-NN कइले\V-VM आखिर\N-NN ऊ\PR-PRP पुछलकइ\V-VM ।\RD-PUNC 
+"पइसा\N-NN ?\V-VM 
+अच्छऽ,\RP-RPD त\N-NN ई\DM-DMI बात\N-NN हइ\V-VM !\RD-PUNC 
+ई\DM-DMI तोरे\PR-PRP खुद\N-NN के\PSP पइसा\N-NN से\PSP ।\RD-PUNC 
+आझ\N-NN सुबहे\N-NN सहायक\N-NN संघ\N-NN से\PSP वख़रूशिन\N-NN के\PSP तरफ\N-NN से\PSP नौजवान\N-NN अइलो\V-VM हल,\V-VAUX माय\N-NN भेजवइलथुन\V-VM हल;\V-VAUX एहो\CC-CCD तूँ\PR-PRP भूल\N-NN गेलऽ\V-VM की\V-VAUX ?\RD-PUNC 
+""अब\N-NN आद\N-NN आल\V-VM .\RD-PUNC 
+",\PR-PRP रस्कोलनिकोव\N-NN बोललइ,\V-VM लम्मा\N-NN उदासी\N-NN भरल\N-NN सोच\V-VM के\V-VAUX बाद\N-NN ।\RD-PUNC 
+रज़ुमिख़िन,\PR-PRP त्योरी\N-NN चढ़इते,\V-VM बेचैनी\N-NN से\PSP ओकरा\PR-PRP तरफ\N-NN देखते\V-VM रहलइ\V-VAUX ।\RD-PUNC 
+दरवाजा\N-NN खुललइ,\V-VM आउ\CC-CCD एगो\QT-QTC लमगर\N-NN तगड़ा\N-NN अदमी\N-NN अन्दर\N-NN घुसलइ,\V-VM जे\PR-PRL रस्कोलनिकोव\N-NN के\PSP मानूँ\N-NN पहिले\N-NST से\PSP कुछ\QT-QTF जानल-पछानल\N-NN भी\RP-RPD लग\V-VM रहले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+"ज़ोसिमोव\N-NN !\V-VM 
+आखिरकार\N-NN !\V-VM 
+"\N-NN खुशी\N-NN से\PSP रज़ुमिख़िन\N-NN चिल्ला\N-NN उठलइ\V-VM ।\RD-PUNC 
+सूची\N-NN पिछला\N-NN अगला\N-NN ।\RD-PUNC 

@@ -1,0 +1,910 @@
+मगही\N-NN साहित्य\N-NN ई-पत्रिका\PSP अंक-१५मगही\N-NN मनभावनमगही\N-NN साहित्य\N-NN ई-पत्रिेकावर्ष\N-NN -\RD-PUNC ४\N-NN अंक\N-NN -\RD-PUNC १५\N-NN मार्च\V-VM २०१४\V-VAUX ---------------------------------------------------------------------------------------------------------------------संपादक\RD-PUNC ---\RD-PUNC उदय\N-NN कुमार\N-NNP भारतीप्रकाशक\N-NN ---\RD-PUNC मगही\N-NN हिन्दी\N-NN साहित्यिक\N-NN मंच\N-NN ‘शब्द\N-NN साधक’\N-NN हिसुआ,\PSP नवादा\N-NN (बिहार)----------------------------------------------------------------------------------------------------------------------\N-NN ई\DM-DMI अंक\N-NN मेंदू\PSP गो\RP-CL बात\N-NN .\V-VM 
+संपादकीयसाहितकारे\N-NN हथिन\N-NN साहित\N-NN के\PSP पंच-परमेश्वरआलेखकि\V-VM हे\V-VAUX लघुकथा\N-NN -\RD-PUNC उदय\N-NN कुमार\N-NNP भारतीमगही\RP-RPD लघुकथा\N-NN के\PSP विकास\N-NN यात्रा\N-NN -\RD-PUNC वीरेंद्र\N-NN कुमार\N-NNP भारद्वाजलघुकथाएंअतिथि\N-NN -\RD-PUNC मिथिलेशसफाई\N-NN के\PSP असर\N-NN -\RD-PUNC डॉ.\N-NN सी.\V-VM आर.\N-NN प्रसादपवन\N-NN तनय\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथा\N-NN -\RD-PUNC कालचक्र\N-NN आउ\CC-CCD उपभोक्ताअदमी\N-NN -\RD-PUNC गगनसूत\N-NN नवीनभय\V-VM –\N-NN अरूण\N-NN कुमार\N-NNP सिन्हाअलगे\N-NN देश\N-NN -\RD-PUNC इब्ने\N-NN इंशाब्रजपात\N-NN -\RD-PUNC खलील\N-NN जिब्रानबगावत\V-VM के\PSP वजह\N-NN -\RD-PUNC इतालो\N-NN काल्विनोपहिचान\V-VM -\RD-PUNC गोपाल\V-VM निर्दोषराजेश\N-NN मंझवेकर\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथानयका\N-NN विहान\N-NN आउ\CC-CCD आत्मसम्मानवीरेंद्र\N-NN कुमार\N-NN भारद्वाज\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथाडायन\N-NN आउ\CC-CCD जलाभिषेकहाय\N-NN रे\RP-INJ धुरखेली\N-NN -\RD-PUNC दीनबंधुसच\N-NN के\PSP जांच\N-NN -\RD-PUNC कृष्ण\N-NN कुमार\N-NNP भट्टाई\N-NN कइसन\PR-PRQ संबंध\V-VM -\RD-PUNC विनीत\N-NN कुमार\N-NNP मिश्र\N-NN अकेलाबाबुल\N-NN के\PSP बेटीः\N-NN कजरी\N-NN –\N-NN ई.\V-VM अमित\N-NN कुमारसोंचल\V-VM सपना\N-NN तिनका\PR-PRP -\RD-PUNC तिनका\PR-PRP बिखर\N-NN गेल-\V-VM सुमंतडॉ.\N-NN राम\N-NN प्रसाद\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथा\N-NN -\RD-PUNC संस्कार\N-NN आउ\CC-CCD इमरजेंसीमगह\N-NN के\PSP आयोजनमुख्य\N-NN मंत्री\N-NN के\PSP माय\N-NN के\PSP पुण्यतिथि\N-NN पर\PSP कल्याण\N-NN बिगहा\N-NN में\PSP काजकरमपोवारी\N-NN गांव\N-NN में\PSP सर\N-NN गणेश\N-NN दत्त\N-NN के\PSP जयंती\N-NN समारोहसजल\N-NN जी\N-NN के\PSP पुण्यतिथि\N-NN पर\PSP साहित\N-NN समागमसारथी\N-NN के\PSP 20वां\N-NN अंक\N-NN के\PSP लोकार्पणसिकन्दरा\N-NN महोत्सव\N-NN में\PSP कवि\N-NN सम्मेलन\V-VM आउ\CC-CCD मुशायराविविधसंदेश\N-NN मिललपत्रिका\N-NN से\PSP जुड़ल\N-NN जरूरी\N-NN बातनिहोरा----------------------------------------------------------------------------------------------------------------------दू\N-NN गो\RP-CL बात\N-NN .\V-VM 
+ईबेरी\RB हम\PR-PRP ई\DM-DMI अंक\N-NN के\PSP जारी\N-NN करइत\V-VM बहुते\N-NN लजा\V-VM रहलूं\V-VAUX हे\V-VAUX ।\RD-PUNC 
+मार्च\N-NN में\PSP निकसे\V-VM वला\N-NN ई\DM-DMI अंक\N-NN काफी\N-NN देर\N-NN से\PSP निकसल\V-VM ।\RD-PUNC 
+परिवार\N-NN आउ\CC-CCD परिस्थिति\N-NN साहित\N-NN के\PSP काज\N-NN के\PSP सततता\N-NN में\PSP बाधा\N-NN बन\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ह्रदय\N-NN तड़प\N-NN के\PSP रह\V-VM जा\V-VAUX हे\V-VAUX पर\PSP अदमी\N-NN तऽ\CC-CCS समय\N-NN आउ\CC-CCD परिस्थिति\N-NN के\PSP गुलाम\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+मगही\N-NN मनभावन\N-NN के\PSP लघुकथा\N-NN विषेशांक\N-NN निकासे\V-VM के\PSP प्रयास\N-NN में\PSP जे\PR-PRL कल्पना\N-NN आउ\CC-CCD खाका\N-NN मन\N-NN में\PSP बनल\V-VM हल\V-VAUX ओकरा\PR-PRP से\PSP कय\V-VM गो\RP-CL कमी\N-NN लेले\V-VM ई\V-VAUX अंक\N-NN तैयार\N-NN भेल\V-VM हऽ\V-VAUX ।\RD-PUNC 
+तीन\QT-QTC महीना\N-NN तक\RP-RPD भरसक\V-VM प्रचार-प्रसार\N-NN करइ\V-VM के\PSP बाद\N-NN भी\RP-RPD जादे\V-VM आउ\CC-CCD मनचाहा\N-NN रचना\N-NN नञ्\PSP मिल\V-VM पइलइ\V-VAUX ।\RD-PUNC 
+जइसन\RP-RPD कि\CC-CCS अपने\PR-PRP सउ\N-NN जानऽ\V-VM हथिन\V-VAUX कि\CC-CCS मगही\N-NN मनभावन\N-NN ई-पत्रिका\V-VM हइ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI लेल\V-VM ईहां\V-VAUX पहिले\N-NST से\PSP छप्पल\N-NN रचना\N-NN भी\RP-RPD साभार\N-NN ले\V-VM लेल\V-VAUX जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+ईहां\DM-DMD प्रयास\N-NN ई\DM-DMI हइ\V-VM कि\CC-CCS नया\N-NN रचना\N-NN के\PSP साथे-साथे\N-NN पहिले\N-NN के\PSP छप्पल\N-NN रचना\N-NN भी\RP-RPD जन-जन\N-NN तक\RP-RPD पहुंचइ\V-VM ।\RD-PUNC 
+बहुते\N-NN किताब\N-NN आउ\CC-CCD पत्र-पत्रिका\N-NN लुप्त\V-VM हे\V-VAUX इया\CC-CCD ऊ\PR-PRP सउ\N-NN बहुते\N-NN लोगबाग\N-NN के\PSP पास\N-NN नय\N-NN पहुंच\V-VM पइलइ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ऐसन\DM-DMD में\PSP बहुते\N-NN रचना\N-NN दब\V-VM के\V-VAUX रह\V-VM जा\V-VAUX हइ\V-VM इया\CC-CCD पाठक\N-NN तक\RP-RPD नञ्\RP-NEG पहुंचऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+नयका\N-NN आउ\CC-CCD पुरान\N-NN दुन्नूं\N-NN तरह\RP-RPD के\PSP रचना\N-NN नेट\V-VM के\PSP जरिये\V-VM अपने\PR-PRP सउ\N-NN तक\RP-RPD पहुंचइ,\V-VM ई\V-VAUX हम्मर\PR-PRP प्रयास\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI विशेषांक\N-NN में\PSP जे\PR-PRL भी\RP-RPD नया\N-NN रचना\V-VM मिलल\N-NN से\PSP मिलल\V-VM बकि\RD-PUNC बहुते\V-VM रचना\N-NN साभार\N-NN लेल\V-VM गेल\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD सउ\N-NN नजरिया\N-NN से\PSP समृद्ध\N-NN करइ\V-VM के\V-VAUX हम्मर\PR-PRP प्रयास\N-NN हइ\V-VM ।\RD-PUNC 
+बकि\CC-CCD अपने\PR-PRP सउ\N-NN सुझाव\V-VM देहो\V-VAUX ।\RD-PUNC 
+अपने\PR-PRP के\PSP सुझाव\N-NN आउ\CC-CCD आलोचना\N-NN से\PSP ही\RP-RPD हम्मर\PR-PRP ई\DM-DMI प्रयास\N-NN प्रखर\N-NN बनतइ\V-VM ।\RD-PUNC 
+अंक\N-NN जइसन\RP-RPD भी\RP-RPD रहइ\V-VM अपने\PR-PRP सब्भे\V-VM के\PSP समरपित\N-NN करइत\V-VM हिरदा\N-NN जुड़ा\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कइसहुं\N-NN करि\V-VM के\PSP ई\DM-DMI अंक\N-NN अपने\PR-PRP तक\PSP पहुंचावे\V-VM के\PSP घड़ी\N-NN तऽ\CC-CCS आल\V-VM ।\RD-PUNC 
+मगही\N-NN मनभावन\N-NN के\PSP अगला\N-NN अंक\N-NN कथा-कहानी,\N-NN आलेख\V-VM आउ\CC-CCD कविता\N-NN के\PSP सामान्य\N-NN अंक\N-NN रहतइ\V-VM ।\RD-PUNC 
+रचनाकार\N-NN से\PSP निहोरा\N-NN हइ\V-VM कि\CC-CCS सउ\N-NN विधा\N-NN के\PSP बेस-बेस\N-NN अप्पन-अप्पन\N-NN स्तरीय\N-NN आउ\CC-CCD प्रतिनिधि\N-NN रचना\N-NN भेजहो\V-VM ।\RD-PUNC 
+पढ़वइया\N-NN से\PSP हमरा\PR-PRP जादे\V-VM उमेद\N-NN रहऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+जदि\N-NN बीस\QT-QTC पढ़वइया\N-NN में\PSP से\PSP एगो\QT-QTC भी\RP-RPD अंक\N-NN के\PSP पढ़े\N-NN के\PSP बाद\N-NN अप्पन\PR-PRP विचार\N-NN दे\V-VM हथिन\V-VAUX तऽ\CC-CCS हम्मर\PR-PRP प्रयास\N-NN के\PSP बड़गर\N-NN बल\RP-INJ मिल\V-VM जा\V-VM हइ\V-VAUX ।\RD-PUNC 
+अपने\PR-PRP के\PSP उदय\N-NN कुमार\N-NNP भारती----------------------------------------------------------------------------------------------------------------------संपादकीय\N-NN .\V-VM 
+लघुकथा\N-NN विशेषांक\N-NN के\PSP ई\DM-DMI अंक\N-NN अपने\PR-PRP सउ\N-NN के\PSP समरपित\N-NN करइत\V-VM हम\PR-PRP ई\DM-DMI कहवइ\V-VM कि\CC-CCS लघुकथा\N-NN के\PSP हीरा\N-NN आउ\CC-CCD मोती\N-NN के\PSP जइसन\RP-RPD नग\N-NN के\PSP चुन-चुन\V-VM के\V-VAUX तऽ\CC-CCS नञ्\N-NN रख\V-VM सकलिऐ\N-NN पर\PSP जे\PR-PRL भी\RP-RPD हो\V-VM पइलइ\V-VAUX ओकरा\PR-PRP स्वीकार\N-NN करहो\V-VM ।\RD-PUNC 
+अंक\N-NN में\PSP ऐसन\DM-DMD कय\V-VM गो\RP-CL लघुकथा\N-NN हइ\V-VM जे\PR-PRL लघुकथा\N-NN के\PSP मानकता\N-NN आउ\CC-CCD कसौटी\N-NN पर\PSP खरा\N-NN नञ्\V-VM उतरऽ\V-VAUX हइ\V-VM तभियो\N-NN एकरा\DM-DMD में\PSP ले\V-VAUX लेल\V-VAUX गेल\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+काहे\CC-CCS कि\CC-CCS हम्मर\PR-PRP उद्देश्य\N-NN रचनाकार\N-NN के\PSP उत्साहित\N-NN करइ\V-VM के\PSP भी\RP-RPD हइ\V-VM ।\RD-PUNC 
+उनखर\PR-PRP रचनाधर्मिता\N-NN ऐसने\DM-DMD प्रयास\N-NN से\PSP प्रखर\N-NN बनतइ\V-VM ।\RD-PUNC 
+ऊ\PR-PRP लिखे\V-VM आउ\CC-CCD सीखे\V-VM लेल\V-VAUX प्रेरित\N-NN होथिन\V-VM ।\RD-PUNC 
+एकरा\DM-DMD हम्मर\PR-PRP बड़बोलापन\N-NN नञ्\PR-PRP मानल\V-VM जाए\V-VAUX ।\RD-PUNC 
+आझ\N-NN हमहूं\PR-PRP सीखिये\V-VM रहलिऐ\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN के\PSP शिल्प\N-NN विधान\N-NN आउ\CC-CCD कुछ\QT-QTF टिप्स\N-NN के\PSP वर्णन\N-NN आगू\N-NN के\PSP आलेख\V-VM में\PSP देखे\V-VM लेल\V-VAUX मिलतइ\V-VAUX ।\RD-PUNC 
+आलेख\N-NN ‘कि\V-VM हे\V-VAUX लघुकथा’\N-NN में\PSP हम\PR-PRP लघुकथा\N-NN के\PSP बुनावट\N-NN पर\PSP संक्षेप\N-NN में\PSP कुच्छ\QT-QTF कहे\V-VM के\PSP प्रयास\N-NN कइलूं\V-VM हे\V-VAUX ।\RD-PUNC 
+रचनाकार\N-NN लेल\V-VM ई\V-VAUX जरूरी\N-NN हे\V-VM कि\CC-CCS रचना\N-NN लिखे\V-VM से\PSP पहिले\N-NST रचना\N-NN के\PSP जरूरत\N-NN आउ\CC-CCD मानकता\N-NN के\PSP ख्याल\N-NN रखल\V-VM जाए\V-VAUX ।\RD-PUNC 
+रचना\N-NN में\PSP ऊ\PR-PRP विधा\N-NN के\PSP सउ\N-NN गुण-धरम\N-NN रहइ\V-VM इया\CC-CCD नञ्\N-NN रहइ,\V-VM ऊ\PR-PRP संपूर्ण\N-NN रहइ\N-NN ईया\N-NN नञ्\N-NN रहइ\N-NN पर\PSP ऊ\PR-PRP विधा\N-NN के\PSP मानकता\V-VM आउ\CC-CCD गरिमा\N-NN के\PSP बरकरार\N-NN रखइ\V-VM ।\RD-PUNC 
+वीरेंद्र\N-NN कुमार\N-NNP भारद्वाज\N-NN के\PSP ‘मगही\N-NN लघुकथा\N-NN के\PSP विकास\N-NN यात्रा’\N-NN आलेख\N-NN में\PSP लघुकथा\N-NN के\PSP विकास\N-NN के\PSP सीढ़ी\N-NN के\PSP पता\N-NN चलतइ\V-VM ।\RD-PUNC 
+भारद्वाज\N-NN जी\N-NN के\PSP आलेख\N-NN में\PSP लघुकथा\N-NN के\PSP इतिहास\N-NN से\PSP जुड़ल\N-NN जानकारी\N-NN बेसे\V-VM समाहित\N-NN हइ,\V-VM जेकरा\PR-PRL से\PSP बहुत\N-NN कुछ\QT-QTF साफ\N-NN होतइ\V-VM ।\RD-PUNC 
+‘साहितकारे\N-NN हथिन\N-NN साहित\N-NN के\PSP पंच-परमेश्वर’\N-NN हम्मर\PR-PRP एगो\QT-QTC भावना\N-NN हइ\V-VM जे\PR-PRL मंच,\N-NN गोष्ठी\N-NN आउ\CC-CCD सम्मेलन\N-NN के\PSP दरम्यान\N-NN बार-बार\N-NN मन\N-NN में\PSP कचोटे\V-VM हे\V-VAUX ।\RD-PUNC 
+आझ\N-NN मगही\N-NN के\PSP उत्थान\N-NN काल\V-VM हे,\V-VAUX ऐसन\DM-DMD में\PSP हमन्हीं\PR-PRP एक-दूसर\N-NN के\PSP प्रखर\N-NN आलोचना\N-NN नञ्\N-NN करि\V-VM के\V-VAUX खाली\QT-QTF ओकर\PR-PRP महिमामंडन\N-NN में\PSP जुटल\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+हम्मर\PR-PRP लेखन\N-NN शैली\N-NN आउ\CC-CCD संपादन\N-NN के\PSP महिमा\N-NN के\PSP गुणगान\N-NN तों\N-NN कर\V-VM रहला\V-VAUX हे\V-VAUX आउ\CC-CCD तोहर\PR-PRP लेखन\N-NN शैली\N-NN के\PSP महिमामंडन\N-NN हम\PR-PRP ।\RD-PUNC 
+चाहे\N-NN रचना\N-NN काहे\CC-CCS नञ्\N-NN साहित\N-NN के\PSP कूड़ा-कचरा\N-NN रहइ\V-VM ।\RD-PUNC 
+हम्मर\PR-PRP मन\N-NN बार-बार\N-NN कचोटे\V-VM हे\V-VAUX कि\CC-CCS हमन्हीं\PR-PRP साहितकारन\N-NN अप्पन\PR-PRP महात्वाकांक्षा\N-NN आउ\CC-CCD बड़का\N-NN साहितकार\N-NN बनइ\N-NN के\PSP चक्कर\V-VM में\PSP साहित\N-NN के\PSP बलि\N-NN चढ़ा\V-VM रहलूं\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ईहे\DM-DMD होतइ\V-VM तऽ\CC-CCS साहित\N-NN के\PSP स्तर\N-NN कि\CC-CCS रहतइ\N-NN ?\PSP 
+जादे\N-NN ईहां\DM-DMD कहइ\V-VM के\V-VAUX जरूरत\N-NN नञ्\PSP हे,\V-VM पढ़े\N-NN के\PSP बाद\N-NN विचार\N-NN देथिन\V-VM ।\RD-PUNC 
+अंक\N-NN में\PSP कुल\N-NN 21\PSP गो\RP-CL लघुकथा\N-NN हे\V-VM जेकरा\PR-PRL में\PSP तीन\QT-QTC गो\RP-CL ‘अलगे\N-NN देश’,\V-VM ‘बज्रपात’\V-VAUX आउ\CC-CCD ‘बगावत\V-VM के\PSP वजह’\N-NN अनुवादित\N-NN लघुकथा\N-NN हे\V-VM ।\RD-PUNC 
+मिथिलेश\N-NN जी\N-NN के\PSP लिखल\V-VM ‘अतिथि’\N-NN लघुकथा\N-NN में\PSP बिजली\N-NN के\PSP अतिथि\N-NN मान\N-NN के\PSP ओकर\PR-PRP क्षेत्र\N-NN में\PSP हालत\N-NN आउ\CC-CCD आंख-मिचौनी\N-NN के\PSP रेखांकित\N-NN कइल\V-VM गेल\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+गांव-गिरांव\N-NN में\PSP कोय\PR-PRI जोजना\N-NN के\PSP तहत\N-NN तार-पोल\N-NN भले\N-NN गड़ा\N-NN जाय\V-VM पर\PSP नगर,\V-VM कस्बा,\V-VAUX गांव\N-NN में\PSP बिजली\N-NN के\PSP हालत\N-NN अतिथिए\N-NN जइसन\RP-RPD हइ\V-VM ।\RD-PUNC 
+तुनुकमिजाज\N-NN बिजली\N-NN के\PSP अतिथि\N-NN बन\V-VM के\PSP आवइ\V-VM के\PSP बड़ी\N-NN सहज-सरल\N-NN अंदाज\N-NN में\PSP ऊ\PR-PRP रखलका\V-VM हऽ\V-VAUX ।\RD-PUNC 
+डॉ.\N-NN सी.रा.\N-NN प्रसाद\N-NNP के\PSP ‘सफाई\N-NN के\PSP असर’\N-NN आउ\CC-CCD कृष्ण\N-NN कुमार\N-NN भट्टा\N-NN के\PSP ‘सच\N-NN के\PSP जांच’\N-NN लोग\N-NN के\PSP बदलल\N-NN जा\V-VM रहल\V-VAUX मानसिकता\N-NN पर\PSP चोट\V-VM हे\V-VAUX ।\RD-PUNC 
+पवन\N-NN तनय\N-NN के\PSP लघुकथा\N-NN ‘कालचक्र\N-NN आउ\CC-CCD उपभोक्ता’\N-NN में\PSP लघुकथा\N-NN के\PSP विशिष्टता\N-NN लघुता\N-NN के\PSP बेस\N-NN ख्याल\N-NN कइल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+मगनसुत\N-NN नवीन\N-NN के\PSP ‘अदमी’\N-NN आउ\CC-CCD गोपाल\N-NN निर्दोष\N-NN के\PSP ‘पहचान’\N-NN प्रगतिशीलता\N-NN के\PSP परिचय\N-NN देइत\V-VM आस्था\N-NN पर\PSP व्यंग्य\N-NN के\PSP निसानी\N-NN हे\V-VM ।\RD-PUNC 
+नवीन\N-NN जी\N-NN इंसान\N-NN के\PSP प्रवृत्ति\N-NN पर\PSP भी\RP-RPD व्यंग्य\N-NN कइलन\V-VM हे\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN ‘भय’\N-NN के\PSP माध्यम\N-NN से\PSP अरूण\N-NN कुमार\N-NNP सिन्हा\N-NN एड्स\N-NN जइसन\RP-RPD भयानक\N-NN रोग\N-NN नञ्\N-NN लगावे\V-VM के\PSP बेस\N-NN संदेश\N-NN देलका\V-VM हऽ\V-VAUX ।\RD-PUNC 
+पत्रकार\N-NN आउ\CC-CCD कथाकार\N-NN राजेश\N-NN मंझवेकर\N-NN के\PSP ‘नयका\N-NN विहान’\N-NN आउ\CC-CCD ‘आत्म\N-NN सम्मान’\N-NN सहज-सरल\N-NN रूप\N-NN से\PSP लघुकथा\N-NN के\PSP परिपाटी\N-NN के\PSP बनइले\V-VM हइ\V-VAUX ।\RD-PUNC 
+दीनबंधु\N-NN अप्पन\PR-PRP लघुकथा\N-NN ‘हाय\V-VM रे\RP-INJ धुरखेली’\N-NN होली\N-NN के\PSP कादो-माटी\N-NN खेले\V-VM के\PSP बहाने\N-NN जे\PR-PRL अतत्ति\N-NN हो\V-VM रहले\V-VAUX हऽ,\V-VAUX ओकरा\PR-PRP उभारइत\V-VM ओकर\PR-PRP फल\N-NN भी\RP-RPD देखा\V-VM देलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+वीरेंद्र\N-NN कुमार\N-NNP भारद्वाज\N-NN के\PSP रचना\N-NN ‘डायन’\V-VM जहां\DM-DMD अंधविश्वास\N-NN के\PSP रेखांकित\N-NN करऽ\V-VM हइ\V-VAUX ओहंइ\N-NN जलाभिषेक\V-VM में\PSP पूजा\N-NN से\PSP बड़गर\N-NN अदमी\N-NN के\PSP करतप\N-NN करि\V-VM के\V-VAUX पूजा\N-NN बतावल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI कइसन\PR-PRQ संबंध\V-VM में\PSP विनीत\N-NN कुमार\N-NNP मिश्र\N-NN अकेला\N-NN आझ\N-NN तार-तार\N-NN हो\V-VM रहल\V-VAUX मरजादित\N-NN संबंध\V-VM के\V-VAUX उजागर\N-NN करऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+टोला-टाटी\N-NN के\PSP संपादक\N-NN सुमंत\N-NN ‘सोंचल\V-VM सपना\N-NN बिखर\N-NN गेल’\V-VM में\PSP नारी\N-NN के\PSP बदहाल\N-NN जिनगी\N-NN आउ\CC-CCD ओकरा\PR-PRP पढ़-लिख\N-NN के\PSP जिनगी\N-NN के\PSP मुख्य\N-NN धारा\N-NN से\PSP जुड़े\N-NN के\PSP सपना\N-NN टूट\V-VM जाए\V-VAUX के\PSP बात\N-NN के\PSP रेखांकित\N-NN कइलका\V-VM हे\V-VAUX ।\RD-PUNC 
+ई.\V-VM अमित\N-NN कुमार\N-NNP के\PSP रचना\N-NN ‘बाबुल\V-VM की\V-VAUX बेटीः\N-NN कजरी’\N-NN आझो\V-VM दहेज\N-NN दानव\N-NN के\PSP मार\V-VM से\PSP कराहइत\V-VM माय-बाप\N-NN आउ\CC-CCD बेटी\N-NN के\PSP सच्चाई\N-NN हइ,\V-VM जेकर\PR-PRL जकड़न\N-NN से\PSP हमन्ही\PR-PRP बाहर\N-NN नञ्\N-NN निकस\RB रहलिए\N-NN हऽ\V-VAUX आउ\CC-CCD ओकर\PR-PRP बलि\N-NN कजरी\N-NN जइसन\RP-RPD बेटी\N-NN चढ़\RB रहले\V-VM हऽ\V-VAUX ।\RD-PUNC 
+एकर\PR-PRP अलावे\V-VM डॉ.\PSP राम\N-NN प्रसाद\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथा\N-NN ‘संस्कार’\V-VM आउ\CC-CCD ‘इमरजेंसी’\N-NN समाज\N-NN के\PSP जाति-\N-NN धरम\N-NN के\PSP बंधन\N-NN आउ\CC-CCD गरीब\N-NN जनता\N-NN के\PSP हालत\N-NN के\PSP बयान\N-NN करऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+संस्कार\N-NN में\PSP ई\DM-DMI साफ\N-NN झलकऽ\V-VM हइ\V-VAUX कि\CC-CCS ई\DM-DMI दुनिया\N-NN में\PSP आझो\N-NN जात-धरम\N-NN के\PSP दीवार\N-NN दू\QT-QTC परेम\N-NN करे\V-VM वला\V-VAUX के\PSP बीच\N-NST दीवार\N-NN बनल\V-VM हइ\V-VAUX आउ\CC-CCD ओकरा\PR-PRP तोड़े\N-NN में\PSP जे\PR-PRL समाज\N-NN के\PSP मुख्य\N-NN पात्र\N-NN हका\N-NN ओहे\N-NN पीछे\N-NN हका\N-NN ऊ\PR-PRP अभी\RB तक\RP-RPD ई\DM-DMI मानसिकता\N-NN से\PSP बाहर\N-NN नञ्\N-NN निकस\N-NN पइला\N-NN हे\V-VM ।\RD-PUNC 
+‘इमरजेंसी’\N-NN लघुकथा\N-NN में\PSP तंत्र\N-NN पर\PSP चोट\N-NN करल\V-VM गेल\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI लोकतंत्र\N-NN के\PSP जमाना\N-NN में\PSP जनता\N-NN के\PSP मरे\V-VM के\PSP स्थिति\N-NN से\PSP नेता\N-NN के\PSP अंगुरी\N-NN पिराय\N-NN के\PSP दरद\N-NN जादे\V-VM बड़ा\N-NN हइ\V-VM ।\RD-PUNC 
+उदय\N-NN कुमार\N-NNP भारती----------------------------------------------------------------------------------------------------------------------\N-NN साहितकारे\N-NN हथिन\N-NN साहित\N-NN के\PSP पंच\N-NN परमेश्वर\N-NN उदय\N-NN कुमार\N-NNP भारती\N-NN मुंशी\N-NN प्रेमचंद\N-NN के\PSP कहानी\N-NN पंच-परमेश्वर\N-NN से\PSP सब्भे\V-VM परचित\N-NN हथिन\V-VM ।\RD-PUNC 
+कहानी\N-NN के\PSP पात्र\N-NN जुम्मन\N-NN शेख\V-VM के\PSP खालाजान\N-NN (मौसी)\N-NN के\PSP अलगू\N-NN चौधरी\N-NN (जे\PSP जुम्मन\N-NN शेख\V-VM के\PSP जिगरी\N-NN दोस\N-NN भी\RP-RPD हलन)\V-VM के\V-VAUX पंचइती\N-NN से\PSP मना\N-NN कर\V-VM देवे\V-VAUX पर\PSP कहल\V-VM पंक्ति\N-NN –\N-NN ‘‘बिगाड़\N-NN के\PSP डर\N-NN से\PSP ईमान\N-NN के\PSP बात\N-NN नञ्\N-NN कहबऽ\V-VM .\V-VAUX 
+’’\N-NN के\PSP रेखांखित\N-NN करइत\V-VM हम\PR-PRP ई\DM-DMI कहे\V-VM ले\V-VAUX चाहऽ\N-NN ही\RP-RPD कि\CC-CCS साहित\N-NN के\PSP पंचइती\N-NN आउ\CC-CCD आलोचना\N-NN के\PSP अदालत\N-NN में\PSP आखिर\N-NN कहिया\N-NN तक\PSP हम\PR-PRP बिगाड़\N-NN के\PSP डर\N-NN से\PSP ईमान\N-NN के\PSP बात\N-NN नञ्\N-NN कहवइ\V-VM ?\V-VAUX 
+आउ\CC-CCD हमन्हीं\PR-PRP साहितकारन\N-NN के\PSP भी\RP-RPD सोंचे\V-VM के\V-VAUX चाही\V-VAUX कि\CC-CCS साहित\N-NN जगत\N-NN के\PSP पंच-परमेश्वर\N-NN बने\V-VM में\PSP हम\PR-PRP कहिया\N-NN तलूक\N-NN परहेज\N-NN करवइ\V-VM ?\V-VAUX 
+साहित\N-NN के\PSP ऊंच-नीच\N-NN के\PSP जदि\N-NN हमहीं\N-NN ही\RP-RPD नजर\N-NN अंदाज\N-NN करवइ\N-NN तउ\N-NN समाज\N-NN के\PSP सच\N-NN के\PSP आईना\N-NN ईमानदारी\N-NN से\PSP हम\PR-PRP कइसे\PR-PRQ देखला\V-VM पइवइ\N-NN ?\V-VM 
+हम\PR-PRP एक-दोसरा\N-NN के\PSP दोस-मुहिम\N-NN मान\N-NN के\PSP साहितिक\N-NN ईमान\N-NN के\PSP बात\N-NN कहे\V-VM से\PSP परहेज\N-NN करवइ\V-VM तऽ\CC-CCS कहियो\N-NN साहित\N-NN के\PSP साथ\PSP इंसाफ\N-NN नञ्\V-VM होतइ,\V-VAUX नञ्\RD-PUNC तऽ\CC-CCS साहित\N-NN के\PSP स्तर\N-NN में\PSP सुधार\N-NN होतइ\V-VM आउ\CC-CCD नञ्\N-NN साहित\N-NN के\PSP दमगर\N-NN काम\N-NN होतइ\V-VM ।\RD-PUNC 
+हम\PR-PRP अप्पन-अप्पन\N-NN निजी\N-NN सोवारथ\N-NN लेल\V-VM साहितकार\N-NN के\PSP चमचई\N-NN करवइ\V-VM .\V-VAUX 
+उनखर\PR-PRP अनुचित\N-NN काज\N-NN पर\PSP भी\RP-RPD अंगुरी\N-NN नञ्\V-VM उठैवइ\V-VAUX तउ\N-NN ई\DM-DMI साहित\N-NN आउ\CC-CCD साहितकार\N-NN दुन्नूं\N-NN लेल\V-VM दुर्भाग्य\V-VAUX आउ\CC-CCD विनास\N-NN के\PSP विषय\N-NN हइ\V-VM ।\RD-PUNC 
+आझ\N-NN ईहे\PSP कारण\N-NN हइ\V-VM कि\CC-CCS साहित\N-NN स्तर\N-NN गिर\V-VM रहले\V-VAUX हे\V-VAUX ।\RD-PUNC 
+जुगाड़\N-NNP के\PSP बदौलत\N-NN लोग\N-NN साहित\N-NN के\PSP मटियामेट\N-NN करि\V-VM के\PSP अप्पन\PR-PRP महात्वाकांक्षा\N-NN साध\V-VM रहलथिन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+साहितकार\N-NN एक-दोसर\N-NN के\PSP महिमा\N-NN मंडन\N-NN करे\V-VM में\PSP लगल\V-VAUX हथिन\V-VAUX ।\RD-PUNC 
+साहित\N-NN के\PSP विकास\N-NN के\PSP काज\N-NN नञ्\N-NN भे\V-VM रहले\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+आझ\N-NN जरूरत\N-NN हइ\V-VM साहित\N-NN के\PSP सच\N-NN के\PSP उजागर\N-NN करइ\V-VM के\V-VAUX ।\RD-PUNC 
+पंचइती,\N-NN समीक्षा\N-NN आउ\CC-CCD आलोचना\N-NN करइ\V-VM के\V-VAUX ।\RD-PUNC 
+काहे\CC-CCS कि\CC-CCS अभी\N-NN मगही\N-NN साहित\N-NN के\PSP उत्थान\N-NN काल\V-VM हे,\V-VAUX साहित\N-NN के\PSP कसौटी\N-NN पर\PSP कस\RB के\PSP ओकरा\PR-PRP निखारे\N-NN के\PSP समय\N-NN हे\V-VM ।\RD-PUNC 
+पर\PSP ई\DM-DMI हम्मर\PR-PRP साहित\N-NN के\PSP दुर्भाग्य\N-NN हे\V-VM कि\CC-CCS सच\N-NN कहे\V-VM के\PSP हिम्मत\N-NN बड़ी\N-NN कम\QT-QTF आलोचक\N-NN कर\V-VM रहलथिन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+हम\PR-PRP ईहां\DM-DMD दू-चार\QT-QTC गो\RP-CL व्यक्तित्व\N-NN के\PSP चरचा\N-NN करवइ\V-VM जिनखर\N-NN कलम\N-NN पंच\N-NN के\PSP रूप\N-NN में\PSP उठ\V-VM रहले\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD में\PSP हम\PR-PRP सउ\N-NN से\PSP आगू\N-NN ‘सारथी’\N-NN पत्रिका\N-NN के\PSP कार्यकारी\N-NN संपादक\N-NN व\N-NN हिन्दी\N-NN मगही\N-NN के\PSP समीक्षक\N-NN नरेन\N-NN जी\N-NN के\PSP रखवइ\V-VM ।\RD-PUNC 
+नरेन\N-NN जी\N-NN के\PSP कलम\N-NN रचना\N-NN आउ\CC-CCD रचनाकार\N-NN के\PSP शैली\N-NN पर\PSP खूमे\N-NN उठऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+बराबर\N-NN पत्र-पत्रिका\N-NN में\PSP इनखर\N-NN कटु\PSP आलोचना\N-NN देखे\V-VM ले\V-VAUX मिलऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+रचनाकार\N-NN आउ\CC-CCD पत्रकार\N-NN से\PSP लेके\V-VM संपादक\N-NN आउ\CC-CCD संस्था\N-NN सब्भे\V-VM के\PSP काज\N-NN के\PSP कटु-मधु\N-NN आलोचना\N-NN ई\DM-DMI बेहिचक\N-NN रखऽ\V-VM हका,\V-VAUX चाहे\N-NN केकरो\PR-PRI मीठ\N-NN लगइ\V-VM चाहे\N-NN तीत\N-NN ।\RD-PUNC 
+ई\DM-DMI सब्भे\V-VM के\PSP आलोचना\N-NN के\PSP घूंट\N-NN पिलावऽ\V-VM हका\V-VAUX ।\RD-PUNC 
+एकर\DM-DMD बानगी\N-NN ‘सारथी’\PSP पत्रिका\N-NN के\PSP कय\V-VM गो\RP-CL अंक\N-NN में\PSP भी\RP-RPD खुल\V-VM के\V-VAUX झलकऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+दोसर\QT-QTO पंच\N-NN के\PSP रूप\N-NN में\PSP हम\PR-PRP मगध\N-NN विश्वविद्यालय\N-NN के\PSP मगही\N-NN विभागाध्यक्ष\N-NN डॉ.\N-NN भरत\N-NN सिंह\N-NNP के\PSP नाम\N-NN लेवइ\V-VM ।\RD-PUNC 
+मगही\N-NN साहितिक\N-NN गोष्ठी\N-NN आउ\CC-CCD काजकरम\N-NN के\PSP मोका\N-NN पर\PSP के\PSP उनखर\N-NN संबोधन\N-NN में\PSP आलोचना\V-VM आउ\CC-CCD समीक्षा\N-NN खुल\V-VM के\PSP सामने\N-NST आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+रचनाकार\N-NN के\PSP रचना\N-NN के\PSP आउ\CC-CCD उनखर\N-NN आत्ममुग्धता\N-NN के\PSP ऊ\PR-PRP नाप\N-NN के\PSP रख\V-VM दे\V-VAUX हका\V-VAUX ।\RD-PUNC 
+खुल\V-VM के\PSP ऊ\PR-PRP कहऽ\V-VM हथिन\V-VAUX कि\CC-CCS मंच\N-NN पर\PSP कविता\N-NN सुनाके\V-VM वाह-वाही\N-NN बटोर\N-NN लेवे\V-VM से\PSP मगही\N-NN के\PSP कल्याण\N-NN नञ्\V-VM भेतइ\N-NN आउ\CC-CCD नञ्\N-NN तऽ\CC-CCS देश\N-NN के\PSP स्तरीय\N-NN पत्र-पत्रिका\N-NN में\PSP एगो\QT-QTC रचना\N-NN के\PSP छप\N-NN जाए\V-VM से\PSP कोय\PR-PRI बड़का\N-NN रचनाकार\N-NN भे\V-VM जइतन\V-VAUX ।\RD-PUNC 
+साहित\N-NN के\PSP समृद्धि\N-NN लेल\V-VM हर\N-NN विधा\N-NN में\PSP दमदार\N-NN काज\N-NN करइ\V-VM के\PSP जरुरत\RB पर\PSP ऊ\PR-PRP बार-बार\N-NN बल\V-VM दे\V-VAUX हका\N-NN ।\RD-PUNC 
+ऊ\PR-PRP कहे\V-VM में\PSP हर\N-NN जगह\N-NN प्रखर\N-NN दिखऽ\N-NN हका,\V-VM जउ\PR-PRL ऊ\PR-PRP रचनाकार\N-NN के\PSP मुंहे\N-NN पर\PSP उनखर\N-NN कमी\N-NN के\PSP इंगित\N-NN कर\V-VM दे\V-VAUX हका\V-VAUX ।\RD-PUNC 
+श्री\N-NN मिथिलेश\N-NN अपने\PR-PRP आप\PR-PRP में\PSP एगो\QT-QTC संस्था\N-NN हका\V-VM ।\RD-PUNC 
+उनखा\N-NN कारवां\N-NN बना\V-VM के\V-VAUX चले\V-VM के\V-VAUX सउ\N-NN दिने\N-NN के\PSP आदत\N-NN हइ\V-VM ।\RD-PUNC 
+पोजेटीव\N-NN पक्ष\N-NN के\PSP उजागर\N-NN करना\V-VM उनखर\PR-PRP गुण-धरम\N-NN में\PSP शामिल\N-NN हइ\V-VM ।\RD-PUNC 
+ई\DM-DMI लेल\V-VM साहितकार\N-NN के\PSP निगेटीव\N-NN पक्ष\N-NN पर\PSP ऊ\PR-PRP चुप्पी\N-NN साध\V-VM ले\V-VAUX हका\N-NN आउ\CC-CCD पोजेटीव\N-NN पक्ष\N-NN के\PSP जमके\N-NN उभारऽ\V-VM हका\V-VAUX ।\RD-PUNC 
+उनखर\PR-PRP ई\DM-DMI बेस\N-NN गुण\N-NN हइ\V-VM ।\RD-PUNC 
+एकरा\DM-DMD पर\PSP हमरा\PR-PRP जइसन\RP-RPD जादे\V-VM कुछ\QT-QTF नञ्\V-VM कह\V-VM सकऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+उनखर\PR-PRP चुप्पी\N-NN भी\RP-RPD कुछ\QT-QTF नञ्\N-NN कहे\V-VM के\PSP बाद\N-NN भी\RP-RPD बहुत\RP-INTF कुछ\QT-QTF कह\V-VM जा\V-VAUX हइ\V-VM ।\RD-PUNC 
+पर\PSP ‘सारथी’\N-NN के\PSP संपादकीय\N-NN पैनल\N-NN में\PSP उनखर\N-NN सब्भे\V-VM के\PSP साथ\PSP लेके\V-VM चले\V-VAUX के\V-VAUX जे\PR-PRL गुण\N-NN झलकऽ\V-VM हइ,\V-VAUX ओइसन\N-NN भी\RP-RPD ठीक\JJ नञ्\V-VM कहल\V-VAUX जा\V-VAUX रहले\V-VAUX हइ,\RD-PUNC बड़गो\V-VAUX संपादकीय\N-NN पैनल\N-NN पर\PSP कय\V-VM गो\RP-CL अंगुरी\N-NN उठइलथिन\V-VM हे\V-VAUX ।\RD-PUNC 
+बिहार\N-NN मगही\N-NN मंडप\N-NN के\PSP रामरतन\N-NN सिंह\N-NNP रत्नाकर\N-NN पत्रकारिता\N-NN के\PSP जरिये\PSP साहितकार\N-NN के\PSP आलोचना\N-NN करऽ\V-VM हका\V-VAUX ।\RD-PUNC 
+शुरू\N-NN से\PSP पत्रकार\N-NN रहे\V-VM के\PSP कारन\N-NN उनखर\N-NN निगेटीव\V-VM पक्ष\N-NN वला\N-NN आलोचना\N-NN जादे\N-NN उभर\N-NN के\PSP सामने\N-NST आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+मगही\N-NN पत्रिका\N-NN के\PSP ‘पुरोधा’\N-NN धनंजय\N-NN श्रोत्रिय\N-NN के\PSP साहितकारन\N-NN पर\PSP चलावल\V-VM कलम\V-VAUX आउ\CC-CCD आलोचना\V-VM तऽ\CC-CCS ऐतिहासिके\V-VM हे\V-VAUX .\RD-PUNC 
+जेकरा\PR-PRL प्रत्यक्ष\N-NN आउ\CC-CCD अप्रत्यक्ष\PR-PRP रूप\N-NN से\PSP साहितकार\N-NN गारिये\N-NN मानऽ\V-VM हथिन\V-VAUX ।\RD-PUNC 
+मगही\N-NN के\PSP आउ\CC-CCD व्यक्तित्व\N-NN में\PSP डॉ.\N-NN लक्ष्मण\N-NN प्रसाद,\PSP शंभू\N-NN विश्वकर्मा,\N-NN अशोक\N-NN समदर्शी,\V-VM हरींद्र\N-NN विद्यार्थी\N-NN सहित\PSP कय\V-VM गो\RP-CL के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD ऊ\PR-PRP सब्भे\V-VM के\PSP खरा\N-NN आलोचना\V-VM करे\V-VAUX के\PSP अभी\N-NN बड़गर\N-NN जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+ई\DM-DMI सोने\N-NN पर\PSP सुहागा\N-NN के\PSP काज\N-NN करतइ\V-VM ।\RD-PUNC 
+हम\PR-PRP आझ\N-NN कइसनो\PR-PRQ लिखल\V-VM रचना\N-NN के\PSP खाली\QT-QTF सार्वजनिक\N-NN महिमा\N-NN मंडने\N-NN करे\V-VM लगऽ\V-VAUX हिअइ\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD पीछू\N-NN रचनाकार\N-NN के\PSP प्रोत्साहित\N-NN करे\V-VM के\PSP उद्धेश्य\N-NN भी\RP-RPD छिप्पल\V-VM रहइ\N-NN पर\PSP एकरा\DM-DMD पर\PSP अंकुश\N-NN के\PSP जादे\V-VM जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+रचना\N-NN खरा\N-NN हइ\V-VM तऽ\CC-CCS सराहे\N-NN के\PSP काज\N-NN होवे\V-VM के\PSP चाही\V-VM पर\PSP टेबुल\N-NN डायरी\N-NN आउ\CC-CCD तुकबंदी\N-NN पर\PSP लगाम\N-NN के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+उनखा\N-NN पर\PSP जदि\N-NN भरल\N-NN सदन\N-NN में\PSP अंगुरी\N-NN उठावइ\V-VM के\PSP काज\N-NN अनुचित\N-NN लगऽ\V-VM हइ\V-VAUX तऽ\CC-CCS उनखा\N-NN अकेले\N-NN में\PSP भी\RP-RPD सुझाव\N-NN देल\V-VM जा\V-VAUX सकऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+ईहां\DM-DMD उल्लेख\N-NN करल\V-VM गेल\V-VAUX नाम\N-NN के\PSP अलावे\V-VM भी\RP-RPD जे\PR-PRL समीक्षक,\V-VM आलोचक\V-VAUX आउ\CC-CCD भासा\N-NN के\PSP पंचइती\N-NN करइ\V-VM वला\N-NN अप्पन\PR-PRP काम\N-NN पारदर्शिता\N-NN आउ\CC-CCD ईमानदारी\N-NN से\PSP कर\V-VM रहला\V-VAUX हे,\RD-PUNC हम\PR-PRP उनखा\N-NN भी\RP-RPD साधुवाद\N-NN दे\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+उनखर\N-NN अंकुश\N-NN आउ\CC-CCD कसौटी\N-NN के\PSP नमन\N-NN करऽ\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+अउ\CC-CCD हम\PR-PRP आखिर\N-NN में\PSP फेनू\N-NN ई\DM-DMI कहवइ\V-VM कि\CC-CCS मगही\N-NN के\PSP समग्र\N-NN विकास\N-NN लेल\V-VM आउ\CC-CCD स्तरीय\N-NN लेखन\N-NN लेल\V-VM साहितकार\N-NN के\PSP पंच-परमेश्वर\N-NN बन\V-VM के\V-VAUX काज\N-NN करे\V-VM सब्भे\V-VM के\PSP करइ\V-VM पड़तइ,\V-VAUX अलगू\N-NN चौधरी\N-NN के\PSP नियर\N-NN ।\RD-PUNC 
+जे\PR-PRL उत्साह\N-NN आउ\CC-CCD बौसाह\N-NN से\PSP हम्मर\PR-PRP दू-चार\QT-QTC गो\RP-CL व्यक्तित्व\N-NN पंच\N-NN बने\V-VM के\PSP दायित्व\N-NN निभा\V-VM रहला\V-VAUX हे\V-VAUX उनखा\N-NN हम\PR-PRP साधुवाद\N-NN दे\V-VM ही\V-VAUX ।\RD-PUNC 
+उनखर\PR-PRP पंचइती\N-NN से\PSP ही\RP-RPD मगही\N-NN के\PSP ऊंचगर\N-NN मकाम\N-NN मिलतइ\V-VM .\V-VAUX 
+ई\DM-DMI सासवत\N-NN सच\N-NN हइ\V-VM ।\RD-PUNC 
+----------------------------------------------------------------------------------------------------------------------आलेख\V-VM कि\CC-CCS हे\V-VM लघुकथा\N-NN उदय\N-NN कुमार\N-NNP भारती\N-NN लघुकथा\N-NN सूक्ष्म\N-NN संवेदना\N-NN से\PSP लैस\N-NN जीवंत\N-NN प्रवाहमयी\N-NN गद्य\N-NN विधा\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI हिन्दी-मगही\RP-RPD दुन्नूं\N-NN के\PSP नवीनतम\N-NN विधा\N-NN मानल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कालांतर\N-NN में\PSP लघुकथा\N-NN के\PSP शैली\N-NN आउ\CC-CCD कथ्य\N-NN में\PSP बदलाव\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI निरंतर\N-NN विकासशील\N-NN विधा\N-NN हइ\V-VM ।\RD-PUNC 
+आझ\N-NN लघुकथा\N-NN के\PSP कसौटी\N-NN यथार्थबोध\N-NN मानल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+केवल\N-NN दृष्टांतपरक,\V-VM बोधपरक\N-NN और\CC-CCD नीतिपरक\N-NN एकर\N-NN कसौटी\N-NN नञ्\PSP रह\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सामाजिक\N-NN जीवन\N-NN के\PSP सच्चाई\N-NN के\PSP जादे\V-VM करीब\V-VAUX रहइ\N-NN वला\N-NN विधा\N-NN हइ\V-VM ।\RD-PUNC 
+ई\DM-DMI जेतने\N-NN छोटा\JJ होवऽ\V-VM हइ\V-VAUX ओतने\N-NN एकरा\DM-DMD में\PSP एहसास\N-NN करावे\V-VM के\PSP आउ\CC-CCD संवेदना\N-NN के\PSP झकझोरे\N-NN के\PSP शक्ति\N-NN होवऽ\V-VM हइ,\V-VAUX मानसपटल\N-NN पर\PSP ई\DM-DMI बड़गर\N-NN प्रहार\N-NN करऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN के\PSP लेके\V-VM साहितकार\N-NN आउ\CC-CCD समालोचक\N-NN के\PSP धारणा\N-NN में\PSP भिन्नता\N-NN देखे\V-VM के\PSP मिलऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+डॉ.\N-NN कमल\N-NN किशोर\N-NN गोयनका\N-NN के\PSP अनुसार\N-NN -‘‘लघुकथा\N-NN एगो\QT-QTC लेखक\N-NN विहीन\N-NN विधा\N-NN हइ\V-VM ।\RD-PUNC 
+’’\N-NN यानी\N-NN कि\CC-CCS एकरा\DM-DMD में\PSP लेखक\N-NN के\PSP उपस्थित\N-NN रहे\V-VM के\PSP एहसास\N-NN नञ्\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+दोसर\QT-QTO सर्वमान्य\N-NN तथ्य\N-NN ई\DM-DMI हइ\V-VM कि\CC-CCS ‘‘लघुकथा\N-NN एगो\QT-QTC निदानात्मक\N-NN रचना\V-VM हे,\V-VAUX उपचारात्मक\N-NN रचना\N-NN नञ्\V-VM ।\RD-PUNC 
+’’\N-NN ई\DM-DMI सूक्ष्म\N-NN कथा\N-NN हइ,\PSP विकासशील\N-NN विधा\N-NN हइ\V-VM ।\RD-PUNC 
+भैरवनाथ\N-NN झा\N-NN कैरव\V-VM के\PSP अनुसार\N-NN –\N-NN ‘‘लघुकथा\N-NN स्थूल\N-NN से\PSP सूक्ष्म\N-NN के\PSP जतरा\N-NN हे\V-VM ।\RD-PUNC 
+’’\N-NN लधुकथा\N-NN तभिये\N-NN लघुकथा\N-NN हइ\V-VM जउ\PR-PRL ऊ\PR-PRP भाव\N-NN संवेदना\N-NN आउ\CC-CCD भासा\N-NN संवेदना\N-NN दुन्नूं\N-NN पर\PSP खरा\N-NN उतरइ\V-VM ।\RD-PUNC 
+भाव(वस्तु)\N-NN के\PSP साथ\PSP भासा(बिंब)\N-NN भी\RP-RPD सशक्त\N-NN होने\N-NN के\PSP चाही,\V-VM शैली\V-VAUX चाहे\N-NN कुच्छो\QT-QTF होवे\V-VM रहइ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI विषय,\N-NN प्रकृति,\V-VM कथ्य,\RD-PUNC घटना,\V-VM स्वरूप\N-NN आउ\CC-CCD शिल्प\N-NN सब्भे\V-VM से\PSP लैस\V-VM रहइ\V-VAUX इया\CC-CCD नञ्\V-VM पर\PSP एकर\PR-PRP अभिव्यक्ति\N-NN बड़ी\N-NN दमगर\N-NN होवे\V-VM के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+रचनाकार\N-NN के\PSP एकर\PR-PRP शिल्प\N-NN विधान\N-NN आउ\CC-CCD विशेषता\N-NN के\PSP बड़ी\N-NN विस्तार\N-NN से\PSP जाने\N-NN के\PSP आउ\CC-CCD ओकर\PR-PRP बाद\N-NN रचना\N-NN करे\V-VM के\PSP जरुरत\N-NN हइ\V-VM ।\RD-PUNC 
+लेकिन\CC-CCD लघुकथा\N-NN के\PSP शिल्प\N-NN के\PSP मूल\N-NN में\PSP एकर\PR-PRP लघुते\N-NN मानल\V-VM जा\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI केतना\QT-QTF लघु\N-NN होवइ\V-VM के\PSP चाही\V-VM ई\V-VAUX तऽ\CC-CCS निर्धारित\N-NN नञ्\N-NN हइ\V-VM लेकिन\CC-CCD जादे\N-NN से\PSP जादे\V-VM शब्द\N-NN सीमा\N-NN 200\N-NN से\PSP 300\N-NN मानल\V-VM जा\V-VAUX रहले\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सीमा\N-NN से\PSP जादे\N-NN में\PSP भी\RP-RPD लघुकथा\N-NN मिल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN के\PSP तीन\QT-QTC मूल\N-NN तत्व\N-NN रेखांकित\N-NN कइल\V-VM जा\V-VAUX सकऽ\V-VAUX हइः-1\V-VAUX .\RD-PUNC 
+लाघवः-\N-NN लाघव\PSP भासा\N-NN विज्ञान\N-NN में\PSP प्रयुक्त\N-NN होवे\V-VM वला\V-VAUX टर्म\N-NN हइ\V-VM जेकर\PR-PRL मतलब\N-NN होवऽ\V-VM हइ\V-VAUX कि\CC-CCS रचना\N-NN में\PSP भटकावे\V-VM वला\N-NN बेकार\N-NN के\PSP शब्द\N-NN आउ\CC-CCD वाक्य\N-NN नञ्\N-NN रहइ\V-VM ।\RD-PUNC 
+जइसे\PR-PRL कोय\PR-PRI पकवान\N-NN बनावे\V-VM लेल\V-VAUX जे\PR-PRL सामाग्री\N-NN आउ\CC-CCD बरतन\N-NN के\PSP जरूरत\N-NN हइ\V-VM बस\CC-CCD ओतने\N-NN ऊहां\DM-DMD पर\PSP रहइ\V-VM आउ\CC-CCD कुच्छो\QT-QTF नञ्\V-VM ।\RD-PUNC 
+नेपथ्यः-\N-NN लघुकथा\N-NN के\PSP नेपथ्य\N-NN सहज,\PSP स्पष्ट\N-NN आउ\CC-CCD सार्थक\N-NN होवे\V-VM के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+नेपथ्य\N-NN के\PSP प्रति\N-NN प्रत्यक्ष\N-NN में\PSP सचेतता\N-NN दिख\N-NN जाए\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+सम्पूर्णताः-\N-NN रचना\N-NN के\PSP सउ\N-NN तरह\RP-RPD के\PSP तत्व\N-NN इया\CC-CCD सउ\N-NN तरह\RP-RPD के\PSP अवयव\N-NN से\PSP युक्त\N-NN होवइ\V-VM इया\CC-CCD नञ्\V-VM ।\RD-PUNC 
+पर\PSP ओकर\PR-PRP शैली,\N-NN गठन,\V-VM प्रवाह\N-NN और\CC-CCD प्रभाव\N-NN सशक्त\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+ओकरे\PR-PRP बाद\N-NN ही\RP-RPD ऊ\PR-PRP संपूर्ण\N-NN लघुकथा\N-NN मानल\V-VM जा\V-VAUX सकऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+हिन्दी\N-NN के\PSP पहिल\N-NN लघुकथा\N-NN लघुकथा\N-NN के\PSP उद्भव\N-NN के\PSP ऋग्वेद,\V-VM वैदिक\N-NN काल\V-VM के\PSP महाभारत\N-NN आउ\CC-CCD पुराण\N-NN से\PSP जोड़ल\V-VM जा\V-VAUX सकऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कालांतर\N-NN में\PSP अदमी\N-NN में\PSP नीति,\N-NN धर्म,\V-VM सद्गुण,\RD-PUNC सच्चाई\N-NN जइसन\RP-RPD गुण\N-NN के\PSP विससित\N-NN करइ\V-VM के\PSP लेल\V-VAUX हम्मर\PR-PRP पूर्वज\N-NN आउ\CC-CCD आर्ष\N-NN लोगन\N-NN पंचतंत्र,\V-VM जातक\V-VAUX कथा,\RD-PUNC हितोपदेश\N-NN आदि\N-NN के\PSP रचना\N-NN करलथिन\V-VM हल\V-VAUX जेकर\PR-PRL कथानक\N-NN जनमानस\N-NN के\PSP झकझोर\N-NN के\PSP रख\V-VM दे\V-VAUX हल\V-VAUX आउ\CC-CCD ओकर\PR-PRP मन-मष्तिस्क\N-NN पर\PSP प्रभावशाली\N-NN संवेदना,\V-VM चेतना\V-VAUX आउ\CC-CCD प्रेरणा\N-NN जगावऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+ईहे\N-NN कथा\N-NN के\PSP गर्भ\N-NN आउ\CC-CCD भिन्न-भिन्न\N-NN धारा\N-NN से\PSP लघुकथा\N-NN के\PSP जलम\V-VM होल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पर\PSP ऊ\PR-PRP कथा\N-NN में\PSP नीति\N-NN आउ\CC-CCD धरम\N-NN के\PSP दृष्टांत\N-NN जादे\N-NN छुपल\V-VM हल\V-VAUX ।\RD-PUNC 
+आझ\N-NN सफल\N-NN लघुकथा\N-NN ऊहे\PSP हइ\V-VM जेकरा\PR-PRL में\PSP यथार्थपरक\N-NN मानवीय\V-VM संवेदना\N-NN के\PSP प्रभावपूर्ण\N-NN अभिव्यक्ति\N-NN हइ\V-VM ।\RD-PUNC 
+हिन्दी\N-NN के\PSP पहिल\N-NN लघुकथा\N-NN पर\PSP अभी\N-NN तक\RP-RPD मंथन\N-NN चल\V-VM रहले\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+तत्कालीन\N-NN कसौटी\N-NN आउ\CC-CCD दृष्टिकोण\N-NN के\PSP वजह\N-NN से\PSP कय\V-VM तरह\RP-RPD के\PSP विसंगति\N-NN सामने\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD लेल\V-VM शोध\V-VAUX के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+पहिल\N-NN लघुकथा\N-NN 1916\PSP ई.\N-NN में\PSP सरस्वती\N-NN पत्रिका\N-NN में\PSP छप्पल\N-NN पदुमलाल\N-NN बख्शी\N-NN के\PSP ‘झलमला’\N-NN रचना\N-NN के\PSP मानल\V-VM जा\V-VAUX रहले\V-VAUX हऽ\V-VAUX लेकिन\CC-CCD पहिल\N-NN लघुकथा\N-NN के\PSP दौड़\N-NN में\PSP शामिल\N-NN भारतेंदु\N-NN हरिश्चंद्र\N-NN के\PSP 1876\N-NN में\PSP छप्पल\N-NN ‘अंगहीन\N-NN धनी’,\V-VM ‘अदभुद\N-NN संवाद’,\V-VM माखनलाल\N-NN चतुर्वेदी\N-NN के\PSP ‘बिल्ली\N-NN और\CC-CCD बुखार’(\N-NN काल\N-NN पर\PSP संशय\N-NN की\PR-PRQ स्थिति),\N-NN 1901\N-NN में\PSP छप्पल\N-NN माधवराव\N-NN सप्रे\N-NN के\PSP ‘एक\QT-QTC टोकरी\N-NN भर\RP-RPD मिट्टी’,\V-VM 1915\RD-PUNC में\PSP सरस्वती\N-NN पत्रिका\N-NN में\PSP छप्पल\N-NN छब्बेलाल\N-NN गोस्वामी\N-NN के\PSP ‘विमाता’,\QT-QTC 1916\N-NN में\PSP सरस्वती\N-NN पत्रिका\N-NN में\PSP छप्पल\N-NN पदुमलाल\N-NN पुन्नालाल\N-NN बख्शी\N-NN के\PSP ‘झलमला’,\QT-QTC 1919\N-NN में\PSP जगदीश\N-NN चंद्र\N-NN मिश्र\N-NN के\PSP ‘बूढ़ा\N-NN व्यापारी’\N-NN के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+एकर\DM-DMD बाद\PSP जयशंकर\N-NN प्रसाद,\V-VM प्रेमचंद,\RD-PUNC कन्हैयालाल\N-NN मिश्र\N-NN प्रभाकर\N-NN के\PSP लिखल\V-VM लघुकथा\N-NN के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX जे\PR-PRL 1926\N-NN से\PSP 1930\N-NN तक\RP-RPD छप्पल\N-NN हे\V-VM ।\RD-PUNC 
+ऊ\PR-PRP में\PSP जयशंकर\N-NN प्रसाद\N-NN के\PSP प्रसाद,\N-NN ‘गुदड़\N-NN साईं’,\PSP ‘गुदड़ी\N-NN के\PSP लाल’,\N-NN ‘पत्थर\N-NN की\PSP पुकार’\N-NN प्रेमचंद\N-NN के\PSP ‘बाबाजी\N-NN का\PR-PRQ भोग’\N-NN आदि\N-NN के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+सबसे\N-NN जादे\V-VM जयशंकर\N-NN प्रसाद\N-NNP के\PSP लघुकथा\N-NN देखे\V-VM के\V-VAUX मिलऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+लघु\N-NN कथा\N-NN के\PSP बढ़ावे\V-VM में\PSP समकालीन\N-NN रचनाकार\N-NN जगदीश\N-NN कश्यप,\V-VM बलराम\N-NN अग्रवाल,\RD-PUNC हरिशंकर\N-NN परसाई,\PSP रमेश\N-NN बतरा,\V-VM कृष्ण\N-NN कमलेश,\PSP विष्णु\N-NN प्रभाकर,\V-VM विक्रम\N-NN सोनी,\PSP सुकेश\N-NN साहनी,\PSP भागीरथ,\V-VM सतीश\N-NN दूबे\V-VM के\PSP नाम\N-NN आगू\PSP हइ\V-VM ।\RD-PUNC 
+संपादक\N-NN में\PSP कमलेश्वर,\V-VM बलराम,\RD-PUNC राजेंद्र\N-NN यादव,\CC-CCD कमल\N-NN चोपड़ा,\V-VM सतीशराज\N-NN पुष्करणा\N-NN जी\N-NN के\PSP नाम\N-NN आगू\PSP आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+मगही\N-NN लघुकथा\N-NN के\PSP इतिहास\N-NN हिन्दी\N-NN लघुकथा\N-NN के\PSP लेक\V-VM जे\PR-PRL भी\RP-RPD भ्रम\N-NN रहइ\N-NN पर\PSP ओकर\PR-PRP इतिहास\N-NN कुछ\QT-QTF हद\RB तक\PSP साफ\N-NN हइ\V-VM कि\CC-CCS ओकर\PR-PRP सुरूआत\N-NN 1876\N-NN के\PSP आसपास\N-NN कसौटी\N-NN पर\PSP कसे\PSP वला\N-NN लघुकथा\N-NN आ\V-VM चुकले\V-VAUX हल\V-VAUX ।\RD-PUNC 
+पर\PSP मगही\N-NN लघुकथा\N-NN के\PSP बारे\N-NN में\PSP जे\PR-PRL मगही\N-NN इतिहास\N-NN के\PSP किताब\N-NN आउ\CC-CCD पत्र-पत्रिका\N-NN में\PSP मिलल\V-VM हइ\V-VM ओकर\PR-PRP अनुसार\N-NN मगही\N-NN लघुकथा\N-NN के\PSP इतिहास\N-NN जादे\V-VM पुरान\N-NN नञ्\N-NN हइ\V-VM ।\RD-PUNC 
+1965\N-NN के\PSP बाद\N-NN के\PSP परकासित\N-NN लघुकथा\N-NN आउ\CC-CCD लघुकथा\N-NN संग्रह\N-NN मिलऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+मगही\N-NN अकादमी,\N-NN बिहार,\N-NN पटना\N-NN के\PSP पूर्व\N-NN अध्यक्ष\N-NN डॉ.\N-NN राम\N-NN प्रसाद\N-NNP जी\N-NN के\PSP पहिल\N-NN लघुकथा\N-NN ‘अमरत्व\V-VM के\PSP भूख’\N-NN जमशेदपुर\N-NN से\PSP निकसे\V-VM वाला\N-NN ‘भोर’\N-NN पत्रिका\N-NN में\PSP छप्पल\N-NN हल\V-VM ओकरा\PR-PRP मगही\N-NN के\PSP पहिल\N-NN लघुकथा\N-NN मानल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कय\V-VM गो\RP-CL साहितकार\N-NN आउ\CC-CCD संपादक\N-NN उनखे\N-NN लघुकथा\N-NN के\PSP जनक\N-NN बतइलका\V-VM हऽ\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP लगभग\V-VM 100\V-VAUX लघुकथा\N-NN रच\V-VM के\V-VAUX आउ\CC-CCD संग्रह\N-NN निकास\N-NN के\PSP मगही\N-NN लघुकथा\N-NN के\PSP लेल\V-VM बड़का\N-NN काज\N-NN कइलका\V-VM हऽ\V-VAUX ।\RD-PUNC 
+दूकर\PR-PRP नाम\N-NN डॉ.\V-VM स्वर्ण\N-NN किरण\N-NN के\PSP आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+ओकर\PR-PRP बादे\N-NN मगही\N-NN में\PSP केशव\V-VM प्रसाद\N-NN वर्मा,\RD-PUNC डॉ.\N-NN अभिमन्यु\N-NN प्रसाद\N-NN मौर्य,\PSP प्रो.\N-NN तृप्ति\N-NN नारायण\N-NN शर्मा,\PSP राम\N-NN पारिख,\V-VM प्रो.\N-NN दिलीप\N-NN कुमार,\PSP प्रो.\N-NN रामनरेश\N-NN प्रसाद\N-NNP वर्मा,\N-NNP वीरेंद्र\N-NN सिंह\N-NNP आजाद,\PSP राम\N-NN विलास\N-NN रजकण,\V-VM सुखित\N-NN वर्मा,\RD-PUNC अलखदेव\N-NNP प्रसाद\N-NNP अचल,\RD-PUNC डॉ.\N-NN उमाशंकर\N-NN सिंह,\PSP अंबिका\N-NN सिंह,\PSP श्रवण\N-NN कुमार\N-NNP मधुर,\RD-PUNC अवधेश\N-NN प्रसाद\N-NNP सिंह,\N-NNP महेंद्र\N-NNP प्रसाद\N-NNP देहाती,\V-VM रामयतन\V-VAUX प्रसाद\N-NNP यादव,\CC-CCD ललन\N-NNP कुमर\N-NN मिक्ष,\V-VM डॉ.\N-NN वीर\N-NN बहादुर\N-NN सिंह\N-NNP विजय,\RD-PUNC संजीव\N-NNP कुमार\N-NNP तिवारी,\RD-PUNC सच्चिदानंद\N-NN प्रसाद,\RD-PUNC शिव\N-NNP प्रसाद\N-NNP लोहानी,\N-NN डॉ.\N-NN वीर\N-NN विजय\N-NN सिंह\N-NNP बेसुध,\N-NN डॉ.\N-NN राम\N-NN विलास\N-NN रजकण,\V-VM रामदास\N-NN आर्य,\RD-PUNC अरूण\N-NN कुमार\N-NNP सिन्हा\N-NN के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+समकालीन\N-NN मगही\N-NN में\PSP पवन\N-NN तनय,\RD-PUNC वीरेंद्र\N-NN कुमार\N-NNP भारद्वाज\N-NN जइसन\RP-RPD के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+अरूण\N-NN कुमार\N-NNP गौतम,\V-VM अरूण\V-VAUX वर्मा,\RD-PUNC राजेश\N-NN मंझवेकर,\PSP बैजू\N-NN सिंह,\PSP कृष्ण\N-NN कुमार\N-NNP भट्टा\N-NN भी\RP-RPD लघुकथा\N-NN लिखे\V-VM के\PSP दौड़\N-NN में\PSP शामिल\N-NN हका\N-NN ।\RD-PUNC 
+मगही\N-NN के\PSP परकासित\N-NN लघुकथा\N-NN सेंगरन\N-NN में\PSP डॉ.\N-NN स्वर्ण\N-NN किरण\N-NN के\PSP सेंगरन,\N-NN डॉ.\V-VM अभिमन्यु\N-NN प्रसाद\N-NNP मौर्य\N-NN आउ\CC-CCD डॉ.\N-NN उमाशंकर\N-NN सिंह\N-NNP के\PSP संपादन\N-NN में\PSP छप्पल\N-NN ‘छत्तीसी’,\V-VM डॉ.\N-NN राम\N-NN प्रसाद\N-NNP सिंह\N-NNP के\PSP ‘मगह\N-NN के\PSP आवाज’,\V-VM संजीव\N-NN कुमार\N-NNP तिवारी\N-NN के\PSP संपादन\N-NN में\PSP छप्पल\N-NN सेंगरन\N-NN ‘धरोहर’\V-VM के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+केशव\N-NN प्रसाद\N-NN वर्मा\N-NN के\PSP सेंगरन\N-NN ‘हाथी\N-NN के\PSP दांत’\N-NN के\PSP छपे\N-NN के\PSP तैयारी\N-NN के\PSP जानकारी\N-NN वर्णित\N-NN मिलऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN के\PSP विकास\N-NN में\PSP पत्रिका\N-NN ‘विहान’,\PSP ‘अलका\N-NN मागधी’,\V-VM ‘मगधांचल’,\RD-PUNC ‘निरंजना’,\V-VM ‘मगही\V-VAUX पत्रिका’,\RD-PUNC ‘पाटलि’,\V-VAUX ‘टोला-टाटी’,\RD-PUNC ‘सारथी’\N-NN आदि\N-NN पत्रिका\N-NN के\PSP नाम\N-NN आवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN के\PSP विकास\N-NN में\PSP आकासवानी\N-NN पटना\N-NN के\PSP भी\RP-RPD जोगदान\N-NN अहम\N-NN हइ\V-VM ।\RD-PUNC 
+एकर\DM-DMD परसारन\N-NN बराबर\N-NN होते\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अखिल\N-NN भारतीय\N-NN प्रगतिशील\N-NN लघुकथा\N-NN मंच,\PSP पटना\N-NN लघुकथा\N-NN के\PSP विकास\N-NN लेल\V-VM 24\V-VAUX साल\N-NN से\PSP काजकरम\V-VM आयोजित\N-NN करि\V-VM के\V-VAUX मंच\N-NN देवे\V-VM के\PSP काम\N-NN कर\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+एकर\DM-DMD अधिकारी\N-NN सउ\N-NN साधुवाद\N-NN के\PSP जोग\N-NN हथिन\V-VM ।\RD-PUNC 
+आझ\N-NN मगही\N-NN लघुकथा\N-NN के\PSP कसौटी\N-NN पर\PSP कसे\V-VM के\V-VAUX आउ\CC-CCD प्रखर\N-NN आलोचना\N-NN करइ\V-VM के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+काहे\CC-CCS कि\CC-CCS साहितकार\N-NN लघुकथा\N-NN के\PSP शिल्प,\V-VM कथ्य,\V-VAUX लघुता\N-NN आउ\CC-CCD दोसर\QT-QTO गुणधरम\N-NN के\PSP बिना\PSP समझले-बुझले\V-VM कथा\N-NN लिख\V-VM रहलथिन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+छोटगर\PR-PRP कहानी-किस्सा\N-NN लिख\V-VM के\PSP ओकरा\PR-PRP लघुकथा\N-NN के\PSP संज्ञा\N-NN दे\V-VM रहलथिन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कहइं-कहंइ\N-NN तऽ\CC-CCS खुल\V-VM के\PSP नकल\N-NN भी\RP-RPD झलकऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD पर\PSP अंकुश\N-NN लगावे\V-VM आउ\CC-CCD रचनाकार\N-NN के\PSP रचनाधर्मिता\N-NN के\PSP प्रखर\N-NN बनावे\V-VM के\PSP लेल\V-VM कड़गर\N-NN आलोचना\N-NN लिखे\V-VM आउ\CC-CCD करे\V-VM के\PSP जरुरत\N-NN हइ\V-VM ।\RD-PUNC 
+मगही\N-NN लघुकथा\N-NN पर\PSP शोध\N-NN के\PSP जरुरत\N-NN हइ\V-VM ।\RD-PUNC 
+अउ\CC-CCD तक\RP-RPD के\PSP लिखल\V-VM मगही\N-NN कथा\N-NN के\PSP ओकर\PR-PRP मानकता\N-NN आउ\CC-CCD कसौटी\N-NN पर\PSP कसे\V-VM के\PSP जरूरत\N-NN हे\V-VM ।\RD-PUNC 
+छोटगर\JJ कहानी,\V-VM किस्सा\N-NN आउ\CC-CCD कौंध\N-NN कथा\N-NN के\PSP सार्थक\N-NN लघुकथा\N-NN के\PSP संज्ञा\N-NN देवे\V-VM के\PSP काम\N-NN उचित\N-NN नञ्\V-VM हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD पर\PSP प्रखर\N-NN आलोचना\V-VM आउ\CC-CCD मंथन\N-NN के\PSP बाद\N-NN निर्णय\N-NN लेवे\V-VM के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+एकर\PR-PRP शोध\N-NN के\PSP बादे\N-NN ई\DM-DMI साफ\N-NN हो\V-VM सकतइ\V-VAUX कि\CC-CCS मगही\N-NN के\PSP श्रेष्ठतम\N-NN पहिल\N-NN लघुकथा\N-NN कउन\PR-PRQ हे\V-VM ?\RD-PUNC 
+अभी\N-NN तक\RP-RPD कहइं\N-NN भी\RP-RPD कोय\PR-PRI आलेख\N-NN में\PSP ई\DM-DMI वर्णन\N-NN नय\N-NN मिललइ\V-VM कि\CC-CCS अउ\CC-CCD तक\RP-RPD के\PSP लिखल\V-VM लघुकथा\N-NN में\PSP श्रेष्ठतम\N-NN रचना\N-NN कउन\PR-PRQ हइ\V-VM ।\RD-PUNC 
+लघुकथा\N-NN के\PSP इतिहास\N-NN से\PSP जुड़ल\N-NN इतिहास\N-NN डॉ.\N-NN राम\N-NN प्रसाद\N-NNP सिंह\N-NNP जी\N-NN के\PSP संपादन\N-NN में\PSP छप्पल\N-NN ‘मगही\N-NN साहित्य\N-NN के\PSP इतिहास’\N-NN सहित\PSP दोसर\QT-QTO किताब\N-NN आउ\CC-CCD पत्र-पत्रिका\N-NN में\PSP जे\PR-PRL मिलऽ\V-VM हइ\V-VAUX ओकरा\PR-PRP में\PSP डॉ.\N-NN राम\N-NN प्रसाद\N-NNP जी\RP-RPD के\PSP एकर\N-NN जनक\N-NN बतावल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP मगही\N-NN के\PSP पहिल\N-NN लघुकथा\V-VM हे\V-VAUX ई\DM-DMI तऽ\CC-CCS पता\N-NN चलऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD अउ\CC-CCD तक\RP-RPD के\PSP मगही\N-NN कथा\N-NN में\PSP श्रेष्ठतम\N-NN पहिल\N-NN लघुकथा\N-NN कउन\PR-PRQ हे\V-VM ई\DM-DMI पता\N-NN नञ्\V-VM चल\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI काम\N-NN के\PSP अगुआई\N-NN भी\RP-RPD डॉ.\N-NN राम\N-NN प्रसाद\N-NNP जी\N-NN जइसन\RP-RPD प्रखर\N-NN साहितकार\N-NN सउ\N-NN मिलके\V-VM करतन\V-VAUX तबे\DM-DMD कुछ\QT-QTF भे\V-VM सकऽ\V-VAUX हइ\V-VM ।\RD-PUNC 
+मगही\N-NN के\PSP कहानी\N-NN विधा\N-NN में\PSP भी\RP-RPD ई\DM-DMI काम\N-NN करइ\V-VM के\PSP जरूरत\N-NN हे\V-VM ।\RD-PUNC 
+ऐसन\DM-DMD शोध\N-NN के\PSP जोखिम\N-NN भरल\N-NN काम\N-NN करइ\V-VM के\PSP जहमत\N-NN मगही\N-NN के\PSP कोय\PR-PRI साहितकार\N-NN आउ\CC-CCD आलोचक\N-NN नञ्\N-NN उठा\V-VM रहला\V-VAUX हे,\V-VAUX जइसन\RP-RPD कि\CC-CCS किताब\N-NN आउ\CC-CCD पत्र-पत्रिका\N-NN पढ़े\V-VM आउ\CC-CCD देखे\V-VM ले\V-VAUX मिलऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+हमन्हीं\PR-PRP साहितकारे\N-NN सउ\N-NN कह\V-VM दे\V-VAUX हिअइ\V-VM कि\CC-CCS –\N-NN ‘‘अजी,\PSP मगही\N-NN के\PSP अभी\N-NN फले-फूले\N-NN देहो,\N-NN मगही\N-NN के\PSP समृद्ध\N-NN होवे\V-VM देहो\V-VAUX ।\RD-PUNC 
+’’\PR-PRP तउ\N-NN ऐसन\DM-DMD फल-फूल\N-NN आउ\CC-CCD समृद्धि\N-NN कउन\PR-PRQ काम\N-NN के\PSP जेकरा\PR-PRL से\PSP साहित\N-NN साहिते\N-NN नञ्\V-VM रहइ\V-VAUX ?\RD-PUNC 
+समीक्षा\N-NN आउ\CC-CCD मंथन\N-NN के\PSP समय\N-NN अभिये\N-NN हे\V-VM -\RD-PUNC लिखे\V-VM देहो\V-VAUX नञ्\RD-PUNC .\V-VM 
+लिखे\V-VM लेल\V-VAUX सीखावे\V-VM के\PSP काम\N-NN भी\RP-RPD साहितकारे\N-NN के\PSP हइ\V-VM ।\RD-PUNC 
+कार्यशाला\N-NN चलावे\V-VM के,\V-VAUX गोष्ठी\N-NN में\PSP ई\DM-DMI बात\N-NN उठावे\V-VM के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+अउ\CC-CCD नञ्\V-VM होतइ\V-VAUX तऽ\CC-CCS कहिया\N-NN होतइ\V-VM ?\V-VAUX 
+अंत\N-NN में\PSP ईहे\V-VM करवइ\V-VAUX कि\CC-CCS लघुकथा\N-NN एगो\QT-QTC ‘पंच’\N-NN (प्रहार)\V-VM हइ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL कोय\PR-PRI बात\N-NN के\PSP दमदार\N-NN तरीका\N-NN से\PSP कहे\V-VM लेल\V-VAUX ‘पंचलाईन’\N-NN बनावल\V-VM जा\V-VAUX हे,\V-VAUX ओसहीं\RB लघुकथा\N-NN ‘पंच’\V-VM आउ\CC-CCD ‘कथा’\N-NN दोनों\N-NN के\PSP ऐसन\DM-DMD समिश्रण\N-NN हइ\V-VM जेकरा\PR-PRL से\PSP जबरदस्त\N-NN प्रहार\N-NN होवऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+(इतिहास\N-NN आउ\CC-CCD तथ्य\N-NN पत्र-पत्रिका\N-NN आउ\CC-CCD पुस्तक\N-NN के\PSP आधार\N-NN पर\PSP लिखल)\V-VM -संयोजक\V-VAUX हिन्दी\N-NN मगही\N-NN साहित्यिक\N-NN मंच\N-NN शब्द\N-NN साधक,\PSP हिसुआ\N-NN (नवादा)------------------------------------------------------------------------------------------------------------आलेख\N-NN मगही\N-NN लघुकथा\N-NN के\PSP विकास-यात्रा\N-NN वीरेंद्र\N-NN कुमार\N-NNP भारद्वाज\N-NN अदमी\N-NN के\PSP जलम\V-VM के\PSP साथ\PSP ही\RP-RPD कथा-कहानी\N-NN के\PSP जलम\V-VM होएल\V-VAUX ।\RD-PUNC 
+माय\N-NN अप्पन\PR-PRP बाल-बच्चा\N-NN के\PSP सुतावे\V-VM घड़ी\N-NN लोरी\N-NN गाके\V-VM सुनावऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+जउ\PR-PRL लइकन-फइकन\N-NN तनि\N-NN सरेख\N-NN हो\V-VM जा\V-VAUX हलन\V-VAUX तऽ\CC-CCS उनखा\N-NN खिस्सा\N-NN कहके\V-VM सुतावल\N-NN जा\V-VM हल\V-VAUX –\N-NN चान-तारा,\RD-PUNC राजा-रानी,\N-NN पंडित-जजमान,\N-NN भूत-प्रेत,\N-NN चोर\N-NN जइसन\RP-RPD बहुत\N-NN प्रकार\N-NN के\PSP खिस्सा-कहानी\N-NN ।\RD-PUNC 
+साथे-साथ\PSP घुघुआ\N-NN मना\N-NN घुमेरिया,\V-VM जय\V-VAUX कन्हइया\N-NN लाल\N-NN की,\PSP चंदा\V-VM मामा\N-NN दूर\N-NN के\PSP नियर\N-NN ढेर\QT-QTF मनी\N-NN गीत-गाना\N-NN भी\RP-RPD सुनावल\V-VM जा\V-VAUX हल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सउ\N-NN के\PSP मूल\N-NN में\PSP कथा\N-NN हल\V-VM ।\RD-PUNC 
+ई\DM-DMI तरह\RP-RPD से\PSP अदमी\N-NN के\PSP विकास\N-NN के\PSP साथे-साथ\PSP कथा\N-NN के\PSP भी\RP-RPD विकास\N-NN होएल\V-VM ।\RD-PUNC 
+एक्कर\V-VM सबसे\N-NN बड़गर\V-VM कारण\N-NN एकर\N-NN सरस\N-NN आउ\CC-CCD मनोरंजन\N-NN होना\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कथा-विधा\N-NN के\PSP लेल\V-VM आझ\N-NN भी\RP-RPD ई\DM-DMI एगो\QT-QTC आवश्यक\N-NN तत्व\N-NN के\PSP रूप\N-NN में\PSP मौजूद\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI कथा\N-NN से\PSP आगे\N-NN चलके\V-VM उपन्यास,\V-VAUX कहानी\N-NN आउ\CC-CCD लघुकथा\N-NN के\PSP जलम\N-NN भेल\V-VM ।\RD-PUNC 
+ई\DM-DMI तीनों\QT-QTC विधा\N-NN लगभग\V-VM समानांतर\N-NN चलल\V-VM ।\RD-PUNC 
+लघुकथा\N-NN संभवतः\N-NN अंग्रेजी\N-NN के\PSP ‘शॉर्ट\N-NN स्टोरी’\N-NN शब्द\N-NN के\PSP सीधा\N-NN अनुवाद\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI वस्तुतः\N-NN दृष्टांत\V-VM के\PSP रूप\N-NN में\PSP विकसित\N-NN होएल\V-VM हे\V-VAUX ।\RD-PUNC 
+ऐसन\DM-DMD दृष्टांत\N-NN मनुष्य\N-NN रूप\N-NN से\PSP नैतिक\N-NN आउ\CC-CCD धार्मिक\N-NN क्षेत्र\N-NN में\PSP देखे-पढ़े\V-VM ला\PSP मिलऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+पंचतंत्र,\N-NN हितोपदेश,\PSP जातककथा\N-NN इत्यादि\N-NN में\PSP हम\PR-PRP नैतिक\N-NN दृष्टांत\N-NN देख\V-VM सकली\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ऐसहीं\DM-DMD धार्मिक\N-NN दृष्टांत\N-NN के\PSP अंतर्गत\N-NN भी\RP-RPD लघुकथा\N-NN के\PSP अनेक\N-NN रूप\N-NN हमरा\PR-PRP देखे-सुने\V-VM ला\PSP मिल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI प्रकार\N-NN से\PSP हम\PR-PRP कह\V-VM सकली\V-VAUX हे\V-VAUX कि\CC-CCS पंचतंत्र,\N-NN हितोपदेश,\V-VM आउ\CC-CCD जातककथा\N-NN में\PSP लघुकथा\N-NN के\PSP बीज\N-NN पावल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+बाद\N-NN में\PSP आधुनिक\N-NN संदर्भ\N-NN में\PSP एकरा\DM-DMD में\PSP कुछ\QT-QTF खासियत\V-VM आउ\CC-CCD परिवर्तन\N-NN देखे\V-VM ला\PSP मिले\V-VM लगल\V-VAUX ।\RD-PUNC 
+प्रेमचंद,\N-NN जयशंकर\V-VM प्रसाद,\V-VAUX जैनेंद्र,\RD-PUNC अज्ञेय\N-NN जइसन\RP-RPD महान\N-NN कथाकार\N-NN लोग\N-NN ई\DM-DMI विधा\N-NN आउ\CC-CCD धारा\N-NN के\PSP एक\QT-QTC शक्तिशाली\N-NN गति\N-NN प्रदान\N-NN कएलन\V-VM ।\RD-PUNC 
+फिर\CC-CCD हम\PR-PRP सुदर्शन,\JJ कन्हैया\N-NN लाल\N-NN मिश्र\N-NN ‘प्रभाकर’\N-NN जइसन\RP-RPD रचनाकार\N-NN के\PSP कुछ\QT-QTF लघुकथा\N-NN के\PSP रख\V-VM सकली\N-NN हे\V-VAUX ।\RD-PUNC 
+पर\PSP एतना\QT-QTF होएला\N-NN पर\PSP भी\RP-RPD लघुकथा\N-NN एक\QT-QTC हाशिया\N-NN के\PSP ही\RP-RPD चीज\N-NN भर\N-NN देखल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पर\PSP आज\N-NN स्थिति\N-NN ऐसन\DM-DMD न\RP-NEG हे\V-VAUX ।\RD-PUNC 
+आज\N-NN लघुकथा\N-NN तमाम\N-NN परिधि\N-NN के\PSP तोड़के\V-VM एक\QT-QTC स्वतंत्र\N-NN आउ\CC-CCD सशक्त\N-NN विधा\N-NN के\PSP रूप\N-NN में\PSP साहित\N-NN जगत\N-NN में\PSP अप्पन\PR-PRP झंडा\N-NN फहरा\N-NN चुकल\V-VM हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD ई\DM-DMI स्थान\N-NN दिआवे\N-NN में\PSP भैरवनाथ\N-NN झा\N-NN ‘कैरव’\N-NN के\PSP उल्लेखनीय\N-NN हाथ\N-NN हे\V-VM ।\RD-PUNC 
+1942\N-NN ई.\N-NN में\PSP ‘हिन्दी\N-NN साहित्य\N-NN साधना\N-NN की\PSP पृष्ठभूमि’\N-NN नामक\N-NN पुस्तक\N-NN में\PSP कैरव\V-VM जी\N-NN लघुकथा\N-NN के\PSP रूढ़\N-NN अर्थ\N-NN में\PSP स्थिर\N-NN कएलन\V-VM कि\CC-CCS ‘‘लघुकथा\N-NN स्थूल\N-NN से\PSP सूक्ष्म\V-VM की\V-VAUX यात्रा\N-NN है\V-VAUX ।\RD-PUNC 
+’’\N-NN रचना\N-NN के\PSP दृष्टि\N-NN से\PSP लघुकथा\N-NN में\PSP भावना\N-NN के\PSP ओतना\N-NN महत्व\N-NN न\N-NN हे,\V-VM जेतना\PR-PRL कि\CC-CCS कोई\PR-PRI सत्य\N-NN के,\PSP कोई\PR-PRI विचार\N-NN के,\PSP विशेषकर\N-NN ओक्कर\N-NN सारांश\N-NN के\PSP महत्व\N-NN हे\V-VM ।\RD-PUNC 
+आझ\N-NN जे\PR-PRL लघुकथा\N-NN के\PSP शुद्ध,\V-VM मानक\N-NN आउ\CC-CCD मौलिक\N-NN स्वरूप\N-NN हे,\V-VM ओक्कर\N-NN खासियत\V-VM आउ\CC-CCD मान्यता\N-NN हे\V-VM कि\CC-CCS गागर\N-NN में\PSP सागर\N-NN भरना\N-NN ।\RD-PUNC 
+क्षिप्रता\N-NN सबसे\N-NN बड़ा\N-NN आवश्यक\V-VM तत्व\N-NN हे\V-VAUX ।\RD-PUNC 
+क्षण-विशेष\N-NN के\PSP घटना\N-NN के\PSP नाम\N-NN हे\V-VM लघुकथा\V-VAUX ।\RD-PUNC 
+एक\QT-QTC शब्द\N-NN भी\RP-RPD फाजिल\N-NN न\RP-NEG आवे\V-VM के\PSP चाही\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN शब्द\N-NN के\PSP कंजूस\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+एक\QT-QTC शब्द\N-NN के\PSP बचत\V-VM ला\PSP बार-बार\N-NN उद्योग\N-NN करऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+उपभोक्तावादी\N-NN युग\N-NN में\PSP तो\PR-PRL एक्कर\V-VM कंजूसी\N-NN महादान\N-NN के\PSP काम\N-NN करऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+लघुकथा\N-NN में\PSP अंतराल-दोष\N-NN भी\RP-RPD बड़का\N-NN दोष\N-NN मानल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD फ्लैश\N-NN बेक\N-NN से\PSP दूर\N-NN करल\V-VM जा\V-VAUX सकल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+हिंदी\N-NN के\PSP साथे-साथे\N-NN मगही,\V-VM मैथिली,\RD-PUNC भोजपुरी\N-NN जइसन\RP-RPD क्षेत्रीय\N-NN भाषा\N-NN में\PSP लघुकथा\N-NN के\PSP विकास\N-NN होएल\V-VM ।\RD-PUNC 
+क्षेत्रीय\N-NN भाषा\N-NN में\PSP लघुकथा\N-NN लिखे\V-VM के\PSP प्रचलन\V-VM लघुकथा\N-NN के\PSP लोकप्रियता\N-NN के\PSP कारण\N-NN ही\RP-RPD हो\V-VM सकल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पर\PSP क्षेत्रीय\N-NN भाषा\N-NN अभी\N-NN 80%\N-NN ही\RP-RPD लघुकथा\N-NN के\PSP मानक\V-VM स्वरूप\N-NN पर\PSP लघुकथा\N-NN लिख\V-VM रहलक\V-VAUX हे\V-VAUX ।\RD-PUNC 
+मगही\N-NN के\PSP भी\RP-RPD ईहे\V-VM दशा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आझ\N-NN मगही\N-NN में\PSP लघुकथा\N-NN लिखे\V-VM में\PSP जे-जे\V-VM हाथ\N-NN लगएल\V-VM हथ\V-VAUX ऊमें\N-NN से\PSP बहुते\N-NN ऐसन\DM-DMD रचनाकार\N-NN हथ\V-VM जिनका\N-NN से\PSP मानक\V-VM लघुकथा\N-NN न\RP-NEG लिखल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP मात्र\N-NN छोटा\JJ आकार-प्रकार\N-NN जान\N-NN के\PSP लघुकथा\N-NN के\PSP रचना\N-NN कर\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+एक्कर\V-VM सबसे\N-NN बड़का\N-NN कारण\N-NN ई\DM-DMI हे\V-VAUX कि\CC-CCS ऊ\PR-PRP लोग\N-NN मानक\V-VM लधुकथा\N-NN के\PSP अंदर\N-NN घुसे\V-VM के\PSP कोरसिस\N-NN नञ्\N-NN करऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+ओक्कर\N-NN आत्मा,\N-NN अस्तित्व\N-NN आ\V-VM असली\N-NN स्वरूप\N-NN के\PSP समझले\N-NN बिना\PSP मात्र\N-NN आकार-प्रकार\N-NN देख\V-VM के\PSP लघुकथा\N-NN लिख\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD दोसर\QT-QTO घाटा\N-NN ऊ\PR-PRP बात\N-NN ई\DM-DMI हो\V-VM रहलक\V-VAUX हे\V-VAUX कि\CC-CCS ढेर\QT-QTF मगहियन\N-NN रचनाकार\N-NN इनका\PR-PRP बड़ा\N-NN आउ\CC-CCD स्थापित\N-NN रचनाकार\N-NN मान\N-NN के\PSP इनकर\PR-PRP नकल\N-NN कर\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ओहीं\DM-DMD पर\PSP कुछ\QT-QTF ऐसन\DM-DMD रचनाकार\N-NN भी\RP-RPD मगही\N-NN भाषा\N-NN में\PSP लघुकथा\N-NN लिख\V-VM रहलन\V-VAUX हे,\V-VAUX जिनका\CC-CCS भले\N-NN लोग\N-NN बड़ा\N-NN न\RP-NEG समझथ,\V-VM बाकी\N-NN उनकर\PR-PRP लघुकथा\N-NN बिल्कुल\N-NN चुस्त-दुरूस्त\N-NN आउ\CC-CCD ठोस\N-NN हे,\PSP साथ\PSP ही\RP-RPD सब\QT-QTF तत्वन\N-NN के\PSP प्रमुखता\N-NN लेले\V-VM हे\V-VAUX ।\RD-PUNC 
+अइसन\RP-RPD जागरूक\V-VM आउ\CC-CCD सशक्त\N-NN मगही\N-NN लघुकथाकार\N-NN ऊहे\PSP लोग\N-NN हथ\V-VM जे\PR-PRL प्रायः\N-NN हिंदी\N-NN में\PSP भी\RP-RPD अच्छा\N-NN लघुकथा\N-NN लिख\V-VM रहलन\V-VAUX हे\V-VAUX आउ\CC-CCD अप्पन\PR-PRP पहचान\N-NN बनएले\V-VM हका\V-VAUX ।\RD-PUNC 
+मगही\N-NN लघुकथा\N-NN लेखन\N-NN में\PSP शुरूआत\N-NN हिंदी\N-NN लघुकथा\N-NN के\PSP देखा-देखी\N-NN से\PSP भेल\V-VM हल\V-VAUX ।\RD-PUNC 
+जइसे-जइसे\PR-PRL हिंदी\N-NN लघुकथा\N-NN जोर\N-NN पकड़ित\V-VM गेल,\V-VAUX ओइसे-ओइसे\N-NN मगही\N-NN में\PSP भी\RP-RPD लघुकथा\N-NN लिखे\V-VM में\PSP तीव्रता\N-NN आवे\V-VM लगल\V-VAUX ।\RD-PUNC 
+कय\V-VM गो\RP-CL छोटगर-बड़गर\JJ रचनाकार\N-NN लघुकथा\N-NN लिखे\V-VM लगलन\V-VAUX ।\RD-PUNC 
+मगही\N-NN पत्र-पत्रिका\N-NN में\PSP लघुकथा\N-NN छपे\V-VM लगल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI पत्र-पत्रिका\N-NN में\PSP ‘विहान’,\V-VM ‘अलका\V-VAUX मागधी’,\RD-PUNC ‘टोला-टाटी’,\V-VAUX ‘पाटलि’\V-VAUX आउ\CC-CCD ‘मगही\N-NN पत्रिका’\N-NN मुख्य\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI में\PSP छप्पल\N-NN देख\V-VM के\PSP लघु\N-NN कथाकार\N-NN लोगन\N-NN के\PSP आउ\CC-CCD हौसला\N-NN बढ़ल\N-NN आउ\CC-CCD लघुकथा\N-NN लिखे\V-VM के\PSP गति\N-NN बढ़ा\V-VM देलन\V-VAUX ।\RD-PUNC 
+फिर\CC-CCD रेडियो\N-NN आउ\CC-CCD टेलीविजन\N-NN में\PSP भी\RP-RPD लघुकथा\N-NN के\PSP लेके\V-VM भाग्य\N-NN आजमाईश\N-NN कएलन\V-VM ।\RD-PUNC 
+उनका\PR-PRP रेडियो\N-NN आ\V-VM टी.वी.\N-NN दुन्नो\QT-QTC में\PSP मौका\N-NN मिलल\V-VM ।\RD-PUNC 
+अभी\N-NN तक\RP-RPD रेडियो\N-NN आ\V-VM टेलीविजन\N-NN से\PSP भी\RP-RPD ढेर\N-NN मनी\N-NN लघुकथा\N-NN आउ\CC-CCD लघुकथा\N-NN संदर्भ-विषयक\N-NN वार्ता\N-NN आदि\N-NN प्रसारित\N-NN भेल\V-VM हे\V-VAUX आ\V-VAUX निरंतर\N-NN जारी\N-NN हे\V-VM ।\RD-PUNC 
+दू-तीन\QT-QTC गो\RP-CL संपादित\N-NN पुस्तक\V-VM भी\RP-RPD लघुकथा\N-NN में\PSP आके\V-VM मगही\N-NN लघुकथा\N-NN के\PSP इतिहास\N-NN में\PSP बड़का\N-NN अध्याय\N-NN जोड़ल\V-VM हे\V-VAUX ।\RD-PUNC 
+इमें,\DM-DMD ‘लघुकथा\N-NN छतीसी’\N-NN ,धरोहर\N-NN मुख्य\N-NN हे\V-VM ।\RD-PUNC 
+जइसन\RP-RPD कि\CC-CCS नाम\N-NN से\PSP स्पष्ट\N-NN हे\V-VM कि\CC-CCS इमें\N-NN छत्तीस\N-NN लघुकथा\N-NN हे\V-VM ।\RD-PUNC 
+एक्कर\V-VM संपादन,\PSP अलका\N-NN मागधी\N-NN के\PSP संपादक\N-NN डॉ.\V-VM अभिमन्यु\N-NN प्रसाद\N-NNP मौर्य\N-NN आउ\CC-CCD डॉ.\N-NN उमाशंकर\N-NN सिंह\N-NNP कएलन\V-VM हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI 1998\N-NN ई.\V-VM में\PSP छप्पल\N-NN ।\RD-PUNC 
+फिर\CC-CCD उहे\N-NN साल\N-NN संजीव\N-NN कुमार\N-NN तिवारी\N-NN के\PSP संपादन\N-NN में\PSP ‘धरोहर’\N-NN लघुकथा\N-NN संग्रह\N-NN छप्पल\N-NN ।\RD-PUNC 
+ई\DM-DMI सब\QT-QTF सामूहिक\N-NN संग्रह\N-NN आ\V-VM संपादन\N-NN के\PSP बाद\N-NN एक-दू\N-NN गो\RP-CL व्यक्तित्व\N-NN संग्रह\N-NN भी\RP-RPD छप्पल\N-NN हे\V-VAUX आ\V-VM कइएक\V-VAUX गो\RP-CL छपे\N-NN छपे\V-VM के\PSP तइयारी\N-NN में\PSP हे\V-VM ।\RD-PUNC 
+मगही\N-NN लघुकथा\N-NN के\PSP विकास\N-NN में\PSP अलका\N-NN मागधी\N-NN बढ़-चढ़\N-NN के\PSP हिस्सा\N-NN ले\V-VM रहलक\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI अप्पन\PR-PRP प्रायः\N-NN हरेक\N-NN अंक\N-NN में\PSP तो\PR-PRL लघुकथा\N-NN छापबे\N-NN करऽ\V-VM हे,\V-VAUX साल\N-NN में\PSP एक\QT-QTC बार\N-NN लघुकथा-विशेषांक\N-NN भी\RP-RPD निकालऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+अखिल\N-NN भारतीय\N-NN प्रगतिशील\N-NN लघुकथा\N-NN मंच,\PSP पटना\N-NN 24\JJ साल\N-NN से\PSP पूरे\N-NN देश\N-NN में\PSP लघुकथा\N-NN के\PSP एकमात्र\N-NN सबसे\N-NN बड़का\N-NN मंच\V-VM हे\V-VAUX ।\RD-PUNC 
+हर\N-NN साल\N-NN ई\DM-DMI मंच\N-NN एगो\QT-QTC देश\N-NN विख्यात\N-NN सम्मेलन\V-VM करवावऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पूरे\N-NN देश\N-NN के\PSP लघुकथा\N-NN लेखक\V-VM समीक्षक\N-NN पधारऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+एक्कर\N-NN जब\PR-PRL से\PSP हम(वीरेंद्र\PR-PRP कुमार\N-NNP भारद्वाज)\V-VM साहित्य\N-NN सचिव\N-NN होलूं\V-VM हे,\V-VAUX तब\PR-PRL से\PSP अभिमन्यु\N-NN प्रसाद\N-NN मौर्य\N-NN से\PSP विशेषांक\N-NN निकाले\V-VM लेल\V-VAUX आग्रह\N-NN करऽ\V-VM ही\V-VAUX आउ\CC-CCD मौर्य\N-NN जी\N-NN बहुत\N-NN ही\RP-RPD हंसी-खुशी\N-NN आउ\CC-CCD दिलचस्पी\N-NN से\PSP लघुकथा-विशेषांक\N-NN निकालऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सम्मेलन\V-VM के\PSP अवसर\N-NN पर\PSP नामी-गिरामी\N-NN साहित्यकार\N-NN से\PSP लोकार्पण\N-NN करबावल\V-VM जाहे\V-VAUX आउ\CC-CCD सब\QT-QTF में\PSP एक-एक\QT-QTC प्रति\N-NN बांटल\N-NN जा\V-VM हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI प्रकार\N-NN से\PSP पूरे\N-NN देश\N-NN के\PSP नामी-गिरामी\N-NN लघुकथाकार,\V-VM कहानीकार,\V-VAUX कवि,\N-NN समीक्षक\N-NN के\PSP हाथ\N-NN में\PSP अलका\N-NN मागधी\N-NN के\PSP लघुकथा-विशेषांक\V-VM जाहे\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP पर\PSP लोग\N-NN अप्पन\PR-PRP विचार\N-NN भी\RP-RPD भेजऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI में\PSP देश-विदेश\N-NN के\PSP प्रमुख\N-NN रचनाकार\N-NN के\PSP लघुकथा\N-NN के\PSP मगही\N-NN रूपांतर\N-NN भी\RP-RPD होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+एक्कर\QT-QTC अलावे\V-VM कइएक\V-VAUX गो\RP-CL ऐसन\DM-DMD हिंदी\N-NN पत्र-पत्रिका\PSP हथ,\V-VM जो\RP-RPD मगही\N-NN लघुकथा\N-NN के\PSP भी\RP-RPD महत्वपूर्ण\N-NN स्थान\N-NN देवऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+धनंजय\N-NN श्रोत्रिय\N-NN के\PSP संपादन\N-NN में\PSP दिल्ली\N-NNP से\PSP निकसल\N-NN ‘मगही-पत्रिका’\N-NN में\PSP कय\V-VM गो\RP-CL रचनाकार\N-NN के\PSP लघुकथा\N-NN छपे\N-NN लगल\V-VM एकरा\DM-DMD से\PSP लघुकथा\N-NN के\PSP स्वरूप\N-NN देशव्यापी\N-NN होवे\V-VM के\PSP आशा\N-NN जगल\N-NN ।\RD-PUNC 
+रेडियो\N-NN आउ\CC-CCD टेलीविजन\N-NN मागधी\N-NN आउ\CC-CCD क्षेत्रीय\N-NN कार्यक्रम\N-NN के\PSP तहत\N-NN लघुकथा\N-NN आउ\CC-CCD लघुकथा-वार्ता\N-NN प्रसारित\N-NN करबएबे\V-VM करऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+नालंदा\N-NN खुला\V-VM विश्वविद्यालय\N-NN जइसन\RP-RPD कुछेक\N-NN शिक्षण\N-NN संस्थान\N-NN में\PSP लघुकथा\N-NN अप्पन\PR-PRP अधिकार\N-NN जमएले\V-VM हे\V-VAUX ।\RD-PUNC 
+ईहां\DM-DMD पाठ्यक्रम\N-NN में\PSP लघुकथा\N-NN भी\RP-RPD पढ़ावल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI तरह\RP-RPD से\PSP मगही\N-NN लघुकथा\N-NN आझ\N-NN तक\RP-RPD अप्पन\PR-PRP ईहां\DM-DMD तक\RP-RPD के\PSP यात्रा\N-NN तय\N-NN कएलक\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI यात्रा\N-NN बहुत\RP-INTF छोटगर\JJ यात्रा\N-NN हे\V-VM ।\RD-PUNC 
+मगही\N-NN कथाकार\N-NN के\PSP ई\DM-DMI यात्रा\N-NN के\PSP रफ्तार\N-NN देवे\V-VM के\PSP जरूरत\N-NN हे\V-VM ।\RD-PUNC 
+मगही\N-NN लघुकथाकार\N-NN आ\V-VM कहानीकार\N-NN में\PSP ई\DM-DMI दम\N-NN हे\V-VM ई\DM-DMI तऽ\CC-CCS स्पष्टे\N-NN हइ\V-VM ।\RD-PUNC 
+मगही\N-NN लघुकथा\N-NN के\PSP भी\RP-RPD अपार\N-NN भविष्य\V-VM हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD ला\PSP हिन्दी\N-NN जइसन\RP-RPD सशक्त\N-NN भाषा\N-NN के\PSP लघुकथा\N-NN के\PSP चिंतन-मनन\N-NN आ\V-VM अनुपालन\V-VAUX के\PSP जरूरत\N-NN हे\V-VM ।\RD-PUNC 
+-खजुरी,\CC-CCD नौबतपुर,\PR-PRP पटना----------------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN अतिथि\N-NN मिथिलेश\N-NN झा\N-NN जी\N-NN के\PSP बाजारे\N-NN में\PSP जानकारी\N-NN हो\V-VM गेल\V-VAUX कि\CC-CCS घर\N-NN पर\PSP एगो\QT-QTC अतिथि\N-NN अइलन\V-VM हे\V-VAUX ।\RD-PUNC 
+स्वभाव\N-NN से\PSP तुनुकमिजाजी\N-NN कखने\N-NN चल\V-VM जइतन\V-VAUX ।\RD-PUNC 
+छहे-छमाहे\N-NN भूलल-भटकल\N-NN दर्शन\N-NN देवे\V-VM आवऽ\V-VAUX हथुन\V-VAUX आउ\CC-CCD बिना\N-NN कहले\V-VM उठ-पुठ\V-VAUX के\PSP चल\V-VM दे\V-VAUX हथुन\V-VAUX ।\RD-PUNC 
+झा\N-NN जी\N-NN सोंचलन\V-VM –\N-NN ‘‘जल्दी\N-NN काम\N-NN सलटा\N-NN लेही\V-VM ।\RD-PUNC 
+लपकल\V-VM जाम\N-NN तऽ\CC-CCS दस-पांच\N-NN मिलिट\V-VM में\PSP तऽ\CC-CCS राम-सलाम\N-NN होइये\V-VM जात\V-VAUX ।\RD-PUNC 
+’’\N-NN उनखर\PR-PRP चाल\N-NN तेज\JJ हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+अइसे\N-NN ऊ\PR-PRP शहर\N-NN में\PSP कछुआ\N-NN चाल\N-NN चले\N-NN में\PSP बाजी\N-NN मारले\V-VM हथ\V-VAUX ।\RD-PUNC 
+लोग\N-NN बाग\N-NN उनखर\N-NN फुर-फुर\N-NN उड़इत\V-VM देख\V-VM अकचकइलन,\CC-CCS ‘‘\N-NN जरूर\RB कोय\PR-PRI बात\N-NN हे\V-VAUX ।\RD-PUNC 
+झा\N-NN जी\N-NN तो\PR-PRL गैंठ\N-NNP कलौआ\N-NN मधुरी\N-NN चाल\N-NN बला\N-NN सिद्धांतवादी\N-NN हथ\V-VM ।\RD-PUNC 
+आज\N-NN की\PR-PRQ बात\N-NN हे\V-VAUX कि\CC-CCS सिद्धांत\N-NN ताखा\N-NN पर\PSP धर\V-VM अइला\V-VAUX ?\RD-PUNC 
+’’\N-NN झा\N-NN जी\N-NN के\PSP बड़की\N-NN पोती\N-NN ‘बाल\N-NN हंस’\N-NN पत्रिका\N-NN ले\V-VM एक\QT-QTC पहरे\N-NN से\PSP घेराव\N-NN कइले\V-VM हल\V-VAUX ।\RD-PUNC 
+ओकर\PR-PRP जबरदस्त\N-NN घिरकौनी\N-NN हल,\V-VM ‘‘\V-VAUX आज\N-NN नञ्\N-NN ला\PSP देबहो\V-VM तऽ\CC-CCS लिखे-पढ़े\V-VM नञ्\RP-NEG देबो\V-VM ।\RD-PUNC 
+’’\N-NN झा\N-NN जी\N-NN बाल\N-NN हथ\V-VM के\PSP फेरा\N-NN में\PSP फंस\V-VM गेला\V-VAUX ।\RD-PUNC 
+जे\PR-PRL केकरो\PR-PRI से\PSP पराजित\N-NN नञ्\N-NN होवऽ\V-VM हे\V-VAUX ऊ\PR-PRP बुतरू\N-NN से\PSP .\V-VM 
+इनखो\N-NN ऊहे\PSP हाल\N-NN हल\V-VM ।\RD-PUNC 
+झुंझलाइत\N-NN झुक\V-VM गेला\V-VAUX ।\RD-PUNC 
+टेबुल\N-NN पर\PSP ‘गुदरी\N-NN के\PSP लाल\N-NN मेवालाल’\N-NN उपन्यास\N-NN के\PSP अधलिखल\N-NN पांडुलिपि\N-NN दने\N-NN हिया\N-NN हारल\N-NN सन\N-NN ताकलका\N-NN अउ\CC-CCD अंगा\N-NN पेन्ह\V-VM के\V-VAUX छेड़ी\N-NN उठैलका\V-VM ।\RD-PUNC 
+छोटकी\JJ पोती\N-NN के\PSP भनक\N-NN लग\V-VM गेल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP भी\RP-RPD आल\V-VM अउ\CC-CCD डट\N-NN के\PSP कहलक,\V-VM ‘‘हमरा\PR-PRP ले\V-VM टौफी\N-NN लेले\V-VM अइहा\V-VAUX .\V-VM 
+बेस\N-NN ।\RD-PUNC 
+’’\N-NN पत्रिका\N-NN के\PSP गुमटी\N-NN घुर\V-VM दखिनी\N-NN छोर\N-NN पर\PSP हल\V-VM ।\RD-PUNC 
+ऊ\PR-PRP रपरपाल\N-NN चलल\V-VM जा\V-VAUX रहला\V-VAUX हल\V-VAUX ।\RD-PUNC 
+बुढ़ारी\N-NN के\PSP टंगरी\N-NN ।\RD-PUNC 
+डगमग\N-NN दाहा\N-NN नियन\RP-RPD दोलल\V-VM चलल\V-VAUX जा\V-VAUX रहला\V-VAUX हल\V-VAUX बजार\N-NN में\PSP तमाशा\N-NN बनल\V-VM ।\RD-PUNC 
+पहुंचते\V-VM खाली\QT-QTF पत्रिका\N-NN लेलका\V-VM अउ\CC-CCD अपना\PR-PRF ले\V-VAUX खलिया\N-NN चुनौटी\N-NN में\PSP खैनी\N-NN वला\N-NN से\PSP चूना\N-NN भरा\N-NN के\PSP छो\V-VM महीना\N-NN वला\N-NN गोरछनी\N-NN के\PSP रस्ता\N-NN धरलका\V-VM ।\RD-PUNC 
+घूम-घूमौआ\V-VM जिलेबिया\N-NN गली\N-NN से\PSP पार\N-NN करइ\V-VM में\PSP जगहे-जगहे\N-NN ठोकर\N-NN मिले\V-VM .\PSP 
+उठल-बैठल\V-VM जन्नी-मरदाना,\RD-PUNC ढिल्ला\N-NN हेराबइत\V-VM बुढ़िया,\RD-PUNC कित-कित\N-NN केलइत\V-VM कमसिन\N-NN लड़की\N-NN ।\RD-PUNC 
+हद\N-NN तो\PR-PRL तब\PR-PRL होवे,\V-VM जउ\DM-DMR बैडमिंटन\N-NN से\PSP लेके\V-VM किरकेट\N-NN के\PSP प्लास्चिक\N-NN बला\N-NN बल्ला\N-NN भांजइत\V-VM खेलाड़ी\N-NN के\PSP झुंड\N-NN मिल\V-VM जाए\V-VAUX ।\RD-PUNC 
+उनखर\PR-PRP चाल\N-NN सौंसे\PSP गली\N-NN में\PSP बरदभुतवा\N-NN भे\V-VM गेल\V-VAUX ।\RD-PUNC 
+अंतिम\N-NN कसर\N-NN मोड़\N-NN पर\PSP एगो\QT-QTC आरूनी\N-NN भक्त\V-VM चेला\N-NN निकास\V-VM देलक\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP सत्कार\N-NN में\PSP चाह\N-NN पीअइ\V-VM के\PSP आगरह\N-NN करऽ\V-VM लगल\V-VAUX ।\RD-PUNC 
+झा\N-NN जी\N-NN अतिथि\N-NN के\PSP सुमरनी\N-NN फेर\N-NN के\PSP फुर्रत\N-NN लेलका\V-VM अउ\CC-CCD आगू\N-NN बढ़\V-VM गेला\V-VAUX ।\RD-PUNC 
+फेन\N-NN के\PSP घुर\V-VM के\V-VAUX बजार\N-NN जाए\V-VM में\PSP कहंइ\V-VM अतिथि\N-NN बिदक\N-NN के\PSP चल\V-VM नञ्\V-VAUX देथ,\V-VAUX ऊ\PR-PRP छो-पांच\N-NN करऽ\V-VM लगला\V-VAUX ।\RD-PUNC 
+याद\N-NN पड़ल\V-VM घर\N-NN भिर\N-NN बला\N-NN टुटपुंजिया\V-VM खिचड़ी\N-NN फरोस\N-NN के\PSP दोकान\N-NN ।\RD-PUNC 
+ऊ\PR-PRP भी\RP-RPD सस्तउआ\N-NN मुसहरी\N-NN लायक\RP-RPD सौदा\N-NN रखऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+सोंचलका,\V-VM चौकलेट\N-NN नञ्\V-VM तऽ\CC-CCS लेमूचूस\V-VM तऽ\CC-CCS होइए\N-NN जात\N-NN .\V-VM 
+ओज्जइ\N-NN ले\V-VM लेम\V-VAUX ।\RD-PUNC 
+झा\N-NN जी\N-NN के\PSP धिरजा\N-NN अउ\CC-CCD गोड़\N-NN में\PSP घिरनी\N-NN लगि\V-VM गेल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP फेन\V-VM सनसनाल\N-NN छेंड़ी\N-NN टेकइत\V-VM आगू\N-NN बढ़ला\V-VM ।\RD-PUNC 
+दोकान\N-NN भिजुन\PSP संझौकी\N-NN भीड़\V-VM हल\V-VAUX ।\RD-PUNC 
+मजूर\N-NN ईहे\PSP बेला\N-NN तऽ\CC-CCS नोन-तेल\N-NN खरीदे\V-VM जुटऽ\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ओजा\N-NN एगो\QT-QTC परिचित\N-NN मिल\V-VM गेला\V-VAUX ।\RD-PUNC 
+ऊहो\PR-PRL पांच\QT-QTC मिलिट\N-NN लेइये\V-VM के\PSP दम\N-NN लेलका\V-VM ।\RD-PUNC 
+मन\N-NN मसोस\N-NN के\PSP छुट्टी\N-NN लेलका\V-VM अउ\CC-CCD लमूचूस\N-NN के\PSP साथ\PSP धरमदंड\N-NN में\PSP एगो\QT-QTC पारले\N-NN जी\N-NN लेके\V-VM घर\N-NN दने\N-NN सोझिअइला\V-VM ।\RD-PUNC 
+दुन्नूं\N-NN पोती\N-NN सड़क\N-NN पर\PSP बाबा\N-NN के\PSP रस्ता\N-NN देख\V-VM रहलन\V-VAUX हल\V-VAUX ।\RD-PUNC 
+दुन्नूं\N-NN देकते\V-VM मातर\N-NN दौड़\N-NN पड़\N-NN अउ\CC-CCD अप्पन-अप्पन\N-NN मनबांछित\N-NN पाके\V-VM फुदकल\N-NN इनखा\N-NN से\PSP पहिलइ\N-NN घर\N-NN के\PSP दरबाजा\N-NN लांधलक\V-VM ।\RD-PUNC 
+झा\N-NN जी\N-NN भी\RP-RPD पिठिअइलो\V-VM घिसियाल\N-NN दुआरी\N-NN भिजुन\PSP पहुंचला\V-VM कि\CC-CCS तुनुकमिजाजी\N-NN अतिथि\N-NN अलोफ\N-NN भे\V-VM गेल\V-VAUX ।\RD-PUNC 
+झा\N-NN जी\N-NN अवाक्\N-NN ऊ\PR-PRP घरनी\N-NN के\PSP आवाज\N-NN देलका,‘‘\V-VM तनी\QT-QTF चोरबतिया\N-NN देखइहा\V-VM ।\RD-PUNC 
+’’\N-NN घरनी\N-NN अतिथि\N-NN पर\PSP भुनभुनाइत\V-VM –\N-NN ‘जरलाही\N-NN आल\V-VM हल\V-VAUX काहे\CC-CCS लेल,\V-VM कते\N-NN सिहाल\N-NN नियन\RP-RPD सोंचलू\N-NN हल\V-VM आझ\N-NN आल\V-VM हऽ\V-VAUX तऽ\CC-CCS रहत\V-VM पर\PSP ओहे\N-NN हाल\N-NN .\V-VM 
+’झा\N-NN जी\N-NN कि\CC-CCS कहता\N-NN हल\V-VM ?\RD-PUNC 
+जे\PR-PRL बिजुली\N-NN अतिथि\N-NN लेल\V-VM ऊ\PR-PRP घड़फड़ाल\N-NN घर\N-NN आ\V-VM रहला\V-VAUX हल\V-VAUX ऊ\PR-PRP तो\PR-PRL बिना\N-NN उनखा\N-NN से\PSP राम\N-NN सलाम\N-NN कइले\V-VM चल\V-VM गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+-अखिल\N-NN भारतीय\N-NN मगही\N-NN मंडप\N-NN वारिसलीगंज,\N-NN नवादा----------------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN सफाई\N-NN के\PSP असर\N-NN डॉ.\V-VM सी.\N-NN रा.\N-NN प्रसाद\N-NNP राजधानी\N-NN नाम\N-NN के\PSP रह\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+सगरो\RB गंदगी\N-NN भरल\V-VM हे\V-VAUX ।\RD-PUNC 
+दस\QT-QTC बजे\N-NN दिनो\QT-QTC में\PSP रोड\N-NN किनारे\N-NN लोग\N-NN झाड़ा\N-NN फिरइत\V-VM देखल\V-VM जा\V-VAUX सकऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+पेशाबखाना\N-NN पखाना\N-NN जहाँ-तहाँ\N-NN बनल\V-VM हे,\V-VAUX लेकिन\CC-CCD ओहू\PR-PRP में\PSP एतना\QT-QTF गंदगी\N-NN कि\CC-CCS नाक\N-NN फट\V-VM जाय\V-VAUX ।\RD-PUNC 
+करमचारी\N-NN के\PSP वेतन\N-NN देवे\V-VM ला\PSP निगम\N-NN आउ\CC-CCD सरकार\N-NN के\PSP पास\N-NN का\PR-PRQ तो\PR-PRL पइसे\V-VM न\RP-NEG हे\V-VAUX ।\RD-PUNC 
+एगो\QT-QTC घर\N-NN के\PSP बगल\N-NN में\PSP लोग\N-NN पेशाब\N-NN कर\V-VM दे\V-VAUX हलन\V-VAUX ।\RD-PUNC 
+एक\QT-QTC दिन\N-NN मकान\N-NN मालिक\N-NN उहाँ\DM-DMD लिख\V-VM देलन\V-VAUX -\RD-PUNC "भाई\N-NN लोग\N-NN !\V-VM 
+ईहां\DM-DMD पेशाब\N-NN न\RP-NEG करल\V-VM जाय\V-VAUX ।\RD-PUNC 
+"बाकि\CC-CCD केकरो\PR-PRI पर\PSP कोई\PR-PRI असर\N-NN न\RP-NEG होवल\V-VM ।\RD-PUNC 
+तब\PR-PRL ऊहां\DM-DMD लिखायल\V-VM -\RD-PUNC "ईहां\N-NN पेशाब\N-NN करे\V-VM वला\PSP दंड-जुर्माना\N-NN के\PSP भागी\V-VM होयतन\V-VAUX ।\RD-PUNC 
+"तइयो\CC-CCD कोई\PR-PRI फरक\N-NN न\RP-NEG पड़ल\V-VM ।\RD-PUNC 
+एन्ने-ओन्ने\N-NN ताकइत\V-VM नजर\N-NN बचा\N-NN के\PSP लोग\N-NN उहईं\DM-DMD पेशाब\N-NN करिये\V-VM दे\V-VAUX हलन\V-VAUX ।\RD-PUNC 
+पेशाब\N-NN से\PSP देवाल\N-NN के\PSP नीचे\N-NN के\PSP मट्टी\N-NN राख-पतवार\N-NN गीला\N-NN रहे\V-VM लगल\V-VAUX ।\RD-PUNC 
+सड़न\N-NN से\PSP बदबू\N-NN दूर-दूर\N-NN तक\RP-RPD फैले\V-VM लगल\V-VAUX ।\RD-PUNC 
+मकान\N-NN मालिक\N-NN के\PSP कै\V-VM गो\RP-CL से\PSP बाता-बाती,\N-NN गाली-गलौज\N-NN तक\RP-RPD हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP खिसिया\N-NN के\PSP लिखवयलन\V-VM –‘‘'देखऽ\V-VAUX गदहा\N-NN मूतइत\V-VM हवऽ\V-VAUX !\RD-PUNC 
+"तबो\N-NN जोर\N-NN से\PSP लगला\V-VM पर\PSP रहगीर\N-NN उहईं\DM-DMD पेशाब\N-NN करे\V-VM से\PSP बाज\N-NN न\RP-NEG आवइत\V-VM हलन\V-VAUX आउ\CC-CCD लिखलका\V-VM के\PSP अनदेखा\N-NN कर\V-VM दे\V-VAUX हलन\V-VAUX ।\RD-PUNC 
+तब\PR-PRL मकान\N-NN मालिक\N-NN एगो\QT-QTC गमकल\N-NN गारी\N-NN लिख\V-VM देलन\V-VAUX -\RD-PUNC "अरे\V-VM मादर\N-NN .\V-VM 
+गदहा\N-NN !\PSP 
+ईहां\DM-DMD मत\RP-NEG मूत\V-VM ।\RD-PUNC 
+"काहे\CC-CCS ला\PSP कउनो\N-NN पर\PSP असर\N-NN पड़ो\V-VM ।\RD-PUNC 
+पेशाब-पखाना\N-NN रोकल\V-VM जा\V-VAUX सकऽ\V-VAUX हे\V-VAUX ?\RD-PUNC 
+कुत्ता\N-NN सूअर\N-NN अइसन\RP-RPD लोग\N-NN ओहीं\DM-DMD पर\PSP पनढार\N-NN करते\V-VM रहलन\V-VAUX ।\RD-PUNC 
+काहे\CC-CCS कि\CC-CCS ऊहां\DM-DMD कूड़ा-कचरा,\PSP फट्टल\N-NN प्लास्टिक\N-NN से\PSP गंदगी\N-NN के\PSP अम्बार\N-NN लगल\V-VM रहऽ\V-VAUX हल\V-VAUX ।\RD-PUNC 
+एक\QT-QTC दिन\N-NN मकान\N-NN मालिक\N-NN के\PSP का\PR-PRQ मन\N-NN में\PSP आयल\V-VM कि\CC-CCS ऊ\PR-PRP सब\QT-QTF लिखल\V-VM मेटवा\N-NN देलन\V-VM ।\RD-PUNC 
+कूड़ा-कचरा\N-NN बाहर\N-NN फेंकवा\V-VM देलन\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP जगह\N-NN के\PSP साफ-सुथरा\N-NN कराके\V-VM मट्टी\N-NN भरवा\V-VM के\PSP लीप-पोत\V-VM के\PSP सुन्दर\N-NN बना\V-VM देलन\V-VAUX ।\RD-PUNC 
+उहाँ\DM-DMD दस\QT-QTC गो\RP-CL मट्टी\N-NN के\PSP गमला\N-NN में\PSP फूल\N-NN लगवा\V-VM के\PSP सजवा\N-NN देलन\V-VM ।\RD-PUNC 
+नया-नया\N-NN ईंटा,\PSP चूना\N-NN से\PSP लाइनिंग\N-NN करवा\V-VM देलन\V-VAUX ।\RD-PUNC 
+अब\N-NN उहाँ\DM-DMD फूल\N-NN के\PSP खुशबू\N-NN फैल\N-NN गेल\V-VM हे,\V-VAUX तुलसी\N-NN के\PSP पौधा\N-NN लग\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+सफाई\N-NN के\PSP अइसन\RP-RPD असर\N-NN होल\V-VM कि\CC-CCS अब\N-NN एक्को\QT-QTC अदमी\N-NN ऊहां\PR-PRL पेशाब\N-NN करे\V-VM के\PSP हिम्मत\N-NN न\RP-NEG करऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+-रूकनपुरा,\CC-CCD पटना----------------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN पवन\N-NN तनय\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथा१\N-NN .\V-VM 
+काल\V-VM चक्र\N-NN ‘तूं\PSP लउट\V-VM जो\RP-RPD देवी\N-NNP !\RP-RPD 
+’‘नऽ,\V-VM हरगिज\N-NN नऽ\RP-NEG ।\RD-PUNC 
+हम\PR-PRP बिना\PSP अप्पन\PR-PRP पति\N-NN के\PSP लेले\V-VM लउटहीं\V-VAUX न\RP-NEG सकली\V-VM हे\V-VAUX ।\RD-PUNC 
+’‘\N-NN ई\DM-DMI संभव\N-NN न\RP-NEG हउ\V-VM देवी\V-VAUX !\RD-PUNC 
+इलेल\N-NN तूं\PR-PRP लउट\V-VM जो\V-VAUX !\RD-PUNC 
+’‘\N-NN असंभव\N-NN के\PSP संभव\N-NN कर\V-VM देखानी\N-NN नारी\N-NN ला\PSP मोशकिल\N-NN न\RP-NEG हे\V-VM ।\RD-PUNC 
+तूं\N-NN न\RP-NEG जाने\V-VM हें\V-VAUX कि\CC-CCS हम\PR-PRP सावित्री\N-NN ही\V-VM ।\RD-PUNC 
+यमराज\N-NN भिर\N-NN से\PSP अप्पन\PR-PRP पति\N-NN के\PSP लउटा\N-NN लइली\V-VM हल\V-VAUX ।\RD-PUNC 
+तूं\N-NN तो\PR-PRL एगो\QT-QTC इंसान\N-NN हें\V-VM ।\RD-PUNC 
+तोरा\PR-PRP से\PSP कउन\PR-PRQ डर\N-NN हे\V-VM ?\RD-PUNC 
+’‘तोर\N-NN पति\N-NN के\PSP जिंदगी\N-NN अब\N-NN तोर\PR-PRP हाथ\N-NN में\PSP न\RP-NEG हउ\V-VAUX सती\N-NN नार\N-NN !\PSP 
+अब\N-NN एकरा\DM-DMD बचा\N-NN सकलउ\V-VM बे\V-VAUX खाली\QT-QTF इहां\N-NN के\PSP पतित\N-NN सरकार\N-NN ।\RD-PUNC 
+हम\PR-PRP यमराज\N-NN न\RP-NEG ही\RP-RPD कि\CC-CCS भावना\N-NN में\PSP बहके\V-VM वचन\N-NN में\PSP बंध\V-VM जायम\V-VAUX ।\RD-PUNC 
+हम\PR-PRP किडनैपर\PR-PRP ही,\V-VM एही\DM-DMD से\PSP एकरा\DM-DMD मार\V-VM के\V-VAUX इहां\N-NN अप्पन\PR-PRP आंतक\N-NN छोड़\V-VM जायम\V-VAUX ।\RD-PUNC 
+समझले\V-VM ?\RD-PUNC 
+’२\N-NN .\V-VM 
+उपभोक्ता\N-NN ऊंट\PSP पूछलक\V-VM कछुआ\N-NN से\PSP ‘पीठ\N-NN पर\PSP कउची\PR-PRQ अलगयले\N-NN चलइत\V-VM हें\V-VAUX ?\RD-PUNC 
+’‘\N-NN ई\DM-DMI में\PSP पानी\N-NN हे\V-VM ।\RD-PUNC 
+पोखरा\N-NN में\PSP पैरइत-पैरइत\V-VM जउ\PR-PRL पियास\N-NN लग\V-VM जाहे\V-VAUX तब\PR-PRL काम\N-NN देहे\V-VM ।\RD-PUNC 
+’\N-NN कछुआ\N-NN समझयलक\V-VM ।\RD-PUNC 
+‘आउ\PR-PRP कउनो\N-NN न\RP-NEG मिललउ\V-VM हल\V-VAUX सुनावे\V-VM ला\V-VAUX कि\CC-CCS हमरा\PR-PRP बुरबक\N-NN बनावित\V-VM हें\V-VAUX ?\RD-PUNC 
+पानीये\N-NN में\PSP रहऽ\V-VM हें,\V-VAUX तइयो\CC-CCS तरास\N-NN जाहें\V-VM ?\V-VAUX 
+’\N-NN ऊंट\N-NN टोन\N-NN मारलक\V-VM ।\RD-PUNC 
+‘अइसन\DM-DMD बात\N-NN न\RP-NEG हे\V-VM ऊंट\V-VAUX भाई\N-NN दरअसल\N-NN एकरा\DM-DMD में\PSP मिनरल\N-NN वाटर\N-NN हे\V-VM ।\RD-PUNC 
+’\N-NN कछुआ\N-NN बघारलक\V-VM ।\RD-PUNC 
+------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN अदमी\N-NN गगनसुत\N-NN नवीन\N-NN झरना\N-NN के\PSP किनारे\N-NN लगल\V-VM एगो\QT-QTC गुलाब\N-NN के\PSP पौधा\N-NN एक\QT-QTC दिन\N-NN देखलक\V-VM कि\CC-CCS एगो\QT-QTC करिया\N-NN गोल-मटोल\N-NN पल्र\N-NN नीचे\N-NN पानी\N-NN में\PSP अठखेली\N-NN कर\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP तड़ाक\N-NN से\PSP पुछ\V-VM बइठल\V-VAUX –\N-NN ‘‘तों\N-NN कहां\PR-PRQ से\PSP आ\V-VM गेलऽ\V-VAUX भाई\N-NN ?\PSP 
+’’पत्थर\N-NN कहलक\V-VM –\N-NN ‘‘आयम\N-NN कहां\PR-PRQ से\PSP ?\V-VM 
+लहर\N-NN के\PSP थपेड़ा\N-NN हमरा\PR-PRP कर\V-VM कुचुम\N-NN से\PSP छोड़ाके\V-VM कहां\PR-PRQ से\PSP कहां\PR-PRQ पहुंचा\V-VM दलक\V-VAUX हे\V-VAUX ।\RD-PUNC 
+हम\PR-PRP भाग\V-VM के\PSP मारल\V-VM ही\RP-RPD दोस्त\N-NN ।\RD-PUNC 
+’’गुलाब\N-NN कहलक\V-VM -\RD-PUNC ‘‘भाग\V-VM के\PSP मारल\V-VM तो\PR-PRL हम\PR-PRP ही,\PR-PRP कहीं\DM-DMI जाहुं\V-VM नञ्\RP-NEG सकऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+अच्छा\N-NN होयल\V-VM कि\CC-CCS तों\N-NN आ\V-VM गेला\V-VAUX ।\RD-PUNC 
+अब\RB हम\PR-PRP अप्पन\PR-PRP सुख-दुख\N-NN कम\N-NN से\PSP कम\N-NN तोरा\PR-PRP से\PSP बतियते\V-VM रहम\V-VAUX ।\RD-PUNC 
+’’ओही\DM-DMD घड़ी\N-NN एगो\QT-QTC अदमी\N-NN उहां\DM-DMD नहाय\N-NN ला\PSP आयल\V-VM ।\RD-PUNC 
+ओकर\PR-PRP नजर\N-NN ऊ\PR-PRP करिया\N-NN पत्थर\N-NN पर\PSP पड़ल\V-VM ।\RD-PUNC 
+नहा\N-NN के\PSP ऊ\PR-PRP एगो\QT-QTC लोटा\N-NN में\PSP पानी\N-NN भरि\N-NN के\PSP लेले\V-VM आयल\V-VAUX आउ\CC-CCD ऊपर\N-NN एगो\QT-QTC टिल्हा\N-NN पर\PSP जाके\V-VM पानी\N-NN छींट\V-VM देलक\V-VAUX ।\RD-PUNC 
+फिन\CC-CCD उतर\N-NN के\PSP ऊ\PR-PRP करिया\N-NN पत्थर\N-NN अठयलक\V-VM आउ\CC-CCD ओही\DM-DMD टिल्हा\N-NN पर\PSP ले\V-VM जाके\V-VM स्थापित\V-VAUX कर\V-VM देलक\V-VAUX ।\RD-PUNC 
+फिर\CC-CCD हाथ\N-NN जोड़\V-VM के\PSP कहलक\V-VM –\N-NN ‘‘बड़ी\N-NN दिन\N-NN पर\PSP मिललऽ\V-VM हे\V-VAUX साली\N-NN गराम\N-NN ।\RD-PUNC 
+केत्ते\N-NN दिन\N-NN से\PSP खोजऽ\V-VM बली\N-NN तोरी\RD-PUNC ।\RD-PUNC 
+’’\CC-CCD फिन\CC-CCD ऑऊ\DM-DMI गुलाब\N-NN के\PSP एकलौता\N-NN फूल\N-NN के\PSP तोड़\N-NN के\PSP ले\V-VM गेल\V-VAUX आउ\CC-CCD ऊ\PR-PRP करिया\N-NN पत्थर\N-NN चढ़ा\N-NN के\PSP कहलक\V-VM -\RD-PUNC ‘‘भूल-चूक\V-VM माफ\N-NN करिहऽ\V-VM सालीगराम\N-NN बाबा\N-NN !\PSP 
+हमरा\PR-PRP नियन\RP-RPD निरबंश\N-NN के\PSP एगो\QT-QTC बंस\N-NN दे\V-VM दऽ\V-VAUX !\RD-PUNC 
+’’\N-NN एतना\QT-QTF कहके\V-VM ऊ\PR-PRP आदमी\N-NN चल\V-VM गेल\V-VAUX ।\RD-PUNC 
+गुलाब\N-NN के\PSP पौधा\N-NN करिया\N-NN पत्थर\N-NN के\PSP कहलक\V-VM –\N-NN ‘‘एही\N-NN हे\V-VM अदमी,\N-NN जो\RP-RPD तोरा\PR-PRP जइसन\RP-RPD निरबंस\N-NN से\PSP बंस\N-NN मांगइत\V-VM हे\V-VAUX आउ\CC-CCD ओकरा\PR-PRP ला\PSP हम्मर\PR-PRP फलइत-फुलाइत\N-NN बंस\N-NN के\PSP तहस-नहस\N-NN करइते\V-VM हे\V-VAUX ।\RD-PUNC 
+’’\N-NN ------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN भय\N-NN अरूण\N-NN कुमार\N-NNP सिन्हा\N-NN गंगाजी\N-NNP में\PSP उपलइते-उपलइते\N-NN एगो\QT-QTC अदमी\N-NN के\PSP लहास\N-NN असमसान\N-NN घाट\N-NN पर\PSP जइसहीं\PR-PRL आ\V-VM लगल\V-VAUX कि\CC-CCS आदमखोर\N-NN कुत्ता\N-NN कलुआ\N-NN ओकरा\PR-PRP नोचे-खसोटे\N-NN लगी\N-NN हुआं\N-NN पहुंच\V-VM गेल\V-VAUX ।\RD-PUNC 
+लहास\N-NN के\PSP दू-चार\QT-QTC बेर\N-NN ऊ\PR-PRP सूंघबे\N-NN कइलक\V-VM कि\CC-CCS ओकर\PR-PRP दिमागे\N-NN ठंढा\N-NN गेल\V-VM ।\RD-PUNC 
+मन\N-NN मसोस\N-NN के\PSP ऊ\PR-PRP जब\PR-PRL हुआं\N-NN से\PSP लउटे\V-VM लगल,\V-VAUX तऽ\CC-CCS नगीचे\N-NN के\PSP पीपल\N-NN के\PSP पेड़\N-NN पर\PSP से\PSP दूरदरसी\N-NN गीधराज\N-NN के\PSP अवाज\N-NN सुनाई\N-NN पड़ल\V-VM –\N-NN ‘‘काहे\V-VM कालू\V-VAUX ?\RD-PUNC 
+ई\DM-DMI महाभोज\N-NN छोड़\V-VM के\V-VAUX काहे\CC-CCS लउट\V-VM रहलऽ\V-VM हे\V-VAUX ?\RD-PUNC 
+उतरे\N-NN लगी\N-NN हमहूं\PR-PRP पंख\N-NN फड़फड़ा\N-NN रहली\V-VM हल\V-VAUX ।\RD-PUNC 
+’’\CC-CCS कलुआ\N-NN मुंह\N-NN बिचका\N-NN के\PSP बोललक\V-VM –\N-NN ‘‘जतरे\N-NN ठीक\N-NN नञ्\V-VM हे\V-VAUX गीधराज\N-NN !\PSP 
+ई\DM-DMI साला\N-NN एड्स\N-NN से\PSP मरल\V-VM हे\V-VAUX ।\RD-PUNC 
+सुनऽ\V-VM ही,\CC-CCD ई\DM-DMI अइसन\RP-RPD रोग\N-NN हे\V-VAUX जे\PR-PRL पीढ़ी-दर-पीढ़ी\N-NN के\PSP नास\N-NN कर\V-VM देहे\V-VAUX ।\RD-PUNC 
+तों\N-NN अइबऽ\V-VM त\N-NN आवऽ\V-VM !\V-VAUX 
+’’\N-NN ‘‘नञ्\N-NN भाई,\V-VM नञ्\V-VAUX ।\RD-PUNC 
+हमहूं\PR-PRP बाल-बच्चेदार\N-NN ही\V-VM ।\RD-PUNC 
+अइसन\RP-RPD महाभोज\N-NN खइला\V-VM से\PSP बाज\N-NN अइली\V-VM ।\RD-PUNC 
+’’\N-NN कहके\V-VM गीधराज\N-NN उड़\V-VM गेल\V-VAUX ।\RD-PUNC 
+------------------------------------------------------------------------------------------------------------दू\QT-QTC गो\RP-CL अनुवाद\N-NN लधुकथा\N-NN १.\V-VM अलगे\N-NN देस\N-NN इब्ने\N-NN इंशा\N-NN (मगही\N-NN अनुवाद\N-NN -\RD-PUNC उदय\N-NN कुमार\N-NNP भारती)\N-NN “ईरान\N-NN में\PSP के\PSP रहऽ\V-VM हथिन\V-VAUX ?\RD-PUNC 
+’’“ईरान\N-NN में\PSP ईरानी\N-NN कौम\N-NN के\PSP अदमी\N-NN रहऽ\V-VM हथिन\V-VAUX ।\RD-PUNC 
+’’“इंग्लैंड\N-NN में\PSP के\PSP रहऽ\V-VM हथिन\V-VAUX ?\RD-PUNC 
+““इंग्लैंड\N-NN में\PSP अंग्रेज\N-NN कौम\N-NN के\PSP अदमी\N-NN रहऽ\V-VM हथिन\V-VAUX ।\RD-PUNC 
+’’“फ्रांस\N-NN में\PSP के\PSP रहऽ\V-VM हथिन\V-VAUX ?\RD-PUNC 
+““फ्रांस\N-NN में\PSP फ्रांसीसी\N-NN कौम\N-NN के\PSP अदमी\N-NN रहऽ\V-VM हथिन\V-VAUX ।\RD-PUNC 
+’’“ई\DM-DMD कउन\PR-PRQ मुलुक\N-NN हइ\V-VM ?\RD-PUNC 
+’’“ई\N-NN पाकिस्तान\N-NN हइ\V-VM ।\RD-PUNC 
+’’“ई\N-NN में\PSP पाकिस्तानी\N-NN कौम\N-NN के\PSP अदमी\N-NN रहऽ\V-VM होथिन\V-VAUX ?\RD-PUNC 
+’’“नञ्\N-NN ईहां\DM-DMD सिंधी,\V-VM पंजाबी\N-NN आउ\CC-CCD बंगाली\N-NN कौम\N-NN के\PSP अदमी\N-NN रहऽ\V-VM हथिन\V-VAUX ।\RD-PUNC 
+’’“लेकिन\CC-CCD सिंधी,\N-NN पंजाबी\N-NN आउ\CC-CCD बंगाली\N-NN ई\DM-DMI सउ\N-NN कौम\V-VM के\PSP अदमी\N-NN तऽ\CC-CCS हिन्दुस्तान\N-NN में\PSP भी\RP-RPD रहऽ\V-VM हथिन\V-VAUX तउ\N-NN काहे\CC-CCS ले\V-VM ई\DM-DMI अलगे\N-NN एगो\QT-QTC देस\N-NN बनावल\N-NN गेलइ\V-VM ?\V-VAUX 
+’’“गलती\N-NN भे\V-VM गेलई\V-VAUX माफ\N-NN करऽहो\V-VM अउ\CC-CCD नञ्\N-NN बनइवइ\V-VM ।\RD-PUNC 
+’’\N-NN २.\N-NN वज्रपात\N-NN खलील\V-VM जिब्रान\N-NN (मगही\RP-RPD अनुवाद\N-NN -\RD-PUNC उदय\N-NN कुमार\N-NNP भारती)\N-NN तूफानी\N-NN दिन\N-NN हल\V-VM ।\RD-PUNC 
+एगो\QT-QTC मेहरारू\N-NN गिरजाघर\N-NN के\PSP पादरी\N-NN के\PSP सामने\N-NN जाके\V-VM बोले\V-VAUX लगली-\V-VAUX “हम\RD-PUNC ईसाई\N-NN नञ्\N-NN ही,\V-VM की\V-VAUX जिनगी\N-NN के\PSP नरक\N-NN से\PSP मुक्ति\N-NN ले\V-VM हम्मरा\PR-PRP लेल\V-VM कोय\N-NN रस्ता\N-NN हे\V-VM ?\RD-PUNC 
+’’पादरी\N-NN ऊ\PR-PRP औरत\N-NN के\PSP मुख\N-NN के\PSP देखइत\V-VM बोले\V-VAUX लगलथिन\V-VM -\RD-PUNC “नय,\V-VM मुक्ति\N-NN के\PSP रस्ता\N-NN तऽ\CC-CCS हम\PR-PRP ओकरे\PR-PRP बता\V-VM सकलिए\V-VAUX हऽ\V-VAUX जे\PR-PRL ईसाई\N-NN धरम\N-NN के\PSP दीक्षा\N-NN लेलक\V-VM हऽ\V-VAUX ।\RD-PUNC 
+’’तखनइ\N-NN बड़ी\JJ जोड़\N-NN से\PSP बादर\N-NN गड़गड़लइ\V-VM आउ\CC-CCD बिजुरी\N-NN चमक\N-NN गेलइ\V-VM ।\RD-PUNC 
+उहां\DM-DMD पर\PSP बज्जड़\N-NN गिर\V-VM पड़ल\V-VAUX हल\V-VAUX आउ\CC-CCD सगरो\N-NN आग\N-NN पसर\N-NN गेल\V-VM हल\V-VAUX ।\RD-PUNC 
+अदमी\N-NN गिरजाघर\N-NN दन्ने\N-NN दौड़े\V-VM लगल\V-VAUX ।\RD-PUNC 
+औरत\N-NN तऽ\CC-CCS बचा\N-NN लेल\V-VM गेल\V-VAUX मगर\N-NN तउ\V-VM तलूक\N-NN पादरी\N-NN जर\V-VM के\V-VAUX राख\N-NN भे\V-VM चुकल\N-NN हल\V-VM ।\RD-PUNC 
+----------------------------------------------------------------------------------------------------------------------इतालवी\N-NN लघुकथा\N-NN बगावत\N-NN के\PSP वजह\N-NN इतालो\N-NN काल्विनो\V-VM (मगही\V-VAUX अनुवाद\N-NN -\RD-PUNC उदय\N-NN कुमार\N-NNP भारती)\N-NN एगो\QT-QTC अइसन\RP-RPD राज\N-NN हल,\RP-RPD जेमें\PR-PRL बड़ी\JJ मनी\N-NN चीज\N-NN आउ\CC-CCD काज\N-NN करे\V-VM के\PSP मनाही\N-NN हल\V-VM ।\RD-PUNC 
+ऊहां\PR-PRL जे\PR-PRL एक्के\QT-QTC चीज\N-NN के\PSP मनाही\N-NN नञ्\N-NN हल,\V-VM ऊ\PR-PRP हल\V-VM गुल्ली-डंडा\N-NN के\PSP खेल\V-VM खेले\V-VM के\V-VAUX ।\RD-PUNC 
+ऊहे\DM-DMD से\PSP ऊहां\PR-PRL के\PSP अदमी\N-NN के\PSP समय\N-NN जादे\V-VM गुलिये-डंडा\N-NN खेले\V-VM में\PSP बीतऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+लोग\N-NN बाग\N-NN मैदान\N-NN में\PSP जुटऽ\V-VM हलथिन\V-VAUX आउ\CC-CCD खेले\V-VM में\PSP लग\V-VM जा\V-VAUX हलथिन\V-VAUX ।\RD-PUNC 
+समय\N-NN बेसे\PSP गुजर\N-NN जा\V-VM हलइ\V-VAUX ।\RD-PUNC 
+ऊहां\DM-DMD के\PSP शासक\N-NN जे\PR-PRL भी\RP-RPD कानून\N-NN आउ\CC-CCD प्रतिबंध\N-NN बनैलथिन\V-VM हल,\V-VAUX ओकरा\PR-PRP बेस-बेस\N-NN कारन\N-NN आउ\CC-CCD मजगूत-मजगूत\N-NN तर्क\N-NN देके\V-VM बनइलथिन\N-NN हल\V-VM ।\RD-PUNC 
+लोगबाग\N-NN के\PSP उनखर\N-NN प्रतिबंध\N-NN से\PSP कोय\PR-PRI शिकायत\N-NN करे\V-VM के\PSP इया\N-NN विरोध\N-NN करे\V-VM के\PSP कोय\PR-PRI कारन\N-NN भी\RP-RPD नञ्\V-VM हलइ,\V-VAUX ईसे\N-NN जे-जे\RD-PUNC प्रतिबंध\N-NN लगते\V-VM गेलइ,\V-VAUX लोगबाग\N-NN ओकर\PR-PRP आदि\N-NN होते\V-VM चल\V-VM गेलथिन\V-VAUX ।\RD-PUNC 
+उनखा\N-NN सउ\N-NN के\PSP ओकर\PR-PRP आदी\N-NN होवे\V-VM में\PSP कोई\PR-PRI मोसकिल\N-NN भी\RP-RPD नञ्\V-VM भेलइ\V-VAUX ।\RD-PUNC 
+समय\N-NN बेसे\N-NN बीत\N-NN रहले\V-VM हल\V-VAUX ।\RD-PUNC 
+बाद\N-NN में\PSP राजा\N-NN के\PSP ई\DM-DMI बुझाल\V-VM कि\CC-CCS हर\N-NN चीज\N-NN आउ\CC-CCD काज\N-NN के\PSP मनाही\N-NN के\PSP कोय\PR-PRI तुक\N-NN नञ्\V-VM हे\V-VAUX ।\RD-PUNC 
+एत्ते\N-NN मनाही\N-NN नञ्\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+एकरा\DM-DMD खतम\N-NN कर\V-VM देवे\V-VAUX के\PSP चाही,\V-VAUX से\PSP लेल\V-VM ऊ\PR-PRP राज\N-NN में\PSP ढोलहा\N-NN पिटवावे\V-VM के\PSP मन\N-NN बनैलथिन\V-VM ।\RD-PUNC 
+जहां-जहां\DM-DMD पर\PSP लोग\N-NN जुट\V-VM के\PSP गुल्ली\N-NN डंडा\N-NN खेलऽ\V-VM हलथिन\V-VAUX ऊहां-ऊहां\PR-PRL पर\PSP जाके\V-VM उनखर\N-NN बराहिल\N-NN आउ\CC-CCD कारिंदा\N-NN ढोल\N-NN बजा\V-VM के\V-VAUX चिल्लाय\N-NN लगथिन\V-VM -\RD-PUNC ‘‘भाय\V-VM हो,\V-VAUX जेकर\PR-PRL जे\PR-PRL मन\N-NN होवे\V-VM ऊहे\V-VAUX काज\N-NN करऽहो,\V-VM अउ\CC-CCD सउ\N-NN काम\N-NN करे\V-VM के\PSP राजा\N-NN छूट\V-VM दे\V-VAUX देलथिन\V-VAUX हे,\V-VAUX जे\PR-PRL चाऽहो\N-NN से\PSP करऽहो\V-VM ।\RD-PUNC 
+ई\DM-DMI सुनि\N-NN के\PSP लोग\N-NN उनखा\N-NN जबाब\N-NN देवे\V-VM लगलन\V-VAUX -\RD-PUNC ‘‘बेस\N-NN बात\N-NN हे,\V-VM हमन्हीं\V-VAUX गुल्ली\N-NN डंडा\N-NN तो\PR-PRL खेलिए\N-NN रहलिये\V-VM हऽ,\V-VAUX आउ\CC-CCD कि\CC-CCS .\V-VM 
+’’\N-NN आउ\CC-CCD लोग\N-NN गुल्ली\N-NN डंडा\N-NN खेले\V-VM में\PSP पहिलिये\N-NN के\PSP जइसन\RP-RPD मस्त\RB भे\V-VM गेलन\V-VAUX ।\RD-PUNC 
+ऐलान\N-NN करे\V-VM वला\V-VAUX लोगबाग\N-NN खूमे\N-NN समझावे\V-VM के\PSP कोरसिस\N-NN करथिन\V-VM आउ\CC-CCD जे-जे\N-NN काज\N-NN पर\PSP रोक\V-VM लगले\V-VAUX हल,\V-VAUX ओकरा\PR-PRP करि\V-VM के\PSP जिनगी\N-NN में\PSP लाभ\N-NN उठावे\V-VM के\PSP बात\N-NN कहे\V-VM लगलथिन\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP लोग\N-NN समझावे\V-VM के\PSP खूमे\N-NN कोरसिस\N-NN करलथिन\V-VM पर\PSP लोगबाग\N-NN रोजमर्रा\N-NN के\PSP तरह\RP-RPD गुलिये\N-NN डंडा\N-NN खेले\V-VM में\PSP भीड़ल\V-VM रहथिन\V-VAUX ।\RD-PUNC 
+जउ\PR-PRL शासक\N-NN के\PSP बराहिल\N-NN आउ\CC-CCD कारिंदा\N-NN थक-हार\N-NN गेलथिन\V-VM तउ\PR-PRL ऊ\PR-PRP राजा\N-NN के\PSP पास\N-NN जाके\V-VM सउ\N-NN बात\N-NN बतैलथिन\V-VM -\RD-PUNC कि\CC-CCS लोग-बाग\N-NN गुल्लिये\N-NN डंडा\N-NN खेले\V-VM में\PSP मस्त\RB हथिन\V-VM ।\RD-PUNC 
+राजा\N-NN सोंचे\V-VM लगलथिन\V-VAUX आउ\CC-CCD कहथिन\V-VM –\N-NN ‘‘तउ\V-VM तऽ\CC-CCS एक्के\QT-QTC गो\RP-CL उपाय\N-NN हइ\V-VM कि\CC-CCS गुलिये\N-NN डंडा\N-NN खेले\V-VM पर\PSP रोक\V-VM लगा\V-VM दे\V-VM हिअइ\V-VAUX आउ\CC-CCD ऊ\PR-PRP पाबंदी\N-NN लगावे\V-VM के\PSP एलान\N-NN कर\V-VM देलका\V-VAUX ।\RD-PUNC 
+ईहे\DM-DMD पाबंदी\N-NN राजा\N-NN लेल\V-VM बगावत\N-NN के\PSP कारण\N-NN बन\V-VM गेल\V-VAUX ।\RD-PUNC 
+लोगबाग\N-NN एतना\QT-QTF आक्रोसित\N-NN भे\V-VM गेलथिन\V-VAUX कि\CC-CCS राजे\N-NN के\PSP मार\V-VM देलथिन\V-VAUX आउ\CC-CCD फिनू\RB ऊहे\PSP काम\N-NN .\V-VM 
+(साभार\N-NN प्रभात\N-NN खबर)\N-NN ----------------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN पहिचान\N-NN गोपाल\N-NN निर्दोष\N-NN ऊ\PR-PRP रोज\N-NN नहा\N-NN धो\V-VM के\PSP एकदम\N-NN पवित्तर\N-NN मन\N-NN से\PSP भगवान\N-NN के\PSP मूरत\N-NN के\PSP सामने\N-NN आंख\N-NN मून\V-VM के\PSP नञ्\N-NN जानऽ\V-VM की\V-VAUX मांगऽ\V-VM हल,\V-VAUX भुनभुना\N-NN हल\V-VM आउ\CC-CCD चल\V-VM जा\V-VAUX हल\V-VAUX ।\RD-PUNC 
+एक\QT-QTC दिन\N-NN बहुत\N-NN देरी\N-NN तक\PSP आंख\N-NN मुनइत\V-VM खड़ा\N-NN रह\V-VM गेल\V-VAUX ।\RD-PUNC 
+आंख\N-NN खोललक\V-VM आउ\CC-CCD भिंजल\N-NN गियारी\N-NN से\PSP मूरत\N-NN से\PSP गिड़गिड़ा\N-NN के\PSP कहे\V-VM लगल-‘‘पिछलका\V-VAUX पांच\QT-QTC बरिस\N-NN से\PSP हम\PR-PRP तोरा\PR-PRP से\PSP मनगुपते\N-NN भीख\N-NN मांग\V-VM रहलियो\V-VAUX हे,\V-VAUX अब\RB आउ\CC-CCD नञ्\N-NNP सहल\N-NN जा\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+हमरा\PR-PRP तोर\PR-PRP किरपा\N-NN चाही\V-VM भगमान\N-NN .\V-VM 
+हमरा\PR-PRP तोर\PR-PRP किरपा\N-NN चाही\V-VM ।\RD-PUNC 
+’’\DM-DMD तखनइ\N-NN एगो\QT-QTC जरी\QT-QTF गो\RP-CL चिरइं\N-NN ऊ\PR-PRP मूरत\N-NN के\PSP माथा\N-NN पर\PSP आ\V-VM के\V-VAUX बइठ\V-VM गेल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP अदमी\N-NN ओकरा\PR-PRP हांकऽ\N-NN लगल,\PSP जोड़-जोड़\N-NN से\PSP हंसऽ\V-VM लगल\V-VAUX आउ\CC-CCD मूरत\N-NN से\PSP कहे\V-VM लगल-\V-VAUX ‘‘बुरा\N-NN नञ्\N-NN मानिहा,\V-VM हम\PR-PRP तोरा\PR-PRP पर\PSP नञ्\N-NN अपने\PR-PRP पर\PSP हंस\N-NN रहलूं\V-VM हे\V-VAUX ।\RD-PUNC 
+हमरा\PR-PRP कल्हे\N-NN तलक\N-NN तोर\PR-PRP पहिचान\N-NN नञ्\V-VM हल,\V-VAUX आझ\N-NN हो\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+जे\PR-PRL अप्पन\PR-PRP हिफाजत\N-NN नञ्\RP-NEG कर\V-VM सके\V-VAUX हे\V-VAUX ऊ\PR-PRP हम्मर\PR-PRP की\PR-PRQ करतइ\V-VM .\V-VAUX 
+अदमी\N-NN भगमान\N-NN के\PSP मूरत\N-NN गढ़लक,\V-VM ओकरा\PR-PRP लेल\V-VM भरोसा\N-NN जतइलक\V-VM आउ\CC-CCD ऊहे\PR-PRP मूरत\N-NN के\PSP सामने\N-NN भिखमंगा\N-NN बन\V-VM के\V-VAUX खाड़\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+सी.पी.\N-NN निवास,\PSP मालगोदाम,\V-VM नवादा(बिहार)------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN राजेश\N-NN मंझवेकर\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथा\N-NN १.\V-VM नयका\N-NN बिहान\N-NN बाउजी\N-NN के\PSP रोज-रोज\N-NN के\PSP डांट-फंटकार\N-NN से\PSP चिढ़ल\N-NN राकेश\N-NN आझ\N-NN घर\N-NN से\PSP भागे\V-VM के\PSP फैसला\N-NN कर\V-VM लेलक\V-VAUX हल\V-VAUX ।\RD-PUNC 
+शांत\N-NN आउ\CC-CCD सून\N-NN रात\N-NN के\PSP तेज\JJ सांय-सांय\N-NN जारी\N-NN हल\V-VM ।\RD-PUNC 
+बकि\CC-CCD एकरा\DM-DMD से\PSP जादे\N-NN ओकर\PR-PRP दिमाग\N-NN में\PSP भांय-भांय\N-NN हो\V-VM रहल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+दबे\V-VM पांव\N-NN घर\N-NN से\PSP निकसे\V-VM के\V-VAUX खातिर\N-NN ऊ\PR-PRP केवाड़ी\N-NN दने\N-NN बढ़ल\V-VM ।\RD-PUNC 
+बाउजी\N-NN के\PSP भीतर\N-NST के\PSP दुआरी\N-NN पर\PSP पहुंचल\V-VM तउ\PR-PRL उनखर\N-NN बोली\N-NN ओकर\PR-PRP कान\N-NN में\PSP सुनाय\V-VM पड़ल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP ओकर\PR-PRP माय\N-NN से\PSP ओकरे\PR-PRP बारे\N-NN में\PSP बोल\V-VM रहलन\V-VAUX हल\V-VAUX ।\RD-PUNC 
+-\RD-PUNC ‘‘हम\N-NN रकेशवा\N-NN के\PSP दुसमन\N-NN नञ्\PSP हिअइ\N-NN राकेश\N-NN के\PSP माय\N-NN ।\RD-PUNC 
+ओकर\PR-PRP जिनगी\N-NN संवरे,\V-VM हम\PR-PRP बस\N-NN ईहे\PSP चाहऽ\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+हम\PR-PRP जानऽ\V-VM हिअइ,\V-VAUX रकेशवा\N-NN दिल\N-NN के\PSP साफ\N-NN हे\V-VM ।\RD-PUNC 
+मेहनती\N-NN हे\V-VM ।\RD-PUNC 
+बकि\CC-CCD ऊ\PR-PRP कोय\PR-PRI दिशा\N-NN लेके\V-VM नञ्\V-VAUX चल\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF बेस\N-NN सोच\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+हम्मर\PR-PRP जिनगी\N-NN में\PSP ऊ\PR-PRP सफल\N-NN हो\V-VM जाए,\V-VAUX हम\PR-PRP बस\N-NN ईहे\PSP चाहऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+’’\N-NN राकेश\N-NN के\PSP बढ़ल\N-NN कदम\N-NN एकाबारगी\N-NN रूक\V-VM गेल\V-VAUX ।\RD-PUNC 
+अप्पन\PR-PRP बाउजी\N-NN के\PSP ई\DM-DMI रूप\N-NN अप्पन\PR-PRP नादानी\N-NN में\PSP ऊ\PR-PRP कभियो\N-NN नञ्\PSP समझ\N-NN पइलक\V-VM हल\V-VAUX ।\RD-PUNC 
+अगला\N-NN दिन\N-NN एक\QT-QTC साथ\PSP दू\QT-QTC गो\RP-CL भोर\N-NN होल\V-VM ।\RD-PUNC 
+एगो\QT-QTC सूरज\N-NN दिन\N-NN के\PSP उजियार\N-NN कैलक\V-VM हल\V-VAUX ।\RD-PUNC 
+दोसर\QT-QTO सूरज\N-NN राकेश\N-NN के\PSP जिनगी\N-NN में\PSP उगल\V-VM हल\V-VAUX ।\RD-PUNC 
+रोज\N-NN घर\N-NN से\PSP भोरे-भोरे\N-NN बाहर\N-NN निकल\V-VM के\PSP अप्पन\PR-PRP चंडाल\N-NN चौकड़ी\N-NN में\PSP रमल\N-NN रहेवला\V-VM राकेश\N-NN घरे\N-NN में\PSP हल\V-VM ।\RD-PUNC 
+ई\DM-DMI नजारा\N-NN बरसों\N-NN बाद\N-NN हल\V-VM ।\RD-PUNC 
+ई\DM-DMI से\PSP घर\N-NN में\PSP सब\QT-QTF मौन\N-NN हला\V-VM ।\RD-PUNC 
+बाउजी\N-NN अप्पन\PR-PRP भीतर\N-NST से\PSP निकललथिन\V-VM ।\RD-PUNC 
+बाउजी\N-NN पर\PSP नजर\N-NN पड़ते\V-VM राकेश\N-NN उनखा\N-NN से\PSP लिपट\V-VM गेल\V-VAUX ।\RD-PUNC 
+ठोर\N-NN बहुत\N-NN कुछ\QT-QTF कहे\V-VM के\PSP कोरसिस\N-NN में\PSP बस\N-NN लरज\N-NN के\PSP रह\V-VM गेल\V-VAUX ।\RD-PUNC 
+आंख\N-NN से\PSP शबद\N-NN बन\V-VM के\V-VAUX आंसू\N-NN झर-झर\N-NN बहे\V-VM लगल\V-VAUX ।\RD-PUNC 
+ढेर\QT-QTF देरी\N-NN तक\RP-RPD दुन्नूं\N-NN चुपचाप\N-NN ठाड़\N-NN रह\V-VM गेलन\V-VAUX ।\RD-PUNC 
+बाउजी\N-NN कुछ\QT-QTF नञ्\N-NN समझलथिन\V-VM तइयो\CC-CCS संतुष्ट\N-NN हो\V-VM गेलथिन\V-VAUX कि\CC-CCS रकेसवा\N-NN के\PSP जिनगी\N-NN में\PSP नयका\N-NN बिहान\N-NN हो\V-VM गेल\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+गुजरल\N-NN रात\N-NN के\PSP कहानी\N-NN बस\CC-CCD रकेसवा\N-NN के\PSP जिनगी\N-NN के\PSP किताब\N-NN में\PSP सुख्खल\V-VM गुलाब\N-NN नियर\N-NN दब\N-NN के\PSP रहल\V-VM गेल\V-VAUX ।\RD-PUNC 
+२.\N-NN आत्मसम्मान\N-NN कारवला\N-NN के\PSP थप्पड़\N-NN ओकर\PR-PRP गाल\N-NN पर\PSP झनझना\N-NN के\PSP पड़ल\V-VM ।\RD-PUNC 
+कारवला\N-NN एक्कर\V-VM बाद\PSP भी\RP-RPD चुप\V-VM नञ्\V-VAUX रहल\V-VAUX –\N-NN ‘‘चलवे\V-VM के\PSP लूर\N-NN नञ्\N-NN हउ\V-VM तउ\N-NN मोटरसाईकिल\N-NN लेके\V-VM काहे\CC-CCS निकल\V-VM जाहीं,\V-VAUX आयं\V-VAUX ?\RD-PUNC 
+’’\N-NN कारवला\N-NN के\PSP अचानक\N-NN ब्रेक\N-NN लेवे\V-VM पर\PSP पीछे\N-NN से\PSP ऊ\PR-PRP अप्पन\PR-PRP मोटरसाईकिल\N-NN ओकर\PR-PRP कार\N-NN में\PSP ठोक\V-VM देलक\V-VAUX हल\V-VAUX ।\RD-PUNC 
+दोस\N-NN ओकर\PR-PRP नय\N-NN हल\V-VM फिर\N-NN भी\RP-RPD बड़ी\JJ बेइजती\N-NN भेल\V-VM ।\RD-PUNC 
+कुच्छो\QT-QTF करे\V-VM में\PSP असमर्थ\N-NN रहला\V-VM पर\PSP ऊ\PR-PRP बेइज्जती\N-NN सहि\N-NN के\PSP सोच-विचार\N-NN में\PSP पड़ल\V-VM आगे\N-NN बढ़ल\V-VM ।\RD-PUNC 
+कुच्छे\QT-QTF दूर\N-NN गेला\V-VM पर\PSP ऊ\PR-PRP एगो\QT-QTC साईकिल\N-NN से\PSP जाके\V-VM टकरा\N-NN गेल\V-VM ।\RD-PUNC 
+बेचारा\N-NN साईकिलवला\N-NN धड़ाम\N-NN से\PSP रोड\N-NN पर\PSP गिर\V-VM गेल\V-VAUX ।\RD-PUNC 
+जउ\PR-PRL तक\RP-RPD ऊ\PR-PRP कुछ\QT-QTF समझ\N-NN पावे\V-VM तउ\V-VAUX तक\RP-RPD मोटरसाईकिलिया\N-NN वला\V-VM लगल\V-VAUX ओकरा\PR-PRP लपड़ावे\V-VM ।\RD-PUNC 
+गोस्सा\N-NN में\PSP तमतमाल\N-NN बात-बोली\N-NN भी\RP-RPD करे\V-VM लगल\V-VAUX –\N-NN ‘‘सरवा,\PSP चलवे\V-VM के\PSP लूर-धेज\N-NN नञ्\N-NN हउ\V-VM तउ\N-NN रोडवा\N-NN पर\PSP काहे\CC-CCS आ\V-VM जाहीं\V-VAUX बे\V-VAUX ।\RD-PUNC 
+’’\N-NN सईकिलिया\N-NN वला\V-VM कहते\V-VAUX रह\V-VM गेल\V-VAUX कि\CC-CCS –‘‘भइया\N-NN हम\PR-PRP तो\PR-PRL रोड\N-NN के\PSP किनारे\N-NN खाड़\V-VM हनू,\V-VAUX तों\N-NN ही\RP-RPD आके\V-VM ठोक\V-VM देला\V-VAUX आउ\CC-CCD तों\N-NN ही\RP-RPD चढ़ल\V-VM जा\V-VAUX रहला\V-VAUX हे\V-VAUX ।\RD-PUNC 
+’’\N-NN अब\N-NN मोटरसाईकिलिया\N-NN वला\N-NN के\PSP आत्मसम्मान\N-NN एक\QT-QTC बार\N-NN फेर\RB से\PSP लउट\V-VM गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP सान\N-NN से\PSP छाती\N-NN उतान\V-VM कइले\V-VAUX अप्पन\PR-PRP मोटरसाईकिल\N-NN पर\PSP बैठ\V-VM के\PSP आगू\N-NN बढ़\V-VM गेल\V-VAUX ।\RD-PUNC 
+कारवला\N-NN के\PSP हाथ\N-NN से\PSP होल\V-VM बेइज्जती\N-NN ओकर\PR-PRP दिमाग\N-NN से\PSP तबतक\N-NN उड़न\N-NN छू\V-VM भे\V-VAUX गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+-संवाददाता,\CC-CCD हिन्दुस्तान\N-NN हिसुआ(\N-NN नवादा)------------------------------------------------------------------------------------------------------------लघु-कथा\N-NN वीरेन्द्र\N-NN कुमार\N-NNP भारद्वाज\N-NN के\PSP दू\QT-QTC गो\RP-CL लघुकथा\N-NN १.\V-VM डाइन\N-NN दरवाजा\N-NN के\PSP बाहर\N-NN गली\N-NN में\PSP एगो\QT-QTC लइका\N-NN के\PSP चित्कार\N-NN सुनके\V-VM पनपतिआ\N-NN हड़बड़ा\N-NN के\PSP केवाड़ी\N-NN खोललक\V-VM ।\RD-PUNC 
+ऊ\PR-PRP देखलक\V-VM कि\CC-CCS गली\N-NN में\PSP एगो\QT-QTC एक-डेढ़\N-NN बरिस\QT-QTC के\PSP लइका\N-NN अप्पन\PR-PRP गोर\N-NN पकड़\V-VM के\V-VAUX छटपटा\N-NN रहल\V-VM हे\V-VAUX ।\RD-PUNC 
+बगल\N-NN से\PSP करिया\N-NN बिच्छी\N-NN तेजी\RB से\PSP दोसर\QT-QTO तरफ\N-NN भाग\V-VM रहल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+पनपतिआ\N-NN अप्पन\PR-PRP अंचरा\N-NN के\PSP कोर\N-NN फाड़\N-NN के\PSP ऊ\PR-PRP लइका\N-NN के\PSP बायां\N-NN गोर\N-NN में\PSP खून\N-NN बहइत\V-VM जगह\N-NN पर\PSP बान्ह\V-VM देलक\V-VAUX ।\RD-PUNC 
+फिर\CC-CCD ओकरा\PR-PRP अप्पन\PR-PRP गोदी\N-NN में\PSP उठाके\V-VM अप्पन\PR-PRP दूध\N-NN पियावे\V-VM लगल\V-VAUX ।\RD-PUNC 
+बकि\CC-CCD ओकर\PR-PRP बेदूध\N-NN छाती\N-NN बच्चा\N-NN अप्पना\N-NN मुंह\N-NN से\PSP उगिल-उगिल\N-NN दे\V-VM हल\V-VAUX ।\RD-PUNC 
+पनपतिआ\V-VM के\PSP लाख\N-NN चाहला\V-VM पर\PSP भी\RP-RPD ऊ\PR-PRP लइका\N-NN चुप\V-VM नञ्\V-VAUX होल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सब\QT-QTF करतूत\V-VM दूर\N-NN खड़ा\N-NN एगो\QT-QTC अदमी\N-NN देखइत\V-VM हल\V-VAUX ।\RD-PUNC 
+अचानक\N-NN ढेर\QT-QTF मनी\N-NN अदमी\N-NN धड़धड़ाइत\V-VM पनपतिआ\V-VAUX भिर\N-NN चल\V-VM अयलन\V-VAUX ।\RD-PUNC 
+झुंड\N-NN में\PSP आएल\V-VM ऊ\PR-PRP लइका\N-NN के\PSP माय\N-NN भी\RP-RPD हल\V-VM ।\RD-PUNC 
+कहे\V-VM लगल\V-VAUX –\N-NN ‘‘ई\N-NN डाइन\N-NN हम्मर\PR-PRP बेटा\N-NN के\PSP दूध\N-NN पिया\V-VM देलक\V-VAUX हे\V-VAUX ।\RD-PUNC 
+गोर\N-NN में\PSP लत्ता\N-NN बान्ह\V-VM के\V-VAUX जोग\N-NN भी\RP-RPD कर\V-VM देलक\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अब\N-NN हम्मर\PR-PRP बेटा\N-NN नञ्\PR-PRP बचल\V-VM रे\RP-INJ बाप\N-NN !\RD-PUNC 
+’’\N-NN आउ\CC-CCD सच्चो\N-NN में\PSP बच्चा\N-NN अप्पन\PR-PRP माय\N-NN के\PSP छाती\N-NN से\PSP सटइते\V-VM परान\N-NN तेयाग\N-NN देलक\V-VM ।\RD-PUNC 
+पंचायत\V-VM बइठल\V-VM ।\RD-PUNC 
+मुखिया\N-NN जी\N-NN कहलन\V-VM –\N-NN ‘‘गांव\N-NN के\PSP लोग\N-NN !\V-VM 
+ई\DM-DMI डाइन\N-NN के\PSP ई\DM-DMI छठ्ठा\N-NN केस\N-NN हे\V-VM ।\RD-PUNC 
+पहिले\N-NST ई\DM-DMI अप्पन\PR-PRP दून्नो\QT-QTC बेटा\N-NN के\PSP मार\V-VM के\PSP मंतर\N-NN के\PSP सिद्धि\N-NN कयलक\V-VM ।\RD-PUNC 
+अप्पन\PR-PRP भतार\N-NN तक\RP-RPD के\PSP चिबा\N-NN गेल\V-VM हे\V-VAUX ई\DM-DMI ।\RD-PUNC 
+गांव\N-NN के\PSP भी\RP-RPD तीन\QT-QTC गो\RP-CL लइकन\N-NN के\PSP अप्पन\PR-PRP शिकार\N-NN बनयलक\V-VM हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI लेल\V-VM एकर\PR-PRP बढ़इत\N-NN करतूत\V-VM के\PSP देख\V-VM के\PSP पंचायत\V-VM एकरा\DM-DMD लंगटे\N-NN करके\V-VM आउ\CC-CCD मुंह\N-NN में\PSP कारिख-चूना\N-NN पोत\V-VM के\PSP गांव\N-NN के\PSP चारों\QT-QTC तरफ\N-NN घुमाके\V-VM गांव\N-NN से\PSP बाहर\N-NN निकाले\V-VM के\PSP सजाय\N-NN देइते\V-VM हे\V-VAUX ।\RD-PUNC 
+’’\N-NN जोरदार\N-NN थपरी\N-NN के\PSP बीच\N-NST मरल\N-NN बच्चा\N-NN के\PSP चचा\N-NN उठके\V-VM अप्पन\PR-PRP प्रस्ताव\N-NN रखलन\V-VM –\N-NN ‘‘गांव\N-NN से\PSP निकाले\V-VM से\PSP पहिले\N-NST दस\QT-QTC गो\RP-CL अदमी\N-NN एकरा\DM-DMD साथ\PSP .\V-VM 
+’’\N-NN तमाम\N-NN दंड\N-NN पूरा\N-NN करके\V-VM पनपतिआ\N-NN गांव\N-NN से\PSP बाहर\N-NN निकाल\V-VM देवल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+एगो\QT-QTC दयालु\N-NN मेहरारू\N-NN पनपतिआ\V-VM के\V-VAUX एगो\QT-QTC लुगा\N-NN दे\V-VM देलक\V-VAUX ।\RD-PUNC 
+पनपतिआ\N-NN ओही\DM-DMD लुगा\N-NN के\PSP अप्पन\PR-PRP नरेटी\N-NN में\PSP बान्ह\V-VM के\V-VAUX पेड़\N-NN के\PSP डउंघी\N-NN के\PSP सहारे\N-NN लटक\V-VM के\PSP फंसरी\N-NN लगा\V-VM लेलक\V-VAUX ।\RD-PUNC 
+२.जलाभिषेक\N-NN ‘‘पार\N-NN लगावऽ\N-NN दानी\N-NN बम,\V-VM भोले\V-VAUX बाबा\N-NN पार\N-NN करेगा,\V-VM सिद्धनाथ\N-NN बाबा\N-NN की\PSP जय’’\N-NN आदि-आदि\N-NN जयकारा\N-NN लगावित\V-VM श्रद्धालु\N-NN बड़गर-बड़गर\N-NN सीढ़ी,\V-VM सीधा-तिरछा-सपाट\N-NN चट्टान\N-NN के\PSP पार\N-NN करित\V-VM बराबर\N-NN पहाड़\N-NN के\PSP चोटी\N-NN पर\PSP अवस्थित\N-NN सिद्धनाथ\N-NN बाबा\N-NN के\PSP मंदिर\N-NN के\PSP तरफ\N-NN बढ़\V-VM रहलन\V-VAUX हल\V-VAUX ।\RD-PUNC 
+अनंत\N-NN चतुर्दशी\N-NN के\PSP दिन\N-NN ऊहां\DM-DMD खूब\QT-QTF जल\N-NN चढ़ऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+श्रद्धालु\N-NN सबके\N-NN हाथ\N-NN में\PSP जल\N-NN के\PSP थैली\N-NN हल\V-VM ।\RD-PUNC 
+चाम\N-NN पका\V-VM देबे\V-VAUX ओला\N-NN घामा\V-VM पड़\N-NN रहल\V-VM हल\V-VAUX ।\RD-PUNC 
+शरीर\N-NN पसीना\N-NN से\PSP नदी\N-NN बनल\V-VM जा\V-VAUX हल\V-VAUX ।\RD-PUNC 
+बीच\N-NST में\PSP गेला\V-VM पर\PSP एगो\QT-QTC बुढ़िया\N-NN ‘‘पानी-पानी’’\N-NN चिल्लाय\V-VM लगलन\V-VAUX ।\RD-PUNC 
+एक\QT-QTC अदमी\N-NN बुढ़िया\N-NN के\PSP पास\N-NN के\PSP जल\N-NN से\PSP ओक्कर\N-NN पियास\N-NN मिटावल\V-VM चाहल\V-VAUX ।\RD-PUNC 
+बुढ़िया\N-NN सम्हलके\V-VM अप्पन\PR-PRP जल\N-NN के\PSP थैली\N-NN अप्पन\PR-PRP बांह\N-NN में\PSP कस\RB लेल\V-VM ।\RD-PUNC 
+पीछे\N-NST से\PSP आएल\N-NN एक\QT-QTC युवक\N-NN ।\RD-PUNC 
+थैली\N-NN के\PSP ढक्कन\N-NN खोलल\V-VM आ\V-VAUX ऊ\PR-PRP बुढ़िया\N-NN के\PSP सहारा\N-NN देके\V-VM जल\N-NN पिआबे\V-VM लगल\V-VAUX ।\RD-PUNC 
+एक\QT-QTC साथ\PSP बोल\V-VM पड़लन\V-VM लोग,\V-VAUX ‘‘अरे\N-NN मरे\V-VM दे\V-VAUX बुढ़िया\N-NN के\PSP ।\RD-PUNC 
+अप्पन\PR-PRP जल\N-NN तो\PR-PRL खोललन\V-VM न,\CC-CCS तूं\N-NN काहे\CC-CCS ला\PSP अप्पन\PR-PRP जल\N-NN बरबाद\N-NN करित\V-VM हे\V-VAUX ।\RD-PUNC 
+चल,\V-VM चढ़ाओ\PR-PRL सिद्धनाथ\N-NN बाबा\N-NN के\PSP ।\RD-PUNC 
+’’\N-NN आउ\CC-CCD ऊ\PR-PRP युवक\N-NN अप्पन\PR-PRP धुन\N-NN में\PSP मस्त\JJ हो\V-VM बुढ़िया\N-NN के\PSP जल\N-NN पिआवित\V-VM रहल\V-VAUX आ\V-VM मन-ही-मन\RD-PUNC बोलित\V-VM रहल,\V-VAUX ‘‘पी\RD-PUNC लऽ\V-VAUX बाबा,\RD-PUNC सब\QT-QTF पी\V-VM लऽ,\V-VAUX आझे\V-VAUX तो\PR-PRL तूं\PR-PRP हमरा\PR-PRP से\PSP जलाभिषेक\V-VM लेलऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+’’\N-NN -खजुरी,\RD-PUNC नौबतपुर,\RD-PUNC पटना\N-NN ----------------------------------------------------------------------------------------------------------------------लघुकथा\RD-PUNC हाय\RP-INJ रे\RP-INJ धुरखेली\N-NN दीनबंधु\N-NN होली\N-NN में\PSP गांव\N-NN आल\V-VM ललितवा\V-VAUX के\PSP मेहमान\N-NN पर\PSP मोहल्ला\N-NN के\PSP नउजुआन\N-NN सउ\N-NN के\PSP नजर\N-NN हल\V-VM ।\RD-PUNC 
+सब्भे\QT-QTF मनमनाल\N-NN हल\V-VM कि\CC-CCS कल्ह\N-NN मेहमान\N-NN के\PSP साथे\PSP कादो-माटी\N-NN खेलल\V-VM जाइत\V-VAUX ।\RD-PUNC 
+मेहमान\N-NN के\PSP देखाऽ\V-VM देवइ\V-VAUX कि\CC-CCS ईहां\DM-DMD के\PSP होली\N-NN कइसन\PR-PRQ होवऽ\V-VM हइ\V-VAUX ?\RD-PUNC 
+बिहान\N-NN होके\V-VM जउ\PR-PRL कादो-माटी\N-NN शुरू\N-NN भेल\V-VM तउ\PR-PRL लखना\N-NN अप्पन\PR-PRP साथी-संगी\N-NN से\PSP कहलक-‘‘\V-VM तरे\N-NST अउ\CC-CCD की\PR-PRQ सोंच\V-VM हीं,\V-VAUX कादो-माटी\N-NN खेले\V-VM ले\V-VAUX जे\PR-PRL शिकार\N-NN आल\V-VM हइ,\V-VAUX ओकरा\PR-PRP खींच\V-VM के\PSP लावइ\V-VM ने\RP-NEG ।\RD-PUNC 
+चल\V-VM ललितवा\N-NN के\PSP मेहमान\N-NN के\PSP खिंच\N-NN के\PSP लावऽ\V-VM हिअइ\V-VAUX ।\RD-PUNC 
+’’ऊ\N-NN में\PSP कयएक\V-VM गो\RP-CL नउजुआन\N-NN दारू\N-NN पीले\V-VM हल,\V-VAUX सउ\N-NN खींच\V-VM के\PSP मेहमान\N-NN के\PSP गलि\N-NN में\PSP ले\V-VM आल\V-VAUX ।\RD-PUNC 
+अगजा\N-NN के\PSP धुरी\N-NN लगइला\V-VM के\PSP बाद\N-NN सउ\N-NN मेहमान\N-NN के\PSP गोरकी\N-NN मांटी\N-NN लपेस\V-VM देलक\V-VAUX ।\RD-PUNC 
+फिनू\RB नल्ली\N-NN के\PSP कादो\V-VM पोरे\N-NN लगला\V-VM ।\RD-PUNC 
+जे\PR-PRL दारू\N-NN पीले\V-VM हला\V-VAUX ऊ\PR-PRP सउ\N-NN मेहमान\N-NN के\PSP नल्ली\N-NN में\PSP गोते\N-NN के\PSP कोरसिस\N-NN करे\V-VM लगला\V-VAUX ।\RD-PUNC 
+मोहल्ला\N-NN के\PSP नल्ली\N-NN बड़गर\N-NN आउ\CC-CCD चौड़ा\N-NN हल\V-VM ।\RD-PUNC 
+बल-कल\N-NN से\PSP सउ\N-NN मेहमान\N-NN के\PSP नल्ली\N-NN में\PSP गोत\V-VM देलक\V-VAUX ।\RD-PUNC 
+मेहमान\N-NN छोड़वे\V-VM के\PSP बड़ी\N-NN कोरसिस\N-NN करलका\V-VM मुदा\N-NN पांच-छो\N-NN लइकन\N-NN कस\RB के\PSP गोथारले\V-VM रहला\V-VAUX ।\RD-PUNC 
+कादो\CC-CCS पानी\N-NN मुंह\N-NN में\PSP गेला\V-VM पर\PSP गड-गड़\N-NN करऽ\V-VM लगल\V-VAUX ।\RD-PUNC 
+सउ\N-NN दारू\N-NN के\PSP नीसां\N-NN वालन\N-NN कहे\V-VM लगलन-‘‘\V-VAUX पहुंनमां\RD-PUNC हंसऽ\V-VAUX हथुन\V-VAUX हो\V-VAUX ।\RD-PUNC 
+’’\N-NN सउ\N-NN हंसे\V-VM लगला\V-VAUX ।\RD-PUNC 
+दू-चार\QT-QTC मिलिट\N-NN गोतला\N-NN पर\PSP जउ\PR-PRL बड़-बुढ़\N-NN डांटऽ\V-VM लगलन\V-VAUX तउ\N-NN सउ\N-NN नउजुआन\V-VM भागे\V-VAUX लगला\V-VAUX ।\RD-PUNC 
+मुदा\N-NN ई\DM-DMI कि\CC-CCS पहुना\V-VM तऽ\CC-CCS नल्ली\N-NN में\PSP गोताल\N-NN के\PSP गोताले\N-NN रह\V-VM गेला\V-VAUX ।\RD-PUNC 
+सउ\N-NN जउ\PR-PRL पहुना\V-VM के\PSP नल्ली\N-NN से\PSP बाहर\N-NN निसास\N-NN के\PSP मुंह\N-NN के\PSP धो-धा\N-NN के\PSP साफ\N-NN करि\V-VM के\PSP पानी\N-NN के\PSP छिंटा\N-NN मारे\V-VM लगला\PSP तउ\V-VM तऽ\CC-CCS सउ\N-NN के\PSP होसे\V-VM उड़\V-VAUX गेल\V-VAUX .\RD-PUNC 
+मेहमान\N-NN मर\V-VM चुकला\N-NN हल\V-VM ।\RD-PUNC 
+नउजुआन\N-NN के\PSP नादानी\N-NN आउ\CC-CCD धुरखेली\N-NN खेले\V-VM के\PSP विकृत\N-NN कुरीति\N-NN के\PSP भेंट\N-NN गांव\N-NN के\PSP एगो\QT-QTC बेटी\N-NN के\PSP सुहाग\N-NN चढ़\N-NN चुकल\V-VM हल\V-VAUX ।\RD-PUNC 
+-नदसेना,\CC-CCD मेसकौर\N-NN (नवादा)-----------------------------------------------------------------------------------------------------------लघुकथा\N-NN सच\N-NN के\PSP जांच\N-NN कृष्ण\N-NN कुमार\N-NNP भट्टा\N-NN गाड़ी\N-NN जइसहीं\PR-PRL नवादा\N-NN टिसन\N-NN से\PSP खुलल,\V-VM हम्मर\PR-PRP नजर\N-NN एगो\QT-QTC कड़कड़िया\N-NN सौटकिया\N-NN नोट\N-NN पर\PSP पड़ल\V-VM ।\RD-PUNC 
+अभी\N-NN हम\PR-PRP ओकरा\PR-PRP उठावे\V-VM ला\PSP करिये\V-VM रहली\V-VM हल\V-VAUX कि\CC-CCS एगो\QT-QTC अदमी\N-NN के\PSP लात\N-NN से\PSP ठेला\V-VM के\PSP ऊ\PR-PRP आउ\CC-CCD करगी\N-NN लग\V-VM गेल\V-VAUX ।\RD-PUNC 
+थूक\N-NN बिगे\N-NN के\PSP बहाने\N-NN हम\PR-PRP ऊ\PR-PRP नोट\N-NN उठा\V-VM लेली\V-VAUX ।\RD-PUNC 
+सोंचली\V-VM कि\CC-CCS जेकर\PR-PRL होयत\V-VM ऊ\PR-PRP बेचारा\N-NN के\PSP नींद\N-NN न\RP-NEG आयत,\N-NN ई\DM-DMI लागी\PSP ठीक\JJ पहिचान\V-VM करके\V-VM ई\DM-DMI रुपइया\N-NN दे\V-VM देवे\V-VAUX के\PSP चाही\V-VAUX ।\RD-PUNC 
+हम्मर\PR-PRP दिमाग\N-NN में\PSP एक\QT-QTC बात\N-NN आयल,\V-VM फिन\CC-CCD हम\PR-PRP सौ\QT-QTC के\PSP नोट\N-NN जेभी\N-NN में\PSP रख\V-VM के\PSP पचसटकिया\N-NN कड़कड़िया\N-NN नोट\N-NN निकाल\V-VM के\V-VAUX सभे\N-NN से\PSP कहली\V-VM -\RD-PUNC "भाई\N-NN जी,\V-VM ई\DM-DMI रुपइया\N-NN किनकर\V-VM हे\V-VAUX ?\RD-PUNC 
+"तीन\CC-CCD चार\QT-QTC अदमी\N-NN कहे\V-VM लगलन\V-VAUX -\RD-PUNC "हम्मर\N-NN हे\V-VM !\RD-PUNC 
+ई\DM-DMI नोट\N-NN हम्मर\V-VM हे\V-VAUX ।\RD-PUNC 
+"हम\PR-PRP कहली\V-VM -\RD-PUNC "केकरो\PR-PRI भी\RP-RPD होयत,\V-VM त\CC-CCD एक्के\QT-QTC अदमी\N-NN के\PSP न\RP-NEG होयत\V-VM ?\RD-PUNC 
+सच-सच\N-NN बोलऽ,\V-VM तऽ\CC-CCS रुपइया\N-NN दे\V-VM देबो\V-VM ।\RD-PUNC 
+"बाकि\CC-CCD ऊ\PR-PRP सब\QT-QTF अप्पन\PR-PRP दावा\N-NN पर\PSP अड़ल\N-NN हलन\V-VM ।\RD-PUNC 
+एतने\DM-DMD में\PSP एगो\QT-QTC अदमी\N-NN जे\PR-PRL दूर\N-NN में\PSP बइठल\V-VM हल,\V-VAUX धड़फड़ायल\N-NN अयलक,\V-VM बाकि\CC-CCD नोट\N-NN देख\V-VM के\V-VAUX चुप\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+हमहीं\N-NN उनका\PR-PRP से\PSP पुछली\V-VM -\RD-PUNC "का\V-VM भाई\N-NN जी,\RP-RPD ई\DM-DMI नोट\V-VM तोहरे\PR-PRP हवऽ\V-VM का\PR-PRQ ?\V-VM 
+"ऊ\N-NN अदमी\N-NN कपस\N-NN के\PSP कहलक\V-VM -\RD-PUNC "न\V-VM भाई\N-NN जी\N-NN !\V-VM 
+ई\DM-DMI नोट\N-NN हम्मर\PR-PRP न\RP-NEG हे\V-VM ।\RD-PUNC 
+हम्मर\PR-PRP नोट\N-NN सौटकिया\N-NN हेरायल\V-VM हे\V-VAUX आउ\CC-CCD ई\DM-DMI पचसटकिया\N-NN हे\V-VM ।\RD-PUNC 
+"बस,\DM-DMD जे\PR-PRL भी\RP-RPD से\PSP सौटकिया\N-NN नोट\N-NN निकाल\V-VM के\PSP ऊ\PR-PRP अदमी\N-NN के\PSP देके\V-VM सभे\N-NN से\PSP कहली\V-VM -\RD-PUNC "भाई\N-NN साब\N-NN !\V-VM 
+ई\DM-DMI नोट\N-NN इनकरे\N-NN हे\V-VM ।\RD-PUNC 
+काहे\CC-CCS कि\CC-CCS नोट\N-NN पचास\N-NN के\PSP नञ्,\N-NN सौ\QT-QTC के\PSP मिलल\V-VM हमरा\PR-PRP ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL सब\QT-QTF के\PSP जाँच\V-VM करे\V-VAUX के\PSP खातिर\N-NN ई\DM-DMI चाल\N-NN चलली\V-VM हल\V-VAUX ।\RD-PUNC 
+"\N-NN सब\QT-QTF लोग\N-NN के\PSP मुड़ी\N-NN लाज\N-NN से\PSP झुकल\N-NN रह\V-VM गेल\V-VAUX ।\RD-PUNC 
+-भट्टा,\CC-CCD काशीचक\V-VM (नवादा)------------------------------------------------------------------------------------------------------------लघुकथा\N-NN ई\DM-DMI कइसन\PR-PRQ संबंध\V-VM विनीत\N-NN कुमार\N-NNP मिश्र\N-NN अकेला\N-NN कौलेज\N-NN में\PSP एगो\QT-QTC गोष्ठी\N-NN के\PSP आयोजन\N-NN कइल\V-VM गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+ओकरा\PR-PRP में\PSP भाग\V-VM लेवे\V-VAUX ला\PSP ढेर\QT-QTF मनी\N-NN छात्र-छात्रा\N-NN आउ\CC-CCD प्रोफेसर\N-NN लोग\N-NN आयल\V-VM हलन\V-VAUX ।\RD-PUNC 
+गोष्ठी\N-NN के\PSP विषय\N-NN हल\V-VM ‘चरित्र\N-NN के\PSP पतन,\N-NN कारन\N-NN आउ\CC-CCD उपाय’\N-NN ।\RD-PUNC 
+एकाएकी\N-NN सउ\N-NN लोग\N-NN अप्पन-अप्पन\N-NN विचार\N-NN देइत\V-VM हलन\V-VAUX ।\RD-PUNC 
+श्रोता\N-NN लोग\N-NN धेयान\N-NN लगाके\V-VM सुन\V-VM रहलन\V-VAUX हल\V-VAUX ।\RD-PUNC 
+जउ\PR-PRL प्रोफेसर\N-NN लालचन\N-NN के\PSP बारी\N-NN आयल\V-VM तउ\PR-PRL ऊ\PR-PRP कहे\V-VM लगलन\V-VAUX -\RD-PUNC ‘‘जवान\N-NN से\PSP लेके\V-VM बूढ़ा\N-NN तक\RP-RPD में\PSP पछिम\N-NN के\PSP जीवन-शैली\N-NN अपनावे\V-VM के\PSP होड़\V-VM लगल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+बड़कन\N-NN तो\PR-PRL पछिम\N-NN के\PSP भी\RP-RPD मात\N-NN कइले\V-VM हे\V-VAUX ।\RD-PUNC 
+छोटकन\JJ भी\RP-RPD ई\DM-DMI होड़\N-NN में\PSP शामिल\N-NN होवे\V-VM लेल\V-VAUX जी-जान\N-NN से\PSP लगल\V-VM हथ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI तरह\RP-RPD से\PSP बिना\PSP सोंचले-समझले\N-NN आधुनिकता\N-NN के\PSP तरफ\N-NN डेग\N-NN बढ़ावे\V-VM के\V-VAUX परिनाम\N-NN ई\DM-DMI भेल\V-VM कि\CC-CCS अदमी\N-NN के\PSP नैतिक\N-NN आउ\CC-CCD चारित्रिक\QT-QTC पतन\N-NN हो\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पुरूष\N-NN आझ\N-NN औरत\N-NN के\PSP खाली\QT-QTF भोग\N-NN के\PSP वस्तु\N-NN समझ\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+रिश्ता\N-NN के\PSP मरजादा\N-NN टूट\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आझ\N-NN हमन्हीं\V-VM के\PSP अप्पन\PR-PRP नजर\N-NN आउ\CC-CCD सोचे\V-VM के\PSP ढंग\V-VM के\PSP बदले\N-NN के\PSP जरूरत\N-NN हइ\V-VM ।\RD-PUNC 
+जउ\PR-PRL तक\RP-RPD ई\DM-DMI नञ्\V-VM बदलत\N-NN संबंध\V-VM के\PSP पवित्रता\N-NN विगड़ल\N-NN रहत\V-VM ।\RD-PUNC 
+रिश्ता\N-NN तार-तार\N-NN आउ\CC-CCD कंलंकित\N-NN होत\V-VM रहत\V-VAUX ।\RD-PUNC 
+’’उनखर\N-NN भासन\N-NN आउ\CC-CCD ऐसन\DM-DMD पवित्र\N-NN विचार\N-NN पर\PSP खुमे\V-VM ताली\N-NN बजल\V-VM ।\RD-PUNC 
+दूसरके\QT-QTC दिन\N-NN दुपहरिया\N-NN में\PSP एगो\QT-QTC छात्र\N-NN प्रोफेसर\N-NN साहेब\N-NN से\PSP भेंट\V-VM करेला\V-VAUX उनखर\PR-PRP घरे\N-NN गेल\V-VM ।\RD-PUNC 
+दरवाजा\N-NN बंद\N-NN देख\V-VM के\V-VAUX जउ\PR-PRL ऊ\PR-PRP खिड़की\N-NN से\PSP झांकऽ\V-VM हे\V-VAUX तउ\PR-PRL देखऽ\V-VM हे\V-VAUX कि\CC-CCS प्रोफेसर\N-NN साहेब\N-NN एगो\QT-QTC छात्रा\N-NN के\PSP जौरे\N-NN अप्पन\PR-PRP कथन\N-NN हर\N-NN औरत\N-NN भोग\N-NN के\PSP वस्तु\N-NN हे\V-VM के\PSP साथर्क\N-NN कर\V-VM रहलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+इनका\PR-PRP नीचे\N-NST दबल\V-VM बेबसी\N-NN आउ\CC-CCD लचारी\N-NN के\PSP चलते\V-VM असमर्थ\N-NN ऊ\PR-PRP छात्रा\N-NN चाह\N-NN के\PSP भी\RP-RPD निकल\V-VM न\RP-NEG पा\N-NN रहल\V-VM हल\V-VAUX ।\RD-PUNC 
+जउ\PR-PRL ई\DM-DMI देखलक\V-VM कि\CC-CCS लड़की\N-NN विरोध\N-NN करला\V-VM पर\PSP भी\RP-RPD छूट\V-VM न\RP-NEG रहल\V-VM हे\V-VAUX तउ\PR-PRL ऊ\PR-PRP दरवाजा\N-NN खटखटावे\V-VM लगल\V-VAUX ।\RD-PUNC 
+दू\QT-QTC मिनट\N-NN के\PSP बाद\N-NN जउ\PR-PRL दरवाजा\N-NN खुलल\V-VM तउ\N-NN एही\DM-DMD लगल\V-VM कि\CC-CCS ईहां\DM-DMD पढ़ाय\V-VM होत\V-VAUX हे\V-VAUX ।\RD-PUNC 
+जउ\PR-PRL परिचय\N-NN भेल\V-VM तउ\PR-PRL पता\N-NN चलल\V-VM कि\CC-CCS ऊ\PR-PRP छात्रा\N-NN उनखर\N-NN भतिजी\N-NN लगऽ\V-VM हे\V-VAUX जे\PR-PRL बाप\N-NN के\PSP मरला\N-NN के\PSP बाद\N-NN माय\N-NN के\PSP साथे\PSP इहर्इं\N-NN रहके\V-VM पढइत\V-VAUX हे\V-VAUX ।\RD-PUNC 
+-पुरानस\N-NN करपी,\V-VM अरवल------------------------------------------------------------------------------------------------------------लघुकथा\N-NN बाबुल\N-NN के\PSP बेटी:\N-NN कजरी\N-NN ई.\V-VM अमित\V-VAUX कुमार\N-NNP हाली-हाली\N-NN बुलल\V-VM जा\V-VAUX रहलखिन\V-VAUX हल\V-VAUX कजरी\N-NN के\PSP बाउ\N-NN ।\RD-PUNC 
+दुपहरिया\N-NN के\PSP भरल\N-NN बजरा\N-NN में\PSP कोय\PR-PRI गाम\N-NN वला\PSP देख\V-VM नञ्\CC-CCS ले\V-VM कि\CC-CCS महाजनजी\N-NN के\PSP ईहां\DM-DMD जा\V-VM रहला\V-VAUX हें\V-VAUX ।\RD-PUNC 
+महाजन\N-NN जी\N-NN के\PSP घारा\N-NN में\PSP घुस\V-VM के\V-VAUX पुछलखिन-‘‘मालिक\N-NN जी\N-NN हखिन\N-NN ?\V-VM 
+’’\N-NN ‘‘बइठथिन\V-VM ने\RP-NEG मालिक\N-NN जी\N-NN आ\V-VM रहलखिन\V-VAUX हैं’’\V-VAUX ।\RD-PUNC 
+अर्दली\N-NN बोललक\V-VM ।\RD-PUNC 
+बाउजी\N-NN पसीना\N-NN पोंछ\N-NN के\PSP बइठ\V-VM गेला\V-VAUX ।\RD-PUNC 
+तेसरकी\QT-QTO और\CC-CCD छोटकी\JJ बेटी\N-NN कजरी\N-NN के\PSP बियाह\N-NN में\PSP मोटरसाइकिल\N-NN के\PSP मांग\V-VM होल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+रहि-रहि\N-NN के\PSP कजरी\N-NN के\PSP माय\N-NN के\PSP कटाक्ष\N-NN दिल\N-NN के\PSP चुभ\N-NN रहल\V-VM हल\V-VAUX ।\RD-PUNC 
+-\RD-PUNC ‘‘मास्टर\N-NN बन\V-VM के\PSP की\V-VAUX कर\V-VM लेलहो\V-VAUX ?\RD-PUNC 
+तोहरा\N-NN से\PSP तो\PR-PRL बेस\N-NN बिलौक\N-NN के\PSP चपरासी\N-NN हइ,\V-VM जे\PR-PRL कुच्छो\QT-QTF घुसो\V-VM लेके\V-VM बाल\N-NN बच्चा\N-NN के\PSP ठीक\N-NN से\PSP रखो\V-VM हय\V-VAUX ।\RD-PUNC 
+ई\DM-DMI तीन\QT-QTC गो\RP-CL बेटी\N-NN के\PSP बियाह\N-NN ई\DM-DMI मास्टरी\N-NN से\PSP नय\N-NN होतो\N-NN कजरी\N-NN के\PSP बाउ\N-NN ।\RD-PUNC 
+ऊ\PR-PRP सोंच\V-VM रहला\V-VAUX हल\V-VAUX २५\N-NN बरस\N-NN हो\V-VM गेल\V-VAUX जे\PR-PRL समाज,\V-VM जे\PR-PRL पीढ़ी\N-NN के\PSP हम\PR-PRP दम\N-NN लगा\V-VM के\V-VAUX बनैलूं\N-NN आझ\N-NN ऊहे\PSP समाज\N-NN आउ\CC-CCD ओकर\PR-PRP रीत\N-NN के\PSP चंगुल\N-NN में\PSP फंसल\N-NN हूँ\V-VM ।\RD-PUNC 
+झुठ\CC-CCS बोल\V-VM के\PSP अइलूं\V-VAUX हें\V-VAUX कि\CC-CCS हम\PR-PRP अप्पन\PR-PRP इंजीनियर\N-NN चेला\N-NN से\PSP पैसा\N-NN लेके\V-VM आवऽ\V-VAUX हूं,\V-VAUX तों\RD-PUNC हदिया\N-NN नञ्\N-NN कजरी\N-NN के\PSP माय\N-NN ।\RD-PUNC 
+पर\PSP केकरा\PR-PRQ भिर\V-VM ?\V-VAUX 
+कौन\PR-PRI मुहं\N-NN ले\V-VM के\PSP जातूं\N-NN हल\V-VM ,\RD-PUNC ई\DM-DMI लेल\V-VM महाजन\N-NN के\PSP पास\N-NN आ\V-VM गेलूं\V-VAUX ।\RD-PUNC 
+कजरी\N-NN के\PSP माय\N-NN भी\RP-RPD नैहरा\N-NN गेल\V-VM हे\V-VAUX पइसा\N-NN के\PSP जोगाड़\N-NN में\PSP ।\RD-PUNC 
+महाजन\N-NN जी\N-NN आ\V-VM रहला\V-VAUX हल\V-VAUX उनखर\N-NN पीछू\N-NN दू\QT-QTC गो\RP-CL अर्दली\N-NN मच्छी\N-NN उड़ावे\V-VM लेल\V-VAUX पंखा\N-NN हौंक\V-VM रहल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+अइते\N-NN मालिक\N-NN जी\N-NN बुझ\V-VM गेला\V-VAUX आउ\CC-CCD कहे\V-VM लगला-\V-VAUX ‘‘मास्टर\N-NN साहेब\N-NN दोसरकी\QT-QTO बेटी\N-NN के\PSP बियाह\N-NN घड़ी\N-NN जे\PR-PRL रकम\N-NN लेलहो\V-VM हल\V-VAUX ऊहे\V-VAUX तऽ\CC-CCS अभी\N-NN तलुक\N-NN वापस\N-NN नञ्\PSP भेलइ\V-VM ?\V-VAUX 
+’’\N-NN गिरवी\V-VM लेल\V-VAUX खेतो\N-NN नञ्\N-NN हको\V-VM ?\CC-CCD 
+‘‘मालिक\N-NN ई\DM-DMI मास्टर\N-NN के\PSP इज्जत\N-NN अपने\PR-PRP के\PSP हाथ\N-NN में\PSP हकन\V-VM ।\RD-PUNC 
+अपने\PR-PRP ही\RP-RPD गरीब\N-NN के\PSP भगवान\N-NN हथिन\V-VM ।\RD-PUNC 
+हम\PR-PRP भर\N-NN जिनगी\N-NN अपने\PR-PRP के\PSP बाल\N-NN बच्चा\N-NN के\PSP पढ़ा\V-VM के\PSP रकम\N-NN चूका\V-VM देम\V-VAUX ।\RD-PUNC 
+हमरे\PR-PRP के\PSP पढावल\V-VM ने\RP-NEG एगो\QT-QTC बेटा\N-NN इंजीनियर\N-NN हखिन\V-VM ।\RD-PUNC 
+’’\N-NN ई\DM-DMI पर\PSP महाजन\N-NN जी\N-NN भेद\N-NN खोल\V-VM देलथिन\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP कहलथिन\V-VM –\N-NN ‘‘कि\V-VM जी\N-NN दुन्नूं\N-NN औरत-मरद\N-NN आझ\N-NN सीखा-बुद्धि\N-NN करि\V-VM के\V-VAUX एकाएकी\N-NN आ\V-VM रहलहो\V-VAUX हे\V-VAUX ।\RD-PUNC 
+तनिके\N-NN देर\N-NN भेल\V-VM हऽ\V-VAUX ने,\RD-PUNC मलकिनी\N-NN तऽ\CC-CCS अइबे\N-NN करलथून\V-VM हल\V-VAUX जेवर\N-NN दे\V-VM के\PSP पैसा\N-NN ले\V-VM गेलखुन\V-VAUX हें\V-VAUX ।\RD-PUNC 
+उहो\N-NN ईहे\PSP बात\N-NN कहलखुन\V-VM कि\CC-CCS मास्टर\N-NN साहेब\N-NN जिनगी\N-NN भर\N-NN अपने\PR-PRP के\PSP बाल\N-NN बच्चा\N-NN के\PSP पढ़ा\V-VM देथिन\V-VAUX ।\RD-PUNC 
+अउ\CC-CCD तूं\N-NN अइला\N-NN हे\V-VM तऽ\CC-CCS ले\V-VM जा\V-VM अपने\PR-PRP भी\RP-RPD बीस\QT-QTC हजार\N-NN ।\RD-PUNC 
+’’\CC-CCD कइसे\PR-PRQ तऽ\CC-CCS महाजनजी\N-NN के\PSP दिल\N-NN पसीज\N-NN गेल\V-VM ।\RD-PUNC 
+कजरी\N-NN के\PSP माय\N-NN आझ\N-NN हमारा\N-NN से\PSP झूठे\N-NN बोलला\V-VM ।\RD-PUNC 
+नैहरा\N-NN के\PSP बहाना\N-NN करि\V-VM के\V-VAUX ईहां\DM-DMD जेबर\N-NN रखे\N-NN आ\V-VM गेली\V-VAUX ।\RD-PUNC 
+साझं\N-NN के\PSP लउटे\V-VM घड़ी\N-NN दुन्नुं\V-VM मरद-मेहरारू\N-NN एक्के\QT-QTC मैक्सी\N-NN पर\PSP बैठला\V-VM ।\RD-PUNC 
+मास्टर\N-NN साहेब\N-NN ताना\N-NN देवे\V-VM के\PSP अंदाज\N-NN में\PSP पूछे\V-VM लगला\V-VAUX -\RD-PUNC ‘‘कि\CC-CCS जी,\V-VM नैहरा\N-NN से\PSP बड़ी\RB जल्दी\N-NN लउट\V-VM गेलहो\V-VAUX ।\RD-PUNC 
+’’\N-NN ऊ\PR-PRP मने-मन\N-NN कह\V-VM रहला\V-VAUX हल-\RD-PUNC ‘‘धन्य\N-NN हका\N-NN तों\N-NN कजरी\N-NN के\PSP माय\N-NN !\V-VM 
+आझ\N-NN हमारा\N-NN बेच\V-VM के\PSP तों\N-NN अपन\PR-PRP नैहरा\N-NN के\PSP इज्जत\N-NN बढ़ा\V-VM लेली\V-VAUX ।\RD-PUNC 
+अच्छा\JJ चलाऽ\V-VM कम\N-NN से\PSP कम\N-NN कजरी\N-NN तऽ\V-VM खुश\JJ रहत\V-VM ।\RD-PUNC 
+दुन्नुं\N-NN मरद-मेहरारू\N-NN जउ\PR-PRL घर\N-NN पहुँचला\V-VM तऽ\CC-CCS देखऽ\V-VM हऽ\V-VAUX कि\CC-CCS कजरी\N-NN घर\N-NN पर\PSP नञ्\V-VM ।\RD-PUNC 
+कजरी\N-NN के\PSP खोज\V-VM होवे\V-VAUX लगल\V-VAUX ।\RD-PUNC 
+कजरी\N-NN तऽ\CC-CCS नञ्\N-NN मिलल,\V-VM मिलल\N-NN तऽ\CC-CCS ओकरएगो\QT-QTC चिट्ठी\N-NN ।\RD-PUNC 
+लिखलहल-\V-VM बाउजी\N-NN आउ\CC-CCD माय,\N-NN बड़ी\JJ जतन\N-NN से\PSP तों\N-NN सब\QT-QTF हमरा\PR-PRP पालला\V-VM ।\RD-PUNC 
+सउ\N-NN शौक\N-NN तों\N-NN पूरा\N-NN कईला\V-VM ।\RD-PUNC 
+बाउजी\N-NN कहो\V-VM हला,\V-VAUX भगमान\N-NN हमरा\PR-PRP बेटा\N-NN नञ्\V-VM देलका\V-VAUX लेकिन\CC-CCD कजरी\PR-PRP हम्मर\PR-PRP बेटा\N-NN से\PSP कम\N-NN नञ्\V-VM हे\V-VAUX ।\RD-PUNC 
+बाउजी\N-NN हम\PR-PRP तोहर\PR-PRP बेटा\N-NN बनइ\V-VM के\PSP कोरसिस\N-NN कइलियो\V-VM पर\PSP बेटा\N-NN नञ्\N-NN बन\V-VM सकलिअइ\V-VAUX ।\RD-PUNC 
+हम्मर\PR-PRP बिआह\N-NN ले\V-VM तोहन्हीं\V-VAUX सउ\N-NN बेहाल\N-NN हो\V-VM रहला\V-VAUX हे,\RD-PUNC ई\DM-DMI हमरा\PR-PRP से\PSP नञ्\N-NN देखल\V-VM जा\V-VAUX हो\V-VM ।\RD-PUNC 
+सउ\N-NN एतना\QT-QTF तिल्लक\N-NN मांगो\N-NN हो\V-VM तऽ\CC-CCS कजरी\N-NN के\PSP कन्ने\N-NN से\PSP बियाह\N-NN होतो\V-VM ।\RD-PUNC 
+बाउजी\N-NN के\PSP कन्धा\N-NN पर\PSP खेललियो,\V-VM हाथ\N-NN से\PSP पढ़लियो,\V-VM लगलो\V-VAUX कउन\PR-PRQ कन्धा\N-NN पर\PSP बाउजी\N-NN ढो\N-NN के\PSP हमरा\PR-PRP ले\V-VM जइता\V-VAUX आउ\CC-CCD कउन\PR-PRQ हाथ\N-NN से\PSP अपन\PR-PRP बेटा\N-NN के\PSP जरइता\V-VM ।\RD-PUNC 
+ईहे\DM-DMD से\PSP गंगा\N-NNP माय\N-NN के\PSP गोदी\N-NN में\PSP जा\V-VM रहलियो\V-VAUX हें\V-VAUX ।\RD-PUNC 
+आउ\CC-CCD गंगा\N-NN जी\N-NN से\PSP कहबो\V-VM की\V-VAUX ई\DM-DMI जनम\N-NN में\PSP हम\PR-PRP कोय\PR-PRI पाप\N-NN नञ्\N-NN कइलूं\V-VM हे\V-VAUX ।\RD-PUNC 
+अगला\N-NN जलम\N-NN हमरा\PR-PRP बेटी\N-NN में\PSP नञ्\N-NN करिहा,\V-VM बकिर\N-NN बाउजी\N-NN आउ\CC-CCD माय\N-NN हमारा\N-NN ईहे\PSP दुन्नुं\N-NN के\PSP दिहऽ\V-VM ।\RD-PUNC 
+जा\V-VM हिइओ,\V-VAUX अप्पन\PR-PRP सउ\N-NN खेयाल\N-NN रखिहऽ\V-VM ।\RD-PUNC 
+तोर\PR-PRP करेजा\N-NN कजरी----------------------------------------------------------------------------------------------------------------लघुकथा\N-NN सोंचल\V-VM सपना\N-NN तिनका\PR-PRP लेखा\N-NN बिखर\V-VM गेल\V-VAUX सुमन्त\N-NN केतना\QT-QTF जिद्द\N-NN करके\V-VM नौमा\N-NN में\PSP नाम\N-NN लिखवैली\V-VM हल\V-VAUX ।\RD-PUNC 
+माय-बाबूजी\N-NN के\PSP तो\PR-PRL हमरा\PR-PRP पढावे-लिखावे\V-VM के\PSP पूरा\N-NN मन\N-NN हल,\PSP बाकि\CC-CCD नाना\N-NN ई\DM-DMI जिद्द\N-NN पर\PSP अड़ल\V-VM हलन\V-VAUX कि\CC-CCS जउन\PR-PRL एक\QT-QTC बेर\N-NN अइसन\RP-RPD लइका\N-NN हाथ\N-NN से\PSP निकल\V-VM गेल,\V-VAUX तब\PR-PRL दोबारे\N-NN हाथ\N-NN न\RP-NEG लगत\V-VM ।\RD-PUNC 
+शहर\N-NN में\PSP चार\QT-QTC तल्ला\N-NN मकान,\N-NN लइका\N-NN के\PSP बाप\N-NN के\PSP सरकारी\N-NN नौकरी,\N-NN गॉव\N-NN में\PSP जर-जमीन,\V-VM लइका\N-NN भाई\N-NN में\PSP अकेले\N-NN आउ\CC-CCD का\PR-PRQ चाहि\V-VM ।\RD-PUNC 
+लाख\N-NN रूपया\N-NN बेसी\RB भी\RP-RPD लग\V-VM जाए\V-VAUX तऽ\CC-CCS सौदा\N-NN हाथ\N-NN से\PSP न\RP-NEG निकले\V-VM देवे\V-VAUX के\PSP चाहि\N-NN ।\RD-PUNC 
+सुन-सुन\N-NN के\PSP मन\N-NN खराब\N-NN हो\V-VM जा\V-VAUX हल\V-VAUX ।\RD-PUNC 
+तइयो\CC-CCS पढाई-लिखाई\N-NN में\PSP कउनो\N-NN कोर\N-NN कसर\N-NN न\RP-NEG छोड़ली\V-VM ।\RD-PUNC 
+दुपहरिया\N-NN में\PSP स्कूल\N-NN से\PSP लौटली\V-VM तऽ\CC-CCS घर\N-NN में\PSP भीड़\N-NN हल\V-VM ।\RD-PUNC 
+नाना\N-NN दुआरी\N-NN पर\PSP खाड़\V-VM हम्मर\PR-PRP राह\N-NN ताक\N-NN रहलन\V-VM हल\V-VAUX ।\RD-PUNC 
+बेमन\N-NN से\PSP नाना\N-NN के\PSP गोड़\N-NN छूली\V-VM ।\RD-PUNC 
+छूटते\V-VM कहलन\V-VM -\RD-PUNC ‘‘बेटा\N-NN !\V-VM 
+लड़कावालन\N-NN तोहरा\N-NN देखे\V-VM ऐलन\V-VAUX हे,\V-VAUX जउन\PR-PRL पूछतन\V-VM निमन\N-NN से\PSP जबाब\N-NN दीहऽ\V-VM ।\RD-PUNC 
+’’\V-VM लगलक\V-VAUX कि\CC-CCS नाना\N-NN के\PSP नानी\N-NN इयाद\N-NN करवा\V-VM देई,\V-VAUX बाकि\CC-CCD महसोस\N-NN के\PSP रह\V-VM गेली\V-VAUX ।\RD-PUNC 
+सबकुछ\QT-QTF हो\V-VM हवा\N-NN गेल\V-VM ।\RD-PUNC 
+बिआह\N-NN के\PSP दिन\N-NN तारीख\N-NN सब\QT-QTF रखा\V-VM गेल\V-VAUX ।\RD-PUNC 
+हार-पार\N-NN के\PSP हम\PR-PRP बाबूजी\N-NN से\PSP बस\N-NN एतने\N-NN हाथ\N-NN जोड़\N-NN के\PSP विनती\N-NN करली\V-VM –\N-NN ‘‘बाबूजी\N-NN !\V-VM 
+बेटी\N-NN पराया\N-NN होवऽ\V-VM हे,\V-VAUX हमहूं\PR-PRP तोहर\PR-PRP बेटी\N-NN ही\V-VM ।\RD-PUNC 
+मैट्रिक\N-NN परीक्षा\N-NN देवे\V-VM के\PSP बाद\N-NN जहिंआ\DM-DMR मन\N-NN होवे\V-VM घर\N-NN से\PSP खेद\N-NN दीहऽ,\V-VM चल\V-VM जाएम\V-VAUX ।\RD-PUNC 
+जिनगी\N-NN के\PSP सवाल\N-NN हे-बर्बाद\N-NN न\RP-NEG करऽ\V-VM ।\RD-PUNC 
+बाबूजी\N-NN के\PSP हम्मर\PR-PRP बात\N-NN लग\V-VM गेल\V-VAUX ।\RD-PUNC 
+मैट्रिक\N-NN परीक्षा\N-NN देवे\V-VM के\PSP बाद\N-NN हाथ\N-NN पीअर\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+साथे-साथे\N-NN मन\N-NN में\PSP सोंचल\V-VM सभे\QT-QTF सपना\N-NN तिनका\PR-PRP लेखा\N-NN बिखर\V-VM गेल\V-VAUX ।\RD-PUNC 
+माय-बाबूजी\N-NN के\PSP दुआरी\N-NN छूट\V-VM गेल\V-VAUX ।\RD-PUNC 
+ससुराल\N-NN जाते\N-NN ससुरार\N-NN में\PSP सारा\N-NN बोझा\N-NN लदा\V-VM गेल\V-VAUX ।\RD-PUNC 
+हमरा\PR-PRP घर\N-NN में\PSP घुंसते\V-VM सास\N-NN के\PSP बेमारी\N-NN उपट\V-VM गेल\V-VAUX ।\RD-PUNC 
+ऊपरे\N-NST से\PSP ओलहाना\N-NN पर\PSP ओलहाना-घर\N-NN कइसन\PR-PRQ सुन\V-VM सन्नाटा\N-NN लगऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+पास-पड़ोस\N-NN से\PSP केतने\N-NN बेर\N-NN कहलन-\V-VM ‘‘नया\N-NN युग\N-NN जमाना\N-NN के\PSP पुतोह\N-NN दिन-रात\N-NN दवाई\N-NN पर\PSP दवाई\N-NN ।\RD-PUNC 
+’’\N-NN हार\N-NN गेली\V-VM ।\RD-PUNC 
+कोई\PR-PRI तरह\RB से\PSP साल\N-NN काटली,\N-NN गोड़\N-NN भारी\JJ हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+अब\N-NN का\PR-PRQ घर\N-NN के\PSP चहार\N-NN दिवारी\N-NN में\PSP ता\N-NN उमर\N-NN कैद\PSP होके\V-VM रहना\N-NN हे\V-VAUX ।\RD-PUNC 
+सास-ससुर,\N-NN बाल-बच्चा\N-NN में\PSP अझूराएल\V-VM जिनगी\N-NN बस\CC-CCD कोई\PR-PRI तरह\RP-RPD से\PSP खटरा\N-NN गाड़ी\N-NN लेखा\V-VM खिंच\N-NN रहली\V-VM हे\V-VAUX ।\RD-PUNC 
+औरत\N-NN घर\N-NN में\PSP जे\PR-PRL जलम\V-VM लेली\V-VAUX हे\V-VAUX ।\RD-PUNC 
+-सम्पादक-टोला-टाटी\N-NN (गयाजी)----------------------------------------------------------------------------------------------------------------------लघुकथा\N-NN डॉ.\N-NN राम\N-NN प्रसाद\N-NNP सिंह\N-NNP के\PSP दू\QT-QTC लघुकथा\N-NN १.\V-VM संस्कार\N-NN ‘‘घरे\N-NN के\PSP मोह\N-NN तोड़\V-VM दे\V-VAUX रमा\N-NN ?\RD-PUNC 
+’’‘‘तब\N-NN तो\PR-PRL तोरा\PR-PRP हमरा\PR-PRP घरे\N-NN आनके\V-VM रह\N-NN जाय\V-VM के\PSP चाहो\V-VM ।\RD-PUNC 
+’’‘‘नीचे\N-NN के\PSP घऱे\N-NN हम\PR-PRP पर\PSP जेवाई,\N-NN होके\V-VM रहीं\V-VAUX ?\RD-PUNC 
+’’‘‘तब\N-NN का\PR-PRQ हम\PR-PRP तोर\PR-PRP ‘रखनी’\PSP होके\V-VM तोरा\PR-PRP ही\RP-RPD चलीं\V-VM ?\V-VAUX 
+’’ई\N-NN सुन\V-VM के\V-VAUX मोहन\N-NN पाड़े\N-NN के\PSP गोड़\N-NN तर\PSP के\PSP जमीन\N-NN धंसइत\V-VM लौकल\V-VAUX ।\RD-PUNC 
+उनका\PR-PRP सपना\N-NN में\PSP भी\RP-RPD विश्वास\N-NN न\RP-NEG हल\V-VM कि\CC-CCS रमुनी\N-NN से\PSP अइसन\RP-RPD बेलौस\N-NN जवाब\N-NN सुनेला\V-VM मिलत\V-VAUX ।\RD-PUNC 
+मोहन\N-NN पाड़े\N-NN के\PSP रमुनी\N-NN पर\PSP पूरा\N-NN भरोसा\N-NN हल\V-VM ।\RD-PUNC 
+रमुनी\N-NN भी\RP-RPD पाड़े\N-NN पर\PSP जान\N-NN दे\V-VM हल\V-VAUX ।\RD-PUNC 
+बकि\CC-CCD आज\N-NN के\PSP जवाब\N-NN सुन\V-VM के\V-VAUX पाड़े\N-NN के\PSP दिल\N-NN धड़के\V-VM लगल\V-VAUX काहे\CC-CCS से\PSP कि\CC-CCS रमुनी\N-NN के\PSP लेके\V-VM उनखर\N-NN बदनामी\N-NN सउंसे\N-NN गांव\N-NN में\PSP फैल\N-NN चुकल\V-VM हल\V-VAUX ।\RD-PUNC 
+सब\QT-QTF जानऽ\V-VM हलन\V-VAUX कि\CC-CCS रमुनी\N-NN पाड़े\N-NN ही\RP-RPD रह\V-VM जायत\V-VAUX ।\RD-PUNC 
+से\PSP उनखा\N-NN सादी\N-NN भी\RP-RPD न\RP-NEG होइत\V-VM हल\V-VAUX ।\RD-PUNC 
+जात-बेआदरी\N-NN जान\N-NN गेलन\V-VM हल\V-VAUX कि\CC-CCS मोहन\N-NN रमुनी\N-NN के\PSP रख\V-VM लेलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+एक\QT-QTC तुरी\N-NN मोहन\N-NN फिनो\CC-CCD हिम्मत\N-NN कैलन\V-VM –\N-NN ‘‘मान\N-NN जो\RP-RPD हमर\PR-PRP जानी,\V-VM हम\PR-PRP कहईं\N-NN के\PSP न\RP-NEG रहली\V-VM घर\N-NN के\PSP न\RP-NEG घाट\V-VM के\V-VAUX ।\RD-PUNC 
+’’\N-NN बलुक\N-NN मोहन\N-NN पाड़े\N-NN गेला\V-VM के\PSP गला\N-NN के\PSP नीच\N-NN ई\DM-DMI बात\N-NN उतर\V-VM न\RP-NEG रहल\V-VM हल\V-VAUX ।\RD-PUNC 
+२.\N-NN इमरजेंसी\N-NN अस्पताल\N-NN के\PSP इमरजेंसी\N-NN वार्ड,\N-NN दम\N-NN तोड़इत\V-VM रोगी\N-NN के\PSP जमात,\V-VM एस्पेसल\V-VAUX यूनिट\N-NN केयर\N-NN में\PSP एगो\QT-QTC मंत्री\N-NN के\PSP अंगुरी\N-NN में\PSP फोरा\V-VM के\V-VAUX अपरेसन\V-VAUX ।\RD-PUNC 
+इमरजेंसी\N-NN के\PSP सब\QT-QTF डॉक्टर\N-NN मंत्री\N-NN के\PSP इलाज\N-NN में\PSP लगल\V-VM हथ\V-VAUX ।\RD-PUNC 
+डॉक्टर\N-NN के\PSP हजूम\N-NN ऊहां\PR-PRL जुमल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+तब\PR-PRL तक\RP-RPD इमरजेंसी\N-NN वार्ड\N-NN में\PSP कय\V-VM गो\RP-CL रोगी\N-NN दम\N-NN तोड़\V-VM देलन\V-VAUX ।\RD-PUNC 
+एही\DM-DMD घड़ी\N-NN एगो\QT-QTC बूढ़ा\N-NN अप्पन\PR-PRP बेटा\N-NN के\PSP लेले\V-VM रिक्सा\N-NN से\PSP उतरल\V-VM ।\RD-PUNC 
+बेटा\N-NN छाती\N-NN के\PSP दरद\N-NN से\PSP कराह\V-VM रहल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+कबहियों\N-NN बेहोस\N-NN हो\V-VM जा\V-VAUX रहल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+बूढ़ा\N-NN कंपोटर\N-NN से\PSP बिनती\V-VM कैलक\V-VAUX –\N-NN ‘‘इमरजेंसी\N-NN बाबू\N-NN के\PSP बोला\V-VM दऽ\V-VAUX ।\RD-PUNC 
+हम्मर\PR-PRP लइका\N-NN अब\N-NN तब\PR-PRL में\PSP हे\V-VM ।\RD-PUNC 
+’’\N-NN कंपोटर\N-NN तुरते\N-NN बोलल\V-VM –\N-NN ‘‘फीस\N-NN के\PSP सौ\QT-QTC रूपैया\N-NN जमा\N-NN कर\V-VM दऽ\V-VAUX ।\RD-PUNC 
+बाबू\N-NN अभी\N-NN मंत्री\N-NN जी\N-NN के\PSP रूम\N-NN में\PSP हथ\V-VM ।\RD-PUNC 
+उनखर\PR-PRP अपरेसन\N-NN हो\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आवइत\V-VM हथुन\V-VAUX ।\RD-PUNC 
+’’\CC-CCD बूढ़ा\N-NN बोलल\V-VM –\N-NN ‘‘हमरा\PR-PRP भिजुन\PSP एगो\QT-QTC भी\RP-RPD पइसा\N-NN न\RP-NEG हे,\V-VM रूपैया\N-NN कहां\PR-PRQ से\PSP आवत\V-VM ?\V-VAUX 
+’’\CC-CCD ‘‘रहम\N-NN करके\V-VM डाक्टर\N-NN साहेब\N-NN के\PSP जल्दी\N-NN खबर\N-NN कर\V-VM दऽ\V-VAUX ।\RD-PUNC 
+’’कंपोटर\N-NN कहलक\V-VM –\N-NN ‘‘मंत्री\N-NN के\PSP अपरेसन\V-VM हे\V-VAUX इया\CC-CCD खेल\V-VM ?\V-VAUX 
+अभी\N-NN उनखा\N-NN छत्तीस\N-NN घंटा\N-NN स्पेशल\N-NN यूनिट\N-NN केयर\N-NN में\PSP रहेला\V-VM हइन\V-VAUX ।\RD-PUNC 
+तब\PR-PRL तक\RP-RPD सब\QT-QTF डॉक्टर\N-NN उहइं\N-NN रहथुन\V-VM ।\RD-PUNC 
+’’\N-NN एने\DM-DMD बूढ़ा\N-NN के\PSP इकलौत\N-NN बेटा\N-NN दम\N-NN तोड़\V-VM देलक\V-VAUX ।\RD-PUNC 
+------------------------------------------------------------------------------------------------------------मगह\N-NN के\PSP आयोजन\N-NN मुख्य\N-NN मंत्री\N-NN के\PSP माय\N-NN के\PSP पुण्यतिथि\N-NN पर\PSP कल्याण\N-NN बिगहा\N-NN में\PSP काजकरम\V-VM पहिल\N-NN जनवरी\N-NN 2014\V-VM के\PSP मुख्य\N-NN मंत्री\N-NN नीतीश\N-NN कुमार\N-NNP के\PSP पैतृक\N-NN गांव\N-NN नालंदा,\PSP हरनौत\N-NN के\PSP कल्याण\N-NN बिगहा\N-NN में\PSP मगही\N-NN कवि\N-NN सम्मेलन\V-VM आउ\CC-CCD लोक\N-NN कलाकार\N-NN के\PSP जुटान\N-NN भेल\V-VM ।\RD-PUNC 
+मोका\N-NN हल\V-VM मानिंद\N-NN मुख्य\N-NN मंत्री\N-NN के\PSP माय\N-NN परमेश्वरी\N-NN देवी\N-NN के\PSP पुण्यतिथि\N-NN के\PSP ।\RD-PUNC 
+मुख्य\N-NN मंत्री\N-NN के\PSP पुरनका\N-NN घर\N-NN के\PSP चबुतरा\N-NN पर\PSP कवि\N-NN आउ\CC-CCD कलाकार\N-NN के\PSP मंच\N-NN जमल\V-VM ।\RD-PUNC 
+मुख्य\N-NN काजकरम\V-VM तऽ\CC-CCS मुख्य\N-NN मंत्री\N-NN ऊंहा\N-NN आना\N-NN आउ\CC-CCD माता-पिता\N-NN के\PSP प्रतिमा\N-NN पर\PSP माल्यार्पण\N-NN करना\V-VM हल\V-VAUX ।\RD-PUNC 
+लेकिन\CC-CCD ऊ\PR-PRP उपलक्ष्य\N-NN में\PSP कला-संस्कृति\N-NN युवा\N-NN विकास\N-NN विभाग\N-NN आउ\CC-CCD मगही\N-NN अकादमी\N-NN के\PSP संयुक्त\N-NN तत्वावधान\N-NN में\PSP साहित\N-NN आउ\CC-CCD गायन\N-NN के\PSP काजकरम\V-VM आयोजित\V-VAUX कइल\V-VM गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+मुख्य\N-NN मंत्री\N-NN श्रद्धा-सुमन\N-NN अर्पित\N-NN करे\V-VM लेल\V-VAUX पहुंचेवला\RD-PUNC हला\V-VAUX से\PSP लेल\V-VM ऊहां\PR-PRL सांसद,\N-NN विधायक,\N-NN जिला\N-NN प्रशासन\N-NN आउ\CC-CCD बड़गर-बड़गर\N-NN गणमान्य\N-NN नेता\V-VM आउ\CC-CCD लोगबाग\N-NN के\PSP भीड़\N-NN जुमल\V-VM हल\V-VAUX ।\RD-PUNC 
+मुख्य\N-NN मंत्री\N-NN के\PSP काफिला\V-VM जउ\PR-PRL ऊहां\PR-PRL पहुंचल\V-VM तउ\N-NN गायन\N-NN आउ\CC-CCD काजकरम\N-NN थम\V-VM गेल,\V-VAUX थोड़े\N-NN देर\N-NN लेल\V-VM सउ\N-NN बन\V-VM कर\V-VAUX देल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+मुख्य\N-NN मंत्री,\PSP उऩखर\N-NN भाय\N-NN सतीश\N-NN कुमार\N-NNP आउ\CC-CCD बेटा\N-NN निशांत\N-NN आवासे\PSP भिजुन\V-VM के\PSP देवी\N-NN स्थान\N-NN में\PSP पहिले\N-NST पूजा-अर्चना\N-NN करलथिन\V-VM ।\RD-PUNC 
+ओकर\PR-PRP बाद\PSP सामने\N-NN के\PSP बैधराज\N-NN रामलखन\N-NN सिंह\N-NNP स्मृति\N-NN पार्क\N-NN में\PSP जाके\V-VM ऊंहा\V-VAUX स्थापित\N-NN माता\N-NN परमेश्वरी\N-NN देवी\N-NN के\PSP प्रतिमा\N-NN पर\PSP फूल-माला\N-NN चढ़ा\N-NN के\PSP माथा\N-NN टेकलथिन\V-VM ।\RD-PUNC 
+ओकर\PR-PRP बाद\PSP पिता\N-NN वैधराज\N-NN रामलखन\N-NN सिंह\N-NNP आउ\CC-CCD पत्नी\N-NNP मंजू\N-NN देवी\N-NNP के\PSP प्रतिमा\N-NN पर\PSP माल्यार्पण\N-NN कैलथिन\V-VM ।\RD-PUNC 
+ई\DM-DMI सउ\N-NN के\PSP बाद\N-NN ऊ\PR-PRP ऊहां\PR-PRL के\PSP मगही\N-NN काजकरम\N-NN पर\PSP नजर\N-NN दौड़ैलथिन\V-VM आउ\CC-CCD शुटिंग\N-NN रेंज\N-NN में\PSP शुटिंग\N-NN कौशल\N-NN देखे\V-VM चल\V-VM गेलथिन\V-VAUX ।\RD-PUNC 
+मोका\N-NN पर\PSP सांसद\N-NN आर.सी.पी.\N-NN सिंह,\PSP मुख्य\N-NN सचेतक\N-NN श्रवण\N-NN कुमार,\PSP अस्थामा\N-NN के\PSP विधायक\N-NN डॉ.\V-VM जितेंद्र\N-NN कुमार,\PSP हिलसा\N-NN के\PSP विधायक\N-NN प्रो.\N-NN उषा\N-NN सिन्हा,\PSP पूर्व\N-NN विधायक\N-NN ई.\V-VM सुऩील\N-NN कुमार,\PSP विधान\N-NN पार्षद\N-NN हीरा\N-NN प्रसाद\N-NNP बिंद,\N-NNP प्रधान\N-NN सचिव\N-NN अंजनी\N-NN कुमार\N-NNP सिंह,\RD-PUNC खेल\V-VM एंव\V-VAUX युवा\N-NN विभाग\N-NN के\PSP सचिव\N-NN चंचल\V-VM कुमार\N-NN सहित,\PSP डीआईजी,\V-VM एसएसपी\V-VAUX आउ\CC-CCD प्रशासन\N-NN के\PSP बड़गर-बड़गर\N-NN अधिकारी\N-NN उपस्थित\V-VM हला\V-VAUX ।\RD-PUNC 
+मगही\N-NN अकादमी\N-NN के\PSP अध्यक्ष\N-NN उदय\N-NN शंकर\N-NN शर्मा\N-NN आउ\CC-CCD उमेश\N-NN बहादुरपुरी\N-NN के\PSP मंच\N-NN संचालन\N-NN में\PSP कविता\N-NN के\PSP दौर\N-NN चलल\V-VM ।\RD-PUNC 
+माय\N-NN परमेश्वरी\N-NN के\PSP कवि\N-NN लोग\N-NN अप्पन-अप्पन\N-NN कविता\N-NN से\PSP श्रद्धा-सुमन\N-NN अर्पित\N-NN कइलका\V-VM ।\RD-PUNC 
+एकर\DM-DMD अलावे\V-VM सम-सामयिक\N-NN विषय\N-NN पर\PSP कविता\N-NN पाठ\N-NN भेल\V-VM ।\RD-PUNC 
+लोकगायक\N-NN प्रभाकर\N-NN जी\N-NN आउ\CC-CCD मनोज\N-NN जी\N-NN के\PSP टीम\N-NN बड़-बढियां\N-NN सांस्क़ृतिक\N-NN काजकरम\V-VM प्रस्तुत\N-NN कइलन\V-VM ।\RD-PUNC 
+कवि\N-NN मिथिलेश,\V-VM दीनबंधु,\V-VAUX परमेश्वरी,\RD-PUNC उमेश\N-NN प्रसाद\N-NNP सिंह,\N-NNP शफीक\N-NN जानी\N-NN नांदा,\PSP जयराम\N-NN देवसपुरी,\V-VM व्यंग्यकार\N-NN उदय\N-NN भारती,\V-VM रंजीत,\RD-PUNC कृष्ण\N-NN कुमार\N-NNP भट्टा,\RP-RPD एतवारी\N-NN पंडित\N-NN सहित\PSP दर्जनों\N-NN कवि\N-NN ऊहां\PR-PRL पहुंचल\V-VM हलन\V-VAUX ।\RD-PUNC 
+काजकरम\N-NN में\PSP अकादमी\N-NN से\PSP परकासित\N-NN पुस्तक\V-VM आउ\CC-CCD गीत\N-NN संग्रह\N-NN के\PSP सीडी\N-NN खूमे\N-NN बांटल\V-VM गेल\V-VAUX ।\RD-PUNC 
+पहुंचल\V-VM कवि,\N-NN साहितकार\N-NN आउ\CC-CCD लोक\N-NN गायक\N-NN के\PSP सम्मानित\N-NN कइल\V-VM गेल\V-VAUX ।\RD-PUNC 
+चुड़ा,\N-NN दही,\V-VM भूरा\N-NN खिलाके\V-VM विदा\N-NN कइल\V-VM गेल\V-VAUX ।\RD-PUNC 
+गांव\N-NN के\PSP चुड़ा\N-NN आउ\CC-CCD भूरा\N-NN के\PSP सोवाद\N-NN के\PSP मिठास\N-NN सउ\N-NN के\PSP बरसों\N-NN तक\RP-RPD ईयाद\V-VM रहत\V-VAUX ।\RD-PUNC 
+----------------------------------------------------------------------------------------------------------------------मगह\N-NN के\PSP आयोजन\N-NN पोवारी\N-NN गांव\N-NN में\PSP सर\N-NN गणेश\N-NN दत्त\N-NN के\PSP जयंती\V-VM समारोह\N-NN 11\N-NN जनवरी\N-NN 2014\N-NN के\PSP नालंदा,\N-NN हरनौत\N-NN के\PSP पोवारी\N-NN गांव\N-NN में\PSP सर\N-NN गणेश\N-NN दत्त\N-NN जयतीं\N-NN के\PSP पूर्व\N-NN संध्या\N-NN पर\PSP भव्य\N-NN कवि\N-NN गोष्ठी\N-NN के\PSP आयोजन\N-NN भेल,\V-VM जे\PR-PRL में\PSP अधिकारी,\V-VM जज,\V-VAUX बिहार\N-NN आउ\CC-CCD झारखंड\N-NN के\PSP कय\V-VM गो\RP-CL विभाग\N-NN के\PSP सचिव\N-NN सहित\PSP गनमान\N-NN लोगबाग\N-NN के\PSP जुटान\N-NN भेल\V-VM ।\RD-PUNC 
+काजकरम\N-NN के\PSP उद्घाटन\N-NN ब्रहर्षि\N-NN समाज\N-NN के\PSP अध्यक्ष\N-NN नवल\V-VM शर्मा\N-NN आउ\CC-CCD नवादा\N-NN के\PSP जज\N-NN विष्णुदेव\N-NN राय\N-NN जी\N-NN कइलथिन\V-VM ।\RD-PUNC 
+अध्यक्षता\N-NN डॉ.\N-NN राधारमण\N-NN उपाध्याय\N-NN जी\N-NN कइलथिन\V-VM जउकि\CC-CCS मंच\N-NN संचालन\V-VM मगही\N-NN अकादमी\N-NN के\PSP अध्यक्ष\N-NN उदय\N-NN शंकर\N-NN शर्मा\N-NN जी\N-NN कइलथिन\V-VM ।\RD-PUNC 
+पहिले\N-NST सर\N-NN गणेश\N-NN दत्त\N-NN से\PSP जुड़ल\V-VM संदर्भ\N-NN के\PSP चरचा\N-NN होल\V-VM ।\RD-PUNC 
+उनखर\PR-PRP सेवा,\PSP समर्पण\N-NN आउ\CC-CCD साहितप्रेम\N-NN के\PSP बखान\N-NN करल\V-VM गेल\V-VAUX ।\RD-PUNC 
+वक्ता\N-NN आउ\CC-CCD आयोजनकर्त्ता\N-NN पहुंचल\V-VM कवि\V-VAUX आउ\CC-CCD साहितकार\N-NN के\PSP ह्दय\N-NN से\PSP सोवागत\N-NN आउ\CC-CCD अभिनंदन\N-NN कइलका\V-VM ।\RD-PUNC 
+कवि\N-NN सउ\N-NN के\PSP अंगवस्त्रम्\N-NN आदि\N-NN दे\V-VM के\PSP सम्मानित\N-NN कइल\V-VM गेल\V-VAUX ।\RD-PUNC 
+मोका\N-NN पर\PSP नवादा\N-NN के\PSP न्यायधीश\N-NN विष्णुदेव\N-NN राय\N-NN जी\N-NN साहितकार\N-NN के\PSP समाज\N-NN के\PSP सबसे\N-NN बड़का\N-NN स्तंभ\N-NN बतैलका\V-VM ।\RD-PUNC 
+ऊ\PR-PRP कहलका\V-VM कि\CC-CCS साहितकार\N-NN जे\PR-PRL समाज\N-NN में\PSP देखऽ\V-VM हथिन,\V-VAUX जे\PR-PRL भोगऽ\V-VM हथिन\V-VAUX ओकर\PR-PRP जीवंत\N-NN छवि\N-NN ई\DM-DMI साहित\N-NN के\PSP माध्यम\N-NN से\PSP उजागर\N-NN करऽ\V-VM हथिन\V-VAUX ।\RD-PUNC 
+कवि\N-NN आउ\CC-CCD साहितकार\N-NN के\PSP काज\N-NN समाज\N-NN के\PSP सुसंस्कृत\N-NN करे\V-VM में\PSP सउसे\N-NN ऊपर\N-NN हइ\V-VM ।\RD-PUNC 
+उनखर\PR-PRP स्थान\N-NN ऊंचा\JJ हइ\V-VM ।\RD-PUNC 
+साहित\N-NN में\PSP बड़गर\N-NN तागत\N-NN हे\V-VM जेकरा\PR-PRL से\PSP ऊ\PR-PRP समाज\N-NN में\PSP क्रांति\N-NN के\PSP बिगुल\V-VM फूंक\N-NN सकऽ\V-VM हथिन,\V-VAUX विद्रुपता\N-NN के\PSP धारा\N-NN बदल\V-VM दे\V-VAUX सकऽ\V-VM हथिनऽ\V-VAUX ।\RD-PUNC 
+अन्य\N-NN संबोधनकर्त्ता\N-NN आउ\CC-CCD पंहुंचल\N-NN अधिकारी\N-NN भी\RP-RPD साहितकार\N-NN के\PSP काज\N-NN आउ\CC-CCD साधना\N-NN के\PSP सराहलथिन\N-NN ।\RD-PUNC 
+आयोजक\V-VM के\PSP आयोजन\N-NN लेल\V-VM साधुवाद\N-NN देलथिन\V-VM ।\RD-PUNC 
+दोसर\QT-QTO सत्र\N-NN में\PSP कवि\N-NN सम्मेलन\V-VM होल\V-VAUX ।\RD-PUNC 
+जेकरा\PR-PRL में\PSP पहुंचल\V-VM कवि\N-NN परमेशरी,\PSP दीनबंधु,\V-VM दयानंद\N-NN बेधड़क,\RD-PUNC व्यंग्यकार\N-NN उदय\N-NN कुमार\N-NNP भारती,\RD-PUNC जयराम\N-NN देवसपुरी,\V-VM उमेश\N-NN प्रसाद\N-NNP सिंह,\N-NNP रंजीत,\RD-PUNC कृष्ण\N-NN कुमार\N-NNP भट्टा,\RP-RPD उमेश\N-NN बहादुरपुरी,\V-VM खूमे\V-VAUX बेस-बेस\N-NN कविता\N-NN सुनइलथिन\V-VM ।\RD-PUNC 
+सरकार,\N-NN प्रशासन\N-NN आउ\CC-CCD शिक्षा\N-NN के\PSP विद्रुपता\N-NN पर\PSP जमके\V-VM प्रहार\N-NN कैलइथिन\V-VM ।\RD-PUNC 
+बिगड़ल\N-NN तंत्र\N-NN आउ\CC-CCD भटकल\N-NN समाज\N-NN के\PSP बखिया\N-NN उखाड़\N-NN देलथिन\V-VM आउ\CC-CCD सुधरइ\N-NN के\PSP संदेश\N-NN देलथिन\V-VM ।\RD-PUNC 
+कविता\N-NN के\PSP दू-दू,\QT-QTC तीन-तीन\QT-QTC दौर\N-NN चललइ\V-VM ।\RD-PUNC 
+सम्मेलन\V-VM एतना\QT-QTF जमलइ\V-VM कि\CC-CCS उमड़ल\N-NN भीड़\N-NN के\PSP श्रोता\N-NN जायके\V-VM नामे\PSP नञ्\N-NN ले\V-VM रहलथिन\V-VAUX हल\V-VAUX ।\RD-PUNC 
+बार-बार\N-NN सुनावे\V-VM के\V-VAUX मांग\V-VAUX होते\V-VAUX रहलइ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI आयोजन\N-NN ई.\V-VM रंजीत\N-NN के\PSP द्वारा\N-NN कइल\V-VM गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+उऩखा\N-NN सहजोग\N-NN करे\V-VM आउ\CC-CCD काजकरम\N-NN के\PSP बेस\N-NN बनावे\V-VM में\PSP गंगा\N-NN विष्णु\N-NN प्रसाद\N-NNP सिंह,\N-NNP राधा\N-NN रमण\N-NN उपाध्याय,\PSP राम\N-NN सज्जन\N-NN सिंह,\PSP शिव\N-NNP शंकर\N-NN शर्मा,\N-NN परमानंद\N-NN सिंह,\PSP मनोरंजन\N-NN प्रसाद\N-NN सहित\PSP गांव\N-NN के\PSP लोग\N-NN जुटल\V-VM हलथिन\V-VAUX ।\RD-PUNC 
+खूबे\QT-QTF बढिया\N-NN भोज-भात\N-NN भेज\V-VM आउ\CC-CCD नानभेज\N-NN दुन्नुं\N-NN होलइ\V-VM ।\RD-PUNC 
+-----------------------------------------------------------------------------------------------------------मगह\N-NN के\PSP आयोजन\N-NN सजल\N-NN जी\N-NN के\PSP पुण्यतिथि\N-NN पर\PSP साहित\N-NN समागम\N-NN 23\N-NN जनवरी\N-NN 2014\N-NN के\PSP नवादा\N-NN के\PSP जानल-मानल\V-VM साहितकार\N-NN विष्णुदेव\N-NN प्रसाद\N-NN सजल\N-NN के\PSP पुण्यतिथि\N-NN मनावल\V-VM गेल\V-VAUX जेकरा\PR-PRL में\PSP गया,\N-NNP नवादा,\PSP शेखपुरा\N-NN आउ\CC-CCD नालंदा\N-NN के\PSP कवि\N-NN आउ\CC-CCD साहतिकार\N-NN के\PSP जुटाल\N-NN भेल\V-VM ।\RD-PUNC 
+साहितकार\N-NN सजल\N-NN जी\N-NN के\PSP साहितिक\N-NN श्रद्धांजलि\N-NN देलथिन\V-VM ।\RD-PUNC 
+अखिल\N-NN भारतीय\N-NN मगही\N-NN मंडप\N-NN के\PSP जिला\N-NN शाखा\N-NN के\PSP तत्वावधान\N-NN में\PSP नवादा\N-NN के\PSP इंदिरा\N-NN चौक\N-NN के\PSP साहु\N-NN सदन\N-NN सभागार\N-NN में\PSP उऩखर\N-NN पांचवीं\N-NN पुण्यतिथि\N-NN मनावल\V-VM गेल\V-VAUX ।\RD-PUNC 
+उदघाटन\N-NN वरिष्ठ\N-NN साहितकार\N-NN डॉ.\V-VM दिवाकर\N-NN आउ\CC-CCD मिथिलेश\N-NN जी\N-NN जौरे\N-NN कइलथिन\V-VM ।\RD-PUNC 
+एक\QT-QTC सत्र\N-NN के\PSP अध्यक्षता\N-NN डॉ.\V-VM दिवाकर\N-NN आउ\CC-CCD दोसर\QT-QTO सत्र\N-NN के\PSP अध्यक्षता\N-NN मिथिलेश\N-NN जी\N-NN कइलथिन\V-VM ।\RD-PUNC 
+मंच\N-NN संचालन\V-VM शंभू\V-VAUX विश्वकर्मा\N-NN आउ\CC-CCD अशोक\N-NN समदर्शी\N-NN जी\N-NN कइलथिन\V-VM ।\RD-PUNC 
+मुख्य\N-NN अतिथि\N-NN मगध\V-VM विश्वविद्यालय,\N-NN बोधगया\N-NN के\PSP मगही\N-NN विभागाध्यक्ष\N-NN डॉ.\N-NN भरत\N-NN सिंह\N-NNP आल\V-VM हलथिन\V-VAUX ।\RD-PUNC 
+भरत\N-NN जी\N-NN सजल\N-NN जी\N-NN के\PSP व्यक्तित्व\N-NN आउ\CC-CCD कृतित्व\N-NN पर\PSP चरचा\N-NN करइत\V-VM मगही\N-NN साहितकार\N-NN के\PSP ललकारलथिन\V-VM आउ\CC-CCD मगही\N-NN आंदोलन\N-NN से\PSP जुड़े\N-NN के\PSP प्रेरणा\N-NN देलथिन\V-VM ।\RD-PUNC 
+काजकरम\N-NN के\PSP शुरूआत\N-NN नरेंद्र\N-NN प्रसाद\N-NNP सिंह\N-NNP आउ\CC-CCD रामबली\N-NN ब्यास\N-NN के\PSP शहीद\N-NN गीत\N-NN से\PSP होलइ\V-VM ।\RD-PUNC 
+साहितिक,\N-NN सांगठनिक\N-NN आउ\CC-CCD मगही\N-NN आंदोलन\N-NN के\PSP चरचा\N-NN के\PSP बाद\N-NN कवि\N-NN सम्मेलन\V-VM के\PSP दौर\N-NN चलल\V-VM ।\RD-PUNC 
+मगही\N-NN के\PSP अष्टम\N-NN अनुसूची\N-NN में\PSP शामिल\N-NN करे\V-VM के\PSP मांग\N-NN करल\V-VM गेल\V-VAUX ।\RD-PUNC 
+डॉ.\N-NN दिवाकर\N-NN सजल\N-NN जी\N-NN के\PSP लेखन\N-NN क्षमता\N-NN के\PSP रेखांकित\V-VM कइलथिन\V-VAUX ।\RD-PUNC 
+मगही\N-NN के\PSP आंदोलन\N-NN आउ\CC-CCD भासा\N-NN के\PSP विकास\N-NN लेल\V-VM लगल\V-VAUX साहितकार\N-NN के\PSP साधुवाद\N-NN देलथिन\V-VM ।\RD-PUNC 
+साहितकार\N-NN के\PSP धैर्य\N-NN आउ\CC-CCD कर्मठता\N-NN के\PSP सराहलथिन\N-NN आउ\CC-CCD आगू\N-NN भी\RP-RPD ओहे\DM-DMD धैर्य\N-NN से\PSP साहित\N-NN साधना\N-NN में\PSP जुटल\V-VM रहे\V-VM के\PSP नसीहत\N-NN देलथिन,\V-VM ऊ\PR-PRP साहितकार\N-NN के\PSP जीवन\N-NN शैली\N-NN आउ\CC-CCD समर्पण\N-NN पर\PSP भी\RP-RPD अप्पन\PR-PRP विचार\N-NN देलथिन\V-VM ।\RD-PUNC 
+काजकरम\N-NN में\PSP दीनबंधु,\V-VM परमेश्वरी,\RD-PUNC व्यंग्यकार\N-NN उदय\N-NN कुमार\N-NNP भारती,\V-VM शफीक\N-NN जानी\N-NN नांदा,\RD-PUNC नरेंद्र\N-NNP प्रसाद\N-NNP सिंह,\N-NNP जयनंदन,\V-VM परमानंद,\RD-PUNC कृष्ण\N-NN कुमार\N-NNP भट्टा,\RP-RPD गोपाल\N-NN निर्दोष,\V-VM दशरथ\V-VAUX प्रसाद,\RD-PUNC रामस्वरूप\N-NN दिप्तांशु,\RD-PUNC दिनेश\N-NN कुमार\N-NNP अकेला,\N-NN कुशवंत\N-NN जी,\V-VM दिनेश\N-NN सिंह\N-NNP सहित\PSP दर्जनों\N-NN कवि\N-NN सजल\N-NN जी\N-NN आउ\CC-CCD समसामयिक\N-NN विषय\N-NN पर\PSP काव्यपाठ\N-NN करके\V-VM अप्पन-अप्पन\N-NN मगहिया\N-NN धार\N-NN के\PSP परिचय\N-NN देलथिन\V-VM ।\RD-PUNC 
+बाद\N-NN में\PSP सांस्कृतिक\N-NN काजकरम\V-VM होलइ\V-VAUX ।\RD-PUNC 
+मगही\N-NN मंडप\N-NN के\PSP जिला\N-NN शाखा\N-NN के\PSP काजकारिनी\N-NN के\PSP चुनावकाजकरम\N-NN में\PSP अखिल\N-NN भारतीय\V-VM मगही\N-NN मंडप\N-NN के\PSP जिला\N-NN शाखा\N-NN के\PSP नया\N-NN काजकारिनी\N-NN के\PSP चुनाव\N-NN करल\V-VM गेल\V-VAUX ।\RD-PUNC 
+सउ\N-NN के\PSP सम्मति\N-NN से\PSP दशरथ\N-NN प्रसाद\N-NN के\PSP जिलाध्यक्ष,\N-NN डॉ.\V-VM संजय\N-NN कुमार\N-NNP सिन्हा\N-NN के\PSP सचिव,\N-NN शंभू\N-NN विश्वकर्मा\N-NN के\PSP कोषाध्यक्ष\N-NN बनावल\V-VM गेल\V-VAUX ।\RD-PUNC 
+एकर\DM-DMD अलावे\V-VM समिति\N-NN के\PSP सक्रिय\N-NN सदस्य\N-NN के\PSP चुनाव\N-NN होल\V-VM ।\RD-PUNC 
+----------------------------------------------------------------------------------------------------------------------मगह\N-NN के\PSP आयोजन\N-NN सारथी\N-NN के\PSP 20वां\N-NN अंक\N-NN के\PSP लोकार्पण\N-NN 8\N-NN फरवरी\N-NN 2014\N-NN दिन\N-NN शनिवार\N-NN के\PSP वरीय\N-NN नागरिक\N-NN संघ\N-NN कारजालय,\PSP नवादा\N-NN में\PSP अखिल\N-NN भारतीय\V-VM मगही\N-NN मंडप,\PSP वारिसलिगंज\N-NN से\PSP परकासित\N-NN आधुनिक\N-NN चेतनावाही\N-NN मगही\N-NN कथा\N-NN पत्रिका\N-NN ‘सारथी’\N-NN के\PSP लोकारपन\N-NN भेल\V-VM ।\RD-PUNC 
+काजकरम\N-NN के\PSP मुख्य\N-NN अतिथि\N-NN नवादा\N-NN के\PSP न्यायिक\N-NN पदाधिकारी\N-NN सबजज\V-VM कोमल\V-VAUX राम\N-NN और\CC-CCD प्रथम\N-NN श्रेणी\N-NN के\PSP न्यायिक\N-NN दंडाधिकारी\N-NN राहुल\N-NN कुमार\N-NNP हला\V-VM ।\RD-PUNC 
+सम्मानित\N-NN अथिति\N-NN दृष्टि\N-NN पत्रिका\N-NN के\PSP संपादक\N-NN आउ\CC-CCD दिनकरनामा\N-NN के\PSP रचइता\N-NN डॉ.\V-VM दिवाकर\N-NN आउ\CC-CCD मगध\N-NN विश्वविद्यालय,\N-NN बोधगया\N-NN के\PSP मगही\N-NN विभागाध्यक्ष\N-NN डॉ.\N-NN भरत\N-NN जी\N-NN हला\V-VM ।\RD-PUNC 
+अध्यक्षता\N-NN वरीय\N-NN नागरिक\N-NN संघ\N-NN के\PSP अध्यक्ष\N-NN श्रीनंदन\N-NN शर्मा\N-NN आउ\CC-CCD मंच\N-NN संचालन\V-VM नागेंद्र\N-NN शर्मा\N-NN बंधु\N-NN जी\N-NN कइलन\V-VM ।\RD-PUNC 
+काजकरम\N-NN के\PSP शुरूआत\N-NN सारथी\N-NN के\PSP संपादक\N-NN मिथिलेश\N-NN के\PSP संबोधन\N-NN आउ\CC-CCD दीनबंधु\N-NN के\PSP मंगलाचरण\N-NN से\PSP होल\V-VM ।\RD-PUNC 
+ओकर\PR-PRP बाद\N-NN व्यंग्यकार\N-NN उदय\N-NN भारती\N-NN ‘\PSP किरासन\N-NN जे\PR-PRL नञ्\N-NN करबावइ’\V-VM कविता\N-NN पाठ\N-NN से\PSP वर्तमान\N-NN तंत्र\N-NN पर\PSP जमके\V-VM प्रहार\N-NN कइलका\V-VM ।\RD-PUNC 
+उनखर\PR-PRP पंक्ति\N-NN –‘आझ\N-NN अफसर\N-NN आउ\CC-CCD नेता\N-NN दुन्नूं\N-NN किरासन\N-NN पी\V-VM रहला\V-VAUX हऽ,\V-VAUX गऱीब\RD-PUNC जनता\V-VM तऽ\CC-CCS बिना\N-NN ढिबरी\N-NN के\PSP जी\N-NN रहल\V-VM हऽ’\V-VAUX पर\PSP खूमे\N-NN ताली\N-NN बजल\V-VM ।\RD-PUNC 
+ई\DM-DMI कविता\N-NN पाठ\N-NN के\PSP बाद\N-NN पत्रिका\N-NN के\PSP लोकारपन\N-NN करल\V-VM गेल\V-VAUX ।\RD-PUNC 
+अतिथि\N-NN आउ\CC-CCD संपादक\N-NN सब्भे\PSP मिल\V-VM के\V-VAUX लोकारपन\N-NN कइलका\V-VM ।\RD-PUNC 
+लोकारपन\N-NN के\PSP बाद\N-NN फिनू\CC-CCD कविता\N-NN पाठ\N-NN के\PSP दौर\N-NN चलल\V-VM ।\RD-PUNC 
+कविता\N-NN पाठ\N-NN आउ\CC-CCD मगही\N-NN के\PSP कय\V-VM गो\RP-CL विधा\N-NN के\PSP धार\N-NN देख\V-VM के\V-VAUX मुख्य\N-NN अतिथि\N-NN आउ\CC-CCD उपस्थित\N-NN वरीय\N-NN नागरिक\N-NN संघ\N-NN के\PSP सदस्य\N-NN खूमे\N-NN प्रभावित\N-NN आउ\CC-CCD प्रसन्न\N-NN होलथिन\V-VM आउ\CC-CCD मगही\N-NN के\PSP विकास\N-NN लेल\V-VM अप्पन-अप्पन\V-VAUX करतव\N-NN करे\V-VM के\PSP संकल्प\N-NN लेलथिन\V-VM ।\RD-PUNC 
+शंभू\N-NN विश्वकर्मा\N-NN के\PSP कविता\N-NN –\N-NN ‘रखूं\V-VM कि\CC-CCS गिरा\V-VM दूं’\N-NN खास\N-NN प्रभावी\N-NN रहल\V-VM जेकरा\PR-PRL पर\PSP श्री\N-NN मिथिलेश\N-NN डॉ.\N-NN दिवाकर\N-NN के\PSP अप्पन\PR-PRP विचार\N-NN आउ\CC-CCD आलोचना\N-NN रखे\V-VM के\PSP प्रस्ताव\V-VM देलका\V-VAUX ।\RD-PUNC 
+डॉ.\N-NN दिवाकर\N-NN सबसे\N-NN पहिल\N-NN ‘सारथी’\N-NN पत्रिका\N-NN के\PSP मगही\N-NN साहित\N-NN के\PSP बड़का\N-NN देन\V-VM बतैलका\N-NN आउ\CC-CCD एकरा\DM-DMD से\PSP जुड़ल\N-NN सब\QT-QTF संपादन\N-NN मंडल\N-NN के\PSP साधुवाद\N-NN देलका\V-VM ओकर\PR-PRP बाद\PSP शंभू\N-NN जी\N-NN के\PSP कविता\N-NN पर\PSP अप्पन\PR-PRP विचार\N-NN रखलका\V-VM ।\RD-PUNC 
+श्री\N-NN विश्वकर्मा\N-NN के\PSP स्तरीय\N-NN साहित\N-NN साधना\N-NN के\PSP सराहइत\V-VM हिन्दी\N-NN आउ\CC-CCD मगही\N-NN दुन्नूं\N-NN में\PSP मिसाल\N-NN कायम\V-VM करे\V-VAUX के\PSP बात\N-NN कहलका\V-VM ।\RD-PUNC 
+साहित\N-NN के\PSP इनखर\N-NN पकड़\N-NN के\PSP रेखांकित\V-VM कइलका\V-VAUX ।\RD-PUNC 
+ऊहां\PR-PRL पहुंचल\V-VM साहितकार\N-NN के\PSP भी\RP-RPD अनवरत\N-NN साहित\N-NN साधना\N-NN में\PSP जुड़ल\V-VM रहे\V-VM आउ\CC-CCD मगही\N-NN के\PSP उंचाई\N-NN देवे\V-VM लेल\V-VAUX समरपित\N-NN होके\V-VM काम\N-NN करे\V-VM के\PSP अपील\N-NN कइलका\V-VM ।\RD-PUNC 
+डॉ.\N-NN भरत\N-NN मगही\N-NN पत्रकारिता\N-NN पर\PSP विस्तार\N-NN से\PSP चरचा\N-NN केलथिन\V-VM ।\RD-PUNC 
+मगही\N-NN पत्रकारिता\N-NN के\PSP इतिहास\N-NN आउ\CC-CCD आझ\N-NN तक\RP-RPD के\PSP निकसल\V-VM पत्र-पत्रिका\N-NN पर\PSP संक्षेप\N-NN में\PSP विवेचना\N-NN कइलका\V-VM ।\RD-PUNC 
+ओकर\PR-PRP स्तर,\N-NN सामाग्री\N-NN आउ\CC-CCD संपादन\N-NN मंडल\N-NN से\PSP जुड़ल\N-NN साहितकार\N-NN से\PSP उपस्थित\N-NN जन\N-NN के\PSP रूबरू\N-NN करइलका\V-VM ।\RD-PUNC 
+एकर\PR-PRP साथे\PSP श्री\N-NN भरत\N-NN मगही\N-NN साहित\N-NN के\PSP हर\N-NN विधा\N-NN से\PSP समृद्ध\N-NN करे\V-VM के\PSP निहारा\N-NN कइलका\V-VM ।\RD-PUNC 
+रचनाकार\N-NN के\PSP मंच\N-NN पर\PSP कविता\N-NN सुनाके\V-VM बाह-बाही\N-NN लूटे\V-VM आउ\CC-CCD एकाक\QT-QTC गो\RP-CL स्तरीय\N-NN पत्रिका\N-NN मे\PSP अप्पन\PR-PRP रचना\N-NN छपवा\N-NN के\PSP रचनाकार\N-NN के\PSP खुश\JJ होवे\V-VM आउ\CC-CCD आत्ममुग्ध\N-NN होवे\V-VM से\PSP मना\N-NN कइलका\V-VM ।\RD-PUNC 
+सच्चा\N-NN साहितकार\N-NN बनके\V-VM भासा\N-NN के\PSP समृद्ध\N-NN करे\V-VM लेल\V-VAUX साधना\N-NN करे\V-VM के\PSP नसीहत\N-NN देलका\V-VM ।\RD-PUNC 
+प्रधान\N-NN संपादक\N-NN श्री\N-NN मिथिलेश\N-NN बड़ी\N-NN हुलसल\V-VM हला\V-VAUX ।\RD-PUNC 
+साहित\N-NN सृजन\N-NN आउ\CC-CCD चेतना\N-NN जगावे\V-VM वला\N-NN ऐसन\DM-DMD कोय\PR-PRI काज\N-NN के\PSP मोका\N-NN पर\PSP उनखर\N-NN मुख\N-NN से\PSP एगो\QT-QTC अलग\N-NN तरह\RP-RPD के\PSP आभा\N-NN फूटे\V-VM लगऽ\V-VAUX हइ\V-VAUX ।\RD-PUNC 
+ऐसन\DM-DMD लगे\V-VM लगे\V-VAUX हे\V-VAUX जइसे\PR-PRL 84\N-NN बरस\N-NN के\PSP वीर\N-NN एगो\QT-QTC आउ\CC-CCD जंग\N-NN जीत\V-VM लेलका\V-VAUX ।\RD-PUNC 
+पत्रिका\N-NN के\PSP जीवंत\N-NN आउ\CC-CCD सतत\N-NN रहे\V-VM के\PSP उनखा\N-NN फिकिर\N-NN रहे\V-VM हे\V-VAUX ।\RD-PUNC 
+ईले\V-VM ऊ\PR-PRP पत्रिका\N-NN लेल\V-VM स्तरीय\V-VAUX रचना\N-NN आउ\CC-CCD सामाग्री\N-NN जुटावे\V-VM में\PSP साहितकार\N-NN से\PSP सहजोग\N-NN के\PSP निहोरा\N-NN कइलका\V-VM ।\RD-PUNC 
+पत्रिका\N-NN से\PSP जुड़ल\N-NN रचनाकार\N-NN के\PSP सहयोग\N-NN लेल\V-VM ह्दय\V-VAUX से\PSP धन्यवाद\N-NN देलका\V-VM ।\RD-PUNC 
+काजकरम\N-NN के\PSP आयोजन\N-NN में\PSP सहजोग\N-NN लेल\V-VM वरीय\V-VAUX नागरिक\N-NN संघ\N-NN के\PSP अध्यक्ष\N-NN श्रीनंदन\N-NN शर्मा\N-NN आउ\CC-CCD संघ\N-NN के\PSP सब्भे\V-VM लोगन\N-NN के\PSP धन्यवाद\N-NN ज्ञापित\V-VM कइलका\V-VAUX ।\RD-PUNC 
+श्री\N-NN शर्मा\N-NN मगही\N-NN के\PSP उत्थान\N-NN लेल\V-VM हरदम\N-NN तन,\PR-PRP मन\N-NN से\PSP सहजोग\N-NN देवे\V-VM के\PSP विश्वास\N-NN दिलइलका\N-NN ।\RD-PUNC 
+काजकरम\N-NN में\PSP दीनबंधु,\QT-QTC ओंकार\N-NN निराला,\N-NNP गीतकार\N-NN जयप्रकाश,\V-VM डॉ.\N-NN किरण\N-NN कुमारी,\PSP जयनंदन,\V-VM परमानंद,\RD-PUNC शंभू\N-NN विश्वकर्मा,\N-NN कृष्ण\N-NN कुमार\N-NNP भट्टा,\RP-RPD चंद्रभूषण,\V-VM गोपाल\V-VAUX निदोर्ष,\RD-PUNC डॉ.\N-NN शंभू,\V-VM डॉ.\V-VAUX संजय,\RD-PUNC मगही\N-NN मंडप\N-NN के\PSP जिलाध्यक्ष\N-NN दशरथ\V-VM प्रसाद,\RD-PUNC डॉ.\V-VM संजय,\RD-PUNC हरिद्वार\N-NN सिंह\N-NNP आदि\N-NN उपस्थित\V-VM हला\V-VAUX ।\RD-PUNC 
+----------------------------------------------------------------------------------------------------------------------मगह\N-NN के\PSP आयोजन\N-NN सिकन्दरा\N-NN महोत्सव\N-NN में\PSP कवि\N-NN सम्मेलन\V-VM आउ\CC-CCD मुशायरा\N-NN 10\N-NN फरवरी\N-NN 2014\N-NN के\PSP जमुई,\N-NN सिकंदरा\N-NN में\PSP दो\QT-QTC दिवसीय\N-NN सिकन्दरा\N-NN महोत्सव\N-NN 2014\N-NN के\PSP आयोजन\N-NN भेल\V-VM ।\RD-PUNC 
+ई\DM-DMI काजकरम\N-NN सिकन्दरा\N-NN के\PSP लेल\V-VM ऐतिहासिक\V-VAUX हल\V-VAUX ।\RD-PUNC 
+साहित,\N-NN संस्कृति\N-NN आउ\CC-CCD सौहार्द\N-NN सहित\PSP कइएक\N-NN दृष्टिकोण\N-NN से\PSP ई\DM-DMI काजकरम\V-VM सराहनीय\N-NN हल\V-VM ।\RD-PUNC 
+दू\QT-QTC दिन\N-NN के\PSP ई\DM-DMI काजकरम\V-VM कइएक\V-VAUX चरण\N-NN में\PSP बंटल\V-VM हल\V-VAUX ।\RD-PUNC 
+काजकरम\N-NN के\PSP पहिल\N-NN दिन\N-NN उद्घाटन\N-NN सत्र\N-NN के\PSP बाद\N-NN कवि\N-NN सम्मेलन\V-VM आउ\CC-CCD मुशायरा\N-NN के\PSP आयोजन\N-NN हल\V-VM ।\RD-PUNC 
+ओकर\PR-PRP पहिल\N-NN प्रभात\N-NN फेरी,\V-VM ध्वजा\N-NN रोहण,\V-VM दीप\N-NN प्रज्ज्वलन,\PSP सोवागत,\V-VM सोवागत\N-NN भाषण,\PSP अतिथि\N-NN के\PSP संबोधन\N-NN स्मारिका\N-NN के\PSP विमोचन\N-NN (सिकन्दरा\N-NN संदेश)\N-NN आउ\CC-CCD स्वतंत्रता\N-NN सेना,\PSP विशिष्ट\N-NN आउ\CC-CCD मेधा\N-NN सम्मान\N-NN के\PSP काजकरम\N-NN भेल\V-VM ।\RD-PUNC 
+ई\DM-DMI काजकरम\V-VM के\PSP नींव\N-NN में\PSP सिकन्दरा\N-NN के\PSP हिन्दु,\V-VM मुस्लिम\N-NN आउ\CC-CCD जैन\N-NNP तीन\QT-QTC समुदाय\N-NN के\PSP लोग\N-NN जुड़ल\V-VM हथिन\V-VAUX आउ\CC-CCD तीनों\QT-QTC के\PSP सौहार्द\N-NN समन्वय\N-NN मंच\N-NN पर\PSP खुल\V-VM के\V-VAUX दिखलई\V-VAUX ।\RD-PUNC 
+ई\DM-DMI हर्षोल्लास,\V-VM आस्था\N-NN आउ\CC-CCD उमंग\N-NN से\PSP ई\DM-DMI काजकरम\N-NN होलई\V-VM से\CC-CCS कि\CC-CCS उहां\DM-DMD के\PSP जनमानस\N-NN के\PSP ह्रदय\N-NN से\PSP जुगो\QT-QTC तक\RP-RPD ई\DM-DMI भुलाये\V-VM नञ्\N-NN भुलतइ\V-VM ।\RD-PUNC 
+साहित,\N-NN संस्कृति,\N-NN प्रेम,\N-NN भाईचारा,\V-VM एकता\N-NN आउ\CC-CCD विकास\N-NN के\PSP चाहत,\V-VM खुल\V-VM के\PSP मंच\N-NN पर\PSP दिखलइ\N-NN ।\RD-PUNC 
+सिकन्दरा\N-NN सहित\PSP क्षेत्र\N-NN के\PSP सुख-समृद्धि,\N-NN साहित-संस्कृति\N-NN के\PSP बानगी\N-NN ऊहां\PR-PRL खूब\QT-QTF दिखलइ\N-NN ।\RD-PUNC 
+काजकरम\N-NN में\PSP पश्चिम\N-NN बंगाल,\V-VM झारखंड,\V-VAUX बनारस\N-NN आउ\CC-CCD इलाहाबाद\N-NN से\PSP कवि\N-NN आउ\CC-CCD शायर\N-NN पहुंचल\V-VM हलथिन\V-VAUX ।\RD-PUNC 
+कवयित्री\N-NN भी\RP-RPD हलथिन\V-VM ।\RD-PUNC 
+काजकरम\N-NN के\PSP व्यापकता\N-NN के\PSP वजह\N-NN से\PSP सभी\N-NN से\PSP परिचय\N-NN आउ\CC-CCD नाम\N-NN गांव\N-NN के\PSP ठीक\N-NN से\PSP पता\N-NN नञ्\V-VM चल\V-VM पइतइ\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF तऽ\CC-CCS अपने\PR-PRP के\PSP बड़का-राष्ट्रीय\N-NN कवि\N-NN भी\RP-RPD बुझ\V-VM रहलथिन\V-VM हल\V-VAUX जेकरा\PR-PRL से\PSP परिचय\N-NN बढ़ावे\V-VM के\V-VAUX साहस\N-NN नञ्\N-NN जुटा\V-VM पइलइ\V-VAUX ।\RD-PUNC 
+एन्ने\N-NN से\PSP मगहिया\N-NN कवि\N-NN में\PSP हम\PR-PRP (उदय\N-NN भारती),\V-VM दीनबंधु,\V-VAUX रंजीत,\RD-PUNC दशरथ,\RD-PUNC कृष्ण\N-NN कुमार\N-NNP भट्टा,\PSP शोभा\V-VM रानी\N-NN एतने\N-NN कवि\N-NN हलिअइ\V-VM ।\RD-PUNC 
+हमन्हींये\V-VM के\PSP नेउता\N-NN मिलले\V-VM हल,\V-VAUX दयाशंकर\N-NN बेधड़क\N-NN के\PSP भी\RP-RPD नेउता\N-NN मिलते\V-VM हल\V-VAUX पर\PSP ऊ\PR-PRP नञ्\N-NN जा\V-VM पइलथिन\V-VAUX ।\RD-PUNC 
+हिन्दी\N-NN मगही\N-NN से\PSP जादे\V-VM उर्दू\V-VAUX शायर\N-NN हलथिन\V-VM ।\RD-PUNC 
+मंच\N-NN पर\PSP पहिल\N-NN दौर\N-NN में\PSP बड़कन\N-NN कवि\N-NN के\PSP कविता\N-NN पाठ\N-NN भेलइ\V-VM ।\RD-PUNC 
+हिन्दी\N-NN आउ\CC-CCD उर्दू\N-NN के\PSP कवि\N-NN के\PSP दौर\N-NN खूब\QT-QTF चललइ\V-VM ।\RD-PUNC 
+हमन्हीं\V-VM के\PSP पीछू\N-NN बुलावल\V-VM गेलइ\V-VAUX ।\RD-PUNC 
+पर\PSP हमन्हीं\V-VM के\V-VAUX जउ\PR-PRL मोका\N-NN मिललइ\V-VM तउ\N-NN सब्भे\PSP मिल\V-VM के\V-VAUX मगहिया\N-NN धार\N-NN देखा\V-VM देलिअइ\V-VAUX ।\RD-PUNC 
+रंजीत\N-NN जी\N-NN आउ\CC-CCD हम्मर\PR-PRP (उदय\N-NN भारती)\N-NN के\PSP कविता\N-NN पर\PSP वाहवाही\N-NN मिललइ\V-VM ।\RD-PUNC 
+लोगबाग\N-NN मंच\N-NN संचालक\N-NN के\PSP भी\RP-RPD बोले\V-VM लगलन\V-VAUX कि\CC-CCS ऐसन\DM-DMD कवि\N-NN के\PSP पहले\N-NN पढ़े\N-NN के\PSP मोका\N-NN काहे\CC-CCS नञ्\N-NN देलहो\V-VM ?\V-VAUX 
+दीनबंधु,\QT-QTC कृष्ण\N-NN कुमार\N-NNP भट्टा,\RP-RPD दशरथ,\V-VM शोभा\V-VAUX रानी\N-NN सउ\N-NN कविता\N-NN सुना\V-VM के\PSP मगही\N-NN के\PSP लोहा\N-NN मनबा\N-NN लेलथिन\V-VM ।\RD-PUNC 
+रंजीत\N-NN जी\N-NN के\PSP तो\PR-PRL बार-बार\N-NN सुने\V-VM के\V-VAUX मांग\V-VAUX होवे\V-VAUX लगलइ\V-VAUX ।\RD-PUNC 
+सउसे\N-NN जादे\V-VM वाह-वाही\V-VAUX उनखे\N-NN मिललइ\V-VM ।\RD-PUNC 
+ईहां\DM-DMD तक\RP-RPD के\PSP आयोजन\N-NN मंडल\N-NN के\PSP एगो\QT-QTC महानुभाव\N-NN दोसर\QT-QTO दिन\N-NN सबेरे\N-NN हमन्हीं\N-NNP सउ\N-NN के\PSP अप्पन\PR-PRP डेरा\N-NN पर\PSP बोला\V-VM के\PSP एक\QT-QTC दौर\N-NN आउ\CC-CCD कवि\N-NN सम्मेलन\V-VM करइलथिन\V-VAUX ।\RD-PUNC 
+चूंकि\DM-DMD शोभा\V-VM रानी\N-NN आउ\CC-CCD उनखर\N-NN पति\N-NN अनिल\N-NN कुमार\N-NNP ऊहंई\PSP एस.\V-VM के.\V-VAUX कॉलेज\N-NN में\PSP प्रोफेसर\N-NN हथिन\V-VM ।\RD-PUNC 
+ई\DM-DMI लेल\V-VM हमन्हीं\V-VAUX के\PSP आव-भगत\V-VM आउ\CC-CCD सत्कार\N-NN बेस\N-NN भेलइ\V-VM ।\RD-PUNC 
+काजकरम\N-NN में\PSP वहां\N-NN के\PSP स्थानीय\N-NN कवि\N-NN श्रीधर\N-NN दूबे,\QT-QTC नूतन\N-NN कुमारी,\PSP प्रकाश\N-NN सिन्हा,\N-NN श्याम\N-NNP सुन्दर\N-NNP प्रसाद\N-NNP के\PSP भी\RP-RPD प्रस्तुति\N-NN बेहतर\N-NN रहलइ\V-VM ।\RD-PUNC 
+बाहर\N-NN से\PSP आवल\V-VM कवि\V-VAUX आउ\CC-CCD शायर\N-NN के\PSP तऽ\CC-CCS बाते\N-NN की\PR-PRQ कहना,\V-VM ऊ\PR-PRP तऽ\CC-CCS राष्ट्रीय\N-NN हइये\V-VM हथिन\V-VAUX ।\RD-PUNC 
+--------------------------------------------------------------------------------------------------------------------------प्रतिक्रिया\N-NN मिलल---\V-VM 1.\V-VAUX आपकी\N-NN मगही\N-NN पत्रिका\N-NN का\PR-PRQ ई-संस्करण\N-NN पढ़ा,\V-VM मन\N-NN प्रसन्न\N-NN हो\V-VM गया\V-VAUX .\RD-PUNC 
+मथुरा\N-NN प्रसाद\N-NN ’नवीन’\N-NN जी\N-NN की\PSP कविता\N-NN बेहतरीन\N-NN लगी\N-NN .\V-VM 
+नवीन\N-NN जी\N-NN का\PR-PRQ जीता\N-NN जागता\V-VM चित्र\N-NN आँखों\N-NN के\PSP सामने\N-NN घूम\V-VM गया\V-VAUX .\V-VM 
+’अहो\N-NN मिसिर\N-NN जी\N-NN पतरा\N-NN देखो\V-VM कहिया\N-NN तक\RP-RPD सरकार\N-NN चलत’\V-VM को\PSP मंच\N-NN पर\PSP सुनने\N-NN का\PR-PRQ सौभाग्य\N-NN मुझे\N-NN प्राप्त\N-NN रहा\N-NN है,\PSP सब\QT-QTF कुछ\QT-QTF फ्लैशबैक\V-VM की\V-VAUX तरह\RP-RPD कौंधने\N-NN लगा\V-VM .\JJ 
+इतने\N-NN अच्छे\RP-RPD संकलन\V-VM के\PSP लिए\N-NN धन्यवाद\N-NN .\V-VM 
+भाई\N-NN बालेश्वर\N-NN की\PSP कविता\N-NN भी\RP-RPD पढ़ी\N-NN .\V-VM 
+भाई\N-NN बालेश्वर\N-NN के\PSP साथ\PSP सान्निध्य\N-NN बैजनाथ\PSP बाबू\N-NN के\PSP दालान\N-NN पर\PSP कवि\N-NN गोष्ठियों\N-NN में\PSP खूब\QT-QTF मिलती\N-NN रही\V-VM है\V-VAUX .\V-VM 
+यदि\N-NN संभव\N-NN हो\V-VM तो\PR-PRL भाई\N-NN बालेश्वर\N-NN का\PR-PRQ मोबाईल\N-NN नंबर\N-NN या\CC-CCD ई-मेल\N-NN आई\V-VM डी\N-NN दीजिए\N-NN ताकि\CC-CCS मैं\N-NN अपने\PR-PRP पुराने\N-NN मित्र\N-NN (हालांकि\CC-CCD वे\N-NN मेरे\N-NN से\PSP बीसेक\V-VM साल\N-NN बड़े\N-NN जरूर\RB होंगे\V-VM लेकिन\CC-CCD मित्रता\N-NN उम्र\N-NN का\PR-PRQ मोहताज\N-NN नहीं\N-NN होती\N-NN शायद)\N-NN से\PSP एक\QT-QTC बार\N-NN फिर\N-NN बात\N-NN कर\V-VM सकूं\N-NN .\V-VM 
+मुकेश\N-NN कुमार\N-NNP ४२/४१३/\N-NN टाईप-३\V-VM एकता\N-NN विहार,\N-NN सी.बी.डी\N-NN .\V-VM 
+,\RD-PUNC बेलापुर,\N-NN नवी\N-NN मुंबई,\V-VM ४००६१४\V-VAUX महाराष्ट्र\N-NN मो.\N-NN ०९८६९३५३७५९\V-VM उत्तर-\RD-PUNC प्रियवर\N-NN मुकेश\N-NN जी,\V-VM मगही\N-NN मनभावन\N-NN के\PSP लिए\V-VM विचार\N-NN देने\V-VM के\PSP लिए\N-NN धन्यवाद\N-NN .\V-VM 
+निवेदन\N-NN हे\V-VM कि\CC-CCS इसे\PR-PRQ पढ़ें\N-NN और\CC-CCD दूसरों\QT-QTC को\PSP पढ़ायें\N-NN .\V-VM 
+इसके\N-NN सदस्य\N-NN बनें\N-NN और\CC-CCD दूसरों\QT-QTC को\PSP प्रेरित\N-NN करें\PSP .\V-VM 
+जय\N-NN मातृभाषा\N-NN !\V-VM 
+जय\N-NN मगही\N-NN !\V-VM 
+मगही\N-NN मनभावन\N-NN के\PSP दसवां\N-NN अंक\N-NN जारी\N-NN हो\V-VM गेल\V-VAUX हऽ\V-VAUX ।\RD-PUNC 
+गूगल\N-NN पर\PSP magahimanbhavan\N-NN टाईप\N-NN करऽ\V-VM आउ\CC-CCD इन्टर\N-NN दबावऽ,\V-VM ओकर\PR-PRP बाद\N-NN जे\PR-PRL अंक\N-NN पढ़े\V-VM लेल\V-VAUX चाहथिन\V-VAUX पढ़\V-VAUX सकऽ\V-VAUX हथिन\V-VAUX ।\RD-PUNC 
+अप्पन\PR-PRP विचार\N-NN भी\RP-RPD देथिन\V-VM तऊ\V-VAUX हमरा\PR-PRP प्रेरणा\N-NN मिलतै\V-VM ।\RD-PUNC 
+-\RD-PUNC उदय\N-NN कुमार\N-NNP भारती------------------------------------------------------------------------------------------------------------\N-NN 2.\V-VM आपके\PSP संरक्षण\N-NN में\PSP प्रकाशित\N-NN पहली\N-NN मगही\N-NN पत्रिका\N-NN को\PSP पढ़ा\V-VM ।\RD-PUNC 
+यह\DM-DMD अत्यंत\N-NN सराहनीय\N-NN कदम\V-VM है\V-VAUX ।\RD-PUNC 
+मुझे\N-NN यह\N-NN बहुत\N-NN अच्छी\RP-RPD लगी\V-VM ।\RD-PUNC 
+जब\PR-PRL मैं\N-NN हिसुआ\N-NN आया\N-NN हुआ\DM-DMD था\N-NN तब\PR-PRL "प्रसुन\N-NN "जी\N-NN के\PSP माध्यम\N-NN से\PSP यह\N-NN पत्रिका\N-NN की\PSP जानकारी\N-NN प्राप्त\N-NN हुई\N-NN थी\N-NN ।\RD-PUNC 
+आपको\CC-CCD बहुत\N-NN बहुत\N-NN बधाई\V-VM ।\RD-PUNC 
+-रोहित\V-VM लोहानी,\N-NN हिसुआउत्तर-\N-NN मगही\V-VM की\V-VAUX पहली\N-NN इंटरनेट\N-NN पत्रिका\N-NN मगही\N-NN मनभावन\N-NN .\V-VM 
+रोहित\N-NN जी\N-NN यदि\N-NN आपने\V-VM उसे\V-VAUX पढ़ा\N-NN और\CC-CCD पसंद\N-NN किया\N-NN है\V-VAUX तो\PR-PRL धन्यवाद\N-NN .\V-VM 
+अगला\N-NN लघु\N-NN कथा\N-NN विशेषांक\N-NN अंक\N-NN -\RD-PUNC 15\N-NN आपको\V-VM जल्द\N-NN पढ़ने\N-NN का\PR-PRQ अवसर\N-NN मिलेगा\V-VM .\V-VAUX 
+रोहित\N-NN जी,\V-VM मगही\N-NN आपको\V-VM पसंद\N-NN है,\V-VM इसके\N-NN लिए\N-NN भी\RP-RPD धन्यवाद\N-NN .\V-VM 
+Rohit\N-NN Lohani\N-NN --मगही\RD-PUNC हमारी\N-NN मातृभाषा\N-NN भाषा\V-VM है\V-VAUX इसे\RD-PUNC पसंद\N-NN करने\V-VM की\V-VAUX कोई\PR-PRI आवश्यकता\N-NN नही\DM-DMD अपितु\PR-PRP यह\N-NN हमारे\N-NN हृदय\N-NN में\PSP रचा-बसा\V-VM है\V-VAUX ।\RD-PUNC 
+इसके\N-NN साथ\PSP हमारी\N-NN भावनाएँ\N-NN जुङी\N-NN हैं\V-VM ।\RD-PUNC 
+3\N-NN .\V-VM 
+Anuj\N-NN Lugun\V-VM (Assistant\V-VAUX Professor,\RD-PUNC Hindi)<anujlugun@cub\V-VAUX .\V-VM 
+ac.in>\N-NN To:\V-VM shabdsadhak@gmail\V-VAUX .\V-VM 
+com\N-NN महोदय\N-NN ,नमस्कार\N-NN !\V-VM 
+मैं\N-NN मगही\N-NN ई-पत्रिका\PSP मनभावन\N-NN पढ़ता\N-NN हूँ\N-NN .\V-VM 
+बहुत\RP-INTF अच्छा\JJ लगता\V-VM है\V-VAUX क्षेत्रीय\N-NN भाषाओँ\N-NN के\PSP साहित्य\N-NN विस्तार\N-NN से\PSP .आप\N-NN बहुत\N-NN महत्वपूर्ण\N-NN और\CC-CCD सार्थक\N-NN जिम्मेदारी\N-NN निभा\V-VM रहे\V-VM हैं\V-VAUX .\RD-PUNC 
+आपको\CC-CCD बहुत\N-NN बहुत\RP-INTF बधाई\JJ .\V-VM 
+मैं\N-NN मगही\N-NN भाषा-भाषी\N-NN नहीं\N-NN हूँ\N-NN लेकिन\CC-CCD साहित्य\N-NN में\PSP अभिरुचि\N-NN है\V-VAUX .\V-VM 
+यहाँ\DM-DMD केन्द्रीय\PSP विश्वविद्यालय\N-NN ,बिहार\N-NN में\PSP हिंदी\N-NN विभाग\N-NN में\PSP एक\QT-QTC कोर्स\N-NN मगही\V-VM -भाषा\RD-PUNC साहित्य\N-NN पढ़ाया\V-VM जाता\PR-PRP है\V-VAUX .\V-VM 
+चूँकि\CC-CCS मगही\N-NN क्षेत्र\N-NN और\CC-CCD उसका\N-NN भाषी\N-NN नहीं\N-NN होने\N-NN के\PSP कारण\N-NN मुझे\N-NN रचनाओं\N-NN की\PSP उपलब्धता\N-NN में\PSP परेशानी\N-NN होती\V-VM है\V-VAUX .\V-VM 
+अत:\N-NN आपसे\PSP सहयोग\N-NN की\PSP अपेक्षा\PR-PRP है\V-VAUX .\V-VM 
+सनिवेदन\N-NN अनुज\N-NN लुगुन\N-NN Uday\N-NN Kumar\V-VM Bharti<shabdsadhak@gmail\V-VAUX .\V-VM 
+com>\N-NN To:\N-NN "Anuj\N-NN Lugun\V-VM (Assistant\V-VAUX Professor,\RD-PUNC Hindi)"\V-VAUX <anujlugun@cub\V-VAUX .\RD-PUNC 
+ac.in>\N-NN Anuj\N-NN Lugun\N-NN (Assistant\V-VM Professor,\RD-PUNC Hindi)\V-VM <anujlugun@cub\V-VAUX .\V-VM 
+ac.in>\N-NN ने\RP-NEG लिखा:-मगही\V-VM मनभावन\N-NN आपको\V-VM पसंद\N-NN आया\N-NN इसके\N-NN लिए\N-NN धन्यवाद\N-NN और\CC-CCD आभार\N-NN .\V-VM 
+आपने\DM-DMD अपनी\PR-PRP प्रतिक्रिया\N-NN दी\N-NN इसके\N-NN लिए\N-NN साधुवाद\N-NN .\V-VM 
+आप\PR-PRP सबों\N-NN के\PSP उत्साहवर्धन\N-NN से\PSP पत्रिका\N-NN संपादन\N-NN का\PR-PRQ बल\RP-INJ मिलेगा,\V-VM इसे\V-VAUX पढ़ें\V-VAUX और\CC-CCD अपनी\PR-PRP प्रतिक्रिया\N-NN और\CC-CCD सुझाव\N-NN भेजने\V-VM की\V-VAUX कृपा\N-NN करें\PSP .\V-VM 
+-उदय\N-NN कुमार\N-NNP भारती\N-NN Top\V-VM of\V-VAUX Form\V-VAUX ----------------------------------------------------------------------------------------------------------------------रचना\RD-PUNC साभार\N-NN लेल\V-VM गेल\V-VAUX –अलका\N-NN मागधी,\V-VM मगही\RD-PUNC पत्रिका,\V-VM निरंजना\N-NN ।\RD-PUNC 
+पत्रिका\N-NN से\PSP जुड़ल\N-NN जरूरी\N-NN बातरचना\N-NN मगही\N-NN साहित\N-NN के\PSP प्रचार-प्रसार\N-NN के\PSP लेल\V-VM ईहाँ\V-VAUX रखल\V-VM गेल\V-VAUX हऽ.\CC-CCD कौनो\V-VM आपत्ति\N-NN होवे\V-VM पर\PSP हटा\N-NN देल\V-VM जात\N-NN .\V-VM 
+मगही\N-NN देश-विदेश\N-NN जन-जन\N-NN तलुक\N-NN पहुंचे,\V-VM ई\DM-DMI प्रयास\N-NN में\PSP सब्भे\V-VM के\PSP सहजोग\N-NN के\PSP जरूरत\N-NN हइ.निहोरा*\V-VM रचना\N-NN भेजे\V-VM में\PSP संकोच\N-NN नञ्\V-VM करथिन,\V-VAUX रचना\N-NN सहर्ष\N-NN स्वीकार\N-NN करल\V-VM जितै\V-VAUX .\V-VM 
+*\N-NN मगहिया\N-NN भाय-बहिन\N-NN से\PSP निहोरा\N-NN हइ\V-VM कि\CC-CCS मगही\N-NN साहित\N-NN के\PSP समृद्ध\N-NN करे\V-VM ले\V-VAUX कलम\N-NN उठाथिन\V-VM आऊ\N-NN मगही\N-NN के\PSP अप्पन\PR-PRP मुकाम\N-NN हासिल\N-NN करे\V-VM में\PSP जी-जान\N-NN से\PSP सहजोग\N-NN करथिन\V-VM .\V-VAUX 
+*\N-NN मगही\N-NN मनभावन\N-NN पर\PSP सनेस\N-NN आऊ\N-NN प्रतिक्रिया\N-NN भेजे\V-VM घड़ी\N-NN अप्पन\PR-PRP ई-मेल\RD-PUNC पता\N-NN जरूर\RB लिखल\V-VM जाय,\V-VAUX ताकि\CC-CCD ओकर\PR-PRP जबाब\N-NN भेजे\V-VM में\PSP कोय\PR-PRI असुविधा\N-NN नञ्\RP-NEG होवै\V-VM .\RD-PUNC 
+*\N-NN मगही\N-NN मनभावन\N-NN ले\V-VM रचना\N-NN ई-मेल\V-VM से\PSP इया\CC-CCD फैक्स\N-NN से\PSP हिन्दी\N-NN मगही\N-NN साहित्यिक\N-NN मंच\N-NN ‘शब्द\N-NN साधक’\N-NN के\PSP कारजालय,\PR-PRP हिसुआ\N-NN पहुँचावल\V-VM जा\V-VAUX सकऽ\V-VAUX हे.शब्द\V-VAUX साधकहिन्दी\N-NN मगही\N-NN साहित्यिक\N-NN मंचहिसुआ,\PSP नवादा\N-NN (बिहार)shabdsadhak@gmail\V-VM .\V-VAUX 
+com\N-NN फैक्स\N-NN के\PSP न\RP-NEG .\V-VM 
+-\RD-PUNC 06324-263517http//:magahimanbhavan\N-NN .\V-VM 
+blogspot\N-NN .\V-VM 
+in\N-NN ।\RD-PUNC 

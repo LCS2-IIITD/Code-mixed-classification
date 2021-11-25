@@ -1,0 +1,155 @@
+लेखक\N-NN -\RD-PUNC शिव\N-NNP प्रसाद\N-NNP लोहानी,\N-NN नूरसराय,\PSP जिला-नालन्दा\N-NN अंगरेज\N-NN आइ॰सी॰एस॰\N-NN अफसर\N-NN में\PSP ई\DM-DMI खूबी\N-NN हल\V-VM कि\CC-CCS सरकारी\N-NN काम\N-NN करते\V-VM ऊ\PR-PRP अप्पन\PR-PRP रुचि\N-NN के\PSP मोताबिक\N-NN समाजिक,\V-VM संस्कृतिक\N-NN आउ\CC-CCD साहित्यिक\N-NN काम\N-NN भी\RP-RPD करऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+जार्ज\N-NN ग्रियर्सन\N-NN अइसने\N-NN आइ॰सी॰एस॰\V-VM अफसर\N-NN हलन\V-VAUX जे\PR-PRL भारत\N-NN के\PSP भाषायी\N-NN सर्वेक्षण\N-NN करके\V-VM अमर\N-NN हो\V-VM गेलन\V-VAUX ।\RD-PUNC 
+चूँकि\CC-CCS ऊ\PR-PRP जादे\V-VM समय\N-NN बिहार\N-NN में\PSP बितयलन,\N-NN बिहार\N-NN के\PSP भासा,\N-NN बोली\N-NN के\PSP बारे\N-NN में\PSP कुछ\QT-QTF जादे\N-NN काम\N-NN कयलन\V-VM ।\RD-PUNC 
+ऊ\PR-PRP कहलन\V-VM कि\CC-CCS बंगला,\N-NN असमी,\N-NN उड़िया\N-NN जइसन\RP-RPD बिहारी\N-NN भासा\N-NN के\PSP प्रचलन\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+उनइसवीं\N-NN सदी\N-NN के\PSP आखरी\N-NN दशक\N-NN में\PSP ऊ\PR-PRP ई\DM-DMI काम\N-NN कयलन\V-VM ।\RD-PUNC 
+उनखर\PR-PRP विचार\N-NN हल\V-VM कि\CC-CCS बिहारी\N-NN भासा\N-NN के\PSP एगो\QT-QTC अप्पन\PR-PRP लिपि\N-NN होवे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+ई\DM-DMI क्रम\N-NN में\PSP ऊ\PR-PRP कैथी\N-NN लिपि\V-VM के\PSP अपनावे\V-VM के\V-VAUX वकालत\N-NN कयलन\V-VM ।\RD-PUNC 
+कैथी\N-NN के\PSP समर्थन\N-NN में\PSP ऊ\PR-PRP एगो\QT-QTC किताब\N-NN भी\RP-RPD अंगरेजी\N-NN में\PSP लिखलन,\V-VM जेकर\PR-PRL नाम\N-NN हल\V-VM 'ए\N-NN हैंडबुक\N-NN आफ\N-NN कैथी\N-NN कैरक्टर'\V-VM (A\V-VAUX Handbook\V-VAUX of\V-VAUX Kaithi\V-VAUX Character)\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP बखत\N-NN बिहार\N-NN में\PSP मुख्य\N-NN रूप\N-NN से\PSP तीन\N-NN लिपि\V-VM प्रचलित\N-NN हल\V-VM -\RD-PUNC कैथी,\V-VM हिन्दी\V-VAUX आउ\CC-CCD महाजनी\N-NN ।\RD-PUNC 
+कैथी\N-NN के\PSP प्रयोग\N-NN जादेतर\N-NN जमीन्दार\N-NN के\PSP पटवारी\N-NN करऽ\V-VM हलन\V-VAUX ।\RD-PUNC 
+हिन्दी\N-NN आमलोग\N-NN के\PSP खास\N-NN लिपि\V-VM हल\V-VAUX ।\RD-PUNC 
+महाजनी\N-NN व्यापारी\N-NN वर्ग\N-NN में\PSP चलऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI जाने\N-NN के\PSP बात\N-NN हे\V-VM कि\CC-CCS हिन्दी\N-NN लिपि\N-NN भी\RP-RPD हल\V-VM आउ\CC-CCD भासा\N-NN भी,\V-VM जइसे\PR-PRL फारसी\N-NN लिपि\N-NN भी\RP-RPD हे\V-VM आउ\CC-CCD भासा\N-NN भी\RP-RPD ।\RD-PUNC 
+कैथी\N-NN आउ\CC-CCD हिन्दी\N-NN लिपि\N-NN में\PSP बड़ी\JJ समानता\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI दुन्नो\QT-QTC लिपि\N-NN में\PSP ह्रस्व\N-NN इकार\N-NN (ि),\PSP दीर्घ\N-NN उकार\N-NN (ू),\V-VM ण,\RD-PUNC श्र,\V-VM क्ष,\V-VAUX त्र,\RD-PUNC ज्ञ,\V-VAUX श,\V-VAUX ष,\RD-PUNC विसर्ग\N-NN (:),\V-VM ङ,\RD-PUNC ञ,\V-VM य,\V-VAUX ऋ,\RD-PUNC ऌ\N-NN वर्ण\N-NN आउ\CC-CCD संयुक्ताक्षर\N-NN के\PSP प्रयोग\N-NN न\RP-NEG होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+महाजनी\N-NN लिपि\N-NN में\PSP तो\PR-PRL खाली\QT-QTF व्यञ्जने\N-NN होवऽ\V-VM हे,\V-VAUX स्वर\N-NN न\RP-NEG ।\RD-PUNC 
+कहल\V-VM जाहे\V-VAUX कि\CC-CCS एगो\QT-QTC अदमी\N-NN चिट्ठी\N-NN लिखलक\V-VM कि\CC-CCS 'लल\N-NN ज\N-NN अजमर\N-NN गय'\V-VM ।\RD-PUNC 
+एकरा\DM-DMD कुछ\QT-QTF लोग\N-NN पढ़लन\V-VM 'लाला\N-NN जी\N-NN आज\N-NN मर\V-VM गये',\V-VAUX कुछ\QT-QTF पढ़लन\V-VM 'लाला\N-NN जी\N-NN अजमेर\N-NN गये'\V-VM ।\RD-PUNC 
+जे\PR-PRL भी\RP-RPD होवे,\V-VM बही-खाता\N-NN एही\DM-DMD लिपि\N-NN में\PSP लिखल\V-VM जा\V-VM हल\V-VAUX ।\RD-PUNC 
+हुण्डी\N-NN (आझ\N-NN के\PSP ड्राफ्ट)\N-NN महाजनी\N-NN में\PSP ही\RP-RPD लोग\N-NN लिखऽ\V-VM हलन\V-VAUX ।\RD-PUNC 
+ई\DM-DMI रूप\N-NN में\PSP महाजनी\N-NN लिपि\V-VM के\PSP अन्तर्जातीय\N-NN महत्त्व\N-NN हल\V-VM ।\RD-PUNC 
+आझ\N-NN भी\RP-RPD कुछ\QT-QTF लोग\N-NN ई\DM-DMI लिपि\N-NN के\PSP प्रयोग\N-NN करऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+हिन्दी-कैथी\N-NN लिपि\N-NN में\PSP ण\N-NN आउ\CC-CCD न\RP-NEG वर्ण\N-NN के\PSP जगह\N-NN न,\V-VM तीनो\QT-QTC श,\N-NN ष,\PSP स\N-NN के\PSP बदले\N-NN खाली\QT-QTF स,\V-VM श्र\N-NN के\PSP जगह\N-NN सरऽ,\PSP क्ष\N-NN के\PSP बदले\N-NN छ,\V-VM त्र\N-NN के\PSP बदले\N-NN तर,\PSP ज्ञ\N-NN के\PSP बदले\N-NN गय,\PSP य\N-NN के\PSP बदले\N-NN ज,\V-VM संयुक्ताक्षर\N-NN के\PSP तोड़के\V-VM 'संस्कृत'\V-VM के\PSP बदले\N-NN 'संसकिरित'\PSP वगैरह\N-NN लिखल\V-VM जा\V-VM हल\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP घड़ी\N-NN मगही\N-NN इलाका\N-NN मगही\N-NN चीनी,\V-VM मगही\N-NN लड़का-लड़की\N-NN तो\PR-PRL कहल\V-VM जा\V-VAUX हल,\V-VAUX मगर\N-NN मगही\N-NN भासा\V-VM तो\PR-PRL एकर\N-NN बदले\N-NN गाँव\N-NN के\PSP भासा\N-NN कहल\V-VM जा\V-VAUX हल\V-VAUX ।\RD-PUNC 
+समृद्ध\N-NN लोग\N-NN मगही\V-VM के\PSP बदले\N-NN मागधी\N-NN भासा\N-NN कहऽ\V-VM हलन\V-VAUX ।\RD-PUNC 
+रामचन्द्र\N-NN शुक्ल\N-NN के\PSP लिखित\V-VM 'हिन्दी\N-NN साहित्य\N-NN का\PR-PRQ इतिहास'\N-NN में\PSP मगही\N-NN भासा\N-NN के\PSP रूप\N-NN में\PSP कोई\PR-PRI जिकिर\N-NN न\RP-NEG हे\V-VM ।\RD-PUNC 
+१९२३\QT-QTC ई॰\N-NN में\PSP छपल\N-NN गोपीचन्द\N-NN गुप्त\N-NN लिखल\V-VM 'माहुरी\N-NN मण्डल\N-NN नाटक'\N-NN में\PSP आधा-सुधा\N-NN मगही\N-NN भासा\N-NN हे,\V-VM मगर\N-NN गुप्त\N-NN जी\N-NN भूमिका\N-NN में\PSP लिखलन\V-VM हे\V-VAUX 'इसकी\N-NN भाषा\N-NN सीधी-सादी\N-NN सबके\N-NN समझने\N-NN के\PSP लायक\N-NN हे\V-VM ।\RD-PUNC 
+खास\N-NN करके\V-VM इस\N-NN नाटक\N-NN में\PSP मगध\V-VM प्रान्तीय\N-NN ग्रामीण\N-NN भाषा\N-NN देने\N-NN का\PR-PRQ कारण\N-NN यह\V-VM है\V-VAUX कि\CC-CCS हमारी\N-NN जाति\N-NN विशेषकर\N-NN इसि\N-NN भाषा\V-VM को\PSP व्यवहार\N-NN में\PSP लाती\N-NN है\V-VAUX ।\RD-PUNC 
+'\N-NN ई\DM-DMI नाटक\N-NN के\PSP बाद\N-NN के\PSP किताबन\N-NN में\PSP भी\RP-RPD कोई\PR-PRI में\PSP बीस,\N-NN कोई\PR-PRI में\PSP पच्चीस,\QT-QTC कोई\PR-PRI में\PSP चालीस\N-NN पचास\N-NN प्रतिशत\N-NN मगही\N-NN भासा\N-NN के\PSP प्रयोग\N-NN मिलऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+हमरा\PR-PRP लगऽ\V-VM हे\V-VAUX कि\CC-CCS ई\DM-DMI रूप\N-NN में\PSP शुरू\N-NN से\PSP ही\RP-RPD मगही\N-NN कमोबेस\N-NN देवनागरी\N-NN लिपि\V-VM के\PSP गोदी\N-NN में\PSP रहल,\V-VM जे\PR-PRL निश्चित\N-NN रूप\N-NN से\PSP डा॰\N-NN ग्रियर्सन\N-NN के\PSP किताब\N-NN के\PSP विपरीत\N-NN हल\V-VM ।\RD-PUNC 
+शायद\N-NN एही\DM-DMD वजह\N-NN से\PSP मगही\N-NN के\PSP विकास\N-NN के\PSP शुरुआत\N-NN होतहीं\V-VM देवनागरी\N-NN लिपि\V-VM के\PSP वर्ण\N-NN श,\V-VM ष,\RD-PUNC विसर्ग\N-NN (:),\V-VM श्र,\RD-PUNC क्ष,\V-VM त्र,\RD-PUNC ज्ञ,\V-VM ऋ,\V-VAUX ऌ,\V-VAUX रेफ\V-VAUX आउ\CC-CCD संयुक्ताक्षर\N-NN विवादित\N-NN बन\V-VM गेल\V-VAUX ।\RD-PUNC 
+कहीं\DM-DMI वर्तनी\N-NN के\PSP नाम\N-NN पर\PSP त\N-NN कहीं\N-NN कुछ\QT-QTF आउ\CC-CCD नाम\N-NN पर\PSP विवाद\N-NN उठल\V-VM ।\RD-PUNC 
+कुछ\QT-QTF लोग\N-NN ई\DM-DMI भी\RP-RPD कहे\V-VM लगलन\V-VAUX कि\CC-CCS जब\PR-PRL महाकवि\N-NN तुलसीदास\N-NN रामचरित\N-NN मानस\N-NN के\PSP अवधी\N-NN भासा\N-NN में,\PSP सूरदास,\V-VM नन्ददास,\RD-PUNC रत्नाकर\N-NN वगैरह\N-NN ब्रजभाषा\N-NN में\PSP विवादित\N-NN वर्ण\N-NN के\PSP प्रयोग\N-NN न\RP-NEG कयलन\V-VM तो\PR-PRL मगही\N-NN के\PSP भी\RP-RPD ओइसहीं\N-NN करे\V-VM के\PSP चाही\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सन्दर्भ\N-NN में\PSP ई\DM-DMI विचारणीय\V-VM हे\V-VAUX कि\CC-CCS जउन\PR-PRL काल\N-NN में\PSP ऊ\PR-PRP सब\QT-QTF हलन\V-VM ऊ\PR-PRP काल\N-NN में\PSP हिन्दी\N-NN गद्य\N-NN पद्य\N-NN के\PSP वर्तमान\N-NN रूप\N-NN प्रचलित\N-NN न\N-NN हल\V-VM ।\RD-PUNC 
+जब\PR-PRL देवनागरी\N-NN लिपि\N-NN में\PSP हिन्दी\N-NN के\PSP विकास\N-NN होयल\V-VM आउ\CC-CCD बोलचाल\V-VM में\PSP भी\RP-RPD अभारतीय\N-NN शब्दन\N-NN के\PSP जगह\N-NN पर\PSP तत्सम\N-NN शब्द\N-NN आ\V-VM गेल\V-VAUX आउ\CC-CCD लोग-बाग\N-NN के\PSP बीच\N-NST ई\DM-DMI भासा\N-NN पूरा\N-NN प्रचलित\N-NN हो\V-VM गेल,\V-VAUX त\N-NN मगही\N-NN भासा\N-NN के\PSP भी\RP-RPD चाही\V-VM कि\CC-CCS ऊ\PR-PRP थोड़ा\QT-QTF उदारवादी\N-NN दृष्टि\N-NN अपनावे\V-VM ।\RD-PUNC 
+मगही\N-NN के\PSP ख्यातिप्राप्त\N-NN विदुषी\N-NN डा॰\V-VM सम्पत्ति\N-NN अर्याणी\N-NN के\PSP ई\DM-DMI कहना\V-VM सही\N-NN हे\V-VM कि\CC-CCS मगही\N-NN में\PSP जउन\PR-PRL शब्द\N-NN न\RP-NEG हे\V-VAUX ओकरा\PR-PRP ला\PSP तत्सम\N-NN शब्द\N-NN के\PSP प्रयोग\N-NN करे\V-VM के\PSP चाही\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP तत्सम\N-NN शब्द\N-NN प्रयोग\N-NN में\PSP अइते-अइते\N-NN मगही\N-NN में\PSP मिल\V-VM जायत\V-VAUX ।\RD-PUNC 
+हम\PR-PRP प्रमाण\N-NN के\PSP आधार\N-NN पर\PSP कहे\V-VM के\PSP स्थिति\N-NN में\PSP ही\V-VM कि\CC-CCS अवधी\N-NN आउ\CC-CCD ब्रजभाषा\N-NN के\PSP बड़ा-बड़ा\N-NN रचनाकार\N-NN भी\RP-RPD अप्पन\PR-PRP रचना\N-NN में\PSP तत्सम\N-NN शब्द\N-NN के\PSP प्रयोग\N-NN कयलन\V-VM हे\V-VAUX ।\RD-PUNC 
+महाकवि\N-NN तुलसी\N-NN के\PSP अवधि\N-NN भासा\N-NN में\PSP रचित\N-NN रामचरित\N-NN मानस\N-NN के\PSP बालकाण्ड\N-NN के\PSP कुछ\QT-QTF पाठ\N-NN देखल\V-VM जाय\V-VAUX –१\N-NN .\V-VM 
+जाहि\N-NN दीन\N-NN पर\PSP नेह,\V-VM करेउ\V-VAUX कृपा\N-NN मर्दन\N-NN नयन२\N-NN .\V-VM 
+सुमिरत\N-NN दिव्य\N-NN दृष्टि\N-NN हिय\V-VM होती\N-NN ३.\V-VM ज्ञान\N-NN भगति\N-NN जसु\N-NN धरे\N-NN सरीरा४\N-NN .\V-VM 
+गये\V-VAUX विभीषण\N-NN पास\N-NN पुनि,\N-NN कहत\V-VM पुत्र\N-NN वर\N-NN माँगई\V-VM सब\QT-QTF उदाहरण\N-NN में\PSP कृ,\V-VM र्द,\RD-PUNC दृ,\V-VM ज्ञ,\V-VAUX ष,\RD-PUNC ण\N-NN आउ\CC-CCD त्र\N-NN के\PSP प्रयोग\N-NN होयल\V-VM हे\V-VAUX ।\RD-PUNC 
+ब्रजभाषा\N-NN में\PSP कविवर\N-NN सूरदास\N-NN के\PSP ई\DM-DMI कथन\N-NN देखल\V-VM जाय\V-VAUX –१\N-NN .\V-VM 
+हम\PR-PRP गयंद\N-NN उतरि\N-NN कहाँ\PR-PRQ गर्दभ\N-NN चांद\N-NN पाई२\N-NN .\V-VM 
+हम\PR-PRP भक्तन\N-NN के\PSP भक्त\N-NN हमारे३\N-NN .\V-VM 
+मना\N-NN रे\V-VM माधो\N-NN से\PSP कर\V-VM प्रीतिएकरा\N-NN में\PSP अनुदारवादी\N-NN गर्दभ\N-NN के\PSP गरदभ,\N-NN भक्त\N-NN के\PSP भगत,\N-NN प्रीति\N-NN के\PSP परीति\N-NN लिखलन\V-VM हल\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF बानगी\N-NN नन्ददास\N-NN के\PSP देखल\V-VM जाय\V-VAUX –१\N-NN .\V-VM 
+कहि\N-NN संदेश\N-NN नन्दलाल\N-NN का\PR-PRQ बहुरि\N-NN मधुपुरी\N-NNP जाय२\V-VM .\V-VM 
+तृप्ति\N-NN जे\PR-PRL तातें\N-NN होत३\V-VM .\V-VAUX 
+उनके\PR-PRP छत्र\N-NN चँवर\N-NN सिंहासनई\N-NN उदाहरण\N-NN में\PSP अनुदारवादी\N-NN लोग\N-NN संदेश\N-NN के\PSP संदेस,\N-NN तृप्ति\N-NN के\PSP तिरिपति,\N-NN छत्र\N-NN के\PSP छतर\N-NN लिखलन\V-VM हल\V-VAUX ।\RD-PUNC 
+रत्नाकर\N-NN के\PSP उद्धवशतक\N-NN के\PSP ई\DM-DMI कवित्त\N-NN देखल\V-VM जाय\V-VAUX –प्रेम\N-NN नेम\V-VM छोड़ि\CC-CCS ज्ञान\V-VM छेम\N-NN जो\RP-RPD वतावत\V-VM सोंकहै\RD-PUNC रत्नाकर\N-NN त्रिलोक\N-NN ओक\N-NN मंडल\N-NN मेंज्ञान\N-NN गुदड़ी\N-NN में\PSP अनुराग\N-NN सों\N-NN रतन\N-NN लेबात\N-NN वृषभानु\N-NN मानहुँ\V-VM की\V-VAUX जानि\N-NN कीजिये\V-VM ।\RD-PUNC 
+ई\DM-DMI कविता\N-NN में\PSP ज्ञान,\N-NN त्रिलोक,\N-NN वृषभानु\N-NN में\PSP ज्ञ,\N-NN त्र,\N-NN ष\N-NN के\PSP प्रयोग\N-NN होयल\V-VM हे\V-VAUX ।\RD-PUNC 
+ब्रजभाषा\N-NN के\PSP नामी-गिरामी\N-NN कवियन\N-NN के\PSP आखरी\N-NN हस्ताक्षर\N-NN में\PSP वियोगी\N-NN हरि\N-NN हथिन\V-VM ।\RD-PUNC 
+इनखर\N-NN 'वीर\N-NN सतसई'\N-NN अनुपम\N-NN रचना\V-VM हे\V-VAUX ।\RD-PUNC 
+सतसई\N-NN परम्परा\N-NN के\PSP विपरीत\N-NN एकरा\DM-DMD में\PSP शृंगार\N-NN के\PSP जगह\N-NN पर\PSP तत्कालीन\N-NN स्थिति\N-NN के\PSP कथ्य\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI रचना\N-NN पर\PSP ऊ\PR-PRP बखत\N-NN के\PSP हिन्दी\N-NN के\PSP नामी\N-NN पुरस्कार\N-NN मंगला\N-NN प्रसाद\N-NN पारितोषिक\N-NN मिलल\V-VM हल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI किताब\N-NN में\PSP ब्रजभाषा\N-NN के\PSP विकसित\N-NN रूप\N-NN मिलऽ\V-VM हे\V-VAUX जे\PR-PRL बहुत\N-NN महत्त्व\N-NN के\PSP हे\V-VM ।\RD-PUNC 
+आगे\N-NN के\PSP उदाहरण\N-NN से\PSP ई\DM-DMI खुलासा\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+रामचन्द्र\N-NN शुक्ल\N-NN भी\RP-RPD ब्रजभाषा\N-NN में\PSP कविता\N-NN करऽ\V-VM हलन\V-VAUX ।\RD-PUNC 
+इनखर\N-NN लिखल\V-VM 'बुद्ध\N-NN चरित'\N-NN प्रबन्ध\N-NN काव्य\N-NN ब्रजभाषा\N-NN में\PSP हे\V-VM ।\RD-PUNC 
+एकर\DM-DMD भूमिका\N-NN में\PSP ऊ\PR-PRP ब्रजभाषा\N-NN के\PSP सुधार\N-NN करे\V-VM के\PSP बात\N-NN लिखलन\V-VM हल,\RD-PUNC जइसन\RP-RPD कि\CC-CCS 'हिन्दी\N-NN साहित्य\N-NN का\PR-PRQ इतिहास'\N-NN से\PSP जानल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+मगर\N-NN ई\DM-DMI किताब\N-NN के\PSP न\RP-NEG मिले\V-VM के\PSP वजह\N-NN से\PSP हम\PR-PRP इनखर\N-NN विचार\N-NN से\PSP पाठक\N-NN के\PSP अवगत\N-NN न\RP-NEG करा\V-VM सकऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+मगर\N-NN ऊ\PR-PRP इतिहास\N-NN में\PSP लिखलन\V-VM हे\V-VAUX -\RD-PUNC 'यदि\N-NN उसे\PSP (ब्रजभाषा)\N-NN इस\N-NN काल\N-NN में\PSP भी\RP-RPD चलना\V-VM है\V-VAUX तो\PR-PRL वर्तमान\N-NN भावों\N-NN को\PSP ग्रहण\N-NN करने\V-VM के\PSP साथ\PSP ही\RP-RPD भाषा\N-NN का\PR-PRQ भी\RP-RPD कुछ\QT-QTF परिष्कार\N-NN करना\V-VM होगा\V-VAUX ।\RD-PUNC 
+'\N-NN लगऽ\V-VM हे\V-VAUX कि\CC-CCS रामचन्द्र\N-NN शुक्ल\N-NN से\PSP प्रभावित\N-NN होके\V-VM आउ\CC-CCD समय\N-NN के\PSP अनुरूप\N-NN वियोगी\N-NN हरि\N-NN 'वीर\N-NN सतसई'\N-NN में\PSP ब्रजभाषा\N-NN के\PSP नया\N-NN रूप\N-NN देलन\V-VM हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD में\PSP ऊपर\N-NN लिखल\V-VM करीब-करीब\N-NN सब्भे\V-VM विवादित\N-NN वर्ण\N-NN के\PSP विवाद\N-NN के\PSP अन्त\N-NN करके\V-VM ऊ\PR-PRP दोसर\QT-QTO लोकभाषा\N-NN के\PSP भी\RP-RPD मार्गदर्शन\N-NN कयलन\V-VM हे\V-VAUX ।\RD-PUNC 
+'वीर\N-NN सतसई'\N-NN से\PSP लेल\V-VM नीचे\N-NN के\PSP अंश\N-NN एकरा\DM-DMD प्रमाणित\N-NN करत\V-VAUX –१\N-NN .\V-VM 
+क्षत्रिय\N-NN क्षत्रिय\N-NN कहँतो\V-VM क्षत्रिय\N-NN कोय\PR-PRI न\RP-NEG होय२\V-VM .\RD-PUNC 
+कहाँ\PR-PRQ प्रतिज्ञा\N-NN पालिहें\N-NN कपटी\N-NN कायर\N-NN क्रूर३\N-NN .\V-VM 
+दयानन्द\N-NN आरज\N-NN पथिक\N-NN यति\N-NN व\N-NN श्रद्धानन्द४\N-NN .\V-VM 
+शत्रुता\N-NN ही\RP-RPD रणशूर\N-NN मति\N-NN मङ्गल\N-NN मूर्ति\N-NN पुनीत५\V-VM .\V-VAUX 
+गुण\N-NN गंभीर\N-NN रण\N-NN शूरमा\V-VM मिलतु\N-NN लाख\N-NN मई\V-VM एक६\V-VAUX .\V-VM 
+दल्यो\N-NN अहिंसा\N-NN अरघ\N-NN से\PSP दनुज\N-NN दुःख\N-NN करि\V-VM युद्ध\N-NN ई\DM-DMI सब\QT-QTF उदाहरण\N-NN में\PSP क्ष,\V-VM त्र,\RD-PUNC ज्ञ,\V-VM श्र,\V-VAUX द्ध,\RD-PUNC य,\V-VAUX श,\V-VAUX ङ,\RD-PUNC रेफ\N-NN (र्ति),\V-VM ण,\RD-PUNC विसर्ग\N-NN (:)\V-VM और\CC-CCD संयुक्ताक्षर\N-NN के\PSP प्रयोग\N-NN होयल\V-VM हे\V-VAUX ।\RD-PUNC 
+निर्गुण\N-NN धारा\N-NN के\PSP संत\N-NNP कवि\N-NN भी\RP-RPD विवादित\N-NN वर्ण\N-NN के\PSP मिलल-जुलल\V-VM प्रयोग\N-NN कयलन\V-VM हे\V-VAUX ।\RD-PUNC 
+कबीर\N-NN के\PSP ई\DM-DMI पद\N-NN देखल\V-VM जाय\V-VAUX –१\N-NN .\V-VM 
+तत्वमसी\N-NN इनके\PSP उपदेशा,\N-NN ई\DM-DMI उपनीषद\N-NN कहे\V-VM संदेशा२\N-NN .\V-VM 
+जानवलिक\N-NN औ\N-NN जनक\V-VM संवादा,\RD-PUNC दत्तात्रेय\N-NN बहे\V-VM रस\N-NN बहै\V-VM रस\N-NN स्वादा\N-NN ३.\V-VM है\V-VAUX कोई\PR-PRI गुरुज्ञानी\N-NN जगत\N-NN मह\N-NN उलटि\N-NN वेद\N-NN बूझै\N-NN ई\DM-DMI तीनो\QT-QTC पद\N-NN में\PSP श,\V-VM ष,\V-VAUX स\N-NN के\PSP अलावे\V-VM त्त,\RD-PUNC त्र\N-NN आउ\CC-CCD ज्ञ\N-NN के\PSP प्रयोग\N-NN होयल\V-VM हे\V-VAUX ।\RD-PUNC 
+दादूदयाल\N-NN के\PSP ई\DM-DMI पद\N-NN देखल\V-VM जाय\V-VAUX –दादू\N-NN पाणी\N-NN लूण\V-VM ज्यों\RB एक\QT-QTC रहे\V-VM समाई\N-NN ।\RD-PUNC 
+एकरा\DM-DMD में\PSP ण\N-NN विचारणीय\V-VM हे\V-VAUX ।\RD-PUNC 
+अवधी-ब्रजभाषा\N-NN के\PSP कवियन\N-NN आखिर\N-NN में\PSP विवादित\N-NN वर्ण\N-NN के\PSP विरोध\N-NN कम\N-NN कर\V-VM देलन\V-VAUX ई\DM-DMI गुनी\N-NN नईं,\V-VM बलुक\N-NN ई\DM-DMI गुनी\N-NN मगही\N-NN में\PSP भी\RP-RPD विवादित\N-NN वर्ण\N-NN के\PSP प्रयोग\N-NN करे\V-VM के\PSP जरूरत\N-NN हे\V-VM कि\CC-CCS ढेर\QT-QTF मनी\N-NN अइसन\RP-RPD शब्द\N-NN हे\V-VAUX जे\PR-PRL विवादित\N-NN वर्ण\N-NN के\PSP छाँटे\N-NN से\PSP भाव\N-NN विचार\N-NN के\PSP अभिव्यक्ति\N-NN में\PSP विसंगति\N-NN पैदा\V-VM करत,\V-VAUX जेकरा\PR-PRL से\PSP भासा\N-NN के\PSP महत्व\N-NN कम\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+देखल\V-VM जाय\V-VM –१\V-VAUX .\V-VM 
+कोस,\N-NN कोष,\PSP कोश\N-NN -\RD-PUNC कोस\N-NN में\PSP अगर\CC-CCS हरेक\V-VM जगह\N-NN दन्त्य\N-NN स\N-NN ही\RP-RPD रहत\V-VM तो\PR-PRL बड़ी\JJ गड़बड़\N-NN हो\V-VM जायत,\V-VAUX काहे\CC-CCS कि\CC-CCS कोस\N-NN से\PSP दू\QT-QTC मील\N-NN के\PSP दूरी,\QT-QTC कोश\N-NN से\PSP डिक्शनरी\N-NN आउ\CC-CCD कोष\N-NN से\PSP खजाना\N-NN के\PSP बोध\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+२\N-NN .\V-VM 
+बानी,\CC-CCD वाणी\N-NN -\RD-PUNC मगही\N-NN में\PSP बानी\N-NN गोइठा\N-NN आउ\CC-CCD लकड़ी\N-NN के\PSP राख\N-NN के\PSP कहल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+वाणी\N-NN उपदेश\N-NN के\PSP अर्थ\N-NN में\PSP प्रयोग\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+अगर\CC-CCS ण\N-NN के\PSP न\RP-NEG कैल\V-VM जायत\V-VAUX तो\PR-PRL अर्थ\N-NN में\PSP व्यवधान\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+३\N-NN .\V-VM 
+सान,\QT-QTC शान\N-NN -\RD-PUNC औजार\N-NN पिजावे\V-VM के\PSP पत्थर\N-NN के\PSP नाम\N-NN सान\N-NN हे\V-VM ।\RD-PUNC 
+शान\N-NN से\PSP अदमी\N-NN के\PSP प्रतिष्ठा\N-NN ज्ञात\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+अगर\CC-CCS दुन्नो\QT-QTC में\PSP स\N-NN लिखल\V-VM जायत\V-VAUX तो\PR-PRL अर्थ\N-NN विकृत\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+४.\N-NN पास,\N-NN पाश\N-NN -\RD-PUNC पास\N-NN माने\N-NN नजदीक\N-NN आउ\CC-CCD उत्तीर्ण,\N-NN पाश\N-NN माने\N-NN फंदा\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+५\N-NN .\V-VM 
+विकास,\N-NN विकाश\N-NN -\RD-PUNC विकास\N-NN माने\N-NN उत्थान,\V-VM विकाश\N-NN माने\N-NN प्रकाश\N-NN ।\RD-PUNC 
+६\N-NN .\V-VM 
+किरिया,\N-NN क्रिया\N-NN -\RD-PUNC क्रिया\N-NN (verb)\N-NN के\PSP अनुदारवादी\N-NN किरिया\N-NN लिखलन\V-VM जेकर\PR-PRL अर्थ\N-NN कसम\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+७\N-NN .\V-VM 
+श्रद्धा,\N-NNP सरधा\N-NN -\RD-PUNC श्रद्धा\N-NN के\PSP अनुदारवादी\N-NN सरधा\N-NN लिखलन\V-VM ।\RD-PUNC 
+द्ध\N-NN के\PSP बदले\N-NN ध\V-VM ।\RD-PUNC 
+डा॰\N-NN अभिमन्यु\N-NN प्रसाद\N-NN मौर्य\N-NN के\PSP एगो\QT-QTC कहानी\N-NN के\PSP शीर्षक\V-VM हे\V-VAUX 'उद्धार'\V-VAUX ।\RD-PUNC 
+ई\DM-DMI हिसाब\N-NN से\PSP ई\DM-DMI 'उधार'\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+स्पष्ट\N-NN ही\RP-RPD उद्धार\N-NN के\PSP अर्थ\N-NN त्राण\N-NN आउ\CC-CCD उधार\N-NN के\PSP अर्थ\N-NN बाकी\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+'उधार'\N-NN से\PSP तो\PR-PRL कहानी\N-NN के\PSP अर्थ\N-NN ही\RP-RPD बदल\V-VM जायत\V-VAUX ।\RD-PUNC 
+८\N-NN .\V-VM 
+बौद्ध,\V-VM बौध\N-NN -\RD-PUNC बौद्ध\N-NN माने\N-NN बुद्ध\N-NN के\PSP अनुयायी\N-NN आउ\CC-CCD बौध\N-NN माने\N-NN मन्दबुद्धि\N-NN वाला\N-NN ।\RD-PUNC 
+एही\DM-DMD तरह\RP-RPD से\PSP ढेर\QT-QTF मनी\N-NN शब्द\N-NN हे\V-VAUX जेकरा\PR-PRL अभिव्यक्ति\N-NN ठीक\N-NN से\PSP न\RP-NEG होयत\V-VM अगर\CC-CCS अनुदारवादी\N-NN सब\QT-QTF के\PSP अनुशासन\N-NN चलत\V-VM ।\RD-PUNC 
+ई\DM-DMI गुनी\N-NN अगर\CC-CCS विवादित\N-NN वर्ण\N-NN के\PSP विवाद\N-NN खतम\N-NN करके\V-VM उदारवादी\N-NN दृष्टिकोण\N-NN अपनावल\V-VM जाय\V-VAUX तो\PR-PRL जादे\V-VM ठीक\JJ रहत\V-VM ।\RD-PUNC 
+अइसन\RP-RPD लगऽ\V-VM हे\V-VAUX कि\CC-CCS जे\PR-PRL डा॰\N-NN ग्रियर्सन\N-NN कैथी-हिन्दी\N-NN लिपि\V-VM के\PSP वकालत\N-NN कयलन\V-VM हल,\V-VAUX ई\DM-DMI विवाद\N-NN ओइसने\PR-PRL विचार\N-NN के\PSP परिणाम\N-NN हे\V-VM ।\RD-PUNC 
+कैथी-हिन्दी\N-NN लिपि\V-VM के\PSP आत्मा\N-NN देवनागरी\N-NN लिपि\V-VM के\PSP देह\N-NN में\PSP फिट\V-VM कैल\V-VAUX गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+ज्ञात\N-NN होवे\V-VM के\PSP चाही\V-VM कि\CC-CCS कैथी-हिन्दी\N-NN लिपि\N-NN में\PSP तीनो\QT-QTC स\N-NN ष\N-NN श\N-NN के\PSP जगह\N-NN स\N-NN लिखल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+श्र,\CC-CCD क्ष,\N-NN त्र,\N-NN ज्ञ\N-NN के\PSP प्रयोग\N-NN एकदम\N-NN न\RP-NEG हे\V-VM आउ\CC-CCD संयुक्ताक्षर\N-NN के\PSP तोड़\V-VM के\PSP लिखल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+पिछला\N-NN सदी\N-NN के\PSP तीसरा-चउथा\QT-QTO दशक\N-NN के\PSP निबन्धित\V-VM दस्तावेज,\V-VAUX जमीन्दार\N-NN सब\QT-QTF के\PSP मालगुजारी\N-NN के\PSP रसीद\N-NN एकर\N-NN प्रमाण\N-NN हे\V-VM ।\RD-PUNC 
+आझ\N-NN भी\RP-RPD गाहे-बगाहे\N-NN पुरनका\N-NN लोग\N-NN सब\QT-QTF ई\DM-DMI लिपि\V-VM के\PSP प्रयोग\N-NN करऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सबके\N-NN देखे\V-VM से\PSP सब\QT-QTF बात\N-NN साफ\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+ई\DM-DMI तरह\RP-RPD से\PSP एक\QT-QTC प्रकार\N-NN से\PSP डा॰\N-NN ग्रियर्सन\N-NN के\PSP कथन\N-NN के\PSP मूर्त्त\N-NN रूप\N-NN देवे\V-VM के\PSP प्रयास\N-NN अनुदारवादी\N-NN प्रत्यक्ष-अप्रत्यक्ष\N-NN रूप\N-NN से\PSP कर\N-NN रहलन\V-VM हे\V-VAUX ।\RD-PUNC 
+हमरा\PR-PRP लगऽ\V-VM हे\V-VAUX कि\CC-CCS अभी\N-NN चाहे\N-NN जउन\PR-PRL रूप\N-NN में\PSP मगही\N-NN भासा\N-NN के\PSP लिखल\V-VM जाय,\V-VAUX लिखे\V-VAUX देवे\V-VAUX के\V-VAUX चाही\V-VAUX ।\RD-PUNC 
+कालान्तर\N-NN में\PSP खुद्दे\N-NN ऊ\PR-PRP अप्पन\PR-PRP रूप\N-NN अख्तियार\N-NN कर\V-VM लेत\V-VAUX ।\RD-PUNC 
+इतिहास\N-NN गवाह\N-NN हे\V-VM कि\CC-CCS जब\PR-PRL कभी\N-NN भासा\N-NN के\PSP मोड़े\N-NN के\PSP प्रयास\N-NN होयत\V-VM हे,\V-VAUX नया\N-NN भासा\N-NN के\PSP जलम\V-VM हो\V-VAUX गेल\V-VAUX हे\V-VAUX जेकरा\PR-PRL से\PSP कोई\PR-PRI लाभ\N-NN न\RP-NEG होयल\V-VM ।\RD-PUNC 
+एक\QT-QTC बात\N-NN जरूर\N-NN हे\V-VM कि\CC-CCS अनुदारवादी\N-NN आउ\CC-CCD उदारवादी\N-NN दुन्नो\QT-QTC एकमत\N-NN हथ\V-VM कि\CC-CCS मगही\N-NN के\PSP अप्पन\PR-PRP शब्दन\N-NN के\PSP ज्यों\N-NN के\PSP त्यों\N-NN प्रयोग\N-NN में\PSP लावल\V-VM जाय\V-VAUX ।\RD-PUNC 
+ई\DM-DMI सन्दर्भ\N-NN में\PSP ई\DM-DMI बात\N-NN पर\PSP विचार\N-NN करे\V-VM के\PSP जरूरत\N-NN हे\V-VM कि\CC-CCS मगही\N-NN शब्दन\N-NN के\PSP विशेषता\N-NN के\PSP दरसावल\V-VM जाय\V-VAUX आउ\CC-CCD ओइसन\N-NN सब्द\N-NN के\PSP प्रचारित\N-NN कैल\V-VM जाय\V-VAUX जेकर\PR-PRL प्रतिरूप\N-NN दोसर\QT-QTO भाषा\N-NN में\PSP न\RP-NEG हे\V-VAUX ।\RD-PUNC 
+उदाहरण\N-NN के\PSP रूप\N-NN में\PSP कुछ\QT-QTF शब्दन\N-NN के\PSP बानगी\N-NN देल\V-VM जा\V-VAUX रहल\V-VAUX हे\V-VAUX -\RD-PUNC अपसुइया,\RB गिरपरता,\V-VM गाँती,\V-VAUX गरवइत,\RD-PUNC गोहनाना,\V-VAUX लूर,\V-VAUX गोझनउठा,\RD-PUNC गुमसाइंध,\V-VAUX अनकर,\V-VAUX मट्ठर,\RD-PUNC आगरो,\N-NNP नून्नी,\RD-PUNC झोंटी,\RB सरेक,\N-NN भेसलावन,\V-VM भंडूल,\V-VAUX ढोनी,\RD-PUNC मुठान,\PSP हहरना,\RD-PUNC बौंखना,\RD-PUNC भकोसना,\V-VM छिपली\V-VAUX ।\RD-PUNC 
+मगही\N-NN में\PSP अइसन\RP-RPD अनगिनत\N-NN शब्द\N-NN हे,\V-VM जे\PR-PRL मगही\N-NN क्षेत्र\N-NN के\PSP शुद्ध\N-NN हिन्दी\N-NN भाषा-भाषी\N-NN भी\RP-RPD प्रयोग\N-NN में\PSP लावऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL वह\N-NN बौंख\N-NN गया\N-NNP है\V-VAUX ।\RD-PUNC 
+वह\N-NN एक\QT-QTC तरफ\N-NN पढ़ता\N-NN है,\PSP दूसरी\N-NN तरफ\N-NN भकोस\N-NN जाता\V-VM है\V-VAUX ।\RD-PUNC 
+वह\N-NN मकान\N-NN भंडूल\N-NN लगता\V-VM है\V-VAUX ।\RD-PUNC 
+गिरपरता\N-NN बनके\V-VM हम\PR-PRP वहाँ\DM-DMD नहीं\N-NN रहेंगे\V-VM ।\RD-PUNC 
+उसको\N-NN खाना\N-NN बनाने\N-NN का\PR-PRQ लूर\N-NN नहीं\V-VM है\V-VAUX ।\RD-PUNC 
+वह\N-NN अभी\N-NN अपसुइया\N-NN है\V-VAUX ।\RD-PUNC 
+एकर\DM-DMD अलावे\V-VM बहुत\N-NN शब्द\N-NN अइसन\RP-RPD हे\V-VM जे\PR-PRL एक\QT-QTC चीज\N-NN के\PSP भिन्न\N-NN स्टेज\N-NN के\PSP द्योतन\N-NN करऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+जइसे\PR-PRL लाठी\N-NN के\PSP भिन्न\N-NN स्टेज\N-NN के\PSP रूप\N-NN देखल\V-VM जाय\N-NN -\RD-PUNC छेकुनी,\N-NN छड़ी,\V-VM पैना,\RD-PUNC डंटा,\V-VM अरउआ,\V-VAUX लकुटी,\RD-PUNC सोंटा,\N-NN लाठी,\V-VM चाभा\V-VAUX ।\RD-PUNC 
+'छेकुनी'\N-NN पतला\N-NN छड़ी\N-NN ला,\PSP 'छड़ी'\N-NN छेकुनी\N-NN से\PSP बड़ा\JJ आउ\CC-CCD सुसज्जित\N-NN भेस\N-NN ला,\V-VM 'पैना'\V-VAUX आकार\N-NN से\PSP थोड़ा\QT-QTF मजबूत,\N-NN 'डंटा'\N-NN आउ\CC-CCD बड़ा,'सोंटा'\N-NN थोड़ा\QT-QTF ताकतवाला\N-NN मजबू,\N-NN 'अरउआ'\V-VM बैल-गाय\N-NN हाँके\PSP ला,\N-NNP 'लाठी'\N-NN लम्बा\PSP मोटा\JJ मजबूत\N-NN ला,\N-NNP 'चाभा'\N-NN तेल\N-NN पिलावल\V-VM लाठी\N-NN ला\PSP प्रयोग\N-NN में\PSP लावल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+एही\DM-DMD तरह\RP-RPD फल,\QT-QTC खिरा,\V-VM ककड़ी\N-NN के\PSP भिन्न\N-NN स्टेज\N-NN के\PSP नाम\N-NN देखल\V-VM जाय\V-VAUX -\RD-PUNC तूज्जा,\RP-RPD बतिया,\V-VM खिच्चा,\RD-PUNC डम्हक,\V-VM पक्कल,\RD-PUNC पोखटाल,\V-VM जोआयल\V-VAUX ।\RD-PUNC 
+'तूज्जा'\N-NN फूल\N-NN में\PSP रूप\N-NN आकार\N-NN ग्रहण\N-NN करे\V-VM बखत\N-NN के\PSP नाम\N-NN हे,\V-VM ओकरा\PR-PRP से\PSP जब\PR-PRL थोड़ा\QT-QTF बड़ा\RP-INTF होत\V-VAUX तो\PR-PRL 'बतिया',\V-VM ओकर\PR-PRP बाद\N-NN 'खिच्चा',\V-VM तब\PR-PRL 'डम्हक',\PR-PRP फेन\N-NN 'पक्कल',\RD-PUNC फिन\CC-CCD खूब\QT-QTF पक्कल\V-VM के\PSP 'पोखटाल',\V-VM आउ\CC-CCD 'जोआयल'\N-NN कहल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+अइसन\RP-RPD बात\N-NN लड़का\N-NN के\PSP भिन्न-भिन्न\N-NN रूप\N-NN के\PSP हे\N-NN -\RD-PUNC फोहवा,\N-NNP जिरिकना,\N-NNP बचवा,\V-VM लड़का\V-VAUX ।\RD-PUNC 
+'फोहवा'\N-NN एकदम\N-NN से\PSP जलम\V-VM लेला\V-VAUX के\PSP बाद\N-NN महीना\N-NN दू\QT-QTC महीना\N-NN के\PSP परिचायक\N-NN हे\V-VM ।\RD-PUNC 
+'जिरिकना'\N-NN ओकर\PR-PRP बाद\N-NN के\PSP स्टेज\N-NN के\PSP बच्चा,\N-NN 'बचवा'\V-VM ओकर\PR-PRP बाद,\N-NN ओकर\PR-PRP बाद\N-NN 'लड़का'\V-VM ।\RD-PUNC 
+मकर\N-NN चान्दनी,\V-VM भिनसार,\RD-PUNC भोर\N-NN -\RD-PUNC ई\DM-DMI तीन\QT-QTC शब्द\N-NN भोर\N-NN से\PSP सम्बन्धित\N-NN हे\V-VM ।\RD-PUNC 
+'मकर\N-NN चान्दनी'\N-NN ओकरा\PR-PRP कहल\V-VM जाहे\V-VAUX जब\PR-PRL भोर\N-NN के\PSP भरम\N-NN होवॆ\V-VM हे\V-VAUX ।\RD-PUNC 
+'भिनसार'\N-NN शब्द\N-NN भोर\N-NN के\PSP पहिले\N-NST के\PSP स्थिति\N-NN के\PSP कहल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+'भिनसार'\N-NN के\PSP बाद\N-NN 'भोर'\N-NN होवऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+खेती\N-NN के\PSP मोतल्लिक\N-NN बहुत\N-NN सा\RP-RPD तकनीकी\N-NN शब्द\N-NN हे\V-VM जेकर\PR-PRL प्रयोग\N-NN खेतिहर\N-NN सब\QT-QTF आम\N-NN तौर\N-NN पर\PSP करऽ\V-VM हथ\V-VAUX ।\RD-PUNC 
+'तरखा'\N-NN ऊँचा\N-NN जमीन\N-NN के\PSP कहल\V-VM जाहे\V-VAUX -\RD-PUNC 'तरखा\N-NN के\PSP खेती\N-NN हे,\V-VM से\PSP पटावे\V-VM में\PSP दिक्कत\N-NN हे\V-VM ।\RD-PUNC 
+'\N-NN जानवर\N-NN के\PSP चोरा\V-VM के\V-VAUX जब\PR-PRL रकम\N-NN लेके\V-VM छोड़ऽ\V-VM हे\V-VAUX ओके\N-NN 'पनहा'\N-NN पर\PSP छोड़े\N-NN के\PSP बात\N-NN कहल\V-VM जाहे\V-VAUX ।\RD-PUNC 
+'फाड़ल'\N-NN खेती\N-NN ओकरा\PR-PRP कहल\V-VM जाहे\V-VAUX जे\PR-PRL धान\N-NN के\PSP खेत\N-NN जोत\V-VM के\PSP चउकी\N-NN देके\V-VM रोपे\N-NN ला\PSP तइयार\N-NN रहऽ\V-VM हे\V-VAUX ।\RD-PUNC 
+ई\DM-DMI तरह\RP-RPD से\PSP गाँव\N-NN कस्बा\N-NN में\PSP प्रचलित\N-NN मगही\N-NN शब्द\N-NN के\PSP संरक्षित\N-NN करे\V-VM के\PSP जरूरत\N-NN हे\V-VM ।\RD-PUNC 
+एकरा\DM-DMD में\PSP अनुदारवादी\N-NN आउ\CC-CCD उदारवादी\N-NN दुन्नो\QT-QTC सहमत\N-NN होयतन,\PSP अइसन\RP-RPD अनुमान\N-NN हे\V-VM ।\RD-PUNC 
+ई\DM-DMI सन्दर्भ\N-NN में\PSP लोकभासा\N-NN के\PSP चर्चित\N-NN विद्वान\N-NN गोविन्द\N-NN झा\N-NN के\PSP 'मगही\N-NN शब्द\N-NN समस्या'\N-NN शीर्षक\QT-QTO निबन्ध\N-NN पढ़े\V-VM जुकुर\N-NN हे\V-VAUX ।\RD-PUNC 
+ओकर\PR-PRP ई\DM-DMI अंश\N-NN पर\PSP ध्यान\N-NN देलजाय\V-VM -\RD-PUNC 'मगह\N-NN में\PSP प्रचलित\N-NN ऐसे\PSP ही\RP-RPD शब्द\N-NN वस्तुतः\N-NN मगही\N-NN के\PSP लिए\N-NN सम्पदा\N-NN हैं\V-VM और\CC-CCD चूँकि\QT-QTC ये\N-NN बाहरी\N-NN प्रबल\N-NN भाषाओं\N-NN के\PSP अतिक्रमण\N-NN के\PSP कारण\N-NN बहुत\N-NN तेजी\RB से\PSP लुप्त\N-NN होते\V-VM जा\V-VAUX रहे\V-VM हैं,\V-VAUX अतः\N-NN वर्तमान\N-NN युग\N-NN का\PR-PRQ कर्तव्य\V-VM है\V-VAUX कि\CC-CCS विरासत\N-NN में\PSP मिली\N-NN उस\N-NN सम्पदा\N-NN का\PR-PRQ सुरक्षित-सुजीवित\V-VM रखें\V-VAUX और\CC-CCD यदि\N-NN ऐसे\PSP शब्दों\N-NN का\PR-PRQ मरण\N-NN अनिवार्य\N-NN हो\V-VM तो\PR-PRL कम\N-NN से\PSP कम\N-NN म्युजियम\N-NN के\PSP रूप\N-NN में\PSP उन्हें\N-NN शब्दकोश\N-NN में\PSP जल्द\N-NN संगृहीत\N-NN कर\V-VM लें\V-VAUX ताकि\CC-CCD भविष्य\N-NN में\PSP उनका\PR-PRP नामोनिशान\N-NN मिट\N-NN न\RP-NEG जाय\V-VM ।\RD-PUNC 
+'ई\N-NN गुने\N-NN हम\PR-PRP मगही\N-NN के\PSP विचारक\N-NN से\PSP अनुरोध\N-NN करम\V-VM कि\CC-CCS ऊ\PR-PRP तेजी\RB से\PSP लुप्त\N-NN हो\V-VM रहल\V-VAUX अइसन\RP-RPD शब्दन\N-NN के\PSP खोज\V-VM करथ\V-VAUX आउ\CC-CCD पत्रिका-पुस्तक\N-NN में\PSP रेखांकित\V-VM करथ\V-VAUX ।\RD-PUNC 
+शहरीकरण\N-NN के\PSP ई\DM-DMI युग\N-NN में\PSP शहर\N-NN से\PSP निकल\V-VM के\PSP गाँव\N-NN में\PSP खोजे\V-VM से\PSP अइसन\RP-RPD शब्द\N-NN मिलत\V-VM ।\RD-PUNC 
+एकरा\DM-DMD ला\PSP पाँच\QT-QTC सितारा\N-NN संस्कृति\N-NN से\PSP निकल\V-VM के\PSP ग्रामीण\N-NN अंचल\N-NN में\PSP जाय\V-VM के\V-VAUX जरूरत\N-NN हे\V-VM ।\RD-PUNC 
+आधुनिक\N-NN मगही\N-NN के\PSP विकास\N-NN के\PSP करीब\N-NN पचास\N-NN बरिस\QT-QTC हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI काल-खण्ड\N-NN में\PSP सभ\N-NN विधा\N-NN पर\PSP बहुत\N-NN किताब\N-NN छपल\V-VM हे\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP किताबन\N-NN के\PSP आधार\N-NN मान\N-NN के\PSP कथित\N-NN विवादित\N-NN वर्ण\N-NN आउ\CC-CCD दोसर\QT-QTO ढंग\N-NN पर\PSP लेखकगण\N-NN अप्पन\PR-PRP रचना\N-NN में\PSP कइसन\PR-PRQ आउ\CC-CCD कउन\PR-PRQ रूप\N-NN में\PSP लिखलन\V-VM हे,\V-VAUX ओकर\PR-PRP लेखा-जोखा\N-NN करे\V-VM के\PSP जरूरत\N-NN हे,\V-VM जेकरा\PR-PRL से\PSP ई\DM-DMI जानल\V-VM जाय\V-VAUX कि\CC-CCS मगही\N-NN के\PSP रचनाकार\N-NN कउन-कउन\N-NN रूप\N-NN में\PSP लिखलन\V-VM हे\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP विवेचन\N-NN से\PSP बहुत\N-NN पुरान\N-NN आउ\CC-CCD नया\N-NN रचनाकारन\N-NN के\PSP विवादित\N-NN वर्ण\N-NN आउ\CC-CCD ढंग\N-NN के\PSP बारे\N-NN में\PSP जानकारी\N-NN हो\V-VM जायत\V-VAUX ।\RD-PUNC 
+[मगही\N-NN मासिक\JJ पत्रिका\N-NN ‘अलका\V-VM मागधी’,\RD-PUNC बरिस-११,\RD-PUNC अंक-२,\RD-PUNC फरवरी\N-NN २००५,\PSP पृ॰५-८\N-NN से\PSP साभार\N-NN ।\RD-PUNC 
+]\N-NN ।\RD-PUNC 

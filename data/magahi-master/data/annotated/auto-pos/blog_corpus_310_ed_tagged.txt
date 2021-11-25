@@ -1,0 +1,12 @@
+http://in\N-NN .\V-VM 
+jagran\N-NN .\V-VM 
+yahoo\N-NN .\V-VM 
+com/news/local/bihar/4\4\5637863\N-NN .\V-VM 
+html19\N-NN Jul\N-NN 2009\V-VM 10:52\V-VAUX pmगया\RD-PUNC ।\RD-PUNC 
+हिन्दी\N-NN और\CC-CCD मगही\N-NN के\PSP लेखक\V-VM डा.\N-NN राकेश\N-NN कुमार\N-NNP सिन्हा\N-NN 'रवि'\V-VM की\V-VAUX एक\QT-QTC और\CC-CCD पुस्तक\N-NN 'धरोहर\N-NN मगध\N-NN के'\PSP मगही\N-NN में\PSP प्रकाशित\N-NN हो\V-VM गयी\V-VAUX है\V-VAUX ।\RD-PUNC 
+इस\N-NN पुस्तक\N-NN में\PSP मगध\N-NN के\PSP कई\QT-QTF धरोहरों\N-NN के\PSP बारे\N-NN में\PSP डा.\V-VM रवि\V-VAUX ने\RP-NEG जानकारी\N-NN दी\N-NN है\V-VAUX जिसमें\N-NN गया\N-NNP के\PSP अलावे\V-VM औरंगाबाद,\V-VAUX नवादा,\RD-PUNC जहानाबाद\N-NNP के\PSP धरोहरों\V-VM की\V-VAUX जानकारी\N-NN है\V-VAUX ।\RD-PUNC 
+इसके\N-NN पूर्व\N-NN डा.\N-NN रवि\N-NN की\PSP सात\QT-QTC पुस्तकें\N-NN हिन्दी\N-NN और\CC-CCD मगही\N-NN में\PSP प्रकाशित\N-NN हो\V-VM चुकी\N-NN हैं\V-VM ।\RD-PUNC 
+;;;;Badhaayee\N-NN .\V-VM 
+(\RD-SYM Treasurer-S\N-NN .\V-VM 
+T\N-NN .\V-VM 
+)\RD-SYM ।\RD-PUNC 

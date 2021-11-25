@@ -1,0 +1,21 @@
+[\N-NN कहताहर\N-NN -\RD-PUNC सूर्यदेव\N-NNP सिंह,\N-NNP ग्राम\N-NN -\RD-PUNC दनई,\N-NNP रफीगंज,\RD-PUNC जिला\N-NN -\RD-PUNC गया\N-NNP ]एगो\RD-PUNC हलन\V-VAUX बाबा\N-NN जी\N-NN ।\RD-PUNC 
+दिन\N-NN माँगथ\V-VM तो\PR-PRL सवा\QT-QTO सेर\N-NN आउ\CC-CCD रात\N-NN माँगथ\V-VM तो\PR-PRL सवे\QT-QTO सेर\N-NN ।\RD-PUNC 
+उनका\PR-PRP कभी\N-NN पेट\N-NN न\RP-NEG भरे\V-VM ।\RD-PUNC 
+उनका\PR-PRP दूगो\QT-QTC लइकन\N-NN हलन\V-VM ।\RD-PUNC 
+बाबा\N-NN जी\N-NN सोचथ\V-VM कि\CC-CCS एहनी\N-NN के\PSP कहिना\N-NN पाठसाला\N-NN में\PSP बइठाऊँ\V-VM ?\V-VAUX 
+गरीबी\N-NN से\PSP उनका\PR-PRP बइठाबल\V-VM न\RP-NEG बनऽ\V-VM हल\V-VAUX ।\RD-PUNC 
+सपरते-सपरते\N-NN दूनो\QT-QTC लइकन\N-NN सेआन\N-NN हो\V-VM गेलन\V-VAUX ।\RD-PUNC 
+एक\QT-QTC दिन\N-NN उनकर\PR-PRP दूरा\N-NN पर\PSP बेर\N-NN डूबइत\V-VM एगो\QT-QTC साधु\N-NN पहुँचलन\V-VM आउ\CC-CCD कहलन\V-VM कि\CC-CCS 'मिले\N-NN जजमान,\N-NN मिले\V-VM जजमान\N-NN !\V-VM 
+'\N-NN एकरा\DM-DMD पर\PSP बाबा\N-NN जी\N-NN कहलन\V-VM कि\CC-CCS तोरा\PR-PRP दिन\N-NN भर\RP-RPD माँगे\V-VM से\PSP पेट\N-NN न\RP-NEG भरलवऽ\V-VM तो\PR-PRL बेरिया\N-NN डूबे\V-VM माँगे\N-NN से\PSP पेट\N-NN भर\V-VM जतवऽ\V-VAUX ।\RD-PUNC 
+साधु\N-NN जी\N-NN कहलन\V-VM कि\CC-CCS तूँ\PR-PRP काहे\CC-CCS ला\PSP खिसिआइत\V-VM हऽ\V-VAUX ।\RD-PUNC 
+तूँ\PR-PRP ई\DM-DMI दूनो\QT-QTC लइकवन\N-NN के\PSP पठसाला\N-NN में\PSP न\RP-NEG भेजऽ\V-VM ?\RD-PUNC 
+बाबा\N-NN जी\N-NN कहलन\V-VM कि\CC-CCS गरीबी\N-NN से\PSP पाठसाला\N-NN में\PSP भेजल\V-VM पार\N-NN न\RP-NEG लगइत\V-VM हे\V-VAUX ।\RD-PUNC 
+साधु\N-NN जी\N-NN कहलन\V-VM कि\CC-CCS हमरा\PR-PRP दूनो\QT-QTC लइकवन\N-NN के\PSP दे\V-VM दऽ\V-VAUX ।\RD-PUNC 
+हम\PR-PRP पढ़ा\V-VM दीवऽ\V-VAUX लेकिन\CC-CCD हम\PR-PRP एक\QT-QTC लेइकवा\N-NN के\PSP ले\V-VM लववऽ\V-VAUX ।\RD-PUNC 
+बाबा\N-NN जी\N-NN दूनो\QT-QTC परानी\N-NN राय\N-NN करके\V-VM पढ़े\N-NN ला\PSP साधु\N-NN जी\N-NN के\PSP दे\V-VM देलन\V-VAUX ।\RD-PUNC 
+साधु\N-NN जी\N-NN कहलन\V-VM कि\CC-CCS चार\QT-QTC महीना\N-NN कि\CC-CCS बाद\PSP तूँ\PR-PRP हमरा\PR-PRP ही\RP-RPD अइहँ\V-VM ।\RD-PUNC 
+साधु\N-NN जी\N-NN लइका\N-NN लेके\V-VM चल\V-VM अयलन\V-VAUX ।\RD-PUNC 
+बड़का\N-NN के\PSP बिसटी\N-NN पेन्हा\V-VM के\PSP बकरी\N-NN चरावे\V-VM ला\PSP भेज\V-VM देलन\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP रोज\N-NN बकरी\N-NN चरावल\V-VM करे\V-VAUX ।\RD-PUNC 
+छोटका\JJ के\PSP सब\QT-QTF गुन\N-NN से\PSP भर\N-NN देलन\V-VM ।\RD-PUNC 
+*******\N-NN Entry\V-VM Incomplete*********\V-VAUX ।\RD-PUNC 

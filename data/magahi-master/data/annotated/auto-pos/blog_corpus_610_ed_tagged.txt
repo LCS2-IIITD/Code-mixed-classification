@@ -1,0 +1,22 @@
+[\N-NN कहताहर\N-NN -\RD-PUNC इन्द्रदेव\N-NNP सिंह,\N-NNP ग्राम\N-NN -\RD-PUNC दनई,\N-NNP पो॰\N-NN -\RD-PUNC जाखिम,\N-NNP जिला\N-NN -\RD-PUNC औरंगाबाद\N-NNP ]एगो\QT-QTC राजा\N-NN के\PSP तीन\QT-QTC गो\RP-CL बेटी\N-NN हलन\V-VM ।\RD-PUNC 
+राजा\N-NN बेटियन\N-NN के\PSP खूब\QT-QTF प्यार\V-VM करऽ\V-VAUX हलन\V-VAUX ।\RD-PUNC 
+से\PSP तीनों\QT-QTC बेटी\N-NN के\PSP पढ़े\N-NN लागी\PSP दूसर\QT-QTO जगुन\N-NN भेज\V-VM देले\V-VAUX हलन\V-VAUX ।\RD-PUNC 
+जब\PR-PRL तीनो\QT-QTC बेटी\N-NN पढ़\N-NN के\PSP अयलन\V-VM तब\PR-PRL राजा\N-NN ओहनी\PR-PRP से\PSP पूछलन\V-VM कि\CC-CCS केकरा\PR-PRQ राजे\N-NN राज\N-NN करईत\N-NN हऽ\PSP बेटी\N-NN ।\RD-PUNC 
+बड़की\N-NN आउ\CC-CCD मँझली\N-NN बेटी\N-NN बोललन\V-VM कि\CC-CCS बाप\N-NN जान\N-NN के\PSP राजे\N-NN राज\N-NN करइत\V-VM हियऽ\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD छोटकी\JJ बेटी\N-NN बोलल\V-VM कि\CC-CCS किस्मत\N-NN आउ\CC-CCD भावी\N-NN पति\N-NN के\PSP राजे\N-NN राज\N-NN करइत\V-VM हियऽ\V-VAUX ।\RD-PUNC 
+राजा\N-NN सोचलन\V-VM कि\CC-CCS अभी\N-NN छोटकी\JJ बेटी\N-NN खूब\QT-QTF नऽ\RP-NEG पढ़ल\V-VM हे\V-VAUX ।\RD-PUNC 
+से\CC-CCS फिनो\CC-CCD ओकरा\PR-PRP पढ़\N-NN लागी\PSP भेजवा\V-VM देलन\V-VAUX ।\RD-PUNC 
+एक-दू\N-NN बरस\N-NN के\PSP बाद\N-NN पढ़\N-NN के\PSP फिन\CC-CCD आयल\V-VM तो\PR-PRL राजा\N-NN ओही\DM-DMD सवाल\N-NN कयलन\V-VM ।\RD-PUNC 
+छोटी\JJ बेटी\N-NN फिन\CC-CCD ओइसहीं\N-NN जवाब\N-NN देलक\V-VM ।\RD-PUNC 
+राजा\N-NN जवाब\N-NN सुन\V-VM के\V-VAUX बड़ी\N-NN खिसिया\V-VM गेलन\V-VAUX आउ\CC-CCD सिपाही\N-NN के\PSP हुकुम\N-NN देलन\V-VM कि\CC-CCS जा\V-VM के\PSP मुरुख\N-NN लइका\N-NN खोजऽ\V-VM जेकरा\PR-PRL से\PSP एकर\PR-PRP बिआह\N-NN कर\V-VM देब\V-VAUX ।\RD-PUNC 
+सिपाही\N-NN लोग\N-NN लइका\N-NN खोजे\V-VM चल\V-VM देलन\V-VAUX ।\RD-PUNC 
+मुरुख\N-NN के\PSP खोजइत-खोजइत\V-VM एगो\QT-QTC भारी\JJ जंगल\N-NN में\PSP पहुँचलन\V-VM ।\RD-PUNC 
+उहाँ\DM-DMD एगो\QT-QTC गड़ेरी\N-NN के\PSP लड़का\N-NN पेड़\N-NN के\PSP जउन\N-NN डाढ़\N-NN पर\PSP बइठल\V-VM हल\V-VAUX ओकरे\PR-PRP काटइत\V-VM हल\V-VAUX ।\RD-PUNC 
+सिपाही\N-NN लोग\N-NN देख\V-VM के\V-VAUX कहलन\V-VM कि\CC-CCS एकरा\DM-DMD से\PSP बढ़\N-NN के\PSP कउन\PR-PRQ मुरुख\N-NN मिलतइ\V-VM कि\CC-CCS जउन\PR-PRL डाढ़\N-NN पर\PSP बइठल\V-VM हे\V-VAUX ओही\DM-DMD डाढ़\N-NN के\PSP काटइत\V-VM हे\V-VAUX ।\RD-PUNC 
+ओही\DM-DMD लड़का\N-NN के\PSP बरियारी\N-NN पेड़\N-NN से\PSP उतरववलन\V-VM आउ\CC-CCD पकड़\N-NN के\PSP राजा\N-NN के\PSP पास\N-NN ले\V-VM गेलन\V-VAUX ।\RD-PUNC 
+राजा\N-NN पूछलन\V-VM कि\CC-CCS तोहनी\PR-PRP एकरा\DM-DMD 'बुड़बक'\N-NN कइसे\PR-PRQ समझलऽ\V-VM ?\V-VAUX 
+ओहनी\PR-PRP सभे\QT-QTF हाल\N-NN कह\V-VM सुनवलन\V-VAUX तो\PR-PRL राजा\N-NN समझ\V-VM गेल\V-VAUX कि\CC-CCS ई\DM-DMI ठीके\N-NN में\PSP 'बुड़बक'\V-VM हे\V-VAUX ।\RD-PUNC 
+राजा\N-NN छोटकी\JJ लड़की\N-NN के\PSP ओकरे\PR-PRP से\PSP विआह\N-NN कर\V-VM देलन\V-VAUX आउ\CC-CCD अरिआत\V-VM देलन\V-VAUX ।\RD-PUNC 
+बाकी\N-NN लड़की\N-NN के\PSP माय\N-NN बढ़ियाँ-बढ़ियाँ\N-NN बेसकिमती\N-NN कपड़ा\N-NN पहिना\V-VM देलक\V-VAUX हल\V-VAUX ।\RD-PUNC 
+मुरुख\JJ लड़का\N-NN आउ\CC-CCD राजा\N-NN के\PSP बेटी\N-NN दूनों\QT-QTC एक\QT-QTC साथे\PSP चल\V-VM देलन\V-VAUX ।\RD-PUNC 
+***********\N-NN Entry\N-NN Incomplete\V-VM ***********\V-VAUX ।\RD-PUNC 

@@ -1,0 +1,20 @@
+पिता\N-NN के\PSP नाम\N-NN -\RD-PUNC जनेश्वर\N-NN सिंहमाता\N-NN के\PSP नाम\N-NN -\RD-PUNC इन्द्रज्योति\N-NN देवीजन्म-तिथि\N-NN -\RD-PUNC ८-१-१९३३\N-NN ई॰जन्मस्थान\N-NN आउ\CC-CCD वर्तमान\N-NN पता\N-NN -\RD-PUNC अमहर,\N-NN पटना-८०१११८शिक्षा\N-NN -\RD-PUNC मैट्रिक\N-NN -पटना\N-NN विश्वविद्यालय,\N-NN १९५१आइ॰ए॰\N-NN -पटना\N-NN विश्वविद्यालय,\N-NN १९५३बी॰ए॰\N-NN ऑनर्स\N-NN (हिन्दी)\N-NN -पटना\N-NN विश्वविद्यालय,\N-NN १९५५एम॰ए॰\V-VM (हिन्दी)\V-VAUX -पटना\RD-PUNC विश्वविद्यालय,\N-NN १९५७कार्यक्षेत्र\N-NN -\RD-PUNC १८\N-NN जून\N-NN १९५८\N-NN से\PSP ९\N-NN फरवरी\N-NN १९९३\N-NN तक\RP-RPD जी॰जे॰\V-VM कॉलेज,\V-VAUX रामबाग,\RD-PUNC बिहटा,\N-NN पटना\N-NN में\PSP स्नातक\N-NN आउ\CC-CCD स्नातकोत्तर\N-NN हिन्दी\N-NN विभाग\N-NN के\PSP अध्यक्ष\N-NN पद\N-NN पर\PSP काम\N-NN करके\V-VM सेवा-निवृत्त\N-NN ।\RD-PUNC 
+अभिरुचि\N-NN -\RD-PUNC पढ़ाई-लिखाई\N-NN आउ\CC-CCD ओजपूर्ण\N-NN शैली\N-NN में\PSP भाषण\V-VM ।\RD-PUNC 
+एकरा\DM-DMD अलावे\V-VM शिक्षा\N-NN सम्बन्धी\N-NN आउ\CC-CCD समाज\N-NN कल्याण\N-NN सम्बन्धी\N-NN काम\N-NN में\PSP योगदान\N-NN ।\RD-PUNC 
+सम्मान-पुरस्कार\N-NN -१\RD-PUNC .\V-VM 
+अप्पन\PR-PRP गाँ\N-NN सम्बन्धी\N-NN शोधस्तरीय\V-VM पुस्तक\N-NN 'अमहरा'\N-NN पर\PSP १९८८\N-NN ई॰\N-NN में\PSP अखिल\N-NN भारतीय\V-VM अन्तरजनपदीय\N-NN परिषद,\PSP उजियार\N-NN घाट,\V-VM बलिया,\RD-PUNC उत्तर\V-VM प्रदेश\N-NN द्वारा\N-NN प्रशस्ति\N-NN पत्र२\N-NN .\V-VM 
+'अमहरा'\N-NN किताब\N-NN पर\PSP ही\RP-RPD १९९४\N-NN ई॰\N-NN में\PSP 'शान्ति\N-NN स्थापना\N-NN संघ,\V-VM अमहरा,\V-VAUX पटना'\N-NN द्वारा\N-NN 'गंगा\N-NN शरण\N-NN सिंह\N-NNP एवार्ड'\N-NN से\PSP विभूषित\N-NN ३\V-VM .\V-VAUX 
+'अमहरा'\N-NN किताब\N-NN पर\PSP ही\RP-RPD १९९८\N-NN ई॰\N-NN में\PSP 'भगवान\N-NN बुद्ध\N-NN विकास\N-NN सेवा\N-NN समिति,\V-VM पटना'\N-NN द्वारा\N-NN पद्मश्री\N-NN डॉ॰\N-NN सी॰पी॰\N-NN ठाकुर\N-NN के\PSP हाथ\N-NN से\PSP 'कलाश्री'\N-NN सम्मान\N-NN प्राप्तसाहित्यिक\N-NN कृति\N-NN -१\V-VM .\V-VAUX 
+गद्य\N-NN गौरव\N-NNP -\RD-PUNC सम्पादित२\N-NN .\V-VM 
+गद्य\N-NN सरोवर\N-NN -\RD-PUNC सम्पादित३\N-NN .\V-VM 
+अमहरा\N-NN -\RD-PUNC १९७४\N-NN ई॰\N-NN में\PSP प्रकाशित,\V-VM द्वितीय\V-VAUX संस्करण\N-NN २०००\N-NN ई॰\V-VM में४\PSP .\V-VM 
+बिहटा\N-NN अंचल\N-NN के\PSP कवि\N-NN और\CC-CCD लेखक\N-NN -\RD-PUNC २००१\N-NN ई॰५\V-VM .\V-VAUX 
+भारतीय\N-NN मुक्ति\N-NN संग्राम\N-NN में\PSP मनेर\N-NN और\CC-CCD बिहटा\N-NN थाने\N-NN की\PSP भागीदारी\N-NN -\RD-PUNC १९९७\N-NN ई॰६\V-VM .\V-VAUX 
+मगही\N-NN साहित्य\N-NN का\PR-PRQ इतिहास\N-NN -\RD-PUNC १९९८\N-NN ई॰\N-NN में\PSP छपल\N-NN किताब\N-NN के\PSP सह\N-NN लेखक\V-VM (एक\V-VAUX अध्याय\N-NN -\RD-PUNC मगही\N-NN साहित्य\N-NN का\PR-PRQ जागरण\V-VM काल)७\V-VAUX .\V-VM 
+गंगा\N-NN बाबू\N-NN की\PSP याद\N-NN के\PSP सह\N-NN लेखक८\V-VM .\V-VAUX 
+डॉ॰\N-NN स्वर्ण\N-NN किरण\N-NN अभिनन्दन\N-NN ग्रन्थ\N-NN के\PSP सह\N-NN लेखक९\V-VM .\V-VAUX 
+डॉ॰\N-NN राम\N-NN प्रसाद\N-NNP सिंह\N-NNP अभिनन्दन\N-NN ग्रन्थ\N-NN के\PSP सह\N-NN लेखक१०\N-NN .\V-VM 
+मगही\N-NN भासा\N-NN साहित्यिक\N-NN निबन्धावली\N-NN के\PSP सह\N-NN लेखक११\V-VM .\V-VAUX 
+इंटरमीडियट\N-NN मगही\N-NN गद्य-पद्य\N-NN संग्रह\N-NN के\PSP सह\N-NN लेखकएकरा\V-VM अलावे\V-VAUX हिन्दी\N-NN आउ\CC-CCD मगही\N-NN के\PSP विभिन्न\N-NN पत्र-पत्रिका\N-NN में\PSP इनकर\PR-PRP लेख\N-NN प्रकाशित\N-NN होइत\V-VM रहल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आकाशवाणी\N-NN पटना\N-NN के\PSP 'मागधी'\N-NN कार्यक्रम\N-NN में\PSP २०\N-NN बरिस\QT-QTC में\PSP लगभग\V-VM ७५\V-VAUX वार्ता\N-NN प्रसारित\N-NN कर\V-VM चुकलन\V-VAUX हे\V-VAUX ।\RD-PUNC 
+[मगही\N-NN मासिक\JJ पत्रिका\N-NN "अलका\V-VM मागधी",\RD-PUNC बरिस-८,\RD-PUNC अंक-१२,\RD-PUNC दिसम्बर\N-NN २००२,\PSP पृ॰१८\N-NN से\PSP साभार]\N-NN ।\RD-PUNC 

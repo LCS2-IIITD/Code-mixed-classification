@@ -1,0 +1,12 @@
+जन्म\N-NN :\RD-PUNC 15\N-NN अक्टूबर\N-NN 1951निवास\N-NN स्थान\N-NN :\RD-PUNC राम\N-NN लखन\N-NN महतो\N-NN रोड,\V-VM पुराना\N-NN जक्कनपुर,\V-VM पटना\N-NN -\RD-PUNC 1शिक्षा\N-NN :\RD-PUNC एम॰ए॰\N-NN (हिन्दी)\N-NN -\RD-PUNC पटना\N-NN विश्वविद्यालय,\N-NN पटनापी-एच॰डी॰\N-NN -\RD-PUNC मगध\N-NN विश्वविद्यालय,\N-NN बोधगयापेशा\N-NN :\RD-PUNC अध्यापन\N-NN -\RD-PUNC अध्यक्ष,\RD-PUNC हिन्दी\N-NN विभाग,\RD-PUNC पी॰एन॰के॰\N-NN कॉलेज,\V-VM अछुआ,\RD-PUNC पालीगंज,\V-VM पटनासाहित्यिक\N-NN कार्य\N-NN :1\V-VM .\V-VAUX 
+नाटक\N-NN -\RD-PUNC (१)\N-NN पाँड़ेजी\N-NN के\PSP पतरा\N-NN (२)\V-VM प्रेम\N-NN अइसने\N-NN होवऽ\V-VM हे2\V-VAUX .\V-VM 
+एकांकी\N-NN संकलन\V-VM -\RD-PUNC सतरंग\N-NN (पटना\N-NN के\PSP अदमी,\N-NN बेटा,\N-NN दरोगा\N-NN डंडा\N-NN सिंह,\PSP कफन,\V-VM शम्बूक-वध,\V-VAUX स्वामी\N-NN जी,\N-NN कबीर\N-NN के\PSP इन्साफ)3\N-NN .\V-VM 
+कहानी\N-NN -\RD-PUNC खुशी\N-NN के\PSP प्रकाश,\N-NN सावित्री,\PSP अहिवात,\PR-PRP उद्धार,\PR-PRP गरीब,\N-NN ठकमुरकी\N-NN मार\V-VM देलक4\V-VAUX .\V-VM 
+लघुकथा\N-NN -\RD-PUNC हैसियत,\RD-PUNC पवित्तर,\N-NN फैक्ट्री5\N-NN .\V-VM 
+शब्दचित्र\N-NN -\RD-PUNC डाक\N-NN गाड़ी,\V-VM कान्ति\N-NN बन\V-VM गेल\V-VAUX क्रान्ति6\N-NN .\V-VM 
+ललित\N-NN लेख\N-NN -\RD-PUNC नरसंहार\N-NN कहिया\V-VM रुकत,\N-NN बिना\PSP पोथी\N-NN बाँचले\V-VM पंडित\N-NN भेली7\V-VM .\V-VAUX 
+आलोचनात्मक\N-NN लेख\N-NN -\RD-PUNC मातृभाषा\N-NN के\PSP मूल\N-NN तत्त्व,\V-VM मगही\N-NN भाषा\N-NN के\PSP महातम8\N-NN .\V-VM 
+काव्य\N-NN -\RD-PUNC लवकुश\N-NN चालीसा9\N-NN .\V-VM 
+सम्पादित\N-NN ग्रन्थ\N-NN -\RD-PUNC मगही\N-NN कथा\N-NN सरोवर,\PSP मगही\N-NN एकांकी\N-NN सरिता,\PSP लघुकथा\N-NN छतीसी10\N-NN .\V-VM 
+पत्रकारिता\N-NN जगत\N-NN -\RD-PUNC सम्पादक,\N-NN मगही\V-VM मासिक\JJ पत्रिका\N-NN "अलका\V-VM मागधी"पूर्व\N-NN सम्पादक,\N-NN मगही\N-NN मासिक\JJ पत्रिका\N-NN "पाटलि"11\V-VM .\V-VAUX 
+सक्रिय\N-NN योगदान\N-NN -\RD-PUNC महासचिव,\N-NN महाकवि\N-NN आरसी\N-NN साहित्य\N-NN परिषद्,\PSP पटना\N-NN ।\RD-PUNC 

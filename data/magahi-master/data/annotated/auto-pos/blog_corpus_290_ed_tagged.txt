@@ -1,0 +1,52 @@
+लघुकथाकार\N-NN -\RD-PUNC हरीन्द्र\N-NNP विद्यार्थीपटना\N-NN टीसन\N-NN पर\PSP अन्हेरा\N-NN गहराय\N-NN लगल\V-VM हल\V-VAUX ।\RD-PUNC 
+अइसे\N-NN तो\PR-PRL टीसन\N-NN पर\PSP अनदिनो\QT-QTC अँटान\N-NN न\RP-NEG रहे,\V-VM बाकि\CC-CCD एक\QT-QTC जगह\N-NN कुछ\QT-QTF जादे\N-NN भीड़\N-NN देख\V-VM के\PSP चन्दू\N-NN ठुमक\V-VM गेल\V-VAUX ।\RD-PUNC 
+दूगो\QT-QTC वर्दीधारी\N-NN पुलिस\N-NN के\PSP खड़ा\N-NN देख\V-VM के\PSP ओकर\PR-PRP उत्सुकता\N-NN आउ\CC-CCD बढ़\N-NN गेल\V-VM ।\RD-PUNC 
+बीच\N-NST में\PSP एगो\QT-QTC गोर\N-NN सुन्नर\JJ महिला\N-NN आउ\CC-CCD बगल\N-NN में\PSP एगो\QT-QTC पान\N-NN चबावित\V-VM अधवइस\N-NN औरत\N-NN बइठल\V-VM हल\V-VAUX ।\RD-PUNC 
+गोरकी\N-NN तिरिया\N-NN बोलल\V-VM -\RD-PUNC "न\RP-RPD जानि\N-NN कन्ने\N-NN हम्मर\PR-PRP भाई\N-NN छूट\V-VM गेल\V-VAUX ।\RD-PUNC 
+ई\DM-DMI घड़ी\N-NN रात\N-NN के\PSP हम\PR-PRP कहाँ\PR-PRQ जाऊँ\V-VM ?\RD-PUNC 
+""रात\N-NN के\PSP कहाँ\PR-PRQ जयबऽ\V-VM ?\RD-PUNC 
+जहन्ना\N-NN जाना\N-NN ठीक\JJ नऽ\RP-NEG हो\V-VM ।\RD-PUNC 
+तूँ\PR-PRP पटने\N-NN रुक\V-VM जा\V-VAUX ।\RD-PUNC 
+बिहान\N-NN होतो\V-VM त\N-NN चल\V-VM जइहऽ\V-VAUX ।\RD-PUNC 
+"\N-NN एगो\QT-QTC सिपाही\N-NN बोललक\V-VM ।\RD-PUNC 
+"हँ\PR-PRP बाबू\N-NN !\V-VM 
+पटने\N-NN रुक\N-NN जाही\V-VM ।\RD-PUNC 
+बाकि\CC-CCD जायम\V-VM कहाँ\PR-PRQ ?\V-VM 
+"अधवइस\N-NN औरत\N-NN टुभकल\N-NN -\RD-PUNC "चल\V-VM !\V-VAUX 
+हमरा\PR-PRP साथ\PSP रात\N-NN भर\N-NN रहिहें,\V-VM फिन\CC-CCD सबेरे\N-NN चल\V-VM जइहें\V-VAUX ।\RD-PUNC 
+बाकि\CC-CCD डेरा\N-NN हम्मर\PR-PRP हियाँ\N-NN से\PSP दूर\N-NN हउ\V-VM ।\RD-PUNC 
+तब\PR-PRL तक\RP-RPD हमरे\PR-PRP साथ\PSP रह\V-VM ।\RD-PUNC 
+""इनके\V-VM साथ\PSP रिक्शा\N-NN में\PSP चल\V-VM जो\V-VAUX !\RD-PUNC 
+न\RP-NEG तो\PR-PRL हम\PR-PRP तोरा,\PR-PRP जहाँ\PR-PRL कह,\V-VM हुएँ\N-NN पहुँचा\V-VM देवउ\V-VAUX ।\RD-PUNC 
+"\N-NN अधवइस\N-NN सिपाही\N-NN बोलल\V-VM ।\RD-PUNC 
+जवनका\N-NN सिपाही\N-NN खइनी\N-NN पर\PSP ताल\N-NN देके\V-VM बोललक\V-VM -\RD-PUNC "हँ,\V-VM बढ़ियाँ\PSP तो\PR-PRL हउ\V-VM ।\RD-PUNC 
+अइसन\RP-RPD भला\N-NN अदमी\N-NN थोड़े\N-NN ई\DM-DMI जुग\N-NN में\PSP मिलतउ\V-VM ?\V-VAUX 
+"ऊ\PR-PRP गोरकी\N-NN तिरिया\N-NN थोड़ा\N-NN घबड़ायल,\V-VM फिन\CC-CCD बोलल\V-VM -\RD-PUNC "नऽ\RB बाबुन,\N-NN हम\PR-PRP रात\N-NN भर\N-NN टीसने\N-NN पर\PSP गुजार\N-NN देम\V-VM ।\RD-PUNC 
+""टीसन\N-NN पर\PSP कइसे\PR-PRQ रहबे\V-VM ?\V-VAUX 
+चल,\V-VM हम\PR-PRP तोरा\PR-PRP थाना\N-NN में\PSP पहुँचा\V-VM दे\V-VAUX हिअउ\V-VAUX ।\RD-PUNC 
+"\N-NN सिपाही\N-NN जी\N-NN तुनकलन\V-VM ।\RD-PUNC 
+कुछ\QT-QTF जातरी\N-NN ई\DM-DMI माजरा\N-NN देख\V-VM के\PSP गते\RB मुसकयलन\V-VM ।\RD-PUNC 
+ओकरे\PR-PRP में\PSP से\PSP एगो\QT-QTC उमरदराज\N-NN अदमी\N-NN बोलल\V-VM -\RD-PUNC "ई\V-VM तो\PR-PRL छोकरी\N-NN हई\V-VM रे,\V-VAUX चललई\V-VM ई\DM-DMI सब\QT-QTF के\PSP रतभोज\N-NN !\V-VM 
+""चल,\RB छोड़\V-VM ई\DM-DMI तमाशा\N-NN !\V-VM 
+हियाँ\N-NN तो\PR-PRL रोज\N-NN के\PSP एही\DM-DMD नजारा\N-NN हउ\V-VM ।\RD-PUNC 
+केकर-केकर\PR-PRQ हिसाब\N-NN रखबे\V-VM ?\V-VAUX 
+चल,\QT-QTC गाड़ी\N-NN पर\PSP सीट\N-NN ले\V-VM लेवल\V-VAUX जाय\V-VAUX ।\RD-PUNC 
+"\N-NN दोसर\QT-QTO जातरी\N-NN बोलल\V-VM ।\RD-PUNC 
+चन्दू\N-NN सोचे\V-VM लगल\V-VAUX कि\CC-CCS चुपचाप\RB चलल\V-VM जाय\V-VAUX इया\CC-CCD ई\DM-DMI महिला\N-NN के\PSP ऊ\PR-PRP फन्दा\N-NN से\PSP निकालल\V-VM जाय\V-VAUX ।\RD-PUNC 
+थोड़ा\PR-PRP आगे\N-NN बढ़ल\V-VM त\N-NN ओकरा\PR-PRP इयाद\N-NN आल\V-VM कि\CC-CCS गोरकी\N-NN के\PSP बगल\N-NN में\PSP बइठल\V-VM बुढ़िया\N-NN तो\PR-PRL ई\DM-DMI शहर\N-NN के\PSP चर्चित\N-NN एजेण्ट\V-VM हे\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP लउट\V-VM आल\V-VM आउ\CC-CCD भीड़\N-NN भिर\N-NN आके\V-VM गोरकी\N-NN तिरिया\N-NN से\PSP पूछलक\V-VM -\RD-PUNC "कहाँ\PSP घर\N-NN हउ\V-VM ?\RD-PUNC 
+""जहानाबाद,\QT-QTC काको\N-NN में\PSP ।\RD-PUNC 
+"\N-NN उत्तर\N-NN मिलल\V-VM ।\RD-PUNC 
+चन्दू\N-NN थोड़ा\PSP हिम्मत\N-NN बाँध\V-VM के\PSP बोललक\V-VM -\RD-PUNC "देख,\V-VM ई\DM-DMI शहर\N-NN बड़का\PSP मंडी\N-NN हउ\V-VM ।\RD-PUNC 
+हियाँ\N-NST रोज\N-NN औरत\N-NN के\PSP खरीद-बिक्री\N-NN होवऽ\V-VM हउ\V-VAUX ।\RD-PUNC 
+रात\N-NN भर\RP-RPD अकेले\N-NN रह\V-VM गेले\V-VAUX त\N-NN गिद्ध\N-NN सब\QT-QTF तोरा\PR-PRP नोच\N-NN के\PSP खा\V-VM जतउ\V-VAUX ।\RD-PUNC 
+सबेरे\N-NN कहूँ\V-VM पर\PSP बेहोश\N-NN पावल\V-VM जयमें\V-VAUX इया\CC-CCD लाश\N-NN बरामद\N-NN होतउ\V-VM ।\RD-PUNC 
+चुपचाप\N-NN गाड़ी\N-NN धर\N-NN के\PSP जहन्ना\V-VM लउट\V-VM जो\V-VAUX ।\RD-PUNC 
+हमरा\PR-PRP फर्ज\N-NN बुझयली\V-VM त\N-NN तोरा\PR-PRP समझा\V-VM रहलियो\V-VAUX हे\V-VAUX ।\RD-PUNC 
+अब\N-NN जइसन\RP-RPD तोर\PR-PRP मर्जी\N-NN ।\RD-PUNC 
+""नऽ\N-NN नऽ\RP-NEG बाबू\N-NN !\RD-PUNC 
+हम\PR-PRP जहन्ने\N-NN चल\V-VM जायम\V-VAUX ।\RD-PUNC 
+"\N-NN एतना\QT-QTF कह\V-VM के\V-VAUX ऊ\PR-PRP गाड़ी\N-NN में\PSP चढ़\V-VM गेल\V-VAUX ।\RD-PUNC 
+चन्दू\N-NN डेरा\N-NN में\PSP लउट\V-VM के\V-VAUX जब\PR-PRL अप्पन\PR-PRP घरनी\N-NN के\PSP ई\DM-DMI लीला\V-VM सुनयलक\V-VM तब\PR-PRL ओकर\PR-PRP घरनी\N-NN बोललन\V-VM -\RD-PUNC "रात\N-NN में\PSP जहन्ना\N-NN ?\V-VM 
+ऊ\PR-PRP कउन\PR-PRQ बड़ा\N-NN सुधरल\V-VM जगह\N-NN हई\V-VM ?\RD-PUNC 
+"[मगही\N-NN मासिक\JJ पत्रिका\N-NN "अलका\V-VM मागधी",\RD-PUNC बरिस-४,\RD-PUNC अंक-१,\RD-PUNC जनवरी\N-NN १९९८,\RD-PUNC पृ॰\N-NN ७-८\N-NN से\PSP साभार]\N-NN ।\RD-PUNC 

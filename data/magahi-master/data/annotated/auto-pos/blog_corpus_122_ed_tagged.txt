@@ -1,0 +1,524 @@
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX MicrosoftInternetExplorer4\RD-PUNC /*\V-VAUX Style\V-VAUX Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0in\N-NN 5.4pt\N-NN 0in\V-VM 5.4pt;\V-VAUX mso-para-margin:0in;\RD-PUNC mso-para-margin-bottom:\RD-PUNC .\V-VM 
+0001pt;\N-NN mso-pagination:widow-orphan;\N-NN font-size:10.0pt;\N-NN font-family:"Times\N-NN New\V-VM Roman";\V-VAUX mso-ansi-language:#0400;\RD-PUNC mso-fareast-language:#0400;\N-NN mso-bidi-language:#0400;}\N-NN फूब॰\N-NN =\N-NN "फूल\N-NN बहादुर"\N-NN (मगही\N-NN उपन्यास)\N-NN -\RD-PUNC जयनाथपति\N-NN (1880-1940)\V-VM ;\V-VAUX प्रथम\N-NN संस्करणः\N-NN अप्रैल\PR-PRP 1928;\N-NN दोसर\QT-QTO संस्करणः\N-NN अप्रैल\PR-PRP 1974;\N-NN प्रकाशकः\N-NN बिहार\N-NN मगही\N-NN मंडल,\PSP पटना-5;\N-NN मूल्य\N-NN -\RD-PUNC 3\N-NN रुपइया;\N-NN कुल\N-NN 6\PSP +\N-NN 28\V-VM पृष्ठ\V-VAUX ।\RD-PUNC 
+प्राप्ति-स्थानः\N-NN बिहार\N-NN मगही\N-NN मंडल,\PSP V-34,\RD-PUNC विद्यापुरी,\N-NN पटना-800\N-NN 020\V-VM ।\RD-PUNC 
+देल\V-VM सन्दर्भ\N-NN में\PSP पहिला\QT-QTO संख्या\N-NN अध्या\N-NN (=\V-VM अध्याय),\V-VAUX दोसर\QT-QTO संख्या\N-NN पृष्ठ,\V-VM आउ\CC-CCD तेसर\QT-QTO संख्या\N-NN पंक्ति\N-NN दर्शावऽ\V-VM हइ\V-VAUX ।\RD-PUNC 
+अकारान्त\N-NN अक्षर\N-NN के\PSP पूर्ण\N-NN उच्चारण\N-NN लगी\V-VM मूल\N-NN प्रति\N-NN में\PSP हाइफन\N-NN के\PSP प्रयोग\N-NN कैल\V-VM गेले\V-VAUX ह,\RD-PUNC जइसे\PR-PRL -\RD-PUNC "चलऽ"\V-VM के\PSP बदले\N-NN "च-ल"\V-VM ।\RD-PUNC 
+Normal\N-NN 0\N-NN false\N-NN false\V-VM false\V-VAUX MicrosoftInternetExplorer4\RD-PUNC /*\V-VAUX Style\V-VAUX Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0in\N-NN 5.4pt\N-NN 0in\V-VM 5.4pt;\V-VAUX mso-para-margin:0in;\RD-PUNC mso-para-margin-bottom:\RD-PUNC .\V-VM 
+0001pt;\N-NN mso-pagination:widow-orphan;\N-NN font-size:10.0pt;\N-NN font-family:"Times\N-NN New\V-VM Roman";\V-VAUX mso-ansi-language:#0400;\RD-PUNC mso-fareast-language:#0400;\N-NN mso-bidi-language:#0400;}\N-NN Normal\N-NN 0\V-VM false\V-VAUX false\RD-PUNC false\V-VAUX MicrosoftInternetExplorer4\V-VAUX /*\V-VAUX Style\V-VAUX Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0in\N-NN 5.4pt\N-NN 0in\V-VM 5.4pt;\V-VAUX mso-para-margin:0in;\RD-PUNC mso-para-margin-bottom:\RD-PUNC .\V-VM 
+0001pt;\N-NN mso-pagination:widow-orphan;\N-NN font-size:10.0pt;\N-NN font-family:"Times\N-NN New\V-VM Roman";\V-VAUX mso-ansi-language:#0400;\RD-PUNC mso-fareast-language:#0400;\V-VAUX mso-bidi-language:#0400;}\RD-PUNC कुल\N-NN शब्द-संख्या\N-NN :\RD-PUNC 360\N-NN Normal\N-NN 0\V-VM false\V-VAUX false\V-VAUX false\V-VAUX MicrosoftInternetExplorer4\V-VAUX /*\V-VAUX Style\V-VAUX Definitions\V-VAUX */\RD-PUNC table\V-VAUX .\V-VM 
+MsoNormalTable\N-NN {mso-style-name:"Table\N-NN Normal";\PSP mso-tstyle-rowband-size:0;\N-NN mso-tstyle-colband-size:0;\N-NN mso-style-noshow:yes;\N-NN mso-style-parent:"";\N-NN mso-padding-alt:0in\N-NN 5.4pt\N-NN 0in\V-VM 5.4pt;\V-VAUX mso-para-margin:0in;\RD-PUNC mso-para-margin-bottom:\RD-PUNC .\V-VM 
+0001pt;\N-NN mso-pagination:widow-orphan;\N-NN font-size:10.0pt;\N-NN font-family:"Times\N-NN New\V-VM Roman";\V-VAUX mso-ansi-language:#0400;\RD-PUNC mso-fareast-language:#0400;\N-NN mso-bidi-language:#0400;}\N-NN ठेठ\N-NN मगही\N-NN शब्द\N-NN ('अ'\N-NN से\PSP 'ढ'\V-VM तक)\CC-CCS :\RD-PUNC 1\N-NN अंधार\N-NN (=\N-NN अन्हार;\N-NN अन्धकार)\N-NN (आज\N-NN भोर\N-NN के\PSP सुरज\N-NN उगल\V-VM बाकी\CC-CCS थोड़हीं\QT-QTC देर\N-NN में\PSP बादर\N-NN घेर\N-NN आल\V-VM और\CC-CCD होते\V-VM होते\V-VM बड़ी\N-NN अंधार\N-NN हो\V-VM गेल\V-VAUX और\CC-CCD रह-रह\N-NN के\PSP बिजुली\N-NN कड़के\V-VM लगल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰6:21.2)2\N-NN अंधारी\N-NN (अंधारी\N-NN रात\N-NN हे\V-VM ।\RD-PUNC 
+जरी-जरी\N-NN रह-रह\N-NN के\PSP बिजुली\N-NN भी\RP-RPD चमके\V-VM हे\V-VAUX ।\RD-PUNC 
+सामलाल\N-NN एक\QT-QTC आदमी\N-NN के\PSP साथ\PSP भठियारी\N-NN सराए\N-NN के\PSP उत्तर\N-NN नाला\N-NN किनारे-किनारे\N-NN बिजुली\N-NN के\PSP हंथबत्ती\N-NN के\PSP सहारे\N-NN टोते-टोते\V-VM चलल\V-VAUX जा\V-VM हथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:13.1)3\N-NN अकिल\N-NN (~\N-NN दौड़ाना)\N-NN (सामलाल\N-NN ऐला\V-VM तो\PR-PRL नवाब\N-NN साहेब\N-NN के\PSP सुस्त\N-NN पैलका\N-NN ।\RD-PUNC 
+कुछ\QT-QTF समझ\N-NN में\PSP न\RP-NEG ऐलन\V-VM के\PSP की\PR-PRQ बात\N-NN हे\V-VAUX ।\RD-PUNC 
+राते\N-NN कामियाब\PSP नै\RP-NEG होल\V-VM तेकरे\N-NN से\PSP तो\PR-PRL सुस्त\N-NN नै\RP-NEG हथ\V-VM !\RD-PUNC 
+बाकी\N-NN इ-तो\N-NN कोय\PR-PRI काफी\N-NN वजह\N-NN नै\RP-NEG हे\V-VM ।\RD-PUNC 
+अभी\N-NN अप्पन\PR-PRP अकिल\N-NN दौड़ाइये\N-NN रहला\V-VM हल\V-VAUX और\CC-CCD बैठले\V-VM चहलका\N-NN के\PSP नवाब\N-NN साहेब\N-NN बोलला\V-VM के\PSP मोखतार\N-NN साहेब,\N-NN ऐसन\DM-DMD जगह\N-NN तो\PR-PRL हम\PR-PRP कहीं\DM-DMI नै\RP-NEG देखलूं\V-VM हल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰6:21.6-7)4\N-NN अखतिआर\N-NN (नवाब\N-NN -\RD-PUNC ई\DM-DMI तो\PR-PRL फजूल\N-NN क-ह\V-VM ह\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD में\PSP दुए\N-NN बात,\N-NN या\CC-CCD तो\PR-PRL जेकर\PR-PRL हाथ\N-NN में\PSP करे\V-VM के\V-VAUX हे\V-VAUX से\PSP जाने\N-NN हे\V-VAUX ने\RP-NEG और\N-NN जाने\N-NN हे\V-VAUX तो\PR-PRL रोके\V-VM नै\RP-NEG चाहे\N-NN हे\V-VM ।\RD-PUNC 
+डाकघर\N-NN में\PSP दे-ख,\V-VM कितना\N-NN कम\N-NN मुसाहरा\N-NN सब\QT-QTF के\V-VAUX हे\V-VAUX और\CC-CCD केतना\PR-PRQ कम\N-NN रुसबतखोरी\N-NN ।\RD-PUNC 
+की\PR-PRQ वजह\N-NN ?\PSP 
+तुं\N-NN कह-ब\N-NN के\PSP उ\PR-PRP सब\QT-QTF के\PSP अखतिआर\N-NN कम\N-NN हे\V-VM ।\RD-PUNC 
+से\PSP तो\PR-PRL एकदम\RP-INTF ठीक\JJ नै,\V-VM हरदम\N-NN रुपये\N-NN लेवे-देवे\V-VM के\PSP काम,\V-VM चीठी\N-NN चपाती\N-NN भेजे\PSP भेजावे\V-VM के\PSP काम,\N-NN एकरो\DM-DMD में\PSP बहुत\N-NN कुछ\QT-QTF वसूल\N-NN करवैया\N-NN कर\V-VM सके\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:10.16)5\N-NN अखतियार\N-NN (सिंघ\N-NN जी\N-NN -\RD-PUNC अपने\PR-PRP इ\N-NN तो\PR-PRL खेयाल\N-NN खूब\QT-QTF नै-ने\N-NN कैलूं\V-VM के\PSP जहां\DM-DMD पर\PSP एतना\QT-QTF बड़ा\N-NN अखतियार\N-NN दरोगा\N-NN के\PSP देल\V-VM गेल\V-VAUX हे,\V-VAUX जे\PR-PRL हमनी\PR-PRP सब\QT-QTF से\PSP कम\N-NN नै\RP-NEG हे,\V-VM और\CC-CCD सायद\N-NN कहीं\DM-DMD पर\PSP बेसिए\N-NN होत,\V-VM ओहां\N-NN पर\PSP आदमीयत\V-VM के\PSP खेयाल\N-NN करके\V-VM लालच\N-NN उ\PR-PRP सब\QT-QTF के\PSP रोके\V-VM के\PSP भी\RP-RPD उपाए\N-NN कैल\V-VM जाय;\V-VAUX और\CC-CCD दूसर\QT-QTO बात\N-NN के,\PSP सिलसिला\N-NN खेयाल\N-NN के\PSP भी\RP-RPD सोच\V-VM के\V-VAUX पुलिस\N-NN में\PSP ऐसन\DM-DMD हे\V-VM के\V-VAUX जे\PR-PRL जात\N-NN से\PSP खराब\N-NN हो\V-VM जात\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:10.33)6\N-NN अखनी\N-NN (=\N-NN अभी)\N-NN (हमहीं\N-NN पचास\N-NN ठो\RP-CL सुसैटी\N-NN बनैलूं\V-VM तो\PR-PRL बंक\V-VM चलल\V-VAUX ।\RD-PUNC 
+बाबू\N-NN ऐदल\N-NN सिंघ\N-NN के\PSP केतना\QT-QTF गोड़\N-NN मुड़\N-NN पड़के\PSP कालिज\N-NN बनवैलूं\V-VM ।\RD-PUNC 
+हमरा\PR-PRP ऐसन\DM-DMD कोई\PR-PRI मोखतार\N-NN क-ह\N-NN कहां\PR-PRQ ?\V-VM 
+जमींदारी\N-NN से\PSP की\PR-PRQ होबे-हे\V-VM ?\V-VAUX 
+अखनी\N-NN लाखो\N-NN रुपया\N-NN क-ह\V-VM निकाल\V-VM दिओ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:14.21)7\N-NN अखने\N-NN (=\N-NN अभी,\N-NN इस\N-NN क्षण)\N-NN (अखने\N-NN माफ\N-NN क-र\V-VM ।\RD-PUNC 
+;\N-NN एकरा\DM-DMD में\PSP बड़ी\N-NN दिन\N-NN में\PSP बदलत\N-NN और\CC-CCD सायद\N-NN कोई\PR-PRI दूसर\QT-QTO गड़बड़ी\N-NN जे\PR-PRL अखने\N-NN नै\RP-NEG सुझे\N-NN हे\V-VAUX आ\V-VM जाए\V-VAUX ।\RD-PUNC 
+;\N-NN अखने\N-NN तबीयत\V-VM परेसान\N-NN हे,\V-VM पीछे\N-NN मिलबो\V-VM ।\RD-PUNC 
+;\N-NN हां\N-NN तो\PR-PRL अखने\N-NN अपन\PR-PRP काम\N-NN क-र\N-NN -\RD-PUNC कहके\V-VM चल\V-VAUX गेला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.4;\N-NN 3:11.14;\N-NN 5:18.19,\V-VM 20.26)8\V-VAUX अखनो\RD-PUNC (=\N-NN अभी\N-NN भी)\V-VM (सामलाल\N-NN अपन\PR-PRP राय\N-NN बहादुरी\N-NN वास्ते\N-NN बहुत\N-NN गिरगिराथ\V-VM के\V-VAUX हुजुर\N-NN अब\N-NN तो\PR-PRL हम\PR-PRP सब\QT-QTF काम\N-NN कैलूं,\V-VM कोए\N-NN काम\N-NN ऐसन\DM-DMD नै\RP-NEG जे\PR-PRL हुजुर\N-NN के\PSP वास्ते\N-NN हम\PR-PRP करे\V-VM से\PSP इनकार\N-NN कैलूं\V-VM और\CC-CCD अखनो\N-NN नै\RP-NEG क-र\V-VM ही\V-VAUX ।\RD-PUNC 
+दे-ख,\N-NN सहर\N-NN के\PSP बदमास\N-NN सब\QT-QTF अब\N-NN परचा\N-NN हमरे\PR-PRP तरफ\N-NN इसारा\N-NN करके\V-VM छपवैलका\N-NN ह\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰7:24.27)9\N-NN अछरसह\N-NN (=\N-NN अक्षरशः)\N-NN (सामलाल\N-NN निरबंस\N-NN रह-ब\V-VM और\CC-CCD पिल्लू-पड़के\V-VM मर-ब\N-NN और\N-NN नवाब\N-NN साहेब\N-NN औ\N-NN बुलाकी\N-NN खां\N-NN के\PSP भी\RP-RPD ऐसने\V-VM कुछ\QT-QTF सराप\N-NN देलका\V-VM ।\RD-PUNC 
+हलधर\N-NN सिंघ\N-NN अपने\PR-PRP तो\PR-PRL खराब\N-NN चाल\N-NN चलन\V-VM के\PSP जरूर\RB हला\V-VM बाकी\N-NN बे-कसूरी\N-NN में\PSP एते\QT-QTF भारी\JJ सजाए\N-NN पावे\V-VAUX से\PSP उनकर\PR-PRP खेआल\N-NN दिल\N-NN से\PSP परमेस्वर\N-NN दने\N-NN होल\V-VM और\CC-CCD एहे\DM-DMD वजह\N-NN हल\V-VM कि\CC-CCS करीब\N-NN करीब\N-NN अछरसह\V-VM उनकर\PR-PRP सराप\N-NN तीने\V-VM चार\QT-QTC बरिस\N-NN में\PSP सबके\N-NN हाथे\N-NN हाथ\N-NN पड़ल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰7:24.19)10\N-NN अट-पट\N-NN (कभी\N-NN सोचथ\N-NN के\PSP एकरा\DM-DMD मारपीट\V-VM कैलूं\V-VAUX ह,\RD-PUNC इ\N-NN आदमी\N-NN बड़ा\N-NN चुगलखोर\N-NN हे\V-VM और\CC-CCD एसडीओ\N-NN के\PSP दुलरुआ,\N-NN कहीं\DM-DMD अट-पट\N-NN जाके\V-VM लगा-बझा\V-VAUX के\PSP नै\RP-NEG कह\V-VM दे\V-VAUX और\CC-CCD लड़ाए\N-NN झगड़ा\N-NN करा\V-VM दे,\V-VAUX फेर\N-NN सोचथ\V-VM के\PSP सरीफ\N-NN आदमी\N-NN कसम\N-NN खैलक\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.4)11\N-NN अतंत\N-NN (नवाब\N-NN -\RD-PUNC हमनी\PR-PRP सब\QT-QTF के\PSP उ-सबसे\N-NN कोई\PR-PRI मतलब\N-NN नै,\RP-NEG उ-तो\V-VM सरकार\N-NN जाने\N-NN और\CC-CCD बहुत\N-NN जादे\N-NN अतंत\N-NN हो\V-VM गेला\V-VAUX से\PSP लोग\N-NN सब\QT-QTF खुद\N-NN दबाय\V-VM करता\V-VAUX ।\RD-PUNC 
+बाकी\N-NN छोटा\JJ दायरा\N-NN में\PSP जे\PR-PRL हमनी\PR-PRP के\PSP अखतियार\N-NN हे\V-VM सेकरो\N-NN में\PSP तो\PR-PRL कुछ\QT-QTF करना\N-NN ईमान\N-NN के\PSP बात\N-NN है\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:10.5)12\N-NN अदलना-बदलना\N-NN (पंखा\N-NN ऊपर\N-NN के\PSP खोल\V-VM देलका\V-VAUX और\CC-CCD रास्ता\N-NN भर\N-NN गप-सप\N-NN चकल्लस\N-NN करते\V-VM चलला\V-VAUX ।\RD-PUNC 
+गाड़ी\N-NN अदलते\N-NN बदलते\V-VM जब\PR-PRL दू-तीन\QT-QTC टीसन\N-NN बिहार\N-NN पहुंचे\V-VM के\PSP रहल\V-VM तो\PR-PRL नसीबन\N-NN के\PSP अपन\PR-PRP खाना\N-NN में\PSP चला\V-VM देलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.34)13\N-NN अनठेल\N-NN (नसीबन\V-VM -\RD-PUNC हां,\N-NN से\PSP तो\PR-PRL सु-न\V-VM हीओ\V-VAUX ।\RD-PUNC 
+खूब\QT-QTF आझकल\V-VM चलल\V-VAUX हो\V-VAUX ।\RD-PUNC 
+मारे\V-VM मोअक्किल\N-NN के\PSP अनठेल\N-NN भीड़\N-NN रहे\V-VM हे,\V-VAUX बाकी\N-NN और\N-NN सब\QT-QTF ओली\N-NN बोली\N-NN मारो\V-VM हो\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:14.7)14\N-NN अनेरी\N-NN मजिस्टर\N-NN (=\V-VM honorary\V-VAUX magistrate)\N-NN (नवाब\N-NN -\RD-PUNC अनेरी\N-NN मजिस्टर\N-NN सब\QT-QTF ?\PSP 
+/\N-NN साम\N-NN -\RD-PUNC हथ\V-VAUX ।\RD-PUNC 
+/\N-NN नवाब\N-NN -\RD-PUNC उ\PR-PRP सब\QT-QTF कैसन\PR-PRQ हथ\V-VM ?\RD-PUNC 
+/\N-NN साम\N-NN -\RD-PUNC सब\QT-QTF जैसन\RP-RPD और\CC-CCD जगह\N-NN र-ह\N-NN हथ\V-VM ।\RD-PUNC 
+;\N-NN नबाब\N-NN साहेब\N-NN थोड़े\N-NN दिन\N-NN ऐला\N-NN के\PSP बादे,\N-NN अनेरी\N-NN मजिस्टर\N-NN के\PSP इजलास\N-NN में\PSP मोकदमा\N-NN भेजना\V-VM कम\N-NN कर\V-VM देलका\V-VAUX ।\RD-PUNC 
+खाली\QT-QTF दफा\N-NN "३४"\V-VM या\CC-CCD एकरारी\RP-RPD दफा\N-NN "६०"\N-NN के\PSP मोकदमा\N-NN कभी-कभी\N-NN भेजल\V-VM करथ\V-VAUX और\CC-CCD जेतना\PR-PRL काम\N-NN होवे\V-VM अपने\PR-PRP करथ\V-VM या\CC-CCD दुनु\QT-QTC डिपटी\N-NN के\PSP देथ\V-VM ।\RD-PUNC 
+;\N-NN इ-सब\N-NN तो\PR-PRL पहिले\N-NST अनेरी\N-NN मजिस्टर\N-NN सब\QT-QTF क-र\N-NN हला\V-VM ।\RD-PUNC 
+;\N-NN सिंघजी\N-NN -\RD-PUNC तो\PR-PRL कम-से-कम\N-NN ई\DM-DMI बरसात\N-NN में\PSP हमरा\PR-PRP हैरान\N-NN नै\RP-NEG कैल\V-VM जाए\V-VAUX ।\RD-PUNC 
+अनेरी\N-NN मजिस्टर\N-NN जहां\DM-DMD रहथ\V-VM वहां\N-NN उनके\PR-PRP काम\N-NN देल\V-VM जाए\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:5.12;\N-NN 3:9.1,\RD-PUNC 16;\N-NN 3:12.23)15\N-NN अपन\PR-PRP (=\N-NN अपना)\PR-PRP (परिछन\N-NN में\PSP तो\PR-PRL हमरा\PR-PRP जादे\V-VM उमीद\N-NN भांड़ी\N-NN के\PSP हल,\V-VM लेकिन\CC-CCD प्रथम\N-NN मिलन\V-VM के\PSP प्रेम\N-NN के\PSP प्रवाह\N-NN में\PSP सायद\N-NN हमर\PR-PRP भाषा-संबंधी\N-NN उ\PR-PRP सब\QT-QTF के\PSP भूल\N-NN गेला\V-VM और\CC-CCD बड़ी\N-NN खूबसूरती\N-NN से\PSP अपन\PR-PRP भाव\N-NN हमरा\PR-PRP संकेत\N-NN से\PSP कह\V-VM देलका\V-VAUX हे\V-VAUX ।\RD-PUNC 
+;\N-NN एकरा\DM-DMD में\PSP उजुर\N-NN हमरा\PR-PRP एतनै\V-VM कि\CC-CCS हमर\PR-PRP मातृभाषा\N-NN के\PSP बैठे\N-NN के\PSP जगह\N-NN भी\RP-RPD नै\RP-NEG हे,\V-VAUX मगर,\V-VM अब\N-NN जब\PR-PRL हम\PR-PRP ओकरा\PR-PRP अपन\PR-PRP और\CC-CCD बहिन\N-NN समान\N-NN करे\V-VM के\PSP खेयाल\N-NN से\PSP खड़ा\N-NN होलूं\V-VM हे,\V-VAUX तो\PR-PRL पहिले\N-NST झाड़ू-बहाड़ू\N-NN तो\PR-PRL करना\N-NN जरूर\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.17,\V-VM 30)16\V-VAUX अबरी\N-NN (=\V-VM इस\N-NN बार;\N-NN अगली\N-NN बार,\N-NN आइन्दा;\N-NN ~\N-NN भर\RP-RPD =\N-NN इस\N-NN बार\N-NN तक)\N-NN (उ\PSP सब\QT-QTF जे\PR-PRL जरी\QT-QTF 'ओः'\V-VM क-र\N-NN हथ,\V-VM से\PSP उनखा\N-NN सन्तोख\N-NN देवे\V-VM ले\V-VAUX हम\PR-PRP ई\DM-DMI कहे\V-VM ले\V-VAUX चाह-ही\V-VAUX कि\CC-CCS अबरी\N-NN भर\N-NN हो\V-VM गेलो\V-VAUX ।\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC (दुगमुगा\N-NN के)\PSP अच्छा,\RP-RPD तो\PR-PRL अबरी\N-NN टीसन\N-NN में\PSP ।\RD-PUNC 
+बाकी\N-NN कोई\PR-PRI आदमी\N-NN सेकिन\CC-CCD अफसर\N-NN के\PSP रहल\V-VM तब\PR-PRL ?\PR-PRP 
+;\QT-QTC आगे\N-NN चलके\V-VM बोलला\V-VAUX -\RD-PUNC दे-ख,\V-VM ई\DM-DMI अबरी\N-NN जे\PR-PRL ऐलो\N-NN हे\V-VM से\PSP तरे\N-NST सुइआ\V-VM कढ़बइया\N-NN हे,\V-VM एकरा\DM-DMD से\PSP जरी\QT-QTF बचल\V-VM रहिअ\V-VAUX ।\RD-PUNC 
+;\N-NN अबरी\N-NN पहली\N-NN जनवरी\N-NN के\PSP चार\QT-QTC मरतबे\V-VM गजट\V-VAUX पढ़लूँ,\CC-CCD कहीं\DM-DMD हमर\PR-PRP नाम\N-NN के\PSP पते\V-VM नै\RP-NEG ।\RD-PUNC 
+;\N-NN सामलाल\N-NN -\RD-PUNC तो\PR-PRL हम\PR-PRP हुजुर\N-NN के\PSP नाखोस\N-NN नै\RP-NEG कर\V-VM स-क\N-NN ही,\V-VM बाकी\CC-CCS अबरी\N-NN हमरा\PR-PRP पक्का\N-NN खबर\N-NN राय\N-NN बहादुरी\N-NN के\PSP मंगा\N-NN देल\V-VM जाए,\V-VAUX ऐसे\PSP नसीबन\N-NN तो\PR-PRL ऐबे-जैबे\V-VM करे\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.4;\N-NN 2:8.13;\PSP 4:17.23;\N-NN 7:25.21,\V-VM 31)17\V-VAUX अमला\N-NN (=\PSP कर्मचारी,\V-VM कोर्ट-कचहरी\N-NN में\PSP काम\N-NN करने\V-VM वाले\V-VAUX लोग,\RD-PUNC कारिंदा)\N-NN (नवाब\N-NN -\RD-PUNC बहुत\RP-INTF खराब\N-NN हे\V-VM न\RP-NEG तब\PR-PRL ।\RD-PUNC 
+पुलिस\N-NN औ\N-NN अमला\N-NN में\PSP रूसवत\N-NN जुलुम\V-VM हइये\V-VAUX हे\V-VAUX अब\RB हाकिमो\N-NN ई\DM-DMI बात,\N-NN तो\PR-PRL सलतनत\N-NN के\PSP जड़\N-NN में\PSP दीयां\N-NN समझे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.4)18\N-NN असकुस\N-NN (=\V-VM असुविधाजनक,\RD-PUNC कष्टदायक)\V-VM (अबसे\PSP पानी\N-NN छींट\N-NN के\PSP बहाड़वे\N-NN और\CC-CCD 'गदहनीत'\N-NN में\PSP केकरो\PR-PRI असकुस\N-NN नै\RP-NEG मालूम\V-VM होत,\V-VAUX और\CC-CCD जेहे\N-NN में\PSP हमर\PR-PRP मातृभाषा\N-NN सुसज्जित\N-NN हो\V-VM जाए\V-VAUX हम\PR-PRP नीचे\N-NST लिखल\V-VM किताब\PSP छपावे\V-VM के\PSP कोसिस\N-NN करबे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.5)\N-NN 19\PSP आएं-बाएं\N-NN (नसीबन\V-VM -\RD-PUNC हम\PR-PRP तो\PR-PRL बड़ी\N-NN कोसिस\N-NN क-र\V-VM हिओ\V-VAUX और\CC-CCD उहो\N-NN खुस\N-NN हथुन\V-VM बाकी\N-NN क-ह\N-NN हथुन\V-VM के\PSP ऊपर\N-NN वालन\N-NN सब\QT-QTF तो\PR-PRL आएं-बाएं\N-NN क-र\N-NN हथ\V-VM ।\RD-PUNC 
+तोहर\PR-PRP दुसमन\N-NN सब\QT-QTF कुछ\QT-QTF बखेड़ा\N-NN लगा\V-VM दे\V-VAUX हथुन\V-VAUX के\RD-PUNC क-ह\N-NN हथुन\V-VM के\PSP कौन\PR-PRI काम\N-NN कैलका,\V-VM कौन\PR-PRI जमींदार\N-NN हथ,\V-VM अट-पट\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:14.13)20\N-NN आखिर\N-NN (नवाब\N-NN साहेब\N-NN खखन्द\N-NN से\PSP डेवढ़ा\N-NN के\PSP पास\N-NN उतर\V-VM के\PSP टहल\V-VM रहला\V-VAUX हल\V-VAUX ।\RD-PUNC 
+इ-सव\N-NN सुनके\V-VM उ\PR-PRP तुरते\RB दस\QT-QTC रुपया\N-NN के\PSP नोट\N-NN देलका\V-VM और\CC-CCD कहलका\V-VM के\V-VAUX द\N-NN जाके\V-VM और\CC-CCD नै\RP-NEG माने\N-NN तो\PR-PRL कुछ\QT-QTF आखिर\N-NN में\PSP भू-भड़क\N-NN भी\RP-RPD देखलइ-ह\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.27)21\N-NN आगू\N-NN (सलाह\N-NN होल\V-VM के\V-VAUX सहर\N-NN भर\N-NN में\PSP तवाजा\N-NN कैल\V-VM जाए\V-VAUX और\CC-CCD तब\PR-PRL सामलाल\N-NN बाबू\N-NN सामसुन्दर\N-NN प्रसाद\N-NN मोखतार\N-NN के,\PSP जे\PR-PRL इ-सब\N-NN में\PSP बड़ी\N-NN आगू\N-NN र-ह\N-NN हला,\V-VM दुकानदार\N-NN और\CC-CCD पान\N-NN वाला\N-NN के\PSP नाम\N-NN से\PSP चिट्ठी\N-NN देलका\V-VM के\V-VAUX जे\PR-PRL जे\PR-PRL चीज\N-NN के\PSP जरूरत\N-NN होवे\V-VM द\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰8:27.4)22\N-NN आगू-पिछू\N-NN (सिंघजी\N-NN -\RD-PUNC मोखतार\N-NN साहेब,\N-NN तूं\N-NN सच-सच\N-NN बो-ल,\V-VM एहां\V-VAUX कैसे\PR-PRQ औ\N-NN काहे\CC-CCS ऐला\V-VAUX ?\RD-PUNC 
+नै\RP-NEG तो\PR-PRL जान\N-NN से\PSP मार\V-VM देवो,\V-VAUX आगू\N-NN पिछू\N-NN जे\PR-PRL होत\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.19)23\N-NN आझ\N-NN (सामलाल\N-NN -\RD-PUNC नै,\N-NN सिंघजी\N-NN के\PSP तो\PR-PRL रसातल\N-NN भेजल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आझ\N-NN बड़ा\N-NN जा\V-VM के\PSP कहलका-सुनलका\V-VM हल\V-VAUX बाकी\N-NN दुसे\N-NN आने\V-VM चौकी\N-NN कहीं\DM-DMI पड़ल\V-VM हे\V-VAUX ?\RD-PUNC 
+;\N-NN नसीबन\N-NN -\RD-PUNC नै,\PR-PRP खोदा\N-NN के\PSP किरिआ,\N-NN आझ\N-NN माफ\N-NN क-र\V-VM ।\RD-PUNC 
+;\N-NN नसीबन\N-NN -\RD-PUNC नै\RP-NEG नै,\N-NN से\PSP बात\N-NN नै\RP-NEG हे\V-VM ।\RD-PUNC 
+आझ\N-NN माफ\N-NN क-र\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:13.24,\V-VM 14.1,32)24\V-VAUX आझ\N-NN काल\V-VM (आझ\N-NN काल\V-VM सुराज\N-NN के\PSP हल्ला\N-NN से\PSP तो\PR-PRL मोकदमा\N-NN एकदम\N-NN कम\N-NN हो\V-VM गेल\V-VAUX हे,\RD-PUNC तइओ\N-NN हमनी\PR-PRP सब\QT-QTF के\PSP जान\N-NN परिसान\N-NN रहे\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:9.10)25\N-NN आझकल\N-NN (नसीबन\V-VM -\RD-PUNC हां,\N-NN से\PSP तो\PR-PRL सु-न\V-VM हीओ\V-VAUX ।\RD-PUNC 
+खूब\QT-QTF आझकल\V-VM चलल\V-VAUX हो\V-VAUX ।\RD-PUNC 
+मारे\V-VM मोअक्किल\N-NN के\PSP अनठेल\N-NN भीड़\N-NN रहे\V-VM हे,\V-VAUX बाकी\N-NN और\N-NN सब\QT-QTF ओली\N-NN बोली\N-NN मारो\V-VM हो\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:14.6)26\N-NN आने\V-VM (=\V-VAUX यानी,\CC-CCD मतलब,\N-NN अर्थात्)\N-NN (सामलाल\N-NN -\RD-PUNC नै,\N-NN सिंघजी\N-NN के\PSP तो\PR-PRL रसातल\N-NN भेजल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+आझ\N-NN बड़ा\N-NN जा\V-VM के\PSP कहलका-सुनलका\V-VM हल\V-VAUX बाकी\N-NN दुसे\N-NN आने\V-VM चौकी\N-NN कहीं\DM-DMI पड़ल\V-VM हे\V-VAUX ?\RD-PUNC 
+)\RD-SYM (फूब॰4:13.25)27\N-NN आपाधापी\N-NN (नवाब\N-NN साहेब\N-NN -\RD-PUNC मोखतार\N-NN लोग\N-NN दस,\V-VM बीस\QT-QTC छोड़\N-NN के\PSP करीब-करीब\N-NN सब\QT-QTF एक\QT-QTC दम\N-NN पेसे\PSP खराब\N-NN कर\V-VM देलका\V-VAUX हे\V-VAUX और\CC-CCD ओकर\PR-PRP असर\N-NN तेजारत\N-NN में\PSP आपाधापी\N-NN के\PSP खेआल\N-NN से\PSP वकील\N-NN बरिस्टर\N-NN सब\QT-QTF भी\RP-RPD करीब\N-NN करीब\V-VM वैसने\N-NN होल\V-VM जा\V-VAUX हथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:19.9)28\N-NN आरजु-मिनती\N-NN (=\V-VM निवेदन,\RD-PUNC प्रार्थना)\N-NN (नवाब\N-NN साहेब\N-NN बोलला\V-VM के\PSP अभी\N-NN खाहिस\V-VM नै\RP-NEG हे\V-VAUX ।\RD-PUNC 
+तब\PR-PRL ई\DM-DMI बड़ी\N-NN आरजु\N-NN मिनती\N-NN कैलका\V-VM के\PSP कल्ह\N-NN से\PSP हम\PR-PRP हजुर\N-NN एहां\PSP ऐलूं\N-NN ह\V-VM और\CC-CCD इन्तजाम\N-NN कैलूं\V-VM ह\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.27)29\N-NN आरजु-मीनत\N-NN (सिंघजी\N-NN -\RD-PUNC (सामलाल\N-NN देने\N-NN देख\V-VM के)\V-VAUX तब\PR-PRL चचाजी\N-NN इनका\PR-PRP भेद\N-NN लेवे\V-VM ले\V-VAUX भेजलथिन\V-VAUX होत\V-VAUX ।\RD-PUNC 
+उतो\PR-PRL जखनै\V-VM हम\PR-PRP ओतना\PR-PRL आझ\N-NN आरजु\N-NN मीनत\N-NN ओकरा\PR-PRP से\PSP कैलूं\V-VM और\CC-CCD जब\PR-PRL नै\RP-NEG मानलक\V-VM तो\PR-PRL समझलूं\N-NN के\PSP पक्का\N-NN बदमास\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.11)30\N-NN इ\N-NN (=\N-NN ई;\PSP यह;\N-NN ये)\N-NN (कमी\N-NN और\CC-CCD गलती\N-NN जरूर\N-NN इ\N-NN सब\QT-QTF में\PSP हे\V-VAUX और\CC-CCD यथासक्ति\N-NN उ\PR-PRP सब\QT-QTF के\PSP हटावे\V-VM के\PSP कोसिस\N-NN भी\RP-RPD कैल\V-VM जात\V-VAUX ।\RD-PUNC 
+;\N-NN बिहार\N-NN सरीफ\N-NN में\PSP बाबू\N-NN सामलाल\N-NN बड़ा\N-NN मोखतार\N-NN हला\V-VM बाकी\CC-CCS इ\N-NN बड़ा\N-NN बहुत\N-NN नीचता\N-NN के\PSP बाद\N-NN होला\V-VM हल\V-VAUX ।\RD-PUNC 
+पहिले\N-NST इ\N-NN बड़ी\N-NN गरीब\N-NN हला\V-VM ।\RD-PUNC 
+बाबूजी\N-NN गाड़ीवानी\N-NN क-र\N-NN हलथिन,\N-NN और\CC-CCD इनकर\PR-PRP फुफा,\N-NNP गुरुऐ\N-NN क-र\N-NN हलथिन\V-VM और\CC-CCD उहे\DM-DMD इनका\PR-PRP मिडिल\N-NN पास\N-NN करैलथिन\V-VM ।\RD-PUNC 
+पीछ\N-NN इ\N-NN बिहार\N-NN में\PSP एक\QT-QTC मोखतार\N-NN के\PSP यहां\DM-DMD रसोईगिरी\N-NN करके\V-VM मुखतारकारी\N-NN के\PSP इमतिहान\N-NN देलका\V-VM और\CC-CCD इ\N-NN तीन\QT-QTC लोघड़नियां\N-NN के\PSP बाद\N-NN पास\N-NN कर\V-VM गेला\V-VAUX ।\RD-PUNC 
+;\N-NN आखिर\N-NN में\PSP समझलक\V-VM के\PSP इ\N-NN नै\RP-NEG मानत,\V-VM एते\QT-QTF दूर\N-NN से\PSP आल\V-VM हे\V-VAUX ।\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC अब\N-NN जैसे\N-NN हमरे\PR-PRP से\PSP सब\QT-QTF खार\N-NN खा\V-VM हथ\V-VAUX ।\RD-PUNC 
+हमर\PR-PRP किला\N-NN ऐसन\DM-DMD मकान\N-NN हे,\PSP सब\QT-QTF के\PSP इ\N-NN अच्छा\N-NN न\RP-NEG लगे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.6;\V-VM 1:3.2,\V-VAUX 3,\RD-PUNC 5,\V-VAUX 6;\V-VAUX 1:4.11,\RD-PUNC 5.10)31\N-NN इजलास\N-NN (=\V-VM अदालत,\RD-PUNC कोर्ट)\N-NN (तब\N-NN उनकर\PR-PRP दोस्त\N-NN पहिले\N-NST एक\QT-QTC नितनेस्वर\N-NN बाबू\N-NN निस्पीटर\N-NN हला\V-VAUX उनके\PR-PRP कहलका\V-VM और\CC-CCD तब\PR-PRL पुलिस\N-NN एकरा\DM-DMD पर\PSP दफा\N-NN ६०\N-NN चलौलक\V-VM और\CC-CCD कोए\N-NN कोए\N-NN तरह\RP-RPD से\PSP मोकदमा\N-NN उनके\PR-PRP इजलास\N-NN में\PSP गेल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰2:7.29)32\N-NN इझार-उझार\N-NN (नवाब\N-NN -\RD-PUNC …\N-NN और\CC-CCD अदालत\N-NN ऐसन\DM-DMD फौदारियो\N-NN में\PSP कायदा\N-NN कर\V-VM देल\V-VAUX जा\V-VAUX सके\V-VAUX हे\V-VAUX के\PSP जते\N-NN कुछ\QT-QTF दरखास्त\N-NN पड़े\N-NN फरीक\N-NN के\PSP नकल\N-NN देबल\V-VM जाए\V-VAUX ।\RD-PUNC 
+/\N-NN सिंघजी\N-NN -\RD-PUNC इझार-उझार\N-NN के\PSP नकल\N-NN में\PSP तो\PR-PRL फेर\N-NN रुसबत\N-NN के\PSP जगह\N-NN अदालत\N-NN में\PSP तो\PR-PRL बनले\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:12.13)33\N-NN इतो\PR-PRL (=\N-NN इ\N-NN तो)\N-NN (ऐसे\PSP तो\PR-PRL करीब-करीब\N-NN सभे\QT-QTF सरकारी\N-NN काम\N-NN करे\V-VM वाला\V-VAUX थोड़े\N-NN बहुत\RP-INTF खोसामदी\N-NN होवे\V-VM क-र\N-NN हथ\V-VM ।\RD-PUNC 
+इतो\PR-PRL मुसलमानी\N-NN वादसाहत\N-NN और\CC-CCD हिन्दुस्तान\N-NN के\PSP गुलाम\N-NN के\PSP फल\N-NN हे\V-VM ।\RD-PUNC 
+बाकी\N-NN इनका\PR-PRP में\PSP एकर\PR-PRP मातरा\N-NN कुछ\QT-QTF जादे\V-VM हल\V-VAUX और\CC-CCD हाकिम\N-NN वगैरह\N-NN के\PSP खूब\QT-QTF खोस\N-NN एकरे\N-NN से\PSP र-ख\N-NN हला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.13;\N-NN 4:16.28)34\V-VAUX इनकर\PR-PRP (=\JJ इनखर;\N-NN इनका)\N-NN (बाबूजी\N-NN गाड़ीवानी\N-NN क-र\V-VM हलथिन,\V-VAUX और\CC-CCD इनकर\PR-PRP फुफा,\N-NNP गुरुऐ\N-NN क-र\N-NN हलथिन\V-VM और\CC-CCD उहे\DM-DMD इनका\PR-PRP मिडिल\N-NN पास\N-NN करैलथिन\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.4)35\N-NN इनका\PR-PRP (=\N-NN इनखा;\N-NN इन्हें,\PSP इनको;\N-NN ~\N-NN में\PSP =\N-NN इनमें)\N-NN (बाबूजी\N-NN गाड़ीवानी\N-NN क-र\N-NN हलथिन,\N-NN और\CC-CCD इनकर\PR-PRP फुफा,\N-NNP गुरुऐ\N-NN क-र\N-NN हलथिन\V-VM और\CC-CCD उहे\DM-DMD इनका\PR-PRP मिडिल\N-NN पास\N-NN करैलथिन\V-VM ।\RD-PUNC 
+;\N-NN ऐसे\V-VM तो\PR-PRL करीब-करीब\N-NN सभे\QT-QTF सरकारी\N-NN काम\N-NN करे\V-VM वाला\V-VAUX थोड़े\N-NN बहुत\RP-INTF खोसामदी\N-NN होवे\V-VM क-र\N-NN हथ\V-VM ।\RD-PUNC 
+इतो\PR-PRL मुसलमानी\N-NN वादसाहत\N-NN और\CC-CCD हिन्दुस्तान\N-NN के\PSP गुलाम\N-NN के\PSP फल\N-NN हे\V-VM ।\RD-PUNC 
+बाकी\N-NN इनका\PR-PRP में\PSP एकर\PR-PRP मातरा\N-NN कुछ\QT-QTF जादे\V-VM हल\V-VAUX और\CC-CCD हाकिम\N-NN वगैरह\N-NN के\PSP खूब\QT-QTF खोस\N-NN एकरे\N-NN से\PSP र-ख\N-NN हला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.4,\V-VM 16)36\V-VAUX इनखा\N-NN (आझ\N-NN सामलाल\N-NN बड़ी\N-NN खोस\N-NN हथ\V-VAUX ।\RD-PUNC 
+पहिले\N-NST दिन\N-NN अंग्रेजी\N-NN के\PSP चौथा\N-NN महीना\N-NN के\PSP हल\V-VM ।\RD-PUNC 
+भोरे\N-NN तार\N-NN मिललैन\N-NN के\PSP राय\N-NN बहादुर\N-NN हो\V-VM गेला\V-VAUX ।\RD-PUNC 
+नवाब\N-NN साहेब\N-NN किहाँ\PSP गेला\V-VM और\CC-CCD इनखा\N-NN बोले\V-VM से\PSP पहिले\N-NST नवाब\N-NN साहेब\N-NN बोलला\V-VM -\RD-PUNC मोबारक\N-NN होबो\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰8:26.3)37\N-NN इलजाम\N-NN (ओ\PSP कुल\N-NN कागज-उगज\N-NN जे\PR-PRL इ\N-NN मामला\N-NN में\PSP नवाब\N-NN साहेब\N-NN के\PSP खिलाफ\N-NN इया\CC-CCD बाबू\N-NN हलधर\N-NN सिंघ\N-NN के\PSP हसबखाह\N-NN हल\V-VM निकलवा\RD-PUNC लेलका\V-VM औ\N-NN एक\QT-QTC दू\QT-QTC रईस\N-NN के\PSP औ\N-NN राम\N-NN किसुन\N-NN सिंघ\N-NN औ\N-NN सामलाल\N-NN के\PSP गवाह\N-NN खड़ा\N-NN करके\V-VM झूठझूठ\N-NN रूसबत\N-NN लेवे\V-VM के\PSP इलजाम\N-NN बाबू\N-NN हलधर\N-NN सिंघ\N-NN पर\PSP साबित\N-NN करैलका\V-VM और\CC-CCD अपने\PR-PRP निकल\V-VM गेला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰7:24.10)38\N-NN इहे\DM-DMD (=\N-NN एही;\DM-DMD यही)\N-NN (हम\N-NN सम-झ\N-NN ही\RP-RPD कि\CC-CCS उनकर\PR-PRP कृपा\N-NN मगही\N-NN पर\PSP से\PSP घटत\V-VM नै,\RD-PUNC और\CC-CCD इहे\DM-DMD सोंच\V-VM के\PSP हम\PR-PRP फिर\N-NN दूसर\N-NN पुस्तक\V-VM के\PSP साथ\PSP उनकर\PR-PRP भीरी\N-NN हाजिर\N-NN होलूं\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.4)39\N-NN ई\DM-DMI (=\N-NN यह)\V-VM (हमरा\PR-PRP ई\DM-DMI बात\N-NN से\PSP बड़ी\N-NN खुसी\N-NN हे\V-VM कि\CC-CCS उ\PR-PRP अपन\PR-PRP धर्म\N-NN के\PSP पूरा\N-NN तौर\N-NN पालन\N-NN कैलका\V-VM ।\RD-PUNC 
+उ\PR-PRP सब\QT-QTF जे\PR-PRL जरी\QT-QTF 'ओः'\RP-RPD क-र\N-NN हथ,\V-VM से\PSP उनखा\N-NN सन्तोख\N-NN देवे\V-VM ले\V-VAUX हम\PR-PRP ई\DM-DMI कहे\V-VM ले\V-VAUX चाह-ही\V-VAUX कि\CC-CCS अबरी\N-NN भर\N-NN हो\V-VM गेलो\V-VAUX ।\RD-PUNC 
+;\N-NN ई\DM-DMI हमरा\PR-PRP दने\N-NN बहुत\N-NN दिन\N-NN से\PSP प्रचलित\N-NN हे,\V-VM हम\PR-PRP एकरा\DM-DMD लिखा\V-VM रहलूं\V-VAUX हे\V-VAUX ।\RD-PUNC 
+;\N-NN एकरा\DM-DMD से\PSP ई\DM-DMI न\RP-NEG कि\CC-CCS स्वराज\N-NN हासिल\N-NN करे\V-VM में\PSP हम\PR-PRP रूक\N-NN रहब,\V-VM मगर\N-NN हमनी\PR-PRP के\PSP साथे-साथे\N-NN ई\DM-DMI भी\RP-RPD कोसिस\N-NN करे\V-VM के\PSP होत\V-VAUX के\PSP उदंड\N-NN सूर्ज\N-NN के\PSP डूबे\V-VM के\V-VAUX पहिले\N-NST मगही\N-NN अपन\PR-PRP जगह\N-NN पर\PSP कायम\N-NN हो\V-VM जाए\V-VAUX ।\RD-PUNC 
+;\V-VM तब\PR-PRL ई\DM-DMI बड़ी\N-NN आरजु\N-NN मिनती\N-NN कैलका\V-VM के\PSP कल्ह\N-NN से\PSP हम\PR-PRP हजुर\N-NN एहां\PSP ऐलूं\N-NN ह\V-VM और\CC-CCD इन्तजाम\N-NN कैलूं\V-VM ह\V-VAUX ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC नै,\N-NN ई\DM-DMI तो\PR-PRL तब\PR-PRL किरकिरा\N-NN हो\V-VM जात\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.2,\V-VM 4,\V-VAUX 12,\RD-PUNC 32,\V-VAUX 33;\V-VAUX 1:3.27,\CC-CCD 4.21)40\N-NN उ\PR-PRP (=\N-NN ऊ;\PSP वह;\N-NN वो;\N-NN वे)\N-NN (कमी\N-NN और\CC-CCD गलती\N-NN जरूर\N-NN इ\N-NN सब\QT-QTF में\PSP हे\V-VAUX और\CC-CCD यथासक्ति\N-NN उ\PR-PRP सब\QT-QTF के\PSP हटावे\V-VM के\PSP कोसिस\N-NN भी\RP-RPD कैल\V-VM जात\V-VAUX ।\RD-PUNC 
+;\N-NN बुराई\N-NN जे\PR-PRL ओकरा\PR-PRP में\PSP दरसावल\V-VM गेल\V-VAUX हे,\RD-PUNC उ\PR-PRP फैलल\N-NN हे,\PSP एकरा\DM-DMD में\PSP सक\N-NN नै,\V-VM और\CC-CCD ओकर\PR-PRP निन्दा\N-NN भी\RP-RPD करे\V-VM के\V-VAUX चाही,\V-VAUX एहो\V-VAUX निसन्देह\N-NN ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC उ\PR-PRP सब\QT-QTF कैसन\PR-PRQ हथ\V-VM ?\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC अब\N-NN उ\PR-PRP सब\QT-QTF हाकिम\N-NN हका,\V-VM उ\PR-PRP सब\QT-QTF के\PSP बात\N-NN हमरा\PR-PRP से\PSP की\PR-PRQ पुछल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.6,\PSP 11,\V-VM 16;\V-VAUX 1:5.14,\RD-PUNC 17)41\N-NN उखनी\N-NN (=\N-NN ओकन्हीं,\PR-PRP उनकन्हीं;\PR-PRP उन\N-NN सब)\PSP (सामलाल\N-NN -\RD-PUNC हुजुर,\N-NN हमर\PR-PRP सब\QT-QTF दोस्त\N-NN हका,\V-VM उखनी\N-NN पर\PSP ऐसन-ने\N-NN के\PSP कोय\PR-PRI सखती\N-NN होवे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.14)42\N-NN उजुर\N-NN (=\N-NN आपत्ति,\V-VM एतराज;\V-VAUX शंका,\RD-PUNC विरोध)\N-NN (लेकिन\CC-CCD अधिक\N-NN कृपा\N-NN के\PSP कारण\N-NN लोग\N-NN एकर\PR-PRP सिकायत\N-NN नै\RP-NEG कैलका\V-VM हे\V-VAUX ।\RD-PUNC 
+दबल\V-VM मुंह\N-NN से\PSP इ\N-NN कहल\V-VM गेल\V-VAUX हे\V-VAUX कुछ\QT-QTF अच्छा\JJ वार्ता\N-NN से\PSP सुरू\N-NN कैल\V-VM जात\N-NN हल,\V-VM तो\PR-PRL एकरा\DM-DMD में\PSP उजुर\N-NN हमरा\PR-PRP एतनै\V-VM कि\CC-CCS हमर\PR-PRP मातृभाषा\N-NN के\PSP बैठे\N-NN के\PSP जगह\N-NN भी\RP-RPD नै\RP-NEG हे,\V-VM मगर,\PSP अब\N-NN जब\PR-PRL हम\PR-PRP ओकरा\PR-PRP अपन\PR-PRP और\CC-CCD बहिन\N-NN समान\N-NN करे\V-VM के\PSP खेयाल\N-NN से\PSP खड़ा\N-NN होलूं\V-VM हे,\V-VAUX तो\PR-PRL पहिले\N-NST झाड़ू-बहाड़ू\N-NN तो\PR-PRL करना\N-NN जरूर\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.28)43\N-NN उतो\V-VM (=उ\CC-CCD तो)\N-NN (नसीबन\V-VM -\RD-PUNC हमर\PR-PRP कहने\N-NN नै\RP-NEG मा-न\V-VM ह\V-VAUX ।\RD-PUNC 
+ऊ\PR-PRP कहलीओ\V-VM के\PSP जरूर\RB ऐतो\V-VM ।\RD-PUNC 
+तों\N-NN सामने\N-NST चल\V-VM जा\V-VAUX दरवाजा\N-NN से\PSP ।\RD-PUNC 
+/\N-NN सामलाल\N-NN -\RD-PUNC नै\RP-NEG नै,\V-VM उतो\PR-PRL सब\QT-QTF दुकान\N-NN खुलल\V-VM हे\V-VAUX ।\RD-PUNC 
+;\V-VM तब\PR-PRL चचाजी\N-NN इनका\PR-PRP भेद\N-NN लेवे\V-VM ले\V-VAUX भेजलथिन\V-VAUX होत\V-VAUX ।\RD-PUNC 
+उतो\N-NN अखनै\V-VM हम\PR-PRP ओतना\PR-PRL आझ\N-NN आरजु\N-NN मीनत\N-NN ओकरा\PR-PRP से\PSP कैलूं\V-VM और\CC-CCD जब\PR-PRL नै\RP-NEG मानलक\V-VM तो\PR-PRL समझलूं\N-NN के\PSP पक्का\N-NN बदमास\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:15.10,\V-VM 16.11)44\V-VAUX उदंड\N-NN (~\PSP सूर्ज)\N-NN (एकरा\DM-DMD से\PSP ई\DM-DMI न\RP-NEG कि\CC-CCS स्वराज\N-NN हासिल\N-NN करे\V-VM में\PSP हम\PR-PRP रूक\N-NN रहब,\V-VM मगर\N-NN हमनी\PR-PRP के\PSP साथे-साथे\N-NN ई\DM-DMI भी\RP-RPD कोसिस\N-NN करे\V-VM के\PSP होत\V-VAUX के\PSP उदंड\N-NN सूर्ज\N-NN के\PSP डूबे\V-VM के\V-VAUX पहिले\N-NST मगही\N-NN अपन\PR-PRP जगह\N-NN पर\PSP कायम\N-NN हो\V-VM जाए\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.33)45\N-NN उनकर\PR-PRP (=\N-NN उनका)\PR-PRP (हम\N-NN सम-झ\N-NN ही\RP-RPD कि\CC-CCS उनकर\PR-PRP कृपा\N-NN मगही\N-NN पर\PSP से\PSP घटत\V-VM नै,\RD-PUNC और\CC-CCD इहे\DM-DMD सोंच\V-VM के\PSP हम\PR-PRP फिर\N-NN दूसर\N-NN पुस्तक\V-VM के\PSP साथ\PSP उनकर\PR-PRP भीरी\N-NN हाजिर\N-NN होलूं\V-VM हे\V-VAUX ।\RD-PUNC 
+;\N-NN कुछ\QT-QTF भूमिहार\N-NN भाई\N-NN एकरा\DM-DMD से\PSP रंज\N-NN हो\V-VM गेला\V-VAUX हे\V-VAUX कि\CC-CCS उनकर\PR-PRP जात\N-NN भाई\N-NN के\PSP नकल\N-NN 'सुनीता'\N-NN में\PSP बनावल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC हमर\PR-PRP परनाना\N-NN उनकर\PR-PRP अपन\PR-PRP मौसेरा\N-NN छरनाती\N-NN ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC बड़ा\N-NN पुलिस\N-NN सब\QT-QTF भी\RP-RPD बदमासी\N-NN करे\V-VM हे\V-VAUX ।\RD-PUNC 
+जहां\DM-DMD कुछ\QT-QTF उनकर\PR-PRP बात\N-NN ने\RP-NEG मानलक\V-VM और\CC-CCD दफा\N-NN ६०\N-NN के\PSP रिपोट\N-NN दाखिल\N-NN ।\RD-PUNC 
+;\DM-DMI तब\PR-PRL उनकर\PR-PRP दोस्त\N-NN पहिले\N-NST एक\QT-QTC नितनेस्वर\N-NN बाबू\N-NN निस्पीटर\N-NN हला\V-VAUX उनके\PR-PRP कहलका\V-VM और\CC-CCD तब\PR-PRL पुलिस\N-NN एकरा\DM-DMD पर\PSP दफा\N-NN ६०\N-NN चलौलक\V-VM और\CC-CCD कोए\N-NN कोए\N-NN तरह\RP-RPD से\PSP मोकदमा\N-NN उनके\PR-PRP इजलास\N-NN में\PSP गेल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.4,\PSP 8;\V-VM 1:6.21;\V-VAUX 2:7.12,\RD-PUNC 26)46\N-NN उनके\PR-PRP (=\N-NN उन्हें\V-VM ही,\V-VAUX उनका\PR-PRP ही)\N-NN (तब\N-NN उनकर\PR-PRP दोस्त\N-NN पहिले\N-NST एक\QT-QTC नितनेस्वर\N-NN बाबू\N-NN निस्पीटर\N-NN हला\V-VAUX उनके\PR-PRP कहलका\V-VM और\CC-CCD तब\PR-PRL पुलिस\N-NN एकरा\DM-DMD पर\PSP दफा\N-NN ६०\N-NN चलौलक\V-VM और\CC-CCD कोए\N-NN कोए\N-NN तरह\RP-RPD से\PSP मोकदमा\N-NN उनके\PR-PRP इजलास\N-NN में\PSP गेल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰2:7.27)47\N-NN उनको\PR-PRP (=\N-NN उन्हें\PSP भी)\V-VM (साम\N-NN -\RD-PUNC एहे\DM-DMD हसद\V-VM ।\RD-PUNC 
+/\N-NN नवाब\N-NN -\RD-PUNC से\PSP की\PR-PRQ ?\V-VM 
+/\N-NN साम\N-NN -\RD-PUNC अब\N-NN जैसे\N-NN हमरे\PR-PRP से\PSP सब\QT-QTF खार\N-NN खा\V-VM हथ\V-VAUX ।\RD-PUNC 
+हमर\PR-PRP किला\N-NN ऐसन\DM-DMD मकान\N-NN हे,\PSP सब\QT-QTF के\PSP इ\N-NN अच्छा\N-NN न\RP-NEG लगे\V-VM ।\RD-PUNC 
+हमरा\PR-PRP दस\QT-QTC पांच\QT-QTC हजार\QT-QTC बैंक\N-NN में\PSP हे,\PR-PRP सब\QT-QTF चा-ह\N-NN हथ\V-VM कि\CC-CCS उनको\QT-QTC रहत\V-VM हल\V-VAUX ।\RD-PUNC 
+हाकिम\N-NN सब\QT-QTF जैसे\N-NN हमरे\PR-PRP मा-न\N-NN हथ,\V-VM एहे\DM-DMD सबसे\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:5.11)48\N-NN उनखा\N-NN (=\V-VM म॰\N-NN उनका;\PR-PRP हि॰\N-NN उन्हें,\PR-PRP उनको)\PR-PRP (उनखा\N-NN से\PSP हमर\PR-PRP अर्ज\N-NN हे\V-VM कि\CC-CCS हमर\PR-PRP हरगिज\N-NN ऐसन\DM-DMD नै\RP-NEG ख्याल\N-NN हल\V-VM नै\RP-NEG हे\V-VAUX ।\RD-PUNC 
+;\N-NN उ\PR-PRP सब\QT-QTF जे\PR-PRL जरी\QT-QTF 'ओः'\RP-RPD क-र\N-NN हथ,\V-VM से\PSP उनखा\N-NN सन्तोख\N-NN देवे\V-VM ले\V-VAUX हम\PR-PRP ई\DM-DMI कहे\V-VM ले\V-VAUX चाह-ही\V-VAUX कि\CC-CCS अबरी\N-NN भर\N-NN हो\V-VM गेलो\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.9,\V-VM 2.3)\V-VAUX 49\RD-PUNC उहे\DM-DMD (=\PSP वही)\N-NN (बाबूजी\N-NN गाड़ीवानी\N-NN क-र\N-NN हलथिन,\N-NN और\CC-CCD इनकर\PR-PRP फुफा,\N-NNP गुरुऐ\N-NN क-र\N-NN हलथिन\V-VM और\CC-CCD उहे\DM-DMD इनका\PR-PRP मिडिल\N-NN पास\N-NN करैलथिन\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.4)50\N-NN उहो\V-VM (नसीबन\V-VAUX -\RD-PUNC हम\PR-PRP तो\PR-PRL बड़ी\N-NN कोसिस\N-NN क-र\V-VM हिओ\V-VAUX और\CC-CCD उहो\N-NN खुस\N-NN हथुन\V-VM बाकी\N-NN क-ह\N-NN हथुन\V-VM के\PSP ऊपर\N-NN वालन\N-NN सब\QT-QTF तो\PR-PRL आएं-बाएं\N-NN क-र\N-NN हथ\V-VM ।\RD-PUNC 
+तोहर\PR-PRP दुसमन\N-NN सब\QT-QTF कुछ\QT-QTF बखेड़ा\N-NN लगा\V-VM दे\V-VAUX हथुन\V-VAUX के\RD-PUNC क-ह\N-NN हथुन\V-VM के\PSP कौन\PR-PRI काम\N-NN कैलका,\V-VM कौन\PR-PRI जमींदार\N-NN हथ,\V-VM अट-पट\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:14.12)51\N-NN ऊ\PR-PRP (हम\N-NN तो\PR-PRL सुनलूं\N-NN हल\V-VM के\PSP तू\PR-PRP रंडी\N-NN ऊ\PR-PRP मरदूद\N-NN के\PSP यहां\DM-DMD पहुंचा-व\V-VM ह\V-VAUX और\CC-CCD एहे\DM-DMD नसीबन\N-NN जाहे\V-VM ।\RD-PUNC 
+बाकी\N-NN दुनु\QT-QTC कसम\N-NN खा-ह,\V-VM और\CC-CCD दुनु\QT-QTC के\PSP बात\N-NN ऐसन\DM-DMD हमरा\PR-PRP मालूम\N-NN होवे\V-VM हे\V-VAUX के\PSP झूठो\N-NN नै\RP-NEG कह\V-VM स-क\N-NN ह\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:17.1)52\N-NN एकर\PR-PRP (=\PSP एक्कर;\QT-QTC इसका)\N-NN (ऐसे\V-VM तो\PR-PRL करीब-करीब\N-NN सभे\QT-QTF सरकारी\N-NN काम\N-NN करे\V-VM वाला\V-VAUX थोड़े\N-NN बहुत\RP-INTF खोसामदी\N-NN होवे\V-VM क-र\N-NN हथ\V-VM ।\RD-PUNC 
+इतो\PR-PRL मुसलमानी\N-NN वादसाहत\N-NN और\CC-CCD हिन्दुस्तान\N-NN के\PSP गुलाम\N-NN के\PSP फल\N-NN हे\V-VM ।\RD-PUNC 
+बाकी\N-NN इनका\PR-PRP में\PSP एकर\PR-PRP मातरा\N-NN कुछ\QT-QTF जादे\V-VM हल\V-VAUX और\CC-CCD हाकिम\N-NN वगैरह\N-NN के\PSP खूब\QT-QTF खोस\N-NN एकरे\N-NN से\PSP र-ख\N-NN हला\V-VM ।\RD-PUNC 
+;\N-NN एकर\N-NN काबिल\V-VM तो\PR-PRL उ\PR-PRP जा-न\N-NN हला\V-VM के\PSP हम\PR-PRP नै\RP-NEG ही\RP-RPD बाकी\N-NN अपन\PR-PRP धुरताई\N-NN पर\PSP उनका\PR-PRP भरोसा\N-NN हल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.14,\N-NN 19)53\PSP एकरा\DM-DMD (=\V-VM इसे,\V-VAUX इसको)\N-NN (कुछ\PSP भूमिहार\N-NN भाई\N-NN एकरा\DM-DMD से\PSP रंज\N-NN हो\V-VM गेला\V-VAUX हे\V-VAUX कि\CC-CCS उनकर\PR-PRP जात\N-NN भाई\N-NN के\PSP नकल\N-NN 'सुनीता'\N-NN में\PSP बनावल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+;\N-NN बुराई\N-NN जे\PR-PRL ओकरा\PR-PRP में\PSP दरसावल\V-VM गेल\V-VAUX हे,\RD-PUNC उ\PR-PRP फैलल\N-NN हे,\PSP एकरा\DM-DMD में\PSP सक\N-NN नै,\V-VM और\CC-CCD ओकर\PR-PRP निन्दा\N-NN भी\RP-RPD करे\V-VM के\V-VAUX चाही,\V-VAUX एहो\V-VAUX निसन्देह\N-NN ।\RD-PUNC 
+;\N-NN २.\N-NN मगही\N-NN रामायन\N-NN -\RD-PUNC (ई\N-NN हमरा\PR-PRP दने\N-NN बहुत\N-NN दिन\N-NN से\PSP प्रचलित\N-NN हे,\V-VM हम\PR-PRP एकरा\DM-DMD लिखा\V-VM रहलूं\N-NN हे);\V-VM एकरा\DM-DMD नाराज\N-NN करना\N-NN भी\RP-RPD आदमियत\V-VM से\PSP बाहर\N-NN समझ\N-NN कर\V-VM बोलला\V-VM (उर्दू\PSP में)\V-VM -\RD-PUNC च-ल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.8,\V-VM 11,\V-VAUX 2.13;\N-NN 1:4.12)54\N-NN एकरे\N-NN (=\N-NN इसी\N-NN को)\PSP (अंगरेजी\RP-NEG राज\N-NN रहते\V-VM पूरा\N-NN तौर\N-NN से\PSP पढ़ाए\N-NN के\PSP इन्तजाम\N-NN नै\RP-NEG हो\V-VM सके\V-VAUX हे\V-VAUX और\CC-CCD एकरे\N-NN से\PSP उमीद\N-NN हे\V-VM कि\CC-CCS अनपढ़\N-NN मगही\N-NN अपन\PR-PRP भासा\N-NN के\PSP नै\RP-NEG भूलता\N-NN ।\RD-PUNC 
+;\N-NN ऐसे\V-VM तो\PR-PRL करीब-करीब\N-NN सभे\QT-QTF सरकारी\N-NN काम\N-NN करे\V-VM वाला\V-VAUX थोड़े\N-NN बहुत\RP-INTF खोसामदी\N-NN होवे\V-VM क-र\N-NN हथ\V-VM ।\RD-PUNC 
+इतो\PR-PRL मुसलमानी\N-NN वादसाहत\N-NN और\CC-CCD हिन्दुस्तान\N-NN के\PSP गुलाम\N-NN के\PSP फल\N-NN हे\V-VM ।\RD-PUNC 
+बाकी\N-NN इनका\PR-PRP में\PSP एकर\PR-PRP मातरा\N-NN कुछ\QT-QTF जादे\V-VM हल\V-VAUX और\CC-CCD हाकिम\N-NN वगैरह\N-NN के\PSP खूब\QT-QTF खोस\N-NN एकरे\N-NN से\PSP र-ख\N-NN हला\V-VM ।\RD-PUNC 
+बाकी\N-NN ऐसन\DM-DMD काम\N-NN में\PSP बगैर\N-NN चुगलखोरी\N-NN के\PSP बढ़ती\N-NN नै\RP-NEG होवे\V-VM हे\V-VAUX एकरे\N-NN से\PSP सहर\N-NN के\PSP रईस\N-NN इनका\PR-PRP से\PSP कुछ\QT-QTF कौंचल\V-VM र-ह\N-NN हला\V-VM ।\RD-PUNC 
+;\N-NN एकरे\N-NN में\PSP एक\QT-QTC डेवढ़ा\N-NN गाड़ी\N-NN में\PSP से\PSP कोई\PR-PRI औरत\N-NN सामलाल\N-NN के\PSP सलाम\N-NN कैलक\V-VM और\CC-CCD सामलाल\N-NN बदली\N-NN सलाम\N-NN कैलका\V-VM औ\N-NN इसारे\N-NN से\PSP बतला\V-VM देलका\V-VAUX के\PSP एही\DM-DMD एसडीओ\N-NN जा\V-VM हथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.31;\N-NN 1:3.15,\RD-PUNC 16;\N-NN 2:7.3)55\N-NN एकाक-ठो\N-NN (सिंघ\N-NN जी\N-NN -\RD-PUNC तो\PR-PRL ई\DM-DMI कहां\PR-PRQ तक\RP-RPD रोकल\V-VM जा\V-VAUX सके\V-VAUX हे\V-VAUX ।\RD-PUNC 
+तमाम\N-NN तो\PR-PRL रुसबत\N-NN के\PSP बदबू\N-NN होवे\V-VM हे\V-VAUX ।\RD-PUNC 
+अरे\RP-INJ जब\PR-PRL एकाक-ठो\QT-QTC हाई-कोट\N-NN के\PSP जज\N-NN सब\QT-QTF के\PSP अधखुलल\V-VM सिकायत\N-NN ई\DM-DMI सब\QT-QTF के\PSP हो\V-VM रहल\V-VAUX हे\V-VAUX तो\PR-PRL ई\DM-DMI बेचारन\N-NN के\PSP कौन\PR-PRI ठेकाना\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰3:10.2)56\N-NN एखबार\N-NN (=\N-NN अखबार)\N-NN (कोए\PR-PRP सूरत\N-NN से\PSP नसीबन\N-NN के\PSP साम\N-NN लाल\N-NN फस्ट\V-VM किलास\N-NN में\PSP ले\V-VM ऐला\V-VAUX ।\RD-PUNC 
+नवाब\N-NN साहेब\N-NN ओकरा\PR-PRP डेवढ़ा\N-NN से\PSP उतरते\N-NN देख\V-VM झट\N-NN से\PSP अपन\PR-PRP खाना\N-NN में\PSP चढ़\V-VM गेला\V-VAUX और\CC-CCD गद्दी\N-NN में\PSP अड़के\V-VM एखबार\N-NN देखे\V-VM लगला\V-VAUX ।\RD-PUNC 
+नसीबन\N-NN जब\PR-PRL आल\V-VM तो\PR-PRL गम्हीरता\N-NN से\PSP एखबार\N-NN रख\V-VM देलका\V-VAUX और\CC-CCD बोलला\V-VM -\RD-PUNC "बै-ठ\V-VM बी-जान\N-NN ।\RD-PUNC 
+")\N-NN (फूब॰2:8.31,\PSP 32)57\N-NN एतना\QT-QTF (=\N-NN इतना)\N-NN (एहे\DM-DMD से\PSP तीन\QT-QTC चार\QT-QTC दिन\N-NN में\PSP 'सुनीता'\N-NN लिख\V-VM के\PSP छापाखाना\N-NN में\PSP भेजल\V-VM गेल,\V-VAUX और\CC-CCD एतना\QT-QTF जल्दी\N-NN में\PSP उ\PR-PRP छपल\N-NN के\PSP पूरा\N-NN तरीका\N-NN से\PSP ओकर\PR-PRP प्रूफ\N-NN भी\RP-RPD नै\RP-NEG ठीक\JJ कैल\V-VM जा\V-VAUX सकल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.25)58\N-NN एतनै\V-VM (=\V-VAUX एतनइ,\RD-PUNC एतनइँ,\QT-QTC एतनहीं;\QT-QTC इतना\QT-QTF ही)\V-VM (लेकिन\CC-CCD अधिक\N-NN कृपा\N-NN के\PSP कारण\N-NN लोग\N-NN एकर\PR-PRP सिकायत\N-NN नै\RP-NEG कैलका\V-VM हे\V-VAUX ।\RD-PUNC 
+दबल\V-VM मुंह\N-NN से\PSP इ\N-NN कहल\V-VM गेल\V-VAUX हे\V-VAUX कुछ\QT-QTF अच्छा\JJ वार्ता\N-NN से\PSP सुरू\N-NN कैल\V-VM जात\N-NN हल,\V-VM तो\PR-PRL एकरा\DM-DMD में\PSP उजुर\N-NN हमरा\PR-PRP एतनै\V-VM कि\CC-CCS हमर\PR-PRP मातृभाषा\N-NN के\PSP बैठे\N-NN के\PSP जगह\N-NN भी\RP-RPD नै\RP-NEG हे,\V-VM मगर,\PSP अब\N-NN जब\PR-PRL हम\PR-PRP ओकरा\PR-PRP अपन\PR-PRP और\CC-CCD बहिन\N-NN समान\N-NN करे\V-VM के\PSP खेयाल\N-NN से\PSP खड़ा\N-NN होलूं\V-VM हे,\V-VAUX तो\PR-PRL पहिले\N-NST झाड़ू-बहाड़ू\N-NN तो\PR-PRL करना\N-NN जरूर\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.28)59\N-NN एते\QT-QTF (=\N-NN इतना)\N-NN (आखिर\N-NN में\PSP समझलका\V-VM के\PSP इ\N-NN नै\RP-NEG मानत,\V-VM एते\QT-QTF दूर\N-NN से\PSP आल\V-VM हे\V-VAUX ।\RD-PUNC 
+;\N-NN हम\PR-PRP तो\PR-PRL समझलूं\N-NN हल\V-VM के\PSP एते\QT-QTF दूर\N-NN के\PSP सफर\N-NN बड़ा\N-NN सुखल\V-VM साखल\V-VAUX होत\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.12;\V-VM 2:8.1)60\V-VAUX एने\DM-DMD (=\N-NN एन्ने;\N-NN इधर;\N-NN इस\N-NN तरफ)\PSP (एने\N-NN कुछ\QT-QTF दिन\N-NN से\PSP साम\N-NN लाल\N-NN के\PSP जनून\N-NN राय\N-NN बहादुर\N-NN होवे\V-VM के\PSP चढ़\V-VM गेल\V-VAUX हल\V-VAUX ।\RD-PUNC 
+;\N-NN दुसर\QT-QTO दिन\N-NN छो-पांच\N-NN करते\V-VM इ\N-NN तै\N-NN कैलका\V-VM के\PSP सामलाल\N-NN के\PSP और\N-NN नवाब\N-NN साहेब\N-NN के\PSP गटपटा\N-NN देवे\V-VM के\PSP चाही\V-VAUX और\CC-CCD नसीबन\N-NN के\PSP एहां\DM-DMD कड़ा\V-VM पहरा\N-NN कर\V-VM देलका\V-VAUX ।\RD-PUNC 
+एने\DM-DMD सामलाल\N-NN लात\N-NN के\PSP मार\V-VM भुलल\V-VAUX नै\RP-NEG ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.18;\N-NN 5:18.12)61\PSP एने-उने\DM-DMD (सामलाल\N-NN एक\QT-QTC आदमी\N-NN के\PSP साथ\PSP भठियारी\N-NN सराए\N-NN के\PSP उत्तर\N-NN नाला\N-NN किनारे-किनारे\N-NN बिजुली\N-NN के\PSP हंथबत्ती\N-NN के\PSP सहारे\N-NN टोते-टोते\V-VM चलल\V-VAUX जा\V-VM हथ\V-VAUX ।\RD-PUNC 
+जहां\DM-DMD कहीं\DM-DMI पत्ता-उत्ता\N-NN खरखराए\V-VM चौंक\N-NN के\PSP एने\DM-DMD उने\N-NN देखे\V-VM ल-ग\N-NN हथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:13.4)62\N-NN एने-ओने\DM-DMD (=\N-NN एन्ने-ओन्ने;\N-NN इधर-उधर)\N-NN (साम\N-NN -\RD-PUNC (एने\N-NN ओने\N-NN देखके\V-VM औ\N-NN तब\PR-PRL जरिसे\V-VM पैर\N-NN छूके)\V-VM हमरा\PR-PRP पर\PSP खाबिन्दी\N-NN कैल\V-VM जाए\V-VAUX ।\RD-PUNC 
+;\N-NN एहे\DM-DMD वास्ते\N-NN एक\QT-QTC रोज\N-NN मौका\N-NN देख\V-VM बड़ा\N-NN डिपटी\N-NN साहेब\N-NN के\PSP यहां\DM-DMD ऐला\N-NN और\CC-CCD बात\N-NN एने\DM-DMD ओने\N-NN के\PSP करके\V-VM बोलला\V-VAUX कि\CC-CCS आझ\N-NN काल\N-NN सुराज\N-NN के\PSP हल्ला\N-NN से\PSP तो\PR-PRL मोकदमा\N-NN एकदम\N-NN कम\N-NN हो\V-VM गेल\V-VAUX हे,\RD-PUNC तइओ\N-NN हमनी\PR-PRP सब\QT-QTF के\PSP जान\N-NN परिसान\N-NN रहे\V-VM हे\V-VAUX ।\RD-PUNC 
+;\N-NN सड़को\N-NN पर\PSP एने\DM-DMD ओने\N-NN देखे\V-VM ले\V-VAUX अपन\PR-PRP नौकर-उकर\N-NN के\PSP भेजलका\V-VM बाकी\N-NN आखिर\N-NN में\PSP अरदली\N-NN सामबाबू\N-NN के\PSP एक\QT-QTC पुरजी\N-NN ले-ले\V-VM आल\V-VM के\PSP मोसकिल\N-NN से\PSP जान\N-NN बचल\V-VM हे,\V-VAUX दुसमन\N-NN पहुंच\V-VM गेल\V-VAUX और\CC-CCD रगेद\N-NN मारलक,\V-VM अखने\N-NN तबीयत\V-VM परेसान\N-NN हे,\V-VM पीछे\N-NN मिलबो\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.8;\N-NN 3:9.9;\PSP 5:18:16-17)63\N-NN एलहदे\V-VM (=\V-VAUX अलग,\RD-PUNC पृथक्)\N-NN (बाबू\N-NN हलधर\V-VM सिंघ\N-NN तहिना\N-NN रात\N-NN के\PSP जब\PR-PRL बाबू\N-NN सामलाल\N-NN से\PSP एहलदे\N-NN होला\V-VM और\CC-CCD डेरा\N-NN दने\N-NN चलला\V-VM हल\V-VAUX तो\PR-PRL रास्ता\N-NN में\PSP तरह\RP-RPD तरह\RP-RPD के\PSP खेआल\V-VM उनका\PR-PRP होबन\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.1)64\N-NN एहां\DM-DMD (=\V-VM हियाँ;\V-VAUX यहाँ)\N-NN (नवाब\N-NN साहेब\N-NN बोलला\V-VM के\PSP अभी\N-NN खाहिस\V-VM नै\RP-NEG हे\V-VAUX ।\RD-PUNC 
+तब\PR-PRL ई\DM-DMI बड़ी\N-NN आरजु\N-NN मिनती\N-NN कैलका\V-VM के\PSP कल्ह\N-NN से\PSP हम\PR-PRP हजुर\N-NN एहां\PSP ऐलूं\N-NN ह\V-VM और\CC-CCD इन्तजाम\N-NN कैलूं\V-VM ह\V-VAUX ।\RD-PUNC 
+;\N-NN सु-न,\PSP हमरा\PR-PRP बड़ी\N-NN दुख\N-NN होल\V-VM एहां\V-VAUX के\PSP हाल\N-NN सुन\V-VM के\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.1,\V-VM 6.12)65\V-VAUX एहे\DM-DMD (=\N-NN यही)\V-VM (नवाब\N-NN -\RD-PUNC वकील\N-NN सब\QT-QTF और\CC-CCD मोखतार\N-NN सब\QT-QTF में\PSP बनाओ\V-VM हे\V-VAUX ?\RD-PUNC 
+/\N-NN साम\N-NN -\RD-PUNC हे,\RD-PUNC बाकी\N-NN मोखतार\N-NN सब\QT-QTF के\PSP आपसे\N-NN में\PSP बिगाड़\N-NN जा\V-VM हे\V-VAUX ।\RD-PUNC 
+/\N-NN नवाब\N-NN -\RD-PUNC काहे\CC-CCS ?\V-VM 
+/\N-NN साम\N-NN -\RD-PUNC एहे\DM-DMD हसद\V-VM ।\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC अब\N-NN जैसे\N-NN हमरे\PR-PRP से\PSP सब\QT-QTF खार\N-NN खा\V-VM हथ\V-VAUX ।\RD-PUNC 
+हमर\PR-PRP किला\N-NN ऐसन\DM-DMD मकान\N-NN हे,\PSP सब\QT-QTF के\PSP इ\N-NN अच्छा\N-NN न\RP-NEG लगे\V-VM ।\RD-PUNC 
+हमरा\PR-PRP दस\QT-QTC पांच\QT-QTC हजार\QT-QTC बैंक\N-NN में\PSP हे,\PR-PRP सब\QT-QTF चा-ह\N-NN हथ\V-VM कि\CC-CCS उनको\QT-QTC रहत\V-VM हल\V-VAUX ।\RD-PUNC 
+हाकिम\N-NN सब\QT-QTF जैसे\N-NN हमरे\PR-PRP मा-न\N-NN हथ,\V-VM एहे\DM-DMD सबसे\N-NN ।\RD-PUNC 
+;\N-NN बाकी\N-NN हमरा\PR-PRP से\PSP कते\V-VM आदमी\N-NN कह\V-VM देलका\V-VAUX और\CC-CCD हमहूं\PR-PRP सब\QT-QTF सम-झ\N-NN ही\RP-RPD के\PSP बराबर\N-NN हमरा\PR-PRP बाहर\N-NN एहे\DM-DMD खेयाल\N-NN से\PSP छोलकटवा\V-VM भेजे\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:5.7,\V-VM 11;\V-VAUX 4:17.8)66\RD-PUNC एहो\V-VAUX (=\V-VAUX यह\DM-DMD भी)\PSP (बुराई\N-NN जे\PR-PRL ओकरा\PR-PRP में\PSP दरसावल\V-VM गेल\V-VAUX हे,\RD-PUNC उ\PR-PRP फैलल\N-NN हे,\PSP एकरा\DM-DMD में\PSP सक\N-NN नै,\V-VM और\CC-CCD ओकर\PR-PRP निन्दा\N-NN भी\RP-RPD करे\V-VM के\V-VAUX चाही,\V-VAUX एहो\V-VAUX निसन्देह\N-NN ।\RD-PUNC 
+;\N-NN ३.\V-VM साढ़े\N-NN तीन\QT-QTC हजार\QT-QTC बरस\N-NN के\PSP सुगन्धित\N-NN फूल\N-NN -\RD-PUNC (पारसी\N-NN गाथा\N-NN के\PSP मगही\N-NN तरजुमा\N-NN ऐसन\DM-DMD ।\RD-PUNC 
+एहो\N-NN तैयार\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX ))\V-VAUX (फूब॰मुखबंध:1.11,\RD-PUNC 2.15)67\N-NN ऐसन\DM-DMD (=\N-NN अइसन;\N-NN ऐसा)\N-NN (उनखा\N-NN से\PSP हमर\PR-PRP अर्ज\N-NN हे\V-VM कि\CC-CCS हमर\PR-PRP हरगिज\N-NN ऐसन\DM-DMD नै\RP-NEG ख्याल\N-NN हल\V-VM नै\RP-NEG हे\V-VAUX ।\RD-PUNC 
+;\N-NN ३.\V-VM साढ़े\N-NN तीन\QT-QTC हजार\QT-QTC बरस\N-NN के\PSP सुगन्धित\N-NN फूल\N-NN -\RD-PUNC (पारसी\N-NN गाथा\N-NN के\PSP मगही\N-NN तरजुमा\N-NN ऐसन\DM-DMD ।\RD-PUNC 
+एहो\N-NN तैयार\N-NN हो\V-VM रहल\V-VAUX हे\V-VAUX );\N-NN नवाब\N-NN साहेब\N-NN भीतरे\N-NN भीतर\N-NST तो\PR-PRL कुछ\QT-QTF अजब\RP-RPD ऐसन\DM-DMD समझथ\N-NN मगर\N-NN रईस\N-NN घरैना\N-NN के\PSP रहला\V-VM के\PSP वजह\N-NN से\PSP रूख\N-NN से\PSP बात\N-NN नै\RP-NEG कर\V-VM सकथ\V-VAUX ।\RD-PUNC 
+;\N-NN नवाब\N-NN सहेब\N-NN के\PSP ढेर\QT-QTF खोसामदी\N-NN से\PSP भेंट\V-VM होल\V-VAUX हल\V-VAUX बाकी\N-NN ऐसन\DM-DMD खाहमखाह\V-VM तो\PR-PRL कोई\PR-PRI नै\RP-NEG मालूम\N-NN भेल\V-VM ।\RD-PUNC 
+;\N-NN हमर\PR-PRP किला\N-NN ऐसन\DM-DMD मकान\N-NN हे,\PSP सब\QT-QTF के\PSP इ\N-NN अच्छा\N-NN न\RP-NEG लगे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.9,\V-VM 2.15;\V-VAUX 1:3.15,\RD-PUNC 4.2,\V-VAUX 10,\V-VAUX 5.9;\RD-PUNC …\V-VAUX .\V-VM 
+)68\N-NN ओ\PR-PRL (=\N-NN ऊ;\PSP वह,\V-VM वो,\PR-PRL वे)\N-NN (ओ\PSP कुल\N-NN कागज-उगज\N-NN जे\PR-PRL इ\N-NN मामला\N-NN में\PSP नवाब\N-NN साहेब\N-NN के\PSP खिलाफ\N-NN इया\CC-CCD बाबू\N-NN हलधर\N-NN सिंघ\N-NN के\PSP हसबखाह\N-NN हल\V-VM निकलवा\RD-PUNC लेलका\V-VM औ\N-NN एक\QT-QTC दू\QT-QTC रईस\N-NN के\PSP औ\N-NN राम\N-NN किसुन\N-NN सिंघ\N-NN औ\N-NN सामलाल\N-NN के\PSP गवाह\N-NN खड़ा\N-NN करके\V-VM झूठझूठ\N-NN रूसबत\N-NN लेवे\V-VM के\PSP इलजाम\N-NN बाबू\N-NN हलधर\N-NN सिंघ\N-NN पर\PSP साबित\N-NN करैलका\V-VM और\CC-CCD अपने\PR-PRP निकल\V-VM गेला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰7:24.6)69\N-NN ओकर\PR-PRP (=\N-NN ओक्कर;\N-NN उसका)\PSP (बुराई\N-NN जे\PR-PRL ओकरा\PR-PRP में\PSP दरसावल\V-VM गेल\V-VAUX हे,\RD-PUNC उ\PR-PRP फैलल\N-NN हे,\PSP एकरा\DM-DMD में\PSP सक\N-NN नै,\V-VM और\CC-CCD ओकर\PR-PRP निन्दा\N-NN भी\RP-RPD करे\V-VM के\V-VAUX चाही,\V-VAUX एहो\V-VAUX निसन्देह\N-NN ।\RD-PUNC 
+;\N-NN एहे\DM-DMD से\PSP तीन\QT-QTC चार\QT-QTC दिन\N-NN में\PSP 'सुनीता'\N-NN लिख\V-VM के\PSP छापाखाना\N-NN में\PSP भेजल\V-VM गेल,\V-VAUX और\CC-CCD एतना\QT-QTF जल्दी\N-NN में\PSP उ\PR-PRP छपल\N-NN के\PSP पूरा\N-NN तरीका\N-NN से\PSP ओकर\PR-PRP प्रूफ\N-NN भी\RP-RPD नै\RP-NEG ठीक\JJ कैल\V-VM जा\V-VAUX सकल\V-VAUX ।\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC उ\PR-PRP बिहार\N-NN के\PSP कसबी\N-NN है\V-VAUX ।\RD-PUNC 
+एक\QT-QTC मरतबे\N-NN दफा\N-NN ६०\N-NN के\PSP मोकदमा\N-NN में\PSP हम\PR-PRP ओकर\PR-PRP काम\N-NN कैलिए\V-VM हल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.11,\PSP 26;\V-VM 2:7.11)70\V-VAUX ओकरा\PR-PRP (=\N-NN उसे,\V-VM उसको)\N-NN ('सुनीता'\N-NN के\PSP जैसन\RP-RPD आदर\N-NN से\PSP पाठकगन\N-NN अपनैलका\V-VM हे\V-VAUX और\CC-CCD श्रीयुत्\N-NN सुनीति\N-NN कुमार\N-NNP चटर्जी\N-NN जैसन\RP-RPD प्रेम\N-NN से\PSP ओकरा\PR-PRP अंग्रेजी\N-NN के\PSP नामी\N-NN मासिक\JJ पत्र\N-NN में\PSP परिछन\N-NN कैलका\V-VM हे,\V-VAUX ओकरा\PR-PRP से\PSP उत्साह\N-NN हमर\PR-PRP जरूर\N-NN बढ़\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+;\N-NN बुराई\N-NN जे\PR-PRL ओकरा\PR-PRP में\PSP दरसावल\V-VM गेल\V-VAUX हे,\RD-PUNC उ\PR-PRP फैलल\N-NN हे,\PSP एकरा\DM-DMD में\PSP सक\N-NN नै,\V-VM और\CC-CCD ओकर\PR-PRP निन्दा\N-NN भी\RP-RPD करे\V-VM के\V-VAUX चाही,\V-VAUX एहो\V-VAUX निसन्देह\N-NN ।\RD-PUNC 
+;\N-NN ओकरा\PR-PRP मोताबिक\N-NN अपन\PR-PRP मातृभाषा\N-NN के\PSP सजे-धजे\N-NN के\PSP ख्याल\N-NN हमरा\PR-PRP आज\N-NN २०\N-NN बरस\N-NN से\PSP हे,\N-NN लेकिन\CC-CCD धन\N-NN काफी\N-NN नै\RP-NEG रहला\V-VM से\PSP ओकरा\PR-PRP करके\V-VM नै\RP-NEG देखला\V-VM सकलूं\V-VAUX ।\RD-PUNC 
+;\CC-CCS दबल\V-VM मुंह\N-NN से\PSP इ\N-NN कहल\V-VM गेल\V-VAUX हे\V-VAUX कुछ\QT-QTF अच्छा\JJ वार्ता\N-NN से\PSP सुरू\N-NN कैल\V-VM जात\N-NN हल,\V-VM तो\PR-PRL एकरा\DM-DMD में\PSP उजुर\N-NN हमरा\PR-PRP एतनै\V-VM कि\CC-CCS हमर\PR-PRP मातृभाषा\N-NN के\PSP बैठे\N-NN के\PSP जगह\N-NN भी\RP-RPD नै\RP-NEG हे,\V-VM मगर,\PSP अब\N-NN जब\PR-PRL हम\PR-PRP ओकरा\PR-PRP अपन\PR-PRP और\CC-CCD बहिन\N-NN समान\N-NN करे\V-VM के\PSP खेयाल\N-NN से\PSP खड़ा\N-NN होलूं\V-VM हे,\V-VAUX तो\PR-PRL पहिले\N-NST झाड़ू-बहाड़ू\N-NN तो\PR-PRL करना\N-NN जरूर\N-NN हे\V-VM ।\RD-PUNC 
+;\N-NN महल\N-NN पर\PSP एक\QT-QTC गरीब\N-NN कायथ\V-VM के\V-VAUX कुछ\QT-QTF रुपया\N-NN करजा\V-VM देलका\V-VAUX हल,\V-VAUX सूद\N-NN मूर\N-NN लगाके\V-VM ओकरा\PR-PRP से\PSP मकान\N-NN लिखा\V-VM लेलका\V-VAUX और\CC-CCD थोड़े\N-NN दिन\N-NN में\PSP दुमहला\N-NN मकान\N-NN आलीसान\N-NN बनैलका\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.2,\V-VM 3,\V-VAUX 10,\RD-PUNC 17,\V-VAUX 19,\RD-PUNC 29;\N-NN 1:3.9)71\N-NNP ओकरे\PR-PRP (=\N-NN उसी\N-NN को,\PSP उसको\V-VM ही;\V-VAUX ~\N-NN ऐसन\DM-DMD =\N-NN उसी\N-NN के\PSP समान/जैसा)\N-NN (साम\N-NN -\RD-PUNC पढ़ल-लिखल\N-NN ग्रैजुएट\N-NN के\PSP तो\PR-PRL ठेकाने\N-NN नै\RP-NEG औ\N-NN इ-सब\N-NN थोड़े\V-VM बहुत\N-NN पढ़ल\N-NN सब\QT-QTF जे\PR-PRL बराबर\N-NN जीमींदारी\N-NN में\PSP दस\QT-QTC रुपया\N-NN एकरा\DM-DMD से\PSP लेलका\V-VM तो\PR-PRL एकर\PR-PRP ऐसन\DM-DMD इनसाफ,\PSP पांच\QT-QTC रुपया\N-NN ओकरा\PR-PRP से\PSP बेसी\RB सलामी\N-NN मिल\V-VM गेल\V-VAUX तो\PR-PRL ओकरे\PR-PRP ऐसन\DM-DMD इनसाफ\N-NN ।\RD-PUNC 
+;\N-NN सामलाल\N-NN -\RD-PUNC दहिना\N-NN बगल\N-NN में\PSP कैसन\PR-PRQ कोठली\N-NN हे\V-VM ?\RD-PUNC 
+/\N-NN नसीबन\N-NN -\RD-PUNC (हंस\N-NN के)\PSP पैखाना\N-NN ।\RD-PUNC 
+/\N-NN सामलाल\N-NN झट\N-NN से\PSP "की\N-NN होत"\V-VM करते\V-VAUX ओकरे\PR-PRP में\PSP घुस\V-VM गेला\V-VAUX ।\RD-PUNC 
+;\N-NN खेल\V-VM सुरू\N-NN होल\V-VM तो\PR-PRL उपर\N-NN जे\PR-PRL लिखल\V-VM गेल\V-VAUX हे\V-VAUX ओकरे\PR-PRP हेरफेर\N-NN करके\V-VM नाटक\N-NN बनावल\V-VM किताब\N-NN के\PSP खेल\V-VM होवे\V-VAUX लगल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:5.26;\N-NN 4:15.18;\V-VM 8:27.23)72\V-VAUX ओतना\PR-PRL (=\N-NN उतना)\N-NN (सिंघजी\N-NN -\RD-PUNC (सामलाल\N-NN देने\N-NN देख\V-VM के)\V-VAUX तब\PR-PRL चचाजी\N-NN इनका\PR-PRP भेद\N-NN लेवे\V-VM ले\V-VAUX भेजलथिन\V-VAUX होत\V-VAUX ।\RD-PUNC 
+उतो\PR-PRL जखनै\V-VM हम\PR-PRP ओतना\PR-PRL आझ\N-NN आरजु\N-NN मीनत\N-NN ओकरा\PR-PRP से\PSP कैलूं\V-VM और\CC-CCD जब\PR-PRL नै\RP-NEG मानलक\V-VM तो\PR-PRL समझलूं\N-NN के\PSP पक्का\N-NN बदमास\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.11)73\N-NN ओली-बोली\N-NN (नसीबन\V-VM -\RD-PUNC हां,\N-NN से\PSP तो\PR-PRL सु-न\V-VM हीओ\V-VAUX ।\RD-PUNC 
+खूब\QT-QTF आझकल\V-VM चलल\V-VAUX हो\V-VAUX ।\RD-PUNC 
+मारे\V-VM मोअक्किल\N-NN के\PSP अनठेल\N-NN भीड़\N-NN रहे\V-VM हे,\V-VAUX बाकी\N-NN और\N-NN सब\QT-QTF ओली\N-NN बोली\N-NN मारो\V-VM हो\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:14.7)74\N-NN ओही\DM-DMD (=\N-NN वही)\N-NN (नवाब\N-NN -\RD-PUNC तब\PR-PRL काहे\CC-CCS उ\PR-PRP सब\QT-QTF के\PSP मोकदमा\N-NN दे\V-VM हथ\V-VAUX और\N-NN रहे\V-VM दे\V-VAUX हथ\V-VAUX ?\RD-PUNC 
+/\N-NN साम\N-NN -\RD-PUNC एक\QT-QTC मरतबे\PSP गुड़ीआर\N-NNP साहब\N-NN ऐला\V-VM हल\V-VAUX तो\PR-PRL एकदम\RP-INTF बंदे\V-VM मोकदमा\V-VAUX देना\V-VAUX कर\V-VM देलका\V-VAUX हल\V-VAUX ।\RD-PUNC 
+फेर\RB सब\QT-QTF बड़ा\V-VM खोसामद\N-NN उसामद\V-VM कैलका\V-VAUX ।\RD-PUNC 
+छोटा\JJ मोटा\JJ मोकदमा\N-NN भेजल\V-VM जाए\V-VAUX लगल\V-VAUX ।\RD-PUNC 
+उ\PR-PRP गेला\V-VM तो\PR-PRL फेर\N-NN ओही\DM-DMD बात\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.3)75\N-NN ओहे\DM-DMD (=\N-NN वही)\N-NN (महल\V-VM पर\PSP एक\QT-QTC गरीब\N-NN कायथ\V-VM के\V-VAUX कुछ\QT-QTF रुपया\N-NN करजा\V-VM देलका\V-VAUX हल,\V-VAUX सूद\N-NN मूर\N-NN लगाके\V-VM ओकरा\PR-PRP से\PSP मकान\N-NN लिखा\V-VM लेलका\V-VAUX और\CC-CCD थोड़े\N-NN दिन\N-NN में\PSP दुमहला\N-NN मकान\N-NN आलीसान\N-NN बनैलका\N-NN ।\RD-PUNC 
+ओहे\DM-DMD कायथ\PSP सुगनलाल\N-NN फेर\N-NN रसोइआ\N-NN के\PSP काम\N-NN करे\V-VM लगलैन\V-VAUX ।\RD-PUNC 
+;\N-NN उ\PR-PRP कहे\V-VM कि\CC-CCS नसीबन\N-NN किहां\RB सिंघजी\V-VM रोज\N-NN जा\V-VM हथ\V-VAUX औ\N-NN हम\PR-PRP कहलूं\V-VM कि\CC-CCS नै\RP-NEG ।\RD-PUNC 
+ओहे\DM-DMD उ\PR-PRP कहलक\V-VM के\PSP सांझ\N-NN के\PSP केवाड़ी\N-NN खुले\V-VM हे\V-VAUX खिरकी\N-NN में\PSP से\PSP तूं\N-NN जाके\V-VM देखि-ह\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.10;\N-NN 4:16.22)76\PSP औ\N-NN (=\V-VM आउ;\CC-CCD और)\N-NN (साम\N-NN -\RD-PUNC (एने\N-NN ओने\N-NN देखके\V-VM औ\N-NN तब\PR-PRL जरिसे\V-VM पैर\N-NN छूके)\V-VM हमरा\PR-PRP पर\PSP खाबिन्दी\N-NN कैल\V-VM जाए\V-VAUX ।\RD-PUNC 
+;\N-NN खानसामा\N-NN तीन-चार\QT-QTC टुकड़ा\N-NN बिसकुट\V-VM और\CC-CCD चाय\N-NN औ\N-NN अण्डा\N-NN गैरह\N-NN हिसाब\N-NN से\PSP ला-ला\N-NN के\PSP नवाब\N-NN साहेब\N-NN के\PSP भीरी\N-NN रखे\V-VM लगल\V-VAUX और\CC-CCD मोखतार\N-NN साहेब\N-NN टेबुल\N-NN के\PSP दूसर\QT-QTO तरफ\N-NN बैठला\V-VM ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC अच्छा,\RP-RPD कुछ\QT-QTF फल-वल\N-NN लाके\V-VM दे\V-VAUX भाई\N-NN ।\RD-PUNC 
+औ\N-NN हिन्दू\N-NN चाय\N-NN वाले\V-VM को\PSP बुला\V-VM लाओ\V-VAUX ।\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC बहुत\N-NN पुरान\N-NN जगह\N-NN औ\N-NN बहुत\RP-INTF अच्छा\JJ जगह\N-NN है\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.8,\V-VM 16,\V-VAUX 25,\RD-PUNC 31)77\N-NN कखनो-कखनो\V-VM (=\V-VAUX कभी-कभी)\N-NN (नवाब\N-NN -\RD-PUNC कखनो\N-NN कखनो\V-VM हमरो\PR-PRP खून\N-NN उबल\V-VM उठे\V-VM हे\V-VAUX ।\RD-PUNC 
+जौन\N-NN बेईमानी\N-NN से\PSP वादसाहत\N-NN लेल\V-VM गेल\V-VAUX हे;\N-NN तुरकी\N-NN के\PSP साथ\PSP बेइमानी,\N-NN फेर\N-NN अरब\N-NN में\PSP हमनी\PR-PRP सब\QT-QTF कमजोर\N-NN आदमी,\V-VM बाकी\CC-CCS खुदा\N-NN तो\PR-PRL जरूर\RB देखत\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.24)78\N-NN कखनौ\PSP (=\N-NN कखनहूँ)\N-NN (सामलाल\N-NN -\RD-PUNC तो\PR-PRL ओकर\PR-PRP एकठो\N-NN अपने\PR-PRP आदमी\N-NN ओकरा\PR-PRP हीं\V-VM रहे-हे\V-VAUX और\CC-CCD ओकरा\PR-PRP उ\PR-PRP बड़ी\N-NN माने\N-NN हे\V-VAUX ।\RD-PUNC 
+बकस\N-NN उकस\V-VM भी\RP-RPD कखनौ\V-VM खोल\V-VAUX देहे\V-VAUX ।\RD-PUNC 
+ओकरा\PR-PRP थोड़ा\N-NN बहुत\N-NN के\PSP लालच\N-NN देला\V-VM से\PSP उ\PR-PRP सब\QT-QTF काम\N-NN कर\V-VM दे\V-VAUX सके\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰6:22.28)79\N-NN कमिनपनई\N-NN (ई\N-NN सब\QT-QTF के\PSP अंग्रेजी\N-NN विद्या\N-NN फरोस\N-NN के\PSP यहाँ\DM-DMD से\PSP खरीद\N-NN के\PSP सिआह\N-NN सुर्ख\N-NN मुफ्तख्वार\N-NN के\PSP कुइआँ\N-NN से\PSP आबे\V-VM -\RD-PUNC कमिनपनई\N-NN में\PSP खूब\QT-QTF पीस\V-VM के\PSP पी\V-VM जाए\V-VAUX !\RD-PUNC 
+कुछ\QT-QTF दिन\N-NN फायदा\N-NN नै\RP-NEG होए\V-VM तो\PR-PRL माजूने\N-NN भँड़ुअइ\N-NN के\PSP साथ\PSP इस्तेमाल\N-NN कैला\N-NN से\PSP जरूर\N-NN आराम\N-NN होत\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰7:25.10)80\N-NN कम्मल\N-NN (=\PSP कम्बल)\N-NN (~\N-NN ओढ़\N-NN के\PSP घी\N-NN पीना)\N-NN (नवाब\N-NN साहेब\N-NN -\RD-PUNC तो\PR-PRL सामलाल\N-NN तो\PR-PRL पुरनकन\N-NN में\PSP हथ,\V-VM उतो\PR-PRL बड़ा\N-NN बेस\N-NN आदमी,\N-NN इ\N-NN सब\QT-QTF में\PSP नै\RP-NEG बुझाथ\V-VM ।\RD-PUNC 
+/\N-NN सिंघजी\N-NN -\RD-PUNC ओहो\PR-PRP बड़ा\N-NN कम्मल\V-VM ओढ़\N-NN के\PSP घी\N-NN पिबैआ\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰5:19.20)81\N-NN करजा\N-NN (=\N-NN कर्ज,\V-VM ऋण)\V-VAUX (महल\N-NN पर\PSP एक\QT-QTC गरीब\N-NN कायथ\V-VM के\V-VAUX कुछ\QT-QTF रुपया\N-NN करजा\V-VM देलका\V-VAUX हल,\V-VAUX सूद\N-NN मूर\N-NN लगाके\V-VM ओकरा\PR-PRP से\PSP मकान\N-NN लिखा\V-VM लेलका\V-VAUX और\CC-CCD थोड़े\N-NN दिन\N-NN में\PSP दुमहला\N-NN मकान\N-NN आलीसान\N-NN बनैलका\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.9)82\N-NN करवैया\N-NN (सिंघजी\N-NN -\RD-PUNC बाकी\N-NN ई\DM-DMI बात\N-NN तो\PR-PRL होवे\V-VM के\PSP नै\RP-NEG ।\RD-PUNC 
+सरकार\N-NN साठ\QT-QTC करोड़\N-NN खर्चा\N-NN चाहे\N-NN अपन\PR-PRP गरज\N-NN से,\PSP चाहे\N-NN अपन\PR-PRP गलत\N-NN समझ\N-NN के\PSP वजह\V-VM से,\RD-PUNC कम\QT-QTF करवैया\N-NN तो\PR-PRL नै\RP-NEG हे,\V-VM और\CC-CCD नै\RP-NEG तोप\V-VM गोला\V-VAUX सरहद\N-NN से\PSP उठा\V-VM ले\V-VAUX सके\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:12.2)83\N-NN कल्ह\N-NN (=\N-NN कल)\N-NN (नवाब\N-NN साहेब\N-NN बोलला\V-VM के\PSP अभी\N-NN खाहिस\V-VM नै\RP-NEG हे\V-VAUX ।\RD-PUNC 
+तब\PR-PRL ई\DM-DMI बड़ी\N-NN आरजु\N-NN मिनती\N-NN कैलका\V-VM के\PSP कल्ह\N-NN से\PSP हम\PR-PRP हजुर\N-NN एहां\PSP ऐलूं\N-NN ह\V-VM और\CC-CCD इन्तजाम\N-NN कैलूं\V-VM ह\V-VAUX ।\RD-PUNC 
+;\N-NN सामलाल\N-NN -\RD-PUNC अरे\RP-INJ बाप\N-NN ।\RD-PUNC 
+उ\PR-PRP तो\PR-PRL कल्ह\N-NN सगरो\N-NN गोहार\N-NN कर\V-VM देत\V-VAUX ।\RD-PUNC 
+;\N-NN कल्ह\N-NN नसीबन\N-NN के\PSP यहां\DM-DMD जे\PR-PRL हम\PR-PRP छिपल\V-VM छिपल\V-VM बाबू\N-NN हलधर\N-NN सिंघ\N-NN के\PSP बात\N-NN सुनलूं\V-VM तेकरा\PR-PRL से\PSP यकीन\N-NN ऐसन\DM-DMD हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.1;\N-NN 4:15.14;\PSP 6:22.11)84\N-NN कवले\V-VM (~\V-VAUX से)\N-NN (सन्\V-VM १३२९\N-NN फ॰\N-NN के\PSP चैत\N-NN में\PSP मोलवी\N-NN मोजफ्फर\N-NN नवाब\N-NN एस-डी-ओ\N-NN मानभूम\N-NN से\PSP बदल\V-VM के\V-VAUX ऐला\V-VAUX और\CC-CCD हलधर\V-VM सिंघ\N-NN सब-डिपटी\N-NN एक\QT-QTC बरस\N-NN कवले\V-VM से\PSP हला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.18)85\N-NN कसबी\N-NN (गाड़ी\N-NN खुलल\V-VM तब\PR-PRL नवाब\N-NN साहेब\N-NN गदिए\N-NN पर\PSP अड़ल\N-NN अड़ल\N-NN बोलला\V-VM (उर्दू\V-VAUX में)\PSP -\RD-PUNC तोहरा\N-NN उ\PR-PRP सलाम\N-NN कौन\PR-PRI औरत\N-NN कैलको\V-VAUX ।\RD-PUNC 
+/साम\CC-CCD -\RD-PUNC उ\PR-PRP बिहार\N-NN के\PSP कसबी\N-NN है\V-VAUX ।\RD-PUNC 
+एक\QT-QTC मरतबे\N-NN दफा\N-NN ६०\N-NN के\PSP मोकदमा\N-NN में\PSP हम\PR-PRP ओकर\PR-PRP काम\N-NN कैलिए\V-VM हल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰2:7.10)86\N-NN कहल\V-VM (=\V-VAUX कहा,\RD-PUNC कहा\PR-PRQ हुआ)\N-NN (लेकिन\CC-CCD अधिक\N-NN कृपा\N-NN के\PSP कारण\N-NN लोग\N-NN एकर\PR-PRP सिकायत\N-NN नै\RP-NEG कैलका\V-VM हे\V-VAUX ।\RD-PUNC 
+दबल\V-VM मुंह\N-NN से\PSP इ\N-NN कहल\V-VM गेल\V-VAUX हे\V-VAUX कुछ\QT-QTF अच्छा\JJ वार्ता\N-NN से\PSP सुरू\N-NN कैल\V-VM जात\N-NN हल,\V-VM तो\PR-PRL एकरा\DM-DMD में\PSP उजुर\N-NN हमरा\PR-PRP एतनै\V-VM कि\CC-CCS हमर\PR-PRP मातृभाषा\N-NN के\PSP बैठे\N-NN के\PSP जगह\N-NN भी\RP-RPD नै\RP-NEG हे,\V-VM मगर,\PSP अब\N-NN जब\PR-PRL हम\PR-PRP ओकरा\PR-PRP अपन\PR-PRP और\CC-CCD बहिन\N-NN समान\N-NN करे\V-VM के\PSP खेयाल\N-NN से\PSP खड़ा\N-NN होलूं\V-VM हे,\V-VAUX तो\PR-PRL पहिले\N-NST झाड़ू-बहाड़ू\N-NN तो\PR-PRL करना\N-NN जरूर\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.27)87\N-NN कहैं\PSP (=\N-NN कहीं)\PSP (सिंघजी\N-NN -\RD-PUNC खाली\QT-QTC थोड़े\V-VM बहुत\N-NN के\PSP फरक\V-VM ।\RD-PUNC 
+हां,\N-NN नेआ\N-NN रोसनी\N-NN के\PSP सब\QT-QTF अएला\N-NN हे\V-VM उ\PR-PRP सब\QT-QTF पहिलन\N-NST से\PSP कहैं\N-NN बेस\N-NN हथ,\PSP पुरनकन\N-NN के\PSP दे-ख\N-NN बिरले\N-NN कोई\PR-PRI ऐसन\DM-DMD हथ\V-VM जे\PR-PRL सराब\N-NN ताड़ी\N-NN नै\RP-NEG पीअथ\V-VM और\CC-CCD दास्ता\N-NN ने\RP-NEG रखथ\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰5:19.16)88\N-NN कागज-उगज\N-NN (ओ\PSP कुल\N-NN कागज-उगज\N-NN जे\PR-PRL इ\N-NN मामला\N-NN में\PSP नवाब\N-NN साहेब\N-NN के\PSP खिलाफ\N-NN इया\CC-CCD बाबू\N-NN हलधर\N-NN सिंघ\N-NN के\PSP हसबखाह\N-NN हल\V-VM निकलवा\RD-PUNC लेलका\V-VM औ\N-NN एक\QT-QTC दू\QT-QTC रईस\N-NN के\PSP औ\N-NN राम\N-NN किसुन\N-NN सिंघ\N-NN औ\N-NN सामलाल\N-NN के\PSP गवाह\N-NN खड़ा\N-NN करके\V-VM झूठझूठ\N-NN रूसबत\N-NN लेवे\V-VM के\PSP इलजाम\N-NN बाबू\N-NN हलधर\N-NN सिंघ\N-NN पर\PSP साबित\N-NN करैलका\V-VM और\CC-CCD अपने\PR-PRP निकल\V-VM गेला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰7:24.7)89\N-NN काठ\N-NN के\PSP उल्लू\N-NN (नवाब\N-NN साहेब\N-NN बोलला\V-VM -\RD-PUNC मोखतार\N-NN सब\QT-QTF तो\PR-PRL मोसकिल\N-NN कर\V-VM दे\V-VAUX हथ\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF असल\N-NN बात\N-NN तो\PR-PRL हमनी\PR-PRP के\PSP जाने\N-NN नै\RP-NEG देथ\V-VM ।\RD-PUNC 
+काठ\N-NN के\PSP उल्लू\N-NN हमनी\PR-PRP के\PSP बना\V-VM र-क्ख\N-NN हथ\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.25)90\N-NN काबिल\N-NN (नवाब\N-NN -\RD-PUNC …\V-VM तब\PR-PRL तो\PR-PRL तुं\N-NN एकदम\N-NN लाजवाब\N-NN आदमी\N-NN ह\V-VM ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL समझलूं\N-NN हल\V-VM के\PSP एते\QT-QTF दूर\N-NN के\PSP सफर\N-NN बड़ा\N-NN सुखल\V-VM साखल\V-VAUX होत\V-VAUX ।\RD-PUNC 
+तूं\N-NN खोदा\N-NN के\PSP देल\V-VM मिल\V-VM गेला\V-VAUX ।\RD-PUNC 
+/\N-NN साम\N-NN -\RD-PUNC नै\RP-NEG हुजुर,\V-VM हम\PR-PRP कौन\PR-PRI काबिल\N-NN ही\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.3)91\N-NN कायथ\PSP (=\N-NN कायस्थ)\N-NN (महल\V-VM पर\PSP एक\QT-QTC गरीब\N-NN कायथ\V-VM के\V-VAUX कुछ\QT-QTF रुपया\N-NN करजा\V-VM देलका\V-VAUX हल,\V-VAUX सूद\N-NN मूर\N-NN लगाके\V-VM ओकरा\PR-PRP से\PSP मकान\N-NN लिखा\V-VM लेलका\V-VAUX और\CC-CCD थोड़े\N-NN दिन\N-NN में\PSP दुमहला\N-NN मकान\N-NN आलीसान\N-NN बनैलका\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.8)92\N-NN कालिज\N-NN (=\V-VM कॉलेज)\V-VAUX (हमहीं\N-NN पचास\N-NN ठो\RP-CL सुसैटी\N-NN बनैलूं\V-VM तो\PR-PRL बंक\V-VM चलल\V-VAUX ।\RD-PUNC 
+बाबू\N-NN ऐदल\N-NN सिंघ\N-NN के\PSP केतना\QT-QTF गोड़\N-NN मुड़\N-NN पड़के\PSP कालिज\N-NN बनवैलूं\V-VM ।\RD-PUNC 
+हमरा\PR-PRP ऐसन\DM-DMD कोई\PR-PRI मोखतार\N-NN क-ह\N-NN कहां\PR-PRQ ?\V-VM 
+जमींदारी\N-NN से\PSP की\PR-PRQ होबे-हे\V-VM ?\V-VAUX 
+अखनी\N-NN लाखो\N-NN रुपया\N-NN क-ह\V-VM निकाल\V-VM दिओ\V-VAUX ।\RD-PUNC 
+बिरजी-फिरजी\N-NN एतना\QT-QTF कोसिस\N-NN कैलका\V-VM कुछ\QT-QTF स्कूल\N-NN कालिज\N-NN में\PSP ?\V-VM 
+यहां\DM-DMD हम\PR-PRP उ\PR-PRP सब\QT-QTF के\PSP चले\V-VM देलूँ\V-VAUX ?\RD-PUNC 
+)\RD-SYM (फूब॰4:14.20,\V-VM 22)93\V-VAUX काहे\CC-CCS (=\N-NN क्यों\N-NN ?\V-VM 
+)\RD-SYM (नवाब\N-NN -\RD-PUNC वकील\N-NN सब\QT-QTF और\CC-CCD मोखतार\N-NN सब\QT-QTF में\PSP बनाओ\V-VM हे\V-VAUX ?\RD-PUNC 
+/\N-NN साम\N-NN -\RD-PUNC हे,\RD-PUNC बाकी\N-NN मोखतार\N-NN सब\QT-QTF के\PSP आपसे\N-NN में\PSP बिगाड़\N-NN जा\V-VM हे\V-VAUX ।\RD-PUNC 
+/\N-NN नवाब\N-NN -\RD-PUNC काहे\CC-CCS ?\V-VM 
+/\N-NN साम\N-NN -\RD-PUNC एहे\DM-DMD हसद\V-VM ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC तब\PR-PRL काहे\CC-CCS उ\PR-PRP सब\QT-QTF के\PSP मोकदमा\N-NN दे\V-VM हथ\V-VAUX और\N-NN रहे\V-VM दे\V-VAUX हथ\V-VAUX ?\RD-PUNC 
+)\RD-SYM (फूब॰1:5.6,\V-VM 33)94\V-VAUX किरिआ\N-NN (मोकामा\N-NN में\PSP गाड़ी\N-NN ठहरल\V-VM और\CC-CCD साम\N-NN लाल\N-NN उतरके\V-VM डेवढ़ा\N-NN में\PSP गेला\V-VM और\CC-CCD नसीबन\N-NN के\PSP चलैलका\V-VM बाकी\N-NN नखड़ा\V-VM करे\V-VAUX लगल\V-VAUX और\CC-CCD बोले\V-VM लगल\V-VAUX के\V-VAUX हलधर\V-VAUX बाबू\N-NN सुनता\N-NN तो\PR-PRL जान\N-NN से\PSP मार\V-VM देता\V-VAUX ।\RD-PUNC 
+साम\N-NN लाल\N-NN बड़ी\N-NN ओकरा\PR-PRP दिलासा\N-NN देलका\V-VM और\CC-CCD किरिआ\PSP खैलका\V-VM बाकी\CC-CCS उ\PR-PRP नै\RP-NEG उतरल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.24)95\N-NN किलास\N-NN (फस्ट\V-VM ~)\V-VAUX (कोए\PR-PRP सूरत\N-NN से\PSP नसीबन\N-NN के\PSP साम\N-NN लाल\N-NN फस्ट\V-VM किलास\N-NN में\PSP ले\V-VM ऐला\V-VAUX ।\RD-PUNC 
+नवाब\N-NN साहेब\N-NN ओकरा\PR-PRP डेवढ़ा\N-NN से\PSP उतरते\N-NN देख\V-VM झट\N-NN से\PSP अपन\PR-PRP खाना\N-NN में\PSP चढ़\V-VM गेला\V-VAUX और\CC-CCD गद्दी\N-NN में\PSP अड़के\V-VM एखबार\N-NN देखे\V-VM लगला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.29)96\N-NN किहाँ\PSP (=\N-NN के\PSP यहाँ)\N-NN (आझ\N-NN सामलाल\N-NN बड़ी\N-NN खोस\N-NN हथ\V-VAUX ।\RD-PUNC 
+पहिले\N-NST दिन\N-NN अंग्रेजी\N-NN के\PSP चौथा\N-NN महीना\N-NN के\PSP हल\V-VM ।\RD-PUNC 
+भोरे\N-NN तार\N-NN मिललैन\N-NN के\PSP राय\N-NN बहादुर\N-NN हो\V-VM गेला\V-VAUX ।\RD-PUNC 
+नवाब\N-NN साहेब\N-NN किहाँ\PSP गेला\V-VM और\CC-CCD इनखा\N-NN बोले\V-VM से\PSP पहिले\N-NST नवाब\N-NN साहेब\N-NN बोलला\V-VM -\RD-PUNC मोबारक\N-NN होबो\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰8:26.3)97\N-NN किहां\RB (=\V-VM के\V-VAUX यहाँ)\V-VAUX (बिहान\N-NN होके\V-VM बाबू\N-NN हलधर\V-VM सिंघ\N-NN भोरे\N-NN नवाब\N-NN साहेब\N-NN किहां\N-NN पहुंचला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.20)98\PR-PRP की\PR-PRQ (=\N-NN क्या)\PSP (साम\N-NN -\RD-PUNC एहे\DM-DMD हसद\V-VM ।\RD-PUNC 
+/\N-NN नवाब\N-NN -\RD-PUNC से\PSP की\PR-PRQ ?\V-VM 
+/\N-NN साम\N-NN -\RD-PUNC अब\N-NN जैसे\N-NN हमरे\PR-PRP से\PSP सब\QT-QTF खार\N-NN खा\V-VM हथ\V-VAUX ।\RD-PUNC 
+हमर\PR-PRP किला\N-NN ऐसन\DM-DMD मकान\N-NN हे,\PSP सब\QT-QTF के\PSP इ\N-NN अच्छा\N-NN न\RP-NEG लगे\V-VM ।\RD-PUNC 
+हमरा\PR-PRP दस\QT-QTC पांच\QT-QTC हजार\QT-QTC बैंक\N-NN में\PSP हे,\PR-PRP सब\QT-QTF चा-ह\N-NN हथ\V-VM कि\CC-CCS उनको\QT-QTC रहत\V-VM हल\V-VAUX ।\RD-PUNC 
+हाकिम\N-NN सब\QT-QTF जैसे\N-NN हमरे\PR-PRP मा-न\N-NN हथ,\V-VM एहे\DM-DMD सबसे\N-NN ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC से\PSP की\PR-PRQ ?\V-VM 
+/\N-NN साम\N-NN -\RD-PUNC अब\N-NN उ\PR-PRP सब\QT-QTF हाकिम\N-NN हका,\V-VM उ\PR-PRP सब\QT-QTF के\PSP बात\N-NN हमरा\PR-PRP से\PSP की\PR-PRQ पुछल\V-VM जा\V-VAUX हे\V-VAUX ।\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC अब\N-NN हुजुर\N-NN कह-ह\V-VM तो\PR-PRL हम\PR-PRP की\DM-DMQ बतलाउं\V-VM ।\RD-PUNC 
+;\N-NN सिंघ\N-NN जी\N-NN -\RD-PUNC हमनी\PR-PRP केतना\QT-QTF की\PR-PRQ कर\V-VM स-क\N-NN ही\RP-RPD ।\RD-PUNC 
+सबसे\N-NN भारी\JJ जुलुम\N-NN तो\PR-PRL पुलिस\N-NN के\PSP घूस\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:5.8,\V-VM 16,\V-VAUX 17,\RD-PUNC 21;\N-NN 3:10.8)99\V-VM कीहाँ\CC-CCS (=\N-NN के\PSP यहाँ)\N-NN (सिंघजी\N-NN -\RD-PUNC जोरू\N-NN बड़ी\N-NN खुबसूरत\N-NN लोग\N-NN बतला-व\V-VM हथ\V-VAUX ।\RD-PUNC 
+मेम\N-NN के\PSP ऐसन\DM-DMD सफेद\V-VM और\CC-CCD बाल\N-NN आंख\N-NN भी\RP-RPD कुछ\QT-QTF ऐसने\DM-DMD ।\RD-PUNC 
+एकरे\DM-DMD सब\QT-QTF बदमास\N-NN सब\QT-QTF एक\QT-QTC मरतबे\V-VM हल्ला\N-NN कर\V-VM देलक\V-VAUX के\PSP ऐकली\N-NN साहेब\N-NN कीहाँ\PSP अपना\PR-PRP जोरूए\N-NN के\PSP पहुँचावे\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:20.10)\N-NN 100\N-NN कीहां\PSP (=\N-NN के\PSP यहाँ)\N-NN (ओकर\N-NN सौहर\N-NN और\CC-CCD मालिक\N-NN बड़ा\N-NN हल्ला\N-NN करे\V-VM ले\V-VAUX चाहलका\N-NN बाकी\N-NN उ\PR-PRP एक\QT-QTC किसिम\N-NN के\PSP धुरत\N-NN औ\N-NN नीच\N-NN हे\V-VM ।\RD-PUNC 
+झट\N-NN साहेब\N-NN सोबरनडंट\N-NN कीहां\PSP ओकरा\PR-PRP एक\QT-QTC रात\N-NN के\PSP दाखिल\N-NN कर\V-VM देलक\V-VAUX तब\PR-PRL तो\PR-PRL उ\PR-PRP सार\N-NN जे\PR-PRL भागल\V-VM से\CC-CCD बिहार\N-NN आबे\V-VM के\PSP नाम\N-NN नै\RP-NEG लेलक\V-VM और\CC-CCD कैक\N-NN आदमी\N-NN के\PSP पड़ला\N-NN से\PSP ओकरा\PR-PRP सौ-पचास\N-NN रुपया\N-NN देके\V-VM दूसर\QT-QTO सादी\N-NN कर\V-VM देल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+;\N-NN डाक\RP-RPD में,\PSP एक\QT-QTC आझ\N-NN एक\QT-QTC गुमनामी\N-NN चीठी\N-NN रांची\N-NN से\PSP घोलटते\N-NN पोलटते\N-NN आल\V-VM हल\V-VAUX ।\RD-PUNC 
+कोई\PR-PRI आदमी\N-NN नवाब\N-NN साहेब\N-NN के\PSP बड़ी\N-NN सिकायत\N-NN कैलक\V-VM हल\V-VAUX और\CC-CCD जादे\N-NN सिकायत\N-NN नसीबन\N-NN कीहां\PSP जायके\V-VM बारे\N-NN में\PSP हल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰5:20.4,\V-VM 30)101\V-VAUX कुइआँ\N-NN (ई\N-NN सब\QT-QTF के\PSP अंग्रेजी\N-NN विद्या\N-NN फरोस\N-NN के\PSP यहाँ\DM-DMD से\PSP खरीद\N-NN के\PSP सिआह\N-NN सुर्ख\N-NN मुफ्तख्वार\N-NN के\PSP कुइआँ\N-NN से\PSP आबे\V-VM -\RD-PUNC कमिनपनई\N-NN में\PSP खूब\QT-QTF पीस\V-VM के\PSP पी\V-VM जाए\V-VAUX !\RD-PUNC 
+कुछ\QT-QTF दिन\N-NN फायदा\N-NN नै\RP-NEG होए\V-VM तो\PR-PRL माजूने\N-NN भँड़ुअइ\N-NN के\PSP साथ\PSP इस्तेमाल\N-NN कैला\N-NN से\PSP जरूर\N-NN आराम\N-NN होत\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰7:25.10)102\N-NN केकर\PR-PRQ (=\N-NN किसका)\N-NN (यहां\DM-DMD हम\PR-PRP उ\PR-PRP सब\QT-QTF के\PSP चले\V-VM देलूँ\V-VAUX ?\RD-PUNC 
+सगरो\N-NN गाँधीजी\N-NN के\PSP स्कूल\N-NN बनल,\V-VM यहां\DM-DMD हमर\PR-PRP मोकाबला\N-NN में\PSP कुछ\QT-QTF कोए\N-NN कर\V-VM सकल\V-VAUX ?\RD-PUNC 
+खद्दर\N-NN कोए\N-NN नामो\N-NN ने\RP-NEG एहां\DM-DMD ले\V-VM ।\RD-PUNC 
+से\PSP केकर\PR-PRQ बदौलत\N-NN ?\PSP 
+)\RD-SYM (फूब॰4:14.25)103\N-NN केकरो\PR-PRI (=\N-NN किसी\N-NN को;\PSP किसको\N-NN भी)\V-VM (फूल\N-NN बहादुर\N-NN में\PSP दे-ख,\V-VM हमर\PR-PRP एक\QT-QTC लाला\N-NN भाई\N-NN गोबर्धन\N-NN उठैलका\V-VM हे\V-VAUX ।\RD-PUNC 
+और\CC-CCD कुछ\QT-QTF दिन\N-NN बाद\PSP 'गदह\N-NN नीत'\N-NN में\PSP और\N-NN केकरो\PR-PRI चैनमारी\N-NN के\PSP खम्भा\N-NN बने\V-VM होत\V-VAUX ।\RD-PUNC 
+;\N-NN ऐसन\DM-DMD सिलसिला\N-NN के\PSP खेयाल\N-NN वाला\N-NN के\PSP हजारों\QT-QTC दस\QT-QTC हजार\N-NN के\PSP हैसियत\N-NN वाला\N-NN के\PSP इज्जत\N-NN के\PSP मोकदमा\N-NN फैसला\N-NN करे\V-VM ले\V-VAUX मिले\V-VM हे,\RP-RPD तो\PR-PRL सौ-पचास\N-NN कभी\N-NN चढ़ावा\N-NN कभी\N-NN नगद\V-VM अगर\CC-CCS उ\PR-PRP सब\QT-QTF में\PSP केकरो\PR-PRI के\PSP आमद\N-NN हो\V-VM जा\V-VAUX हे\V-VAUX तो\PR-PRL कौन\PR-PRI मना\N-NN ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC नै,\RD-PUNC हम\PR-PRP केकरो\PR-PRI बुराई\N-NN ने\RP-NEG क-र\V-VM ही\V-VAUX ।\RD-PUNC 
+सु-न,\N-NN हम\PR-PRP बादसाही\N-NN खानदान\N-NN के\PSP ही\V-VM ।\RD-PUNC 
+;\N-NN ई\DM-DMI इनसाफ\N-NN हे\V-VM के\PSP बाहर\N-NN से\PSP केकरो\PR-PRI नै\RP-NEG आवल\V-VM देल\V-VAUX जाए,\V-VAUX आफत\RD-PUNC रोकल\N-NN जाए,\V-VM एकरा\DM-DMD ले\V-VM तोप\V-VM हवाई\V-VAUX जहाज\N-NN रखल\V-VM जाए\V-VAUX और\CC-CCD घर\N-NN में\PSP रैयत\V-VM के\PSP पचासों\N-NN ताजी\N-NN कुत्ता\N-NN छोड़\V-VM देल\V-VAUX जाए,\V-VAUX के\V-VAUX झोल\N-NN झोल\N-NN के\PSP मारो\V-VM ।\RD-PUNC 
+;\N-NN सामलाल\N-NN -\RD-PUNC मा-र\N-NN भड़ुअन\N-NN के\PSP !\V-VM 
+हमरा\PR-PRP कौन\PR-PRI चीज\N-NN घटे\V-VM हे\V-VAUX जे\PR-PRL केकरो\PR-PRI परवाह\N-NN हे\V-VAUX ।\RD-PUNC 
+;\N-NN ई\DM-DMI सब\QT-QTF बात\N-NN केकरो\PR-PRI से\PSP कहि-ह\N-NN नै\RP-NEG ।\RD-PUNC 
+;\N-NN नवाब\N-NN साहेब\N-NN सामलाल\N-NN के\PSP उ\PR-PRP गुमनामी\N-NN चिठिये\V-VM दे\V-VAUX देलका\V-VAUX और\CC-CCD कहलका\V-VM के\PSP सब\QT-QTF बात\N-NN केकरो\PR-PRI जाहिर\N-NN नै\RP-NEG होवे\V-VM पावे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.14;\N-NN 1:5.29,\RD-PUNC 6.16;\N-NN 3:12.24;\V-VM 4:14.9,\RD-PUNC 17.4;\V-VM 6:21.14)104\V-VAUX केवला\V-VAUX (=\V-VAUX केवड़ा,\RD-PUNC संतरा)\N-NN (खानसामा\V-VM तब\PR-PRL जाके\V-VM कुछ\QT-QTF केला\V-VM वो\PR-PRL केवला\N-NN ले\V-VM आल\V-VAUX और\CC-CCD हिन्दू\N-NN चाय\N-NN वाला\N-NN के\PSP बोला\V-VM के\V-VAUX दू\QT-QTC प्याला\N-NN चाय\N-NN अलग\N-NN दूसर\QT-QTO टेबुल\N-NN पर\PSP रखलक\V-VM और\CC-CCD केवाड़ी\N-NN लगैते\V-VM चल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.27)105\N-NN केवाड़ी\N-NN (=\V-VM किवाड़)\CC-CCS (खानसामा\N-NN तब\PR-PRL जाके\V-VM कुछ\QT-QTF केला\V-VM वो\PR-PRL केवला\N-NN ले\V-VM आल\V-VAUX और\CC-CCD हिन्दू\N-NN चाय\N-NN वाला\N-NN के\PSP बोला\V-VM के\V-VAUX दू\QT-QTC प्याला\N-NN चाय\N-NN अलग\N-NN दूसर\QT-QTO टेबुल\N-NN पर\PSP रखलक\V-VM और\CC-CCD केवाड़ी\N-NN लगैते\V-VM चल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.29;\N-NN 4:13.8,\RD-PUNC 12)106\N-NN कैक\V-VM (=\N-NN कई\QT-QTF एक)\N-NN (नवाब\N-NN साहेब\N-NN रात\N-NN भर\N-NN बड़ी\N-NN परेसान\N-NN रहला,\V-VM नसीबन\N-NN अब\N-NN आवे\V-VM हे,\V-VAUX तब\PR-PRL आवे\V-VM हे\V-VAUX ।\RD-PUNC 
+कैक\V-VM मरतबे\PSP अरदली\N-NN के\PSP उनकर\PR-PRP डेरा\N-NN पर\PSP भेजलका\V-VM के\PSP ऐले\V-VM रहथ\V-VAUX बोला\V-VM लाओ\V-VAUX ।\RD-PUNC 
+;\N-NN झट\N-NN साहेब\N-NN सोबरनडंट\N-NN कीहां\PSP ओकरा\PR-PRP एक\QT-QTC रात\N-NN के\PSP दाखिल\N-NN कर\V-VM देलक\V-VAUX तब\PR-PRL तो\PR-PRL उ\PR-PRP सार\N-NN जे\PR-PRL भागल\V-VM से\CC-CCD बिहार\N-NN आबे\V-VM के\PSP नाम\N-NN नै\RP-NEG लेलक\V-VM और\CC-CCD कैक\N-NN आदमी\N-NN के\PSP पड़ला\N-NN से\PSP ओकरा\PR-PRP सौ-पचास\N-NN रुपया\N-NN देके\V-VM दूसर\QT-QTO सादी\N-NN कर\V-VM देल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+;\N-NN दे-ख\N-NN ने,\PSP ओकरा\PR-PRP में\PSP लिखलक\V-VM हे\V-VAUX के\PSP तहकिकात\N-NN कैल\V-VM जाए\V-VAUX तो\PR-PRL कागजी\N-NN सबूत\N-NN भी\RP-RPD दाखिल\N-NN होत\V-VM ।\RD-PUNC 
+की\PR-PRQ जानु\N-NN कैक\N-NN ठो\RP-CL चिट्ठी\N-NN कुछ\QT-QTF चन्दा\N-NN उन्दा\N-NN वास्ते\N-NN लिखलूं\V-VM हल\V-VAUX जमींदार\N-NN सब\QT-QTF के,\PSP सायद\N-NN वहे\N-NN जमा\N-NN कैले\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.15,\V-VM 20.5;\V-VAUX 6:22.25)107\RD-PUNC कैसन\PR-PRQ (=\V-VM कइसन;\PR-PRQ कैसा)\V-VM (खैते-खैते\N-NN नवाब\N-NN साहेब\N-NN पुछलका\V-VM -\RD-PUNC क-ह\V-VM बिहार\N-NN कैसन\PR-PRQ जगह\N-NN हे\V-VM ?\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC उ\PR-PRP सब\QT-QTF कैसन\PR-PRQ हथ\V-VM ?\RD-PUNC 
+;\N-NN साम\N-NN -\RD-PUNC इ\N-NN बात\N-NN तो\PR-PRL मोकदमा\N-NN के\PSP हे\V-VM ।\RD-PUNC 
+हमरा\PR-PRP जरा\RP-RPD बड़ा\N-NN कैसन\PR-PRQ तो\PR-PRL कहे\V-VM में\PSP मालूम\N-NN होवे\V-VM हे\V-VAUX ।\RD-PUNC 
+;\V-VM कम-से-कम\N-NN देखल\V-VM तो\PR-PRL एकाक\V-VM दू\QT-QTC जिला\N-NN में\PSP जा\V-VM सके\V-VAUX हे\V-VAUX के\V-VAUX दरोगा\N-NN जमादार\N-NN कैसन\PR-PRQ काम\N-NN क-र\V-VM हथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.30,\V-VM 5.14;\V-VAUX 2:7.16;\V-VAUX 3:11.11)108\V-VAUX कैसुं\V-VAUX (=\V-VAUX कैसुँ,\RD-PUNC कइसुँ;\PR-PRQ किसी\N-NN तरह)\RP-RPD (साम\N-NN -\RD-PUNC नसीवन\N-NN एकर\PR-PRP नाम\N-NN हे\V-VM और\CC-CCD अभी\N-NN एकर\N-NN खुल्लम\V-VM खुल्ली\N-NN नथुनी\N-NN ने\RP-NEG उतरल\V-VM हे\V-VAUX ।\RD-PUNC 
+बाबू\N-NN हलधर\N-NN सिंघ\N-NN वहां\N-NN सिकिन\N-NN अफसर\N-NN हथ\N-NN से\PSP एकरा\DM-DMD कैसुं\N-NN एक\QT-QTC मरतबे\N-NN देख\V-VM लेलका\V-VAUX औ\N-NN केतनो\QT-QTF बोलाथिन\V-VM तो\PR-PRL नै\RP-NEG जाइन\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰2:7.25)109\N-NN कोए\N-NN (=\V-VM कोय;\V-VAUX कोई)\RB (तो\V-VM फिर\CC-CCD कोए\N-NN जात\N-NN के\PSP तो\PR-PRL एकर\PR-PRP भाव\N-NN सहे\PSP होत\V-VM ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC तूं\N-NN बेखोफ\N-NN र-ह\V-VM ।\RD-PUNC 
+हमरा\PR-PRP चलते\V-VM तोहर\N-NN नोकसानी\N-NN कोए\PSP नै\RP-NEG कर\V-VM सको\N-NN हो\V-VM ।\RD-PUNC 
+;\DM-DMI तब\PR-PRL उनकर\PR-PRP दोस्त\N-NN पहिले\N-NST एक\QT-QTC नितनेस्वर\N-NN बाबू\N-NN निस्पीटर\N-NN हला\V-VAUX उनके\PR-PRP कहलका\V-VM और\CC-CCD तब\PR-PRL पुलिस\N-NN एकरा\DM-DMD पर\PSP दफा\N-NN ६०\N-NN चलौलक\V-VM और\CC-CCD कोए\N-NN कोए\N-NN तरह\RP-RPD से\PSP मोकदमा\N-NN उनके\PR-PRP इजलास\N-NN में\PSP गेल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.12;\N-NN 2:7.18,\RD-PUNC 28)110\N-NN कोठली\N-NN (सामलाल\N-NN -\RD-PUNC नै\RP-NEG नै,\V-VM उतो\PR-PRL सब\QT-QTF दुकान\N-NN खुलल\V-VM हे\V-VAUX ।\RD-PUNC 
+/\N-NN नसीबन\N-NN -\RD-PUNC तो\PR-PRL बगल\N-NN के\PSP कोठली\N-NN में\PSP चल\V-VM जा\V-VAUX ।\RD-PUNC 
+;\N-NN सामलाल\N-NN -\RD-PUNC दहिना\N-NN बगल\N-NN में\PSP कैसन\PR-PRQ कोठली\N-NN हे\V-VM ?\RD-PUNC 
+/\N-NN नसीबन\N-NN -\RD-PUNC (हंस\N-NN के)\PSP पैखाना\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰4:15.11,\PSP 16)111\RB कोय\PR-PRI (=\N-NN कोई)\PSP (सामलाल\N-NN -\RD-PUNC हुजुर,\N-NN हमर\PR-PRP सब\QT-QTF दोस्त\N-NN हका,\V-VM उखनी\N-NN पर\PSP ऐसन-ने\N-NN के\PSP कोय\PR-PRI सखती\N-NN होवे\V-VM ।\RD-PUNC 
+;\N-NN राते\N-NN कामियाब\PSP नै\RP-NEG होल\V-VM तेकरे\N-NN से\PSP तो\PR-PRL सुस्त\N-NN नै\RP-NEG हथ\V-VM !\RD-PUNC 
+बाकी\N-NN इ-तो\N-NN कोय\PR-PRI काफी\N-NN वजह\N-NN नै\RP-NEG हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.15;\N-NN 6:21.6)112\N-NN कोसिस\N-NN (=\V-VM कोरसिस;\N-NN कोशिश)\PSP (कमी\N-NN और\CC-CCD गलती\N-NN जरूर\N-NN इ\N-NN सब\QT-QTF में\PSP हे\V-VAUX और\CC-CCD यथासक्ति\N-NN उ\PR-PRP सब\QT-QTF के\PSP हटावे\V-VM के\PSP कोसिस\N-NN भी\RP-RPD कैल\V-VM जात\V-VAUX ।\RD-PUNC 
+;\N-NN बहुत\N-NN से\PSP हमर\PR-PRP जिन्दगी\N-NN में\PSP खतम\N-NN नै\RP-NEG होत,\V-VM एकरा\DM-DMD ले\V-VM हम\PR-PRP कुछ\QT-QTF धन\N-NN बंक\N-NN में\PSP कर\V-VM देबे\V-VAUX ले\V-VAUX ही\V-VAUX कि\CC-CCS कुछ\QT-QTF दिन\N-NN के\PSP बाद\N-NN जब\PR-PRL सूद\N-NN दर\N-NN सूद\N-NN काफी\N-NN रकम\N-NN हो\V-VM जाए\V-VAUX तो\PR-PRL जे\PR-PRL एकर\PR-PRP पंच\N-NN होता\V-VM उ\PR-PRP मगही\N-NN भाषा\N-NN जे\PR-PRL तखने\N-NN प्रचलित\N-NN रहत\V-VM ओकरा\PR-PRP और\CC-CCD और\CC-CCD भासा\N-NN के\PSP बराबर\N-NN अलंकृत\N-NN करे\V-VM के\PSP कोसिस\N-NN करता\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.6,\PSP 2.27)113\N-NN कौंचल\V-VM (=\V-VAUX चिढ़ा\N-NN /\PSP खीजा\N-NN /\V-VM रूठा\N-NN हुआ)\PR-PRP (बाकी\N-NN ऐसन\DM-DMD काम\N-NN में\PSP बगैर\N-NN चुगलखोरी\N-NN के\PSP बढ़ती\N-NN नै\RP-NEG होवे\V-VM हे\V-VAUX एकरे\N-NN से\PSP सहर\N-NN के\PSP रईस\N-NN इनका\PR-PRP से\PSP कुछ\QT-QTF कौंचल\V-VM र-ह\N-NN हला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.16)114\N-NN खखन्द\N-NN (=\N-NN खक्खन)\N-NN (नवाब\N-NN साहेब\N-NN खखन्द\N-NN से\PSP डेवढ़ा\N-NN के\PSP पास\N-NN उतर\V-VM के\PSP टहल\V-VM रहला\V-VAUX हल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.25)115\N-NN खपत\N-NN (~\N-NN हो\V-VM जाना)\V-VAUX (सामलाल\N-NN चिट्ठी\N-NN के\PSP तबतक\N-NN समझ\N-NN रहला\V-VM हल\V-VAUX और\CC-CCD एस-डी-ओ\N-NN एहां\N-NN से\PSP लिफाफा\N-NN के\PSP भी\RP-RPD जेकरा\PR-PRL अरदली\N-NN फाड़\N-NN के\PSP बिग\V-VM देलक\V-VAUX हल,\RD-PUNC खोजके\V-VM साथ\PSP रखले\V-VM हला\V-VAUX ।\RD-PUNC 
+नवाब\N-NN साहेब\N-NN लिफाफा\V-VM के\PSP मोहर\N-NN के\PSP देखलका\V-VM ।\RD-PUNC 
+ठीक,\JJ सिमला\N-NN "फूल्स-पैरेडाइज"\N-NN के\PSP मोहर\N-NN हल\V-VM ।\RD-PUNC 
+"साबस"\N-NN कह\V-VM के\V-VAUX उठला\V-VM और\CC-CCD हंसते\V-VM चल\V-VM देलका\V-VAUX ।\RD-PUNC 
+सामलाल\N-NN तो\PR-PRL खपत\N-NN हो\V-VM गेला,\V-VAUX उ\PR-PRP टिकट\N-NN उखाड़\N-NN के\PSP देखलका\V-VM तो\PR-PRL साफ\N-NN अंग्रेजी\N-NN टाइप\N-NN से\PSP नीचे\N-NN में\PSP छपल\N-NN हलः\V-VM -\RD-PUNC 'फूल\V-VM बहादुर'\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰8:28.10)116\N-NN खाबिन्दी\N-NN (साम\N-NN लाल\N-NN -\RD-PUNC जैसन\RP-RPD हुजुर\N-NN के\PSP खाबिन्दी\N-NN ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL हुजुर\N-NN के\PSP थूक\N-NN के\PSP बराबर\N-NN नै\RP-NEG ही\V-VM ।\RD-PUNC 
+;\N-NN सामलाल\N-NN (पढ़ते\V-VM पढ़ते\N-NN बोलला)\V-VM -\RD-PUNC इ-सब\N-NN हुजुर\N-NN के\PSP खाबिन्दी\N-NN हे\V-VM ।\RD-PUNC 
+;\N-NN सामलाल\N-NN -\RD-PUNC नै,\N-NN इ\N-NN सब\QT-QTF के\PSP जरूरत\N-NN नै\RP-NEG हे\V-VM ।\RD-PUNC 
+हमरा\PR-PRP सब\QT-QTF जादे\N-NN एहे\DM-DMD ताना\N-NN मा-र\N-NN हथ\V-VM के\PSP गजट\N-NN निकललो\V-VM मोखतार\N-NN साहेब\N-NN ?\V-VM 
+और\CC-CCD हुजुर\N-NN से\PSP एकर\PR-PRP खाबिन्दी\N-NN नै\RP-NEG होबे\V-VM हे\V-VAUX ।\RD-PUNC 
+अबरी\N-NN पहली\N-NN जनवरी\N-NN के\PSP चार\QT-QTC मरतबे\V-VM गजट\V-VAUX पढ़लूँ,\CC-CCD कहीं\DM-DMD हमर\PR-PRP नाम\N-NN के\PSP पते\V-VM नै\RP-NEG ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.7;\N-NN 6:21.19;\PSP 7:25.21)117\N-NN खार\N-NN (~\N-NN खाना\N-NN =\PSP डाह\N-NN रखना)\V-VM (साम\N-NN -\RD-PUNC एहे\DM-DMD हसद\V-VM ।\RD-PUNC 
+/\N-NN नवाब\N-NN -\RD-PUNC से\PSP की\PR-PRQ ?\V-VM 
+/\N-NN साम\N-NN -\RD-PUNC अब\N-NN जैसे\N-NN हमरे\PR-PRP से\PSP सब\QT-QTF खार\N-NN खा\V-VM हथ\V-VAUX ।\RD-PUNC 
+हमर\PR-PRP किला\N-NN ऐसन\DM-DMD मकान\N-NN हे,\PSP सब\QT-QTF के\PSP इ\N-NN अच्छा\N-NN न\RP-NEG लगे\V-VM ।\RD-PUNC 
+हमरा\PR-PRP दस\QT-QTC पांच\QT-QTC हजार\QT-QTC बैंक\N-NN में\PSP हे,\PR-PRP सब\QT-QTF चा-ह\N-NN हथ\V-VM कि\CC-CCS उनको\QT-QTC रहत\V-VM हल\V-VAUX ।\RD-PUNC 
+हाकिम\N-NN सब\QT-QTF जैसे\N-NN हमरे\PR-PRP मा-न\N-NN हथ,\V-VM एहे\DM-DMD सबसे\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:5.9)118\N-NN खाहमखाह\V-VM (=\RD-PUNC खामखाह;\V-VM शुभचिंतक)\V-VAUX (नवाब\N-NN सहेब\N-NN के\PSP ढेर\QT-QTF खोसामदी\N-NN से\PSP भेंट\V-VM होल\V-VAUX हल\V-VAUX बाकी\N-NN ऐसन\DM-DMD खाहमखाह\V-VM तो\PR-PRL कोई\PR-PRI नै\RP-NEG मालूम\N-NN भेल\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.10-11)119\N-NN खाहिस\V-VM (=\V-VAUX ख्वाहिश,\RD-PUNC इच्छा)\N-NN (पहुंच\V-VM के\PSP आदाब\N-NN बन्दगी\N-NN कैलका\V-VM और\CC-CCD अपन\PR-PRP निसान\N-NN पता\N-NN बतैलका\V-VM और\CC-CCD बोलला\V-VM के\PSP पच्छिम\N-NN के\PSP गाड़ी\N-NN आवे\V-VM में\PSP अभी\N-NN देर\N-NN हे,\V-VM जबतक\PR-PRL चलके\V-VM नास्ता\N-NN पानी\N-NN कर\V-VM लेल\V-VAUX जाए\V-VAUX ।\RD-PUNC 
+नवाब\N-NN साहेब\N-NN बोलला\V-VM के\PSP अभी\N-NN खाहिस\V-VM नै\RP-NEG हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.27)120\N-NN खोदा\V-VM (=\V-VAUX ख़ुदा)\N-NN (तब\V-VM तो\PR-PRL तुं\N-NN एकदम\N-NN लाजवाब\N-NN आदमी\N-NN ह\V-VM ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL समझलूं\N-NN हल\V-VM के\PSP एते\QT-QTF दूर\N-NN के\PSP सफर\N-NN बड़ा\N-NN सुखल\V-VM साखल\V-VAUX होत\V-VAUX ।\RD-PUNC 
+तूं\N-NN खोदा\N-NN के\PSP देल\V-VM मिल\V-VM गेला\V-VAUX ।\RD-PUNC 
+;\N-NN नसीबन\N-NN -\RD-PUNC नै,\PR-PRP खोदा\N-NN के\PSP किरिआ,\N-NN आझ\N-NN माफ\N-NN क-र\V-VM ।\RD-PUNC 
+;\N-NN बुढ़िया\N-NN (झट\N-NN से\PSP कोरान\N-NN जे\PR-PRL टंगल\N-NN हल\V-VM ओकरा\PR-PRP पर\PSP हाथ\N-NN रख\V-VM के)\N-NN -\RD-PUNC खोदा\N-NN के\PSP कसम,\V-VM रसूल\N-NN पैगम्बर\N-NN के\PSP कसम\N-NN ।\RD-PUNC 
+हमनी\PR-PRP कुछ\QT-QTF नै\RP-NEG जानी\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.2;\N-NN 4:14.1,\RD-PUNC 16.8)121\N-NN खोदा-दादी\N-NN (~\N-NN अकिल)\N-NN (नवाब\N-NN साहेब\N-NN -\RD-PUNC ठीक\N-NN हे,\V-VM बाकी\CC-CCS तुं\N-NN तुरते\RB कैसे\PR-PRQ पता\N-NN लगा\V-VM लेला\V-VAUX ?\RD-PUNC 
+/\N-NN सामलाल\N-NN -\RD-PUNC खोदा-दादी\N-NN अकिल\N-NN हमरा\PR-PRP सम-झ\N-NN हे\V-VM और\CC-CCD कुछ\QT-QTF बात\N-NN याद\N-NN भी\RP-RPD पड़\V-VM गेल\V-VAUX ।\RD-PUNC 
+कल्ह\N-NN नसीबन\N-NN के\PSP यहां\DM-DMD जे\PR-PRL हम\PR-PRP छिपल\V-VM छिपल\V-VM बाबू\N-NN हलधर\N-NN सिंघ\N-NN के\PSP बात\N-NN सुनलूं\V-VM तेकरा\PR-PRL से\PSP यकीन\N-NN ऐसन\DM-DMD हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰6:22.10)122\N-NN खोस\N-NN (=\V-VAUX खुश)\N-NN (ऐसे\PSP तो\PR-PRL करीब-करीब\N-NN सभे\QT-QTF सरकारी\N-NN काम\N-NN करे\V-VM वाला\V-VAUX थोड़े\N-NN बहुत\RP-INTF खोसामदी\N-NN होवे\V-VM क-र\N-NN हथ\V-VM ।\RD-PUNC 
+इतो\PR-PRL मुसलमानी\N-NN वादसाहत\N-NN और\CC-CCD हिन्दुस्तान\N-NN के\PSP गुलाम\N-NN के\PSP फल\N-NN हे\V-VM ।\RD-PUNC 
+बाकी\N-NN इनका\PR-PRP में\PSP एकर\PR-PRP मातरा\N-NN कुछ\QT-QTF जादे\V-VM हल\V-VAUX और\CC-CCD हाकिम\N-NN वगैरह\N-NN के\PSP खूब\QT-QTF खोस\N-NN एकरे\N-NN से\PSP र-ख\N-NN हला\V-VM ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC ओह\N-NN !\V-VM 
+(बड़ी\N-NN खोस\N-NN होके\V-VM और\CC-CCD उठके\V-VM बैठके)\V-VM तब\PR-PRL तो\PR-PRL तुं\N-NN एकदम\N-NN लाजवाब\N-NN आदमी\N-NN ह\V-VM ।\RD-PUNC 
+हम\PR-PRP तो\PR-PRL समझलूं\N-NN हल\V-VM के\PSP एते\QT-QTF दूर\N-NN के\PSP सफर\N-NN बड़ा\N-NN सुखल\V-VM साखल\V-VAUX होत\V-VAUX ।\RD-PUNC 
+तूं\N-NN खोदा\N-NN के\PSP देल\V-VM मिल\V-VM गेला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.14;\N-NN 2:7.31)123\PSP खोसामद-उसामद\N-NN (नवाब\N-NN -\RD-PUNC तब\PR-PRL काहे\CC-CCS उ\PR-PRP सब\QT-QTF के\PSP मोकदमा\N-NN दे\V-VM हथ\V-VAUX और\N-NN रहे\V-VM दे\V-VAUX हथ\V-VAUX ?\RD-PUNC 
+/\N-NN साम\N-NN -\RD-PUNC एक\QT-QTC मरतबे\PSP गुड़ीआर\N-NNP साहब\N-NN ऐला\V-VM हल\V-VAUX तो\PR-PRL एकदम\RP-INTF बंदे\V-VM मोकदमा\V-VAUX देना\V-VAUX कर\V-VM देलका\V-VAUX हल\V-VAUX ।\RD-PUNC 
+फेर\RB सब\QT-QTF बड़ा\V-VM खोसामद\N-NN उसामद\V-VM कैलका\V-VAUX ।\RD-PUNC 
+छोटा\JJ मोटा\JJ मोकदमा\N-NN भेजल\V-VM जाए\V-VAUX लगल\V-VAUX ।\RD-PUNC 
+उ\PR-PRP गेला\V-VM तो\PR-PRL फेर\N-NN ओही\DM-DMD बात\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.2)124\N-NN खोसामदी\N-NN (=\PSP खुशामद)\N-NN (ऐसे\V-VM तो\PR-PRL करीब-करीब\N-NN सभे\QT-QTF सरकारी\N-NN काम\N-NN करे\V-VM वाला\V-VAUX थोड़े\N-NN बहुत\RP-INTF खोसामदी\N-NN होवे\V-VM क-र\N-NN हथ\V-VM ।\RD-PUNC 
+इतो\PR-PRL मुसलमानी\N-NN वादसाहत\N-NN और\CC-CCD हिन्दुस्तान\N-NN के\PSP गुलाम\N-NN के\PSP फल\N-NN हे\V-VM ।\RD-PUNC 
+बाकी\N-NN इनका\PR-PRP में\PSP एकर\PR-PRP मातरा\N-NN कुछ\QT-QTF जादे\V-VM हल\V-VAUX और\CC-CCD हाकिम\N-NN वगैरह\N-NN के\PSP खूब\QT-QTF खोस\N-NN एकरे\N-NN से\PSP र-ख\N-NN हला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.12,\V-VM 4.10)125\V-VAUX खोसी\N-NN (=\N-NN खुशी)\N-NN (जो\V-VM गरीब\N-NN रहे\V-VM ओकर\PR-PRP माफ\N-NN कर\V-VM देल\V-VAUX जा\V-VAUX सके\V-VAUX हे\V-VAUX और\CC-CCD लोग\N-NN खोसी\N-NN से\PSP देता\N-NN और\N-NN ऐसन\DM-DMD समझ\N-NN से\PSP अमलन\V-VM के\PSP रुसबत\N-NN भी\RP-RPD उठावल\V-VM जा\V-VAUX सके\V-VAUX हे\V-VAUX ।\RD-PUNC 
+कोटफीस\N-NN बढ़ाके\V-VM मुसहारा\N-NN कुछ\QT-QTF बढ़ा\N-NN देल\V-VM जा\V-VAUX सके\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:12.8)126\N-NN गटपटाना\N-NN (दुसर\N-NN दिन\N-NN छो-पांच\V-VM करते\V-VAUX इ\N-NN तै\N-NN कैलका\V-VM के\PSP सामलाल\N-NN के\PSP और\N-NN नवाब\N-NN साहेब\N-NN के\PSP गटपटा\N-NN देवे\V-VM के\PSP चाही\V-VAUX और\CC-CCD नसीबन\N-NN के\PSP एहां\DM-DMD कड़ा\V-VM पहरा\N-NN कर\V-VM देलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.11)127\N-NN गदिए\N-NN (~\N-NN पर\PSP =\N-NN गद्दी\N-NN पर\PSP ही)\N-NN (गाड़ी\N-NN खुलल\V-VM तब\PR-PRL नवाब\N-NN साहेब\N-NN गदिए\N-NN पर\PSP अड़ल\N-NN अड़ल\N-NN बोलला\V-VM (उर्दू\V-VAUX में)\PSP -\RD-PUNC तोहरा\N-NN उ\PR-PRP सलाम\N-NN कौन\PR-PRI औरत\N-NN कैलको\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰2:7.8)128\N-NN गम्हीर\N-NN (=\V-VM गम्भीर)\V-VAUX (बे\V-VAUX समझे\V-VM बोलला,\N-NNP कुछ\QT-QTF समझलका\V-VM तो\PR-PRL नई\N-NN बाकी\N-NN तरे\N-NST तरे\N-NST मुसकला,\N-NNP ऊपर\N-NN से\PSP एकदम\N-NN गम्हीर\N-NN रहला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.23)129\N-NN गम्हीरता\N-NN (=\PSP गम्भीरता)\N-NN (कोए\PR-PRP सूरत\N-NN से\PSP नसीबन\N-NN के\PSP साम\N-NN लाल\N-NN फस्ट\V-VM किलास\N-NN में\PSP ले\V-VM ऐला\V-VAUX ।\RD-PUNC 
+नवाब\N-NN साहेब\N-NN ओकरा\PR-PRP डेवढ़ा\N-NN से\PSP उतरते\N-NN देख\V-VM झट\N-NN से\PSP अपन\PR-PRP खाना\N-NN में\PSP चढ़\V-VM गेला\V-VAUX और\CC-CCD गद्दी\N-NN में\PSP अड़के\V-VM एखबार\N-NN देखे\V-VM लगला\V-VAUX ।\RD-PUNC 
+नसीबन\N-NN जब\PR-PRL आल\V-VM तो\PR-PRL गम्हीरता\N-NN से\PSP एखबार\N-NN रख\V-VM देलका\V-VAUX और\CC-CCD बोलला\V-VM -\RD-PUNC "बै-ठ\V-VM बी-जान\N-NN ।\RD-PUNC 
+")\N-NN (फूब॰2:8.32)130\N-NN गाड़ीवानी\N-NN (बाबूजी\N-NN गाड़ीवानी\N-NN क-र\N-NN हलथिन,\N-NN और\CC-CCD इनकर\PR-PRP फुफा,\N-NNP गुरुऐ\N-NN क-र\N-NN हलथिन\V-VM और\CC-CCD उहे\DM-DMD इनका\PR-PRP मिडिल\N-NN पास\N-NN करैलथिन\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.3-4)131\N-NN गारत\N-NN (बुढ़िया\N-NN -\RD-PUNC मोखतार\N-NN साहेब,\N-NN तूं\N-NN सब\QT-QTF गारत\N-NN कैला\N-NN ।\RD-PUNC 
+तूं\N-NN काहे\CC-CCS ला\PSP हमरा\PR-PRP हीं\V-VM चोर\N-NN ऐसन\DM-DMD ऐला\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.16)132\N-NN गिरगिराना\N-NN (=\N-NN घिघियाना;\V-VM गिड़गिड़ाना)\V-VAUX (सामलाल\N-NN अपन\PR-PRP राय\N-NN बहादुरी\N-NN वास्ते\N-NN बहुत\N-NN गिरगिराथ\N-NN के\PSP हुजुर\N-NN अब\N-NN तो\PR-PRL हम\PR-PRP सब\QT-QTF काम\N-NN कैलूं,\V-VM कोए\N-NN काम\N-NN ऐसन\DM-DMD नै\RP-NEG जे\PR-PRL हुजुर\N-NN के\PSP वास्ते\N-NN हम\PR-PRP करे\V-VM से\PSP इनकार\N-NN कैलूं\V-VM और\CC-CCD अखनो\N-NN नै\RP-NEG क-र\V-VM ही\V-VAUX ।\RD-PUNC 
+दे-ख,\N-NN सहर\N-NN के\PSP बदमास\N-NN सब\QT-QTF अब\N-NN परचा\N-NN हमरे\PR-PRP तरफ\N-NN इसारा\N-NN करके\V-VM छपवैलका\N-NN ह\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰7:24.26)133\N-NN गुरुऐ\N-NN (=\N-NN गुरुअइ;\N-NN अध्यापन\PR-PRP कार्य)\N-NN (बाबूजी\N-NN गाड़ीवानी\N-NN क-र\N-NN हलथिन,\N-NN और\CC-CCD इनकर\PR-PRP फुफा,\N-NNP गुरुऐ\N-NN क-र\N-NN हलथिन\V-VM और\CC-CCD उहे\DM-DMD इनका\PR-PRP मिडिल\N-NN पास\N-NN करैलथिन\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.4)134\N-NN गैरह\N-NN (=\N-NN वगैरह)\N-NN (आखिर\N-NN केलनर\N-NN के\PSP कमरा\N-NN में\PSP दुनु\QT-QTC गेला\V-VAUX और\CC-CCD खिदमतगार\N-NN गैरह\N-NN के\PSP चीजबस्त\N-NN देखते\V-VM रहे\V-VAUX कह\V-VM देलका\V-VAUX ।\RD-PUNC 
+खानसामा\N-NN तीन-चार\QT-QTC टुकड़ा\N-NN बिसकुट\V-VM और\CC-CCD चाय\N-NN औ\N-NN अण्डा\N-NN गैरह\N-NN हिसाब\N-NN से\PSP ला-ला\N-NN के\PSP नवाब\N-NN साहेब\N-NN के\PSP भीरी\N-NN रखे\V-VM लगल\V-VAUX और\CC-CCD मोखतार\N-NN साहेब\N-NN टेबुल\N-NN के\PSP दूसर\QT-QTO तरफ\N-NN बैठला\V-VM ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC तो\PR-PRL एसडीओ\N-NN गैरह\N-NN एकरा\DM-DMD नै\RP-NEG जा-न\V-VM हथ\V-VAUX ?\RD-PUNC 
+;\N-NN हसनइमाम\N-NN गैरह\N-NN के\PSP साथे,\PSP बलके\V-VM जादे\N-NN खिलाफे,\V-VM काम\N-NN कैलूं\V-VM बाकी\CC-CCS सब\QT-QTF हमर\PR-PRP लोहा\N-NN एकरा\DM-DMD से\PSP मा-न\N-NN हथ\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.14,\PSP 16,\V-VM 5.31;\V-VAUX 6:22.6)135\RD-PUNC गोड़-मुड़\N-NN (~\N-NN पड़ना)\V-VM (हमहीं\V-VAUX पचास\N-NN ठो\RP-CL सुसैटी\N-NN बनैलूं\V-VM तो\PR-PRL बंक\V-VM चलल\V-VAUX ।\RD-PUNC 
+बाबू\N-NN ऐदल\N-NN सिंघ\N-NN के\PSP केतना\QT-QTF गोड़\N-NN मुड़\N-NN पड़के\PSP कालिज\N-NN बनवैलूं\V-VM ।\RD-PUNC 
+हमरा\PR-PRP ऐसन\DM-DMD कोई\PR-PRI मोखतार\N-NN क-ह\N-NN कहां\PR-PRQ ?\V-VM 
+जमींदारी\N-NN से\PSP की\PR-PRQ होबे-हे\V-VM ?\V-VAUX 
+अखनी\N-NN लाखो\N-NN रुपया\N-NN क-ह\V-VM निकाल\V-VM दिओ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:14.20)136\N-NN गोदाल\N-NN (ओकरा\PSP बारे\N-NN जे\PR-PRL हम\PR-PRP सुनलूं\V-VM से\PSP झूठ\N-NN मालूम\N-NN होवे\V-VM हे;\V-VAUX तो\PR-PRL फेर\RB दुलरुआ\N-NN रहे\V-VM के\PSP बात\N-NN भी\RP-RPD झुट्ठे\V-VM खबर\N-NN उड़ल\N-NN बुझा\V-VM हे,\V-VAUX तो\PR-PRL अपन\PR-PRP ई\DM-DMI बेइजती\N-NN के\PSP बात\N-NN सगरो\N-NN गोदाल\N-NN होवे\V-VM के\PSP डर\N-NN से\PSP इ\N-NN सब\QT-QTF बात\N-NN के\PSP छेड़त\N-NN कहों\V-VM नै\RP-NEG ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.8)137\N-NN गोसाहा\N-NN (=\N-NN गुस्सैल,\N-NN क्रोधी\N-NN स्वभाव\N-NN का)\V-VM (जहाँ\PR-PRL जरी\QT-QTF से\PSP सिकायत\N-NN होल,\V-VM फौरन\V-VAUX तहकीकात\N-NN और\N-NN सजाए\N-NN ।\RD-PUNC 
+एकरे\DM-DMD से\PSP खाली\QT-QTF रोजी\N-NN नै\RP-NEG लेवे\V-VM के\PSP खेयाल\N-NN से\PSP कोई\PR-PRI आदमी\N-NN जल्दी\N-NN सिकायत\N-NN नै\RP-NEG करे\V-VM हे\V-VAUX जब\PR-PRL तक\RP-RPD मजबूर\N-NN नै\RP-NEG हो\V-VM जाए;\V-VAUX और\CC-CCD जो\RP-RPD कोए\N-NN गोसाहा\N-NN तनी\QT-QTF तनी\QT-QTF बात\N-NN में\PSP सिकायत\N-NN करे\V-VM हे\V-VAUX तो\PR-PRL और\N-NN सब\QT-QTF आदमी\N-NN ओकरा\PR-PRP मदद\N-NN नै\RP-NEG करे\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:10.22)138\N-NN घरैना\N-NN (=\V-VM घराना)\N-NN (नवाब\N-NN साहेब\N-NN भीतरे\N-NN भीतर\N-NST तो\PR-PRL कुछ\QT-QTF अजब\RP-RPD ऐसन\DM-DMD समझथ\V-VM मगर\N-NN रईस\N-NN घरैना\N-NN के\PSP रहला\V-VM के\PSP वजह\N-NN से\PSP रूख\N-NN से\PSP बात\N-NN नै\RP-NEG कर\V-VM सकथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.2)139\N-NN घोलटना-पोलटना\N-NN (डाक\RP-RPD में,\PSP एक\QT-QTC आझ\N-NN एक\QT-QTC गुमनामी\N-NN चीठी\N-NN रांची\N-NN से\PSP घोलटते\N-NN पोलटते\N-NN आल\V-VM हल\V-VAUX ।\RD-PUNC 
+कोई\PR-PRI आदमी\N-NN नवाब\N-NN साहेब\N-NN के\PSP बड़ी\N-NN सिकायत\N-NN कैलक\V-VM हल\V-VAUX और\CC-CCD जादे\N-NN सिकायत\N-NN नसीबन\N-NN कीहां\PSP जायके\V-VM बारे\N-NN में\PSP हल\V-VM ।\RD-PUNC 
+ओकरा\PR-PRP में\PSP कुछ\QT-QTF रुसबत\N-NN लेवे\V-VM के\PSP भी\RP-RPD सिकायत\V-VM हल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:20.28)140\N-NN चकल्लस\N-NN (पंखा\N-NN ऊपर\N-NN के\PSP खोल\V-VM देलका\V-VAUX और\CC-CCD रास्ता\N-NN भर\N-NN गप-सप\N-NN चकल्लस\N-NN करते\V-VM चलला\V-VAUX ।\RD-PUNC 
+गाड़ी\N-NN अदलते\N-NN बदलते\V-VM जब\PR-PRL दू-तीन\QT-QTC टीसन\N-NN बिहार\N-NN पहुंचे\V-VM के\PSP रहल\V-VM तो\PR-PRL नसीबन\N-NN के\PSP अपन\PR-PRP खाना\N-NN में\PSP चला\V-VM देलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.33)141\N-NN चचाजी\N-NN (सिंघजी\N-NN -\RD-PUNC (सामलाल\N-NN देने\N-NN देख\V-VM के)\V-VAUX तब\PR-PRL चचाजी\N-NN इनका\PR-PRP भेद\N-NN लेवे\V-VM ले\V-VAUX भेजलथिन\V-VAUX होत\V-VAUX ।\RD-PUNC 
+उतो\PR-PRL जखनै\V-VM हम\PR-PRP ओतना\PR-PRL आझ\N-NN आरजु\N-NN मीनत\N-NN ओकरा\PR-PRP से\PSP कैलूं\V-VM और\CC-CCD जब\PR-PRL नै\RP-NEG मानलक\V-VM तो\PR-PRL समझलूं\N-NN के\PSP पक्का\N-NN बदमास\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.10)142\N-NN चन्दा-उन्दा\N-NN (बहुत\N-NN सीधा\N-NN तो\PR-PRL हंसुआ\N-NN ऐसन,\DM-DMD पंचानवे\N-NN हाथ\N-NN के\PSP अंतड़ी\N-NN रखवइआ\V-VM ।\RD-PUNC 
+दे-ख\N-NN ने,\PSP ओकरा\PR-PRP में\PSP लिखलक\V-VM हे\V-VAUX के\PSP तहकिकात\N-NN कैल\V-VM जाए\V-VAUX तो\PR-PRL कागजी\N-NN सबूत\N-NN भी\RP-RPD दाखिल\N-NN होत\V-VM ।\RD-PUNC 
+की\PR-PRQ जानु\N-NN कैक\N-NN ठो\RP-CL चिट्ठी\N-NN कुछ\QT-QTF चन्दा\N-NN उन्दा\N-NN वास्ते\N-NN लिखलूं\V-VM हल\V-VAUX जमींदार\N-NN सब\QT-QTF के,\PSP सायद\N-NN वहे\N-NN जमा\N-NN कैले\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰6:22.25)143\N-NN चन्नन-टीका\N-NN (सिंघजी\N-NN -\RD-PUNC चन्दन\N-NN टीका\N-NN खाली\QT-QTF धोखा\N-NN देवे\V-VAUX के\PSP हे\V-VAUX ।\RD-PUNC 
+ऐसे\V-VM तो\PR-PRL आझ\N-NN कल\N-NN के\PSP कचहरी\N-NN से\PSP सरोकार\N-NN रखवैआ\V-VM जे\PR-PRL चन्नन-टीका\N-NN करे\V-VM ओकरा\PR-PRP में\PSP सैंकड़ा\N-NN पीछू\N-NN ९०\N-NN के\PSP पक्का\JJ बेईमान\N-NN और\CC-CCD मोत्तफनी\N-NN सम-झ\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰5:19.23)144\N-NN चपसना\N-NN (साम\N-NN -\RD-PUNC नै,\PR-PRP ताबे\N-NN में\PSP की\RB रहत,\V-VM फिर\CC-CCD तो\PR-PRL रंडिए\N-NN हे\V-VM ।\RD-PUNC 
+बाकी\N-NN हां,\N-NN जरा\RP-RPD परदा\N-NN से\PSP कोई\PR-PRI बात\N-NN होवे\V-VM हे\V-VAUX और\CC-CCD अभी\N-NN (चपस\N-NN के)\PSP एकदम\RP-INTF नवेली\V-VM हे\V-VAUX ।\RD-PUNC 
+/\N-NN नवाब\N-NN साहेब\N-NN -\RD-PUNC तों\N-NN एकदम\N-NN बेताव\N-NN हो\V-VM गेला\V-VAUX ।\RD-PUNC 
+अब\N-NN ढेर\QT-QTF मोसकिल\N-NN मत\RP-NEG क-र,\V-VM जल्दी\N-NN जा\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.17)145\N-NN चिक्कन\N-NN (~\V-VM बटलोही)\N-NN (नवाब\N-NN साहेब\N-NN -\RD-PUNC और\CC-CCD कायथ\N-NN सभ\N-NN तोहनी\PR-PRP बाभन\N-NN के\PSP क-ह\N-NN हथ\V-VM ।\RD-PUNC 
+/\N-NN सिंघजी\N-NN -\RD-PUNC से-हे\N-NN ।\RD-PUNC 
+बाकी\N-NN कोई\PR-PRI बाभन\N-NN में\PSP सामलाल\N-NN के\PSP जोड़ा\N-NN के\PSP देखला\V-VM दे,\V-VAUX ऊपर\N-NN से\PSP एतना\QT-QTF चिक्कन\N-NN बटलोही\N-NN बाकी\N-NN केतना\QT-QTF घर\N-NN खराब\N-NN कर\V-VM देलक\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:19.29)146\N-NN चीज-बस्त\N-NN (=\V-VM चीज-वस्त,\RD-PUNC चीज-वस्तु;\N-NN माल-असबाब)\N-NN (आखिर\N-NN केलनर\N-NN के\PSP कमरा\N-NN में\PSP दुनु\QT-QTC गेला\V-VAUX और\CC-CCD खिदमतगार\N-NN गैरह\N-NN के\PSP चीजबस्त\N-NN देखते\V-VM रहे\V-VAUX कह\V-VM देलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.15)147\N-NN चीज-वस्त\N-NN (=\V-VM चीज-बस्त,\RD-PUNC चीज-वस्तु;\N-NN माल-असबाब)\N-NN (गाड़ी\N-NN आवे\V-VM के\PSP वेला\N-NN हो\V-VM गेल\V-VAUX ।\RD-PUNC 
+मोसाफिर\N-NN सब\QT-QTF दूसर\QT-QTO पलाट-फारम\N-NN पर\PSP अपन\PR-PRP चीज\N-NN वस्त\N-NN ले\V-VM जाए\V-VAUX लगला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.29)148\N-NN चुसबैया\N-NN (सिंघ\N-NN जी\N-NN -\RD-PUNC हमनी\PR-PRP केतना\QT-QTF की\PR-PRQ कर\V-VM स-क\N-NN ही\RP-RPD ।\RD-PUNC 
+सबसे\N-NN भारी\JJ जुलुम\N-NN तो\PR-PRL पुलिस\N-NN के\PSP घूस\N-NN ।\RD-PUNC 
+जेकरा\PR-PRL में\PSP दसे\V-VM बीस\QT-QTC इया\N-NN पचासे\PSP अच्छा\JJ इमानदार\N-NN हका\N-NN नै\RP-NEG तो\PR-PRL सब\QT-QTF रैयत\V-VM के\PSP बदन\N-NN में\PSP जोंक\N-NN से\PSP जादे\V-VM खून\N-NN चुसबैया\N-NN ।\RD-PUNC 
+सरकार\N-NN की\PSP एकरा\DM-DMD नै\RP-NEG जाने\N-NN हे\V-VM बाकी\N-NN उ\PR-PRP भी\RP-RPD कुछ\QT-QTF नै\RP-NEG कर\V-VM सके\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:10.10)149\N-NN चैनमारी\N-NN (~\N-NN के\PSP खम्भा)\N-NN (बुराई\N-NN जे\PR-PRL ओकरा\PR-PRP में\PSP दरसावल\V-VM गेल\V-VAUX हे,\RD-PUNC उ\PR-PRP फैलल\N-NN हे,\PSP एकरा\DM-DMD में\PSP सक\N-NN नै,\V-VM और\CC-CCD ओकर\PR-PRP निन्दा\N-NN भी\RP-RPD करे\V-VM के\V-VAUX चाही,\V-VAUX एहो\V-VAUX निसन्देह\N-NN ।\RD-PUNC 
+तो\PR-PRL फिर\N-NN कोए\N-NN जात\N-NN के\PSP तो\PR-PRL एकर\PR-PRP भाव\N-NN सहे\PSP होत\V-VM ।\RD-PUNC 
+फूल\N-NN बहादुर\N-NN में\PSP दे-ख,\V-VM हमर\PR-PRP एक\QT-QTC लाला\N-NN भाई\N-NN गोबर्धन\N-NN उठैलका\V-VM हे\V-VAUX ।\RD-PUNC 
+और\CC-CCD कुछ\QT-QTF दिन\N-NN बाद\PSP 'गदह\N-NN नीत'\N-NN में\PSP और\N-NN केकरो\PR-PRI चैनमारी\N-NN के\PSP खम्भा\N-NN बने\V-VM होत\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.14)\V-VM 150\V-VAUX छछन्दर\N-NN (~\N-NN के\PSP बच्चा)\N-NN (सिंघजी\N-NN (दुसर\PSP लात\N-NN उठाके)\V-VM -\RD-PUNC चुप,\V-VM छछन्दर\N-NN के\PSP बच्चा\N-NN (और\N-NN जेब\N-NN से\PSP तमनचा\N-NN खींच\V-VM के\V-VAUX और\CC-CCD देखलाके)\V-VM खबरदार,\N-NN एहैं\DM-DMD पर\PSP सारे\N-NN बहादुरी\N-NN खतम\N-NN हो\V-VM जैतो\V-VAUX (और\RD-PUNC हाथ\N-NN पकड़\V-VM के\PSP खींच\V-VM के\PSP बाहर\N-NN निकाल\V-VM के\V-VAUX नसीबन\N-NN से)\PSP देख,\V-VM ई\DM-DMI कहां\PR-PRQ से\PSP जनमलौ\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:15.32)151\N-NN छपल\N-NN (=\PSP छपा,\QT-QTC छपा\N-NN हुआ)\N-NN (एहे\DM-DMD से\PSP तीन\QT-QTC चार\QT-QTC दिन\N-NN में\PSP 'सुनीता'\N-NN लिख\V-VM के\PSP छापाखाना\N-NN में\PSP भेजल\V-VM गेल,\V-VAUX और\CC-CCD एतना\QT-QTF जल्दी\N-NN में\PSP उ\PR-PRP छपल\N-NN के\PSP पूरा\N-NN तरीका\N-NN से\PSP ओकर\PR-PRP प्रूफ\N-NN भी\RP-RPD नै\RP-NEG ठीक\JJ कैल\V-VM जा\V-VAUX सकल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.25)152\N-NN छरनाती\N-NN (नवाब\N-NN -\RD-PUNC हमर\PR-PRP परनाना\N-NN उनकर\PR-PRP अपन\PR-PRP मौसेरा\N-NN छरनाती\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.21)153\N-NN छिपले-छिपले\V-VM (ऐसे\V-VAUX सार\N-NN चाहे\N-NN हे\V-VM के\PSP नाम\N-NN होत\V-VM और\CC-CCD इ\N-NN भंड़ुआ\N-NN के\PSP (सामलाल\N-NN तरफ\N-NN इशारा\N-NN करके)\V-VM दे-ख\N-NN ओकर\PR-PRP पिछु\N-NN पड़ले\V-VM हे\V-VAUX ।\RD-PUNC 
+एकरा\DM-DMD से\PSP अच्छा\JJ तो\PR-PRL और\CC-CCD खराब\N-NN काम\N-NN करके\V-VM छिपले\V-VM छिपले\V-VAUX कमा\N-NN सके\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.15)\N-NN 154\N-NN छो\V-VM (~-पांच\N-NN करना)\V-VM (दुसर\N-NN दिन\N-NN छो-पांच\V-VM करते\V-VAUX इ\N-NN तै\N-NN कैलका\V-VM के\PSP सामलाल\N-NN के\PSP और\N-NN नवाब\N-NN साहेब\N-NN के\PSP गटपटा\N-NN देवे\V-VM के\PSP चाही\V-VAUX और\CC-CCD नसीबन\N-NN के\PSP एहां\DM-DMD कड़ा\V-VM पहरा\N-NN कर\V-VM देलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.11)155\N-NN छोलकटवा\V-VM (बाकी\CC-CCS हमरा\PR-PRP से\PSP कते\V-VM आदमी\N-NN कह\V-VM देलका\V-VAUX और\CC-CCD हमहूं\PR-PRP सब\QT-QTF सम-झ\N-NN ही\RP-RPD के\PSP बराबर\N-NN हमरा\PR-PRP बाहर\N-NN एहे\DM-DMD खेयाल\N-NN से\PSP छोलकटवा\V-VM भेजे\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:17.9)156\N-NN छौ\QT-QTC (~\N-NN पाँच\QT-QTC करना)\N-NN (परसाल\N-NN 'बंगला\N-NN के\PSP उत्पत्ति\N-NN और\CC-CCD विकास'\N-NN में\PSP मासूक\V-VM के\PSP लिक्खा\V-VM धिक्कार\N-NN पढ़ला\N-NN से\PSP हम\PR-PRP ठान\N-NN लेलूं\V-VM के\PSP नुकल\V-VM रहला\V-VAUX से\PSP अब\N-NN बने\V-VM के\PSP नै,\N-NN छौ\QT-QTC पाँच\QT-QTC करते\V-VM करते\V-VM जिन्दगी\N-NN बेकाम\N-NN कैले\V-VM खतम\N-NN हो\V-VM जाए\V-VAUX के\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.23)157\N-NN छौंड़ी\N-NN (बुढ़िया\N-NN (झट\N-NN से\PSP कोरान\N-NN जे\PR-PRL टंगल\N-NN हल\V-VM ओकरा\PR-PRP पर\PSP हाथ\N-NN रख\V-VM के)\N-NN -\RD-PUNC खोदा\N-NN के\PSP कसम,\V-VM रसूल\N-NN पैगम्बर\N-NN के\PSP कसम\N-NN ।\RD-PUNC 
+हमनी\PR-PRP कुछ\QT-QTF नै\RP-NEG जानी\N-NN ।\RD-PUNC 
+इ\N-NN छौंड़ी\N-NN के\PSP तो\PR-PRL दीने\N-NN से\PSP तबीयत\V-VM खराब\N-NN हे\V-VM और\CC-CCD ओकरे\PR-PRP में\PSP हम\PR-PRP परिसान\N-NN हलूं\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.9)158\N-NN जखनै\V-VM (=\V-VAUX जभी)\N-NN (सिंघजी\N-NN -\RD-PUNC (सामलाल\N-NN देने\N-NN देख\V-VM के)\V-VAUX तब\PR-PRL चचाजी\N-NN इनका\PR-PRP भेद\N-NN लेवे\V-VM ले\V-VAUX भेजलथिन\V-VAUX होत\V-VAUX ।\RD-PUNC 
+उतो\PR-PRL जखनै\V-VM हम\PR-PRP ओतना\PR-PRL आझ\N-NN आरजु\N-NN मीनत\N-NN ओकरा\PR-PRP से\PSP कैलूं\V-VM और\CC-CCD जब\PR-PRL नै\RP-NEG मानलक\V-VM तो\PR-PRL समझलूं\N-NN के\PSP पक्का\N-NN बदमास\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰4:16.11)159\N-NN जरिसे\PSP (=\N-NN जरि\N-NN सन;\N-NN जरा\V-VM सा)\N-NN (साम\N-NN -\RD-PUNC (एने\N-NN ओने\N-NN देखके\V-VM औ\N-NN तब\PR-PRL जरिसे\V-VM पैर\N-NN छूके)\V-VM हमरा\PR-PRP पर\PSP खाबिन्दी\N-NN कैल\V-VM जाए\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.8)160\N-NN जरी-जरी\QT-QTF (अंधारी\N-NN रात\N-NN हे\V-VM ।\RD-PUNC 
+जरी-जरी\N-NN रह-रह\N-NN के\PSP बिजुली\N-NN भी\RP-RPD चमके\V-VM हे\V-VAUX ।\RD-PUNC 
+सामलाल\N-NN एक\QT-QTC आदमी\N-NN के\PSP साथ\PSP भठियारी\N-NN सराए\N-NN के\PSP उत्तर\N-NN नाला\N-NN किनारे-किनारे\N-NN बिजुली\N-NN के\PSP हथबत्ती\N-NN के\PSP सहारे\N-NN टोते-टोते\V-VM चलल\V-VAUX जा\V-VM हथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰4:13.1)161\N-NN जहिना\DM-DMD (=\N-NN जिस\N-NN दिन)\N-NN (आवे\V-VM के\PSP जहिना\N-NN खबर\N-NN हल\V-VM सामलाल\N-NN किउल\N-NN स्टेसन\N-NN एक\QT-QTC रोज\N-NN पहले\N-NN तेकरा\PR-PRL से\PSP पहुँच\V-VM गेला\V-VAUX और\CC-CCD केलनर\N-NN के\PSP हिआं\N-NN चाय\N-NN पानी\N-NN के\PSP बन्दोबस्त\N-NN कर\V-VM देलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:3.21)162\N-NN जाने\V-VAUX देना\V-VAUX (=\RD-PUNC जानने\N-NN देना)\N-NN (नवाब\N-NN साहेब\N-NN बोलला\V-VM -\RD-PUNC मोखतार\N-NN सब\QT-QTF तो\PR-PRL मोसकिल\N-NN कर\V-VM दे\V-VAUX हथ\V-VAUX ।\RD-PUNC 
+कुछ\QT-QTF असल\N-NN बात\N-NN तो\PR-PRL हमनी\PR-PRP के\PSP जाने\N-NN नै\RP-NEG देथ\V-VM ।\RD-PUNC 
+काठ\N-NN के\PSP उल्लू\N-NN हमनी\PR-PRP के\PSP बना\V-VM र-क्ख\N-NN हथ\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰5:18.25)163\N-NN जिनखा\N-NN (=\PSP म॰\N-NN जिनका;\N-NN हि॰\N-NN जिनको;\N-NN ~\N-NN पर\PSP =\N-NN जिन\N-NN पर)\PSP (राम\N-NN किसुन\N-NN सिंघ\N-NN जे\PR-PRL हलधर\N-NN सिंघ\N-NN के\PSP ममेरा\N-NN साला\N-NN हो-व\V-VM हला\V-VAUX और\CC-CCD जिनखा\N-NN पर\PSP हलधर\V-VM बाबू\N-NN के\PSP बड़ी\N-NN भरोसा\N-NN र-ह\N-NN हल\V-VM उनखा\N-NN नवाब\N-NN साहेब\N-NN सेकरेटरीअट\N-NN में\PSP अपन\PR-PRP रिसतेमंद\N-NN से\PSP कहसुन\V-VM के\PSP सब-रजिस्ट्रार\N-NN बहाल\N-NN करा\V-VM देवे\V-VAUX के\PSP लालच\N-NN देके\V-VM अपना\PR-PRF दने\N-NN मिला\V-VM लेलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰7:24.4)164\N-NN जीरह-उरह\N-NN (नवाब\N-NN साहेब\N-NN और\CC-CCD भी\RP-RPD जीरह\N-NN उरह\V-VM करके\V-VM अपन\PR-PRP मन\N-NN के\PSP खेआल\N-NN छिपाके\V-VM चमेलवा\N-NN के\PSP हाल\N-NN जाने\V-VM ले\V-VAUX चा-ह\V-VAUX हला\V-VAUX बाकी\CC-CCS एहे\DM-DMD बखत\N-NN डाक\V-VM आरदली\N-NN लेके\V-VM आल\V-VM और\CC-CCD नवाब\N-NN साहेब\N-NN ओकरा\PR-PRP देखे\V-VM लगला\V-VAUX और\CC-CCD सिंघजी\N-NN के\PSP डेरा\N-NN से\PSP नौकर\N-NN बोलवे\V-VM आल\V-VM तो\PR-PRL आदाव\N-NN करके\V-VM चल\V-VM गेला\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:20.22)165\N-NN जुलुम\N-NN (=\N-NN जुल्म)\V-VM (नवाब\V-VAUX -\RD-PUNC बहुत\RP-INTF खराब\N-NN हे\V-VM न\RP-NEG तब\PR-PRL ।\RD-PUNC 
+पुलिस\N-NN औ\N-NN अमला\N-NN में\PSP रूसवत\N-NN जुलुम\V-VM हइये\V-VAUX हे\V-VAUX अब\RB हाकिमो\N-NN ई\DM-DMI बात,\N-NN तो\PR-PRL सलतनत\N-NN के\PSP जड़\N-NN में\PSP दीयां\N-NN समझे\V-VM के\PSP चाही\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.4)166\N-NN जे\PR-PRL (=\N-NN जो)\V-VM (खानसामा\N-NN -\RD-PUNC जे\PR-PRL हुकुम\N-NN ।\RD-PUNC 
+;\N-NN साम\N-NN लाल\N-NN -\RD-PUNC अब\N-NN जे\PR-PRL हुजुर\N-NN क-र,\V-VM हम\PR-PRP तो\PR-PRL हुजुर\N-NN के\PSP हाथ\N-NN में\PSP अपन\PR-PRP जान\N-NN देले\V-VM ही\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.19;\V-VM 2:7.21)167\V-VAUX जे\PR-PRL .\V-VM 
+उ\PR-PRP (जे\N-NN एकर\PR-PRP पंच\N-NN होता\V-VM उ\PR-PRP मगही\N-NN भाषा\N-NN जे\PR-PRL तखने\N-NN प्रचलित\N-NN रहत\V-VM ओकरा\PR-PRP और\CC-CCD और\CC-CCD भासा\N-NN के\PSP बराबर\N-NN अलंकृत\N-NN करे\V-VM के\PSP कोसिस\N-NN करता\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.26)168\N-NN जे\PR-PRL .\V-VM 
+ओकरा\PR-PRP (जे\N-NN एकर\DM-DMD पंच\N-NN होता\V-VM उ\PR-PRP मगही\N-NN भाषा\N-NN जे\PR-PRL तखने\N-NN प्रचलित\N-NN रहत\V-VM ओकरा\PR-PRP और\CC-CCD और\CC-CCD भासा\N-NN के\PSP बराबर\N-NN अलंकृत\N-NN करे\V-VM के\PSP कोसिस\N-NN करता\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.26-27)169\N-NN जे\PR-PRL .\V-VM 
+से\PSP (=\N-NN जो\RP-RPD .\V-VM 
+सो)\N-NN (उ\PSP सब\QT-QTF जे\PR-PRL जरी\QT-QTF 'ओः'\RP-RPD क-र\N-NN हथ,\V-VM से\PSP उनखा\N-NN सन्तोख\N-NN देवे\V-VM ले\V-VAUX हम\PR-PRP ई\DM-DMI कहे\V-VM ले\V-VAUX चाह-ही\V-VAUX कि\CC-CCS अबरी\N-NN भर\N-NN हो\V-VM गेलो\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.3)170\N-NN जेहे\N-NN में\PSP (=\N-NN जिसमें)\N-NN (अबसे\PSP पानी\N-NN छींट\N-NN के\PSP बहाड़वे\N-NN और\CC-CCD 'गदहनीत'\N-NN में\PSP केकरो\PR-PRI असकुस\N-NN नै\RP-NEG मालूम\V-VM होत,\V-VAUX और\CC-CCD जेहे\N-NN में\PSP हमर\PR-PRP मातृभाषा\N-NN सुसज्जित\N-NN हो\V-VM जाए\V-VAUX हम\PR-PRP नीचे\N-NST लिखल\V-VM किताब\PSP छपावे\V-VM के\PSP कोसिस\N-NN करबे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:2.6)\N-NN 171\PSP जैसन\RP-RPD (=\N-NN जइसन;\RP-RPD जैसा)\N-NN ('सुनीता'\V-VM के\PSP जैसन\RP-RPD आदर\N-NN से\PSP पाठकगन\N-NN अपनैलका\V-VM हे\V-VAUX और\CC-CCD श्रीयुत्\N-NN सुनीति\N-NN कुमार\N-NNP चटर्जी\N-NN जैसन\RP-RPD प्रेम\N-NN से\PSP ओकरा\PR-PRP अंग्रेजी\N-NN के\PSP नामी\N-NN मासिक\JJ पत्र\N-NN में\PSP परिछन\N-NN कैलका\V-VM हे,\V-VAUX ओकरा\PR-PRP से\PSP उत्साह\N-NN हमर\PR-PRP जरूर\N-NN बढ़\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+;\N-NN नवाब\N-NN -\RD-PUNC उ\PR-PRP सब\QT-QTF कैसन\PR-PRQ हथ\V-VM ?\RD-PUNC 
+/\N-NN साम\N-NN -\RD-PUNC सब\QT-QTF जैसन\RP-RPD और\CC-CCD जगह\N-NN र-ह\N-NN हथ\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.1,\V-VM 2;\V-VAUX 1:5.15)172\RD-PUNC जोरू-उरू\N-NN (नवाब\N-NN साहेब\N-NN -\RD-PUNC तो\PR-PRL उनखा\N-NN जोरू\N-NN उरू\N-NN नै\RP-NEG हैंन\V-VM ?\RD-PUNC 
+/\N-NN सिंघजी\N-NN -\RD-PUNC जोरू\N-NN बड़ी\N-NN खुबसूरत\N-NN लोग\N-NN बतला-व\V-VM हथ\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰5:20.7)173\N-NN जौन\N-NN (=\V-VM जो,\V-VAUX जिस)\N-NN (नवाब\N-NN -\RD-PUNC कखनो\N-NN कखनो\V-VM हमरो\PR-PRP खून\N-NN उबल\V-VM उठे\V-VM हे\V-VAUX ।\RD-PUNC 
+जौन\N-NN बेईमानी\N-NN से\PSP वादसाहत\N-NN लेल\V-VM गेल\V-VAUX हे;\N-NN तुरकी\N-NN के\PSP साथ\PSP बेइमानी,\N-NN फेर\N-NN अरब\N-NN में\PSP हमनी\PR-PRP सब\QT-QTF कमजोर\N-NN आदमी,\V-VM बाकी\CC-CCS खुदा\N-NN तो\PR-PRL जरूर\RB देखत\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰1:6.24)174\N-NN जौर\N-NN (=\N-NN जमा;\N-NN संग्रह)\N-NN (८\V-VM .\V-VAUX 
+मगही\N-NN कहावत\V-VM (एक\V-VAUX बंगाली\N-NN भाई\N-NN जौर\N-NN कैलका\V-VM हे))\V-VAUX (फूब॰मुखबंध:2.20)175\RD-PUNC झगड़ाहु\N-NN (नवाब\N-NN साहेब\N-NN -\RD-PUNC नै,\PSP हम\PR-PRP तो\PR-PRL ठान\N-NN लेलुं\N-NN ह\N-NN के\PSP जहां\DM-DMD तक\RP-RPD होए\V-VM झगड़ाहु\V-VAUX मामला\N-NN ई\DM-DMI लूं\N-NN सब\QT-QTF के\PSP हाथ\N-NN में\PSP नै\RP-NEG देबे\V-VM ।\RD-PUNC 
+बड़ा\N-NN जुलुम\N-NN गरीब\N-NN फरिआदी\N-NN सब\QT-QTF पर\PSP होवे\V-VM हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:9.17)176\N-NN झाड़ू-बहाड़ू\N-NN (दबल\V-VM मुंह\N-NN से\PSP इ\N-NN कहल\V-VM गेल\V-VAUX हे\V-VAUX कुछ\QT-QTF अच्छा\JJ वार्ता\N-NN से\PSP सुरू\N-NN कैल\V-VM जात\N-NN हल,\V-VM तो\PR-PRL एकरा\DM-DMD में\PSP उजुर\N-NN हमरा\PR-PRP एतनै\V-VM कि\CC-CCS हमर\PR-PRP मातृभाषा\N-NN के\PSP बैठे\N-NN के\PSP जगह\N-NN भी\RP-RPD नै\RP-NEG हे,\V-VM मगर,\PSP अब\N-NN जब\PR-PRL हम\PR-PRP ओकरा\PR-PRP अपन\PR-PRP और\CC-CCD बहिन\N-NN समान\N-NN करे\V-VM के\PSP खेयाल\N-NN से\PSP खड़ा\N-NN होलूं\V-VM हे,\V-VAUX तो\PR-PRL पहिले\N-NST झाड़ू-बहाड़ू\N-NN तो\PR-PRL करना\N-NN जरूर\N-NN हे\V-VM ।\RD-PUNC 
+)\RD-SYM (फूब॰मुखबंध:1.30-2.1)177\N-NN टिकस\N-NN (नवाब\N-NN -\RD-PUNC तो\PR-PRL टिकस\N-NN बढ़ावे\V-VM ।\RD-PUNC 
+हमर\PR-PRP समझ\N-NN हे\V-VM के\V-VAUX करीब-करीब\N-NN फी\N-NN मोकदमा\N-NN में\PSP औसत\N-NN पीछे\N-NN थाना\N-NN में\PSP २००)\QT-QTC रुपया\N-NN से\PSP कम\QT-QTF देवे\V-VAUX नै\RP-NEG पड़े\N-NN हे,\V-VM और\CC-CCD अगर\CC-CCS खुलमखुल्ला\N-NN फी-मोकदमा\V-VM १०)\V-VAUX इआ\N-NN १५)\PR-PRP कोटफीस\N-NN ऐसन\DM-DMD वसूल\N-NN कैल\V-VM जाए\V-VAUX तो\PR-PRL फी\N-NN मोकदमा\N-NN खर्चा\N-NN डिपटी\N-NN के\PSP मुसाहरावाला\N-NN ऐसे\PSP निकल\V-VM जात\N-NN ।\RD-PUNC 
+)\RD-SYM (फूब॰3:12.4)178\N-NN टीसन\N-NN (=\PSP स्टेशन)\N-NN (साम\N-NN -\RD-PUNC (दुगमुगा\N-NN के)\PSP अच्छा,\RP-RPD तो\PR-PRL अबरी\N-NN टीसन\N-NN में\PSP ।\RD-PUNC 
+बाकी\N-NN कोई\PR-PRI आदमी\N-NN सेकिन\CC-CCD अफसर\N-NN के\PSP रहल\V-VM तब\PR-PRL ?\PR-PRP 
+;\N-NN गाड़ी\N-NN अदलते\N-NN बदलते\V-VM जब\PR-PRL दू-तीन\QT-QTC टीसन\N-NN बिहार\N-NN पहुंचे\V-VM के\PSP रहल\V-VM तो\PR-PRL नसीबन\N-NN के\PSP अपन\PR-PRP खाना\N-NN में\PSP चला\V-VM देलका\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰2:8.13,\V-VM 34)179\V-VAUX टेबुल\N-NN (खानसामा\N-NN तीन-चार\QT-QTC टुकड़ा\N-NN बिसकुट\V-VM और\CC-CCD चाय\N-NN औ\N-NN अण्डा\N-NN गैरह\N-NN हिसाब\N-NN से\PSP ला-ला\N-NN के\PSP नवाब\N-NN साहेब\N-NN के\PSP भीरी\N-NN रखे\V-VM लगल\V-VAUX और\CC-CCD मोखतार\N-NN साहेब\N-NN टेबुल\N-NN के\PSP दूसर\QT-QTO तरफ\N-NN बैठला\V-VM ।\RD-PUNC 
+;\N-NN खानसामा\N-NN तब\PR-PRL जाके\V-VM कुछ\QT-QTF केला\N-NN वो\N-NN केवला\PSP ले\V-VM आल\V-VAUX और\CC-CCD हिन्दू\N-NN चाय\N-NN वाला\N-NN के\PSP बोला\V-VM के\V-VAUX दू\QT-QTC प्याला\N-NN चाय\N-NN अलग\N-NN दूसर\QT-QTO टेबुल\N-NN पर\PSP रखलक\V-VM और\CC-CCD केवाड़ी\N-NN लगैते\V-VM चल\V-VAUX गेल\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.17,\V-VM 28)180\V-VAUX टैप\N-NN (=\N-NN टाइप)\V-VM (सिंघजी\N-NN -\RD-PUNC इझार-उझार\N-NN के\PSP नकल\N-NN में\PSP तो\PR-PRL फेर\N-NN रुसबत\N-NN के\PSP जगह\N-NN अदालत\N-NN में\PSP तो\PR-PRL बनले\V-VM हे\V-VAUX ।\RD-PUNC 
+वोकरो\PR-PRL में\PSP जो\RP-RPD सब\QT-QTF हाकिम\N-NN के\PSP टैप\N-NN मिल\V-VM जाए\V-VAUX इया\CC-CCD रोसनाई\N-NN से\PSP लिख\V-VM के\PSP तीन\QT-QTC कारबन\N-NN कोपी\V-VM तैयार\N-NN कैल\V-VM जाए\V-VAUX और\CC-CCD ऐसहीं\N-NN सब\QT-QTF हुकुम\N-NN के\PSP तीन-तीन\QT-QTC कोपी\N-NN तैयार\N-NN करके\V-VM एक-एक\N-NN कोपी\V-VM दुनु\QT-QTC फरीक\N-NN के\PSP देल\V-VM जाए\V-VAUX और\CC-CCD एक-एक\N-NN मिसिल\N-NN में\PSP रहे\V-VM तो\PR-PRL कुल\N-NN बखेड़े\N-NN मेट\N-NN जा\V-VM सके\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰3:12.14)181\N-NN ढेर\QT-QTF (=\N-NN बहुत)\N-NN (नवाब\N-NN सहेब\N-NN के\PSP ढेर\QT-QTF खोसामदी\N-NN से\PSP भेंट\V-VM होल\V-VAUX हल\V-VAUX बाकी\N-NN ऐसन\DM-DMD खाहमखाह\V-VM तो\PR-PRL कोई\PR-PRI नै\RP-NEG मालूम\N-NN भेल\V-VM ।\RD-PUNC 
+;\N-NN अब\N-NN ढेर\QT-QTF मोसकिल\N-NN मत\RP-NEG क-र,\V-VM जल्दी\N-NN जा\V-VM ।\RD-PUNC 
+;\N-NN एतने\N-NN में\PSP अरदली\N-NN आके\V-VM कहलक\V-VM के\PSP राय\N-NN बहादुर\N-NN के\PSP खोजते\N-NN ढेर\QT-QTF से\PSP मोखतार\N-NN वकील\N-NN सब\QT-QTF ऐला\V-VAUX हे\V-VAUX ।\RD-PUNC 
+)\RD-SYM (फूब॰1:4.10;\N-NN 2:8.18;\V-VM 8:26.17)\V-VAUX ।\RD-PUNC 

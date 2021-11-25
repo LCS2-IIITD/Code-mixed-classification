@@ -1,0 +1,51 @@
+लघुकथाकार\N-NN -\RD-PUNC डॉ॰\N-NN राज\N-NN नारायण,\PSP 227/II,\V-VM पंडितवाड़ी,\N-NN देहरादून'दीदी\N-NN !\V-VM 
+ई\DM-DMI का\PR-PRQ करइत\V-VM ह\V-VAUX ?\RD-PUNC 
+बड़का\JJ गो\RP-CL बढ़ियाँ\JJ फोटो\V-VM हइ\V-VAUX ।\RD-PUNC 
+ओकरा\PR-PRP जरावइत\V-VM हहूँ\V-VAUX ?\RD-PUNC 
+'\N-NN -\RD-PUNC पड़ोसिन\N-NN के\PSP बाइस\N-NN साल\N-NN के\PSP बेटी\N-NN कमला\N-NN चउखट\N-NN पार\N-NN करके\V-VM घर\N-NN में\PSP घुँसइते\V-VM पुछलक\V-VAUX ।\RD-PUNC 
+'बुन्नी,\DM-DMD रख\V-VM के\V-VAUX का\PR-PRQ करवई\V-VM ?\RD-PUNC 
+'\N-NN माथा\N-NN पर\PSP घाव\N-NN के\PSP दाग\N-NN आउ\CC-CCD चेहरा\N-NN उदासी\N-NN में\PSP डुबौले\V-VM सुखदा\N-NN कहलक\V-VM ।\RD-PUNC 
+फिन\CC-CCD बोलल,\V-VM 'बुन्नी,\RD-PUNC हउ\V-VAUX पिढ़वा\N-NN के\PSP खींच\V-VM के\PSP बइठऽ\V-VM ।\RD-PUNC 
+ई\DM-DMI फोटउआ\V-VM आउ\CC-CCD कागज-पत्तर\N-NN के\PSP जरा\V-VM के\V-VAUX उठऽ\V-VAUX ही\V-VAUX ।\RD-PUNC 
+''केकर\N-NN हइ\V-VM फोटउआ\V-VAUX ?\RD-PUNC 
+''ऊहे\N-NN मुँहझौंसा\N-NN के\PSP ।\RD-PUNC 
+''केकरा\PR-PRP गरिआवइत\V-VM हहूँ\V-VAUX ?\RD-PUNC 
+''तोरे\PR-PRP पहुना,\V-VM आनी\N-NN अप्पन\PR-PRP पिलुअहवा\N-NN भतार\N-NN के\PSP .\V-VM 
+''गरिआवे\V-VM ला\PSP नऽ\RP-NEG चाहऽ\V-VM हवऽ\V-VAUX ।\RD-PUNC 
+''काहे\CC-CCS न\RP-NEG गरिअयवई\N-NN ।\RD-PUNC 
+माथा\N-NN फोड़\V-VM के\PSP मारलक\V-VM हे\V-VAUX लाते-घूँसे\RD-PUNC बुन्नी\N-NN !\V-VM 
+कहलक\V-VM हे\V-VAUX कि\CC-CCS एक\QT-QTC लाख\N-NN रुपइया\N-NN बप्पा\N-NN से\PSP माँग\V-VM के\PSP न\RP-NEG लयमें,\V-VM त\N-NN इधर\N-NN में\PSP गोड़\N-NN मत\RP-NEG रखिहें\V-VM ।\RD-PUNC 
+खाली\QT-QTF हाथे\N-NN अएलें,\N-NN त\N-NN जरा\N-NN के\PSP मुआ\V-VM देवउ\V-VAUX ।\RD-PUNC 
+पइसा\N-NN ला\PSP हम\PR-PRP तोरा\PR-PRP साथे\PSP कुच्छो\QT-QTF कर\V-VM सकऽ\V-VM ही\V-VAUX ।\RD-PUNC 
+बुन्नी,\N-NN तूहीं\N-NN कहऽ,\V-VM ऊ\PR-PRP रकसवा\N-NN भिजुन\PSP कइसे\PR-PRQ जाएम\V-VM ?\V-VAUX 
+'\N-NN कहइत\V-VM सुखदा\N-NN के\PSP आँख\N-NN से\PSP लोर\N-NN टपक\V-VM गेल\V-VAUX ।\RD-PUNC 
+फोटो\N-NN जरा\V-VM के\V-VAUX उठल\V-VM सुखदा\N-NN आउ\CC-CCD बइठे\V-VM ला\PSP कमला\N-NN के\PSP पीढ़ा\N-NN दे\V-VM देलक\V-VAUX ।\RD-PUNC 
+पड़ोस\N-NN से\PSP अचानक\N-NN सुखदा\N-NN के\PSP माय\N-NN सुमित्रा\N-NN आ\V-VM गेलन,\V-VAUX तऽ\CC-CCS कमला\N-NN बोललक\V-VM -\RD-PUNC 'परनाम\N-NN चाची\N-NN !\V-VM 
+''जीअ\V-VM बुन्नी\N-NN !\V-VM 
+हँ,\V-VM कल्ह\N-NN हवऽ\V-VM तीज\N-NN परब\N-NN ।\RD-PUNC 
+दिन\N-NN भर\N-NN निर्जला\N-NN उपवास\N-NN करऽ\V-VM आउ\CC-CCD परसों\N-NN जाके\V-VM पारन\N-NN करिहऽ\V-VM ।\RD-PUNC 
+''चाची\N-NN !\V-VM 
+तूँ\PR-PRP करहूँ\N-NN ई\DM-DMI परब\N-NN हम्मर\PR-PRP चाचा\N-NN जी\N-NN के\PSP खुसी\N-NN ला\PSP ।\RD-PUNC 
+बाकि\CC-CCD हम\PR-PRP न\RP-NEG करम\V-VM ।\RD-PUNC 
+'\N-NN -\RD-PUNC कमला\N-NN बोलल\V-VM ।\RD-PUNC 
+'काहे\N-NN ?\V-VM 
+पति\N-NN के\PSP सुख\N-NN ला\PSP तीज\N-NN करे\V-VM के\PSP चाही\V-VAUX सब्भे\PSP औरत\N-NN के\PSP ।\RD-PUNC 
+का\PR-PRQ बुन्नी,\V-VM गलत\N-NN कहित\V-VM ही\V-VAUX ?\RD-PUNC 
+'\N-NN -\RD-PUNC एतना\QT-QTF कह\V-VM के\V-VAUX सुमित्रा\N-NN ओकरा\PR-PRP पर\PSP नजर\N-NN गड़ा\V-VM देलक\V-VAUX ।\RD-PUNC 
+कमला\N-NN एक\QT-QTC मिनट\N-NN सोच\V-VM के\V-VAUX कहलक\V-VM -\RD-PUNC 'चाची\N-NN !\V-VM 
+जब\PR-PRL से\PSP सुनली\V-VM हे\V-VAUX कि\CC-CCS ऊ\PR-PRP इंगलैंड\N-NN में\PSP एगो\QT-QTC जर्मनी\N-NN के\PSP मेम\N-NN के\PSP साथे\N-NN रहऽ\V-VM हे,\V-VAUX तब्बे\RD-PUNC से\PSP हम\PR-PRP ओकरा\PR-PRP से\PSP नाता\N-NN तोड़\V-VM लेली\V-VAUX ।\RD-PUNC 
+चाची,\N-NN सच\N-NN कहऽ\V-VM ही,\V-VAUX अब\N-NN ऊ\PR-PRP हम्मर\PR-PRP पति\N-NN कहाँ\PR-PRQ रहल\V-VM ।\RD-PUNC 
+तीन\QT-QTC साल\N-NN से\PSP कोई\PR-PRI फोन\N-NN आयल,\V-VM न\RP-NEG चिट्ठी-पतरी\N-NN ।\RD-PUNC 
+जब\PR-PRL हम\PR-PRP ओकर\PR-PRP कोई\PR-PRI हइए\V-VM न\RP-NEG ही,\V-VAUX तब\PR-PRL ऊ\PR-PRP हम्मर\PR-PRP कउन\PR-PRQ हे\V-VM ?\RD-PUNC 
+सुखदा\N-NN दीदी\N-NN के\PSP पति\N-NN मार-पीट\N-NN के\PSP भगा\V-VM देलक\V-VAUX आउ\CC-CCD हम्मर\PR-PRP मरद\N-NN कुत्ता\N-NN निअर\N-NN ओकरा\PR-PRP पीछे\N-NST पोंछी\N-NN हिलावइत\V-VM फिरे\N-NN हे\V-VM ।\RD-PUNC 
+अब\N-NN सुनऽ\N-NN ही\V-VM कि\CC-CCS रूस\N-NN जाइत\V-VM हे\V-VAUX कुतवा\N-NN ।\RD-PUNC 
+जेन्ने\N-NN जाय\V-VM के\V-VAUX मन\N-NN हउ,\V-VM जो\V-VAUX !\RD-PUNC 
+मर\V-VM कोढ़फुट्टा\PSP !\V-VM 
+अइसन\RP-RPD पति\N-NN ला\PSP तीज\N-NN करवई\V-VM कि\CC-CCS दिन-रात\N-NN सरापिते\N-NN रहवई\V-VM ।\RD-PUNC 
+''ठीके\N-NN कहइत\V-VM हे\V-VAUX कमला\N-NN बुन्नी\N-NN !\V-VM 
+पति\N-NN देवता\N-NN रहे,\V-VM तब\PR-PRL जरूर\RB करे\V-VM के\V-VAUX चाही\V-VAUX तीज\RD-PUNC ।\RD-PUNC 
+मगर\N-NN जब\PR-PRL ऊ\PR-PRP जनावर-राकस\N-NN बन\V-VM जाये,\V-VAUX तब\PR-PRL काहे\CC-CCS ला\PSP कोई\PR-PRI तीज\N-NN करत\V-VAUX ?\RD-PUNC 
+'\N-NN -\RD-PUNC सुखदा\N-NN कहलक\V-VM ।\RD-PUNC 
+सत्तर\N-NN साल\N-NN के\PSP बुढ़िया\N-NN सुमित्रा\N-NN अप्पन\PR-PRP चश्मा\N-NN ठीक\N-NN करइत\V-VM सोचे\V-VM लगल\V-VAUX कि\CC-CCS जमाना\N-NN केतना\PR-PRQ बदल\V-VM गेल\V-VAUX हे\V-VAUX ।\RD-PUNC 
+पहिले\N-NST कुटम्मस\N-NN होयलो\V-VM पर\PSP पति\N-NN लागी\PSP तीज\N-NN बरत\N-NN करऽ\V-VM हल\V-VAUX औरत,\N-NN ओही\DM-DMD औरत\N-NN आज\N-NN विरोध\N-NN करे\V-VM लागी\V-VAUX तइयार\N-NN हे\V-VM कमर\N-NN कसके\V-VM ।\RD-PUNC 
+[मगही\N-NN मासिक\JJ पत्रिका\N-NN "अलका\V-VM मागधी",\RD-PUNC बरिस-१६,\RB अंक-३,\N-NN मार्च\V-VM २०१०,\V-VAUX पृ॰१०\N-NN से\PSP साभार]\N-NN ।\RD-PUNC 
