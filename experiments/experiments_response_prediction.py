@@ -13,6 +13,25 @@ import pandas as pd
 import argparse
 import json
 
+from tqdm import tqdm
+
+try:
+    sys.path.append(os.path.join(os.path.dirname(__file__), '../'))
+except:
+    sys.path.append(os.path.join(os.getcwd(), '../'))
+    
+
+import tokenizers
+from transformers import TFAutoModel, AutoTokenizer, AutoConfig, BertTokenizer
+
+from sklearn.model_selection import train_test_split, KFold
+from sklearn.metrics import classification_report, f1_score, accuracy_score, confusion_matrix
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+from src import data, models
+from src.models.models import *
+
+
 parser = argparse.ArgumentParser(prog='Trainer',conflict_handler='resolve')
 
 #parser.add_argument('--train_data', type=str, default='./drive/My Drive/CMC/data/IIITH_Codemixed.txt', required=False,
@@ -153,18 +172,6 @@ tot_train = tot_train.append(val_df)
 print(len(tot_train), len(test_df))
 
 """##Let's prepare dataset to run on HIT model"""
-
-from tqdm import tqdm
-
-import tokenizers
-from transformers import TFAutoModel, AutoTokenizer, AutoConfig, BertTokenizer
-
-from sklearn.model_selection import train_test_split, KFold
-from sklearn.metrics import classification_report, f1_score, accuracy_score, confusion_matrix
-from sklearn.feature_extraction.text import TfidfVectorizer
-
-from src import data, models
-from src.models.models import *
 
 
 data.custom_tokenizers.custom_wp_tokenizer(train_df.source.values, args.model_save_path, args.model_save_path)

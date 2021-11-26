@@ -170,7 +170,7 @@ print (label2idx)
 idx2label = {i:w for (w,i) in label2idx.items()}
 
 
-#data.custom_tokenizers.custom_wp_tokenizer(train_df.text.values, args.model_save_path, args.model_save_path)
+data.custom_tokenizers.custom_wp_tokenizer(train_df.text.values, args.model_save_path, args.model_save_path)
 tokenizer = BertTokenizer.from_pretrained(args.model_save_path)
 
 word_tokenizer = tf.keras.preprocessing.text.Tokenizer(num_words=50000, split=' ',oov_token=1)

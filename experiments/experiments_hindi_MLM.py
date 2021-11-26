@@ -1,13 +1,3 @@
-
-from __future__ import absolute_import
-
-import sys
-import os
-
-sys.path.append('./drive/My Drive/CMC/')
-
-cd /content/drive/MyDrive/IIITD-Col/Summer_Term/HIT-ACL2021-Codemixed-Representation
-
 from __future__ import absolute_import
 
 import sys
@@ -78,7 +68,7 @@ def str2bool(v):
 
 parser = argparse.ArgumentParser(prog='Trainer',conflict_handler='resolve')
 
-parser.add_argument('--train_data', type=str, default='data/hindi_sentiment/IIITH_Codemixed.txt', required=False,
+parser.add_argument('--train_data', type=str, default='../data/hindi_sentiment/IIITH_Codemixed.txt', required=False,
                     help='train data')
 #parser.add_argument('--train_data', type=str, default='../data/IIITH_Codemixed.txt', required=False,
 #                    help='train data')
@@ -145,10 +135,10 @@ tf.random.set_seed(args.seed)
 np.random.seed(args.seed)
 
 ##Hindi dataset concatenation
-df1 = pd.read_csv("data/hindi_sentiment/IIITH_Codemixed.txt", sep='\t',usecols=[1,2])
-df2 = pd.read_csv("data/MSH-Comics-Sarcasm/hindi_sarcasm.txt", sep='\t')
+df1 = pd.read_csv("../data/hindi_sentiment/IIITH_Codemixed.txt", sep='\t',usecols=[1,2])
+df2 = pd.read_csv("../data/MSH-Comics-Sarcasm/hindi_sarcasm.txt", sep='\t')
 df2 = df2.fillna("")
-df3 = pd.read_csv("data/MSH-Comics-Sarcasm/hindi_humour-codemix.txt", sep='\t')
+df3 = pd.read_csv("../data/MSH-Comics-Sarcasm/hindi_humour-codemix.txt", sep='\t')
 
 #df = pd.read_csv(args.train_data, sep='\t',usecols=[1,2])
 
@@ -410,23 +400,6 @@ val_dataset = HITDataset(val_df.text.values.tolist(), word_tokenizer, char_token
 
 
 from torch.utils.data import DataLoader
-from torch.utils.data.dataset import ConcatDataset
-
-train_dataset = ConcatDataset(train_dataset)
-
-train_data_loader = DataLoader(train_dataset, batch_size=args.train_batch_size, 
-                               collate_fn=lambda batch: collate_mlm(batch, True),num_workers=1, 
-                               #sampler=BalancedBatchSchedulerSampler(dataset=train_dataset,
-                                                                               #batch_size=args.train_batch_size),
-                               shuffle=False)
-
-valid_data_loader = DataLoader(val_dataset, batch_size=args.train_batch_size, 
-                               collate_fn=lambda batch: collate_mlm(batch, True), num_workers=1, 
-                               sampler=BalancedBatchSchedulerSampler(dataset=val_dataset,
-                                                                               batch_size=args.train_batch_size),
-                               shuffle=False)
-
-from torch.utils.data import DataLoader
 
 
 train_data_loader = DataLoader(train_dataset, batch_size=args.train_batch_size, collate_fn=lambda batch: collate_mlm(batch, True),num_workers=1, shuffle=True)
@@ -470,19 +443,6 @@ class HierarchicalTransformerEncoder(nn.Module):
 
         return e_outputs
 
-backbone = HierarchicalTransformerEncoder(char_vocab=len(char_tokenizer.word_index.keys()),\
-                                  word_vocab=len(word_tokenizer.word_index.keys()),\
-                                  d_model=args.emb_dim, \
-                                  max_len=args.max_text_len, \
-                                  N=4, heads=8)
-
-emb = backbone(batch['mlm_subword_input'],batch['mlm_input'], torch.where(batch['mlm_subword_input'] > 0, 0,0), \
-         torch.where(batch['mlm_input'] > 0, 0,0))
-
-emb.shape
-
-boom = torch.mean(emb, dim=1)
-nn.Linear(128, 3)(boom).shape
 
 class HITLM(nn.Module):
     """
@@ -581,6 +541,8 @@ class PredictionLanguageModel(nn.Module):
         #return nn.functional.relu(x)
         return nn.functional.softmax(x, dim=1)
 
+#print(args.ismlm)
+
 if args.ismlm == True:
     #MLM pre-training step
     
@@ -591,7 +553,7 @@ if args.ismlm == True:
                                       N=4, heads=8)
 
     lm_model = HITLM(backbone,len(word_tokenizer.word_index))
-    lm_model.load_state_dict(torch.load(os.path.join(args.model_save_path, 'cor_master_model.pth')))
+    #lm_model.load_state_dict(torch.load(os.path.join(args.model_save_path, 'cor_master_model.pth')))
 
     loss_fn = nn.CrossEntropyLoss()
     optimizer = torch.optim.Adam(lm_model.parameters(), lr=1e-3,weight_decay=1e-5)
@@ -601,7 +563,7 @@ if args.ismlm == True:
     args.epochs = 100
 
     best_loss = 999
-
+    patience = 0
     for epoch in tqdm(range(args.epochs)):
       if patience < args.early_stopping_rounds:
         lm_model.train()
@@ -684,8 +646,8 @@ else:
                          char_tokenizer.word_index['SOS'],char_tokenizer.word_index['EOS'],char_tokenizer.word_index['MASK'], 0, \
                          val_outputs, True)
                          
-    train_data_loader = DataLoader(train_dataset, batch_size=args.train_batch_size, collate_fn=lambda batch: collate_mlm(batch),num_workers=1, shuffle=True)
-    valid_data_loader = DataLoader(val_dataset, batch_size=args.train_batch_size, collate_fn=lambda batch: collate_mlm(batch), num_workers=1, shuffle=True)
+    train_data_loader = DataLoader(train_dataset, batch_size=args.train_batch_size, collate_fn=lambda batch: collate_mlm(batch, True),num_workers=1, shuffle=True)
+    valid_data_loader = DataLoader(val_dataset, batch_size=args.train_batch_size, collate_fn=lambda batch: collate_mlm(batch, True), num_workers=1, shuffle=True)
 
     """##Wihtout MLM"""
     

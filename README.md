@@ -21,8 +21,8 @@ We publish the datasets (publicly available) and the experimental setup used for
 #### PoS (Parts-of-Speech) Tagging 
 
 	$ cd experiments && python experiments_hindi_POS.py \
-			--train_data '../data/POS Hindi English Code Mixed Tweets/POS Hindi English Code Mixed Tweets.tsv' \
-			--model_save_path ../models/model_hindi_pos/
+		--train_data '../data/telegu_POS/FB_TE_EN_FN.txt' \
+		--model_save_path ../models/model_telugu_pos/
 
 #### Named Entity Recognition (NER)
 
@@ -39,13 +39,13 @@ We publish the datasets (publicly available) and the experimental setup used for
 #### Sarcasm Detection
 
 	$ cd experiments && python experiments_hindi_SH.py \
-			--data_path '../data/MSH-Comics-Sarcasm/hindi_sarcasm.txt' \
-			--model_save_path ../models/model_hindi_sarcasm/
+		--train_data '../data/MSH-Comics-Sarcasm/hindi_sarcasm.txt' \
+		--model_save_path ../models/model_hindi_sarcasm/
 			
 #### Humour Classification
 
 	$ cd experiments && python experiments_hindi_SH.py \
-			--data_path '../data/MSH-Comics-Sarcasm/hindi_humour.txt' \
+			--train_data '../data/MSH-Comics-Sarcasm/hindi_humour.txt' \
 			--model_save_path ../models/model_hindi_humour/
 			
 #### Response Prediction
@@ -57,20 +57,20 @@ We publish the datasets (publicly available) and the experimental setup used for
 #### Intent Detection
 
 	$ cd experiments && python experiments_intent_detection.py \
-			--data_path '../data/IITMadras-CodeMixIntent/GCN-SeA/hi-dstc2' \
-			--model_save_path ../models/model_hindi_intents/
+		--train_data '../data/IITMadras-CodeMixIntent/GCN-SeA/data/hi-dstc2/' \
+		--model_save_path ../models/model_hindi_intents/
 
 #### Slot Filling
 
 	$ cd experiments && python experiments_slot_filling.py \
-			--data_path '../data/IITMadras-CodeMixIntent/GCN-SeA/hi-dstc2' \
-			--model_save_path ../models/model_hindi_slots/
+		--train_data '../data/IITMadras-CodeMixIntent/GCN-SeA/data/hi-dstc2/' \
+		--model_save_path ../models/model_hindi_slots/
 
 #### MLM pre-training
 
 	$ cd experiments && python experiments_hindi_MLM.py \
-			--ismlm True
-			--model_save_path ../models/model_hindi_mlm/
+		--ismlm True \
+		--model_save_path ../models/model_hindi_mlm/
 
 #### ZSL pre-training
 			

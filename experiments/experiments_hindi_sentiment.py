@@ -277,7 +277,7 @@ for model_name, model_ in all_models.items():
     
     for loss in ['ce','focal']:
         
-        for use_features in [True,False]:
+        for use_features in [False]:
             
             if use_features == False:
                 model = model_(word_vocab_size=n_words,char_vocab_size=n_chars,wpe_vocab_size=n_subwords, n_out=n_out,max_word_char_len=args.max_word_char_len,\
@@ -321,25 +321,25 @@ for model_name, model_ in all_models.items():
             else:
                 model_save_path = os.path.join(args.model_save_path, '{}_{}_without_features.h5'.format(model_name, config['loss']))
 
-            f1callback = models.utils.F1Callback(model, [word_val_inputs, char_val_inputs, subword_val_inputs, val_tfidf],\
+            f1callback = models.utils.F1Callback(model, [word_val_inputs, char_val_inputs, subword_val_inputs, transformer_val_inputs],\
                                                   val_outputs,filename=model_save_path,patience=args.early_stopping_rounds)
 
             K.clear_session()
 
             if _has_wandb and args.wandb_logging:
                 wandb.init(project='hindi_sentiment',config=config)
-                model.fit([word_train_inputs, char_train_inputs, subword_train_inputs, train_tfidf], train_outputs,\
-                                       validation_data=([word_val_inputs, char_val_inputs, subword_val_inputs, val_tfidf], val_outputs),\
+                model.fit([word_train_inputs, char_train_inputs, subword_train_inputs, transformer_train_inputs], train_outputs,\
+                                       validation_data=([word_val_inputs, char_val_inputs, subword_val_inputs, transformer_val_inputs], val_outputs),\
                                                                   epochs=args.epochs,batch_size=args.train_batch_size, callbacks=[lr, f1callback, WandbCallback()], verbose=2)
             else:
-                model.fit([word_train_inputs, char_train_inputs, subword_train_inputs, train_tfidf], train_outputs,\
-                                       validation_data=([word_val_inputs, char_val_inputs, subword_val_inputs, val_tfidf], val_outputs),\
+                model.fit([word_train_inputs, char_train_inputs, subword_train_inputs, transformer_train_inputs], train_outputs,\
+                                       validation_data=([word_val_inputs, char_val_inputs, subword_val_inputs, transformer_val_inputs], val_outputs),\
                                                                   epochs=args.epochs,batch_size=args.train_batch_size, callbacks=[lr, f1callback], verbose=1)
 
 
             model.load_weights(model_save_path)
 
-            test_pred = model.predict([word_test_inputs, char_test_inputs, subword_test_inputs, test_tfidf])
+            test_pred = model.predict([word_test_inputs, char_test_inputs, subword_test_inputs, transformer_test_inputs])
 
             report = classification_report([idx2label[i] for i in test_outputs.argmax(-1)],\
                                                         [idx2label[i] for i in test_pred.argmax(-1)])

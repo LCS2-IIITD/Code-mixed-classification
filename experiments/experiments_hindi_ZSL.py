@@ -1,13 +1,3 @@
-
-from __future__ import absolute_import
-
-import sys
-import os
-
-sys.path.append('./drive/My Drive/CMC/')
-
-#!wandb login
-
 from __future__ import absolute_import
 
 import sys
@@ -68,7 +58,7 @@ print (_has_wandb)
 
 parser = argparse.ArgumentParser(prog='Trainer',conflict_handler='resolve')
 
-parser.add_argument('--data_path', type=str, default='./drive/My Drive/CMC/data/', required=False,
+parser.add_argument('--data_path', type=str, default='../data/', required=False,
                     help='train data')
 #parser.add_argument('--data_path', type=str, default='../data/', required=False,
 #                    help='train data')
@@ -133,12 +123,12 @@ np.random.seed(args.seed)
 """### Prepare data for ZSL on 3 different tasks - Hindi"""
 
 full_data = []
-for file in ['IIITH_Codemixed.txt', 'hindi_humour-codemix.txt', 'hindi_sarcasm-codemix.txt']:
-    if file == 'IIITH_Codemixed.txt':
+for file in ['hindi_sentiment/IIITH_Codemixed.txt', 'MSH-Comics-Sarcasm/hindi_humour-codemix.txt', 'MSH-Comics-Sarcasm/hindi_sarcasm-codemix.txt']:
+    if file == 'hindi_sentiment/IIITH_Codemixed.txt':
         df = pd.read_csv(os.path.join(args.data_path, file), sep='\t',header=None,usecols=[1,2])
         df.columns = ['text','category']
         df['task'] = 'Sentiment'
-    elif file == 'hindi_humour-codemix.txt':
+    elif file == 'MSH-Comics-Sarcasm/hindi_humour-codemix.txt':
         df = pd.read_csv(os.path.join(args.data_path, file), sep='\t',header=None)
         df.columns = ['text','category']
         df['category'] = df['category'].apply(lambda x: "Humor" if x == 1 else "No Humor")
@@ -154,7 +144,7 @@ df = full_data.copy()
 
 df['strata'] = df.apply(lambda x: "{}_{}".format(x.category,x.task),axis=1)
 
-df.text = df.text.apply(lambda x: data.preprocessing.clean_tweets(x))
+df.text = df.text.apply(lambda x: data.preprocessing.clean_tweets(str(x)))
 
 df.category.value_counts()
 
@@ -189,6 +179,7 @@ for i in tqdm(range(train_df.shape[0])):
     zsl_df_train.loc[j, "task"] = train_df.task.iloc[i]
     zsl_df_train.loc[j, "actual category"] = train_df.category.iloc[i]
     j += 1
+    #print(list(set(train_df[train_df.task == train_df.task.iloc[i]].category.unique().tolist()) - set([train_df.category.iloc[i]])))
     random_label = random.sample(list(set(train_df[train_df.task == train_df.task.iloc[i]].category.unique().tolist()) - set([train_df.category.iloc[i]])),1)
     zsl_df_train.loc[j,'text'] = train_df.text.iloc[i] #random_label[0].lower() + " text - " + df.text.iloc[i]
     zsl_df_train.loc[j, "category"] = random_label #df.category.iloc[i]
