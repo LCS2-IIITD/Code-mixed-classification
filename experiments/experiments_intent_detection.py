@@ -120,7 +120,7 @@ args, _ = parser.parse_known_args()
 tf.random.set_seed(args.seed)
 np.random.seed(args.seed)
 
-df = pd.read_csv(args.train_data + "p-dialog-dstc2-train.csv", usecols=[1,3])
+df = pd.read_csv(args.train_data + "p-dialog-dstc2-train.csv", usecols=[1,2])
 df.columns = ['text','category']
 #kf = KFold(n_splits=5, shuffle=True, random_state=args.seed)
 #for train_index, test_index in kf.split(df.text):
@@ -131,7 +131,7 @@ train_df = df.iloc[:-2000].fillna('0')
 
 val_df = df.iloc[-2000:].fillna('0')
 
-test_df = pd.read_csv(args.train_data + "p-dialog-dstc2-test.csv", usecols=[1,3])
+test_df = pd.read_csv(args.train_data + "p-dialog-dstc2-test.csv", usecols=[1,2])
 test_df.columns = ['text','category']
 
 test_df = test_df.fillna('0')
